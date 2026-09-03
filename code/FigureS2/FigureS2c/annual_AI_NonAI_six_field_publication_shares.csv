@@ -1,0 +1,361 @@
+Year,Field,Publication_type,Publication_count,Total_in_year,Share
+1996,Earth and environmental sciences,AI-related publications,62,868,0.07142857142857142
+1996,Chemical sciences,AI-related publications,102,868,0.1175115207373272
+1996,Biological sciences,AI-related publications,47,868,0.05414746543778802
+1996,Physical sciences,AI-related publications,90,868,0.10368663594470046
+1996,Computer and information sciences,AI-related publications,504,868,0.5806451612903226
+1996,Mathematics,AI-related publications,63,868,0.07258064516129033
+1997,Earth and environmental sciences,AI-related publications,80,1012,0.07905138339920949
+1997,Chemical sciences,AI-related publications,132,1012,0.13043478260869565
+1997,Biological sciences,AI-related publications,64,1012,0.06324110671936758
+1997,Physical sciences,AI-related publications,93,1012,0.09189723320158102
+1997,Computer and information sciences,AI-related publications,595,1012,0.5879446640316206
+1997,Mathematics,AI-related publications,48,1012,0.04743083003952569
+1998,Earth and environmental sciences,AI-related publications,62,1035,0.05990338164251208
+1998,Chemical sciences,AI-related publications,98,1035,0.09468599033816426
+1998,Biological sciences,AI-related publications,91,1035,0.08792270531400966
+1998,Physical sciences,AI-related publications,92,1035,0.08888888888888889
+1998,Computer and information sciences,AI-related publications,612,1035,0.591304347826087
+1998,Mathematics,AI-related publications,80,1035,0.07729468599033816
+1999,Earth and environmental sciences,AI-related publications,106,1134,0.09347442680776014
+1999,Chemical sciences,AI-related publications,150,1134,0.13227513227513227
+1999,Biological sciences,AI-related publications,56,1134,0.04938271604938271
+1999,Physical sciences,AI-related publications,96,1134,0.08465608465608465
+1999,Computer and information sciences,AI-related publications,653,1134,0.5758377425044092
+1999,Mathematics,AI-related publications,73,1134,0.06437389770723104
+2000,Earth and environmental sciences,AI-related publications,121,1233,0.09813463098134631
+2000,Chemical sciences,AI-related publications,165,1233,0.13381995133819952
+2000,Biological sciences,AI-related publications,86,1233,0.06974858069748581
+2000,Physical sciences,AI-related publications,91,1233,0.07380373073803731
+2000,Computer and information sciences,AI-related publications,689,1233,0.5587996755879967
+2000,Mathematics,AI-related publications,81,1233,0.06569343065693431
+2001,Earth and environmental sciences,AI-related publications,154,1307,0.11782708492731446
+2001,Chemical sciences,AI-related publications,153,1307,0.117061973986228
+2001,Biological sciences,AI-related publications,98,1307,0.07498087222647284
+2001,Physical sciences,AI-related publications,111,1307,0.08492731446059679
+2001,Computer and information sciences,AI-related publications,705,1307,0.5394032134659525
+2001,Mathematics,AI-related publications,86,1307,0.06579954093343535
+2002,Earth and environmental sciences,AI-related publications,137,1513,0.09054857898215465
+2002,Chemical sciences,AI-related publications,159,1513,0.10508922670191673
+2002,Biological sciences,AI-related publications,122,1513,0.0806345009914078
+2002,Physical sciences,AI-related publications,101,1513,0.0667547918043622
+2002,Computer and information sciences,AI-related publications,895,1513,0.5915399867812293
+2002,Mathematics,AI-related publications,99,1513,0.06543291473892927
+2003,Earth and environmental sciences,AI-related publications,187,1983,0.09430156328794756
+2003,Chemical sciences,AI-related publications,196,1983,0.09884014120020171
+2003,Biological sciences,AI-related publications,179,1983,0.0902672718103883
+2003,Physical sciences,AI-related publications,141,1983,0.07110438729198185
+2003,Computer and information sciences,AI-related publications,1150,1983,0.5799293998991427
+2003,Mathematics,AI-related publications,130,1983,0.06555723651033787
+2004,Earth and environmental sciences,AI-related publications,214,2466,0.0867802108678021
+2004,Chemical sciences,AI-related publications,229,2466,0.09286293592862936
+2004,Biological sciences,AI-related publications,229,2466,0.09286293592862936
+2004,Physical sciences,AI-related publications,152,2466,0.06163828061638281
+2004,Computer and information sciences,AI-related publications,1499,2466,0.6078669910786699
+2004,Mathematics,AI-related publications,143,2466,0.05798864557988646
+2005,Earth and environmental sciences,AI-related publications,243,3106,0.07823567289117836
+2005,Chemical sciences,AI-related publications,277,3106,0.08918222794591114
+2005,Biological sciences,AI-related publications,302,3106,0.09723116548615583
+2005,Physical sciences,AI-related publications,178,3106,0.05730843528654218
+2005,Computer and information sciences,AI-related publications,1912,3106,0.6155827430779137
+2005,Mathematics,AI-related publications,194,3106,0.062459755312298776
+2006,Earth and environmental sciences,AI-related publications,342,3830,0.08929503916449086
+2006,Chemical sciences,AI-related publications,355,3830,0.0926892950391645
+2006,Biological sciences,AI-related publications,419,3830,0.1093994778067885
+2006,Physical sciences,AI-related publications,262,3830,0.06840731070496084
+2006,Computer and information sciences,AI-related publications,2176,3830,0.5681462140992167
+2006,Mathematics,AI-related publications,276,3830,0.07206266318537859
+2007,Earth and environmental sciences,AI-related publications,383,3198,0.11976235146966854
+2007,Chemical sciences,AI-related publications,413,3198,0.12914321450906815
+2007,Biological sciences,AI-related publications,479,3198,0.14978111319574733
+2007,Physical sciences,AI-related publications,252,3198,0.07879924953095685
+2007,Computer and information sciences,AI-related publications,1409,3198,0.44058786741713574
+2007,Mathematics,AI-related publications,262,3198,0.08192620387742339
+2008,Earth and environmental sciences,AI-related publications,485,3665,0.13233287858117326
+2008,Chemical sciences,AI-related publications,414,3665,0.11296043656207368
+2008,Biological sciences,AI-related publications,524,3665,0.14297407912687585
+2008,Physical sciences,AI-related publications,297,3665,0.0810368349249659
+2008,Computer and information sciences,AI-related publications,1651,3665,0.4504774897680764
+2008,Mathematics,AI-related publications,294,3665,0.08021828103683493
+2009,Earth and environmental sciences,AI-related publications,518,4250,0.12188235294117647
+2009,Chemical sciences,AI-related publications,491,4250,0.11552941176470588
+2009,Biological sciences,AI-related publications,572,4250,0.13458823529411765
+2009,Physical sciences,AI-related publications,358,4250,0.08423529411764706
+2009,Computer and information sciences,AI-related publications,1995,4250,0.46941176470588236
+2009,Mathematics,AI-related publications,316,4250,0.0743529411764706
+2010,Earth and environmental sciences,AI-related publications,550,4224,0.13020833333333334
+2010,Chemical sciences,AI-related publications,449,4224,0.10629734848484848
+2010,Biological sciences,AI-related publications,594,4224,0.140625
+2010,Physical sciences,AI-related publications,338,4224,0.08001893939393939
+2010,Computer and information sciences,AI-related publications,1975,4224,0.4675662878787879
+2010,Mathematics,AI-related publications,318,4224,0.07528409090909091
+2011,Earth and environmental sciences,AI-related publications,658,4939,0.133225349260984
+2011,Chemical sciences,AI-related publications,512,4939,0.10366470945535533
+2011,Biological sciences,AI-related publications,659,4939,0.133427819396639
+2011,Physical sciences,AI-related publications,399,4939,0.08078558412634136
+2011,Computer and information sciences,AI-related publications,2334,4939,0.47256529661874874
+2011,Mathematics,AI-related publications,377,4939,0.07633124114193157
+2012,Earth and environmental sciences,AI-related publications,813,5240,0.1551526717557252
+2012,Chemical sciences,AI-related publications,562,5240,0.10725190839694657
+2012,Biological sciences,AI-related publications,686,5240,0.13091603053435114
+2012,Physical sciences,AI-related publications,440,5240,0.08396946564885496
+2012,Computer and information sciences,AI-related publications,2342,5240,0.44694656488549617
+2012,Mathematics,AI-related publications,397,5240,0.07576335877862596
+2013,Earth and environmental sciences,AI-related publications,934,6134,0.15226605803716986
+2013,Chemical sciences,AI-related publications,626,6134,0.10205412455167917
+2013,Biological sciences,AI-related publications,774,6134,0.12618193674600586
+2013,Physical sciences,AI-related publications,587,6134,0.09569611998695794
+2013,Computer and information sciences,AI-related publications,2750,6134,0.44832083469188133
+2013,Mathematics,AI-related publications,463,6134,0.07548092598630583
+2014,Earth and environmental sciences,AI-related publications,1182,6859,0.1723283277445692
+2014,Chemical sciences,AI-related publications,647,6859,0.09432861933226418
+2014,Biological sciences,AI-related publications,842,6859,0.12275841959469311
+2014,Physical sciences,AI-related publications,583,6859,0.0849978130922875
+2014,Computer and information sciences,AI-related publications,3103,6859,0.452398308791369
+2014,Mathematics,AI-related publications,502,6859,0.07318851144481703
+2015,Earth and environmental sciences,AI-related publications,1351,7881,0.1714249460728334
+2015,Chemical sciences,AI-related publications,787,7881,0.09986042380408577
+2015,Biological sciences,AI-related publications,1003,7881,0.12726811318360615
+2015,Physical sciences,AI-related publications,826,7881,0.10480903438649918
+2015,Computer and information sciences,AI-related publications,3407,7881,0.43230554498160134
+2015,Mathematics,AI-related publications,507,7881,0.06433193757137419
+2016,Earth and environmental sciences,AI-related publications,1630,9262,0.1759879075793565
+2016,Chemical sciences,AI-related publications,882,9262,0.09522781256748003
+2016,Biological sciences,AI-related publications,1183,9262,0.12772619304685812
+2016,Physical sciences,AI-related publications,1033,9262,0.11153098682789894
+2016,Computer and information sciences,AI-related publications,4057,9262,0.43802634420211617
+2016,Mathematics,AI-related publications,477,9262,0.051500755776290215
+2017,Earth and environmental sciences,AI-related publications,2016,11963,0.16851960210649503
+2017,Chemical sciences,AI-related publications,1259,11963,0.10524116024408593
+2017,Biological sciences,AI-related publications,1446,11963,0.12087269079662293
+2017,Physical sciences,AI-related publications,1407,11963,0.11761263897015799
+2017,Computer and information sciences,AI-related publications,5252,11963,0.43902031263061103
+2017,Mathematics,AI-related publications,583,11963,0.048733595252027084
+2018,Earth and environmental sciences,AI-related publications,3014,18488,0.1630246646473388
+2018,Chemical sciences,AI-related publications,2083,18488,0.11266767633059281
+2018,Biological sciences,AI-related publications,1852,18488,0.1001730852444829
+2018,Physical sciences,AI-related publications,2308,18488,0.12483773258329728
+2018,Computer and information sciences,AI-related publications,8403,18488,0.4545110341843358
+2018,Mathematics,AI-related publications,828,18488,0.044785807009952404
+2019,Earth and environmental sciences,AI-related publications,4488,29386,0.15272578779010412
+2019,Chemical sciences,AI-related publications,3340,29386,0.11365956577962295
+2019,Biological sciences,AI-related publications,2706,29386,0.09208466616756278
+2019,Physical sciences,AI-related publications,4071,29386,0.13853535697270808
+2019,Computer and information sciences,AI-related publications,13665,29386,0.46501735520315796
+2019,Mathematics,AI-related publications,1116,29386,0.037977268086844075
+2020,Earth and environmental sciences,AI-related publications,6557,44376,0.14776005047773572
+2020,Chemical sciences,AI-related publications,5386,44376,0.12137191274562827
+2020,Biological sciences,AI-related publications,3811,44376,0.08587975482242653
+2020,Physical sciences,AI-related publications,6326,44376,0.14255453398233278
+2020,Computer and information sciences,AI-related publications,20434,44376,0.4604741301604471
+2020,Mathematics,AI-related publications,1862,44376,0.0419596178114296
+2021,Earth and environmental sciences,AI-related publications,9711,60585,0.16028719980193118
+2021,Chemical sciences,AI-related publications,7495,60585,0.12371048939506478
+2021,Biological sciences,AI-related publications,5752,60585,0.09494099199471817
+2021,Physical sciences,AI-related publications,8925,60585,0.14731369150779897
+2021,Computer and information sciences,AI-related publications,26122,60585,0.4311628290831064
+2021,Mathematics,AI-related publications,2580,60585,0.04258479821738054
+2022,Earth and environmental sciences,AI-related publications,14097,82034,0.17184338201233634
+2022,Chemical sciences,AI-related publications,10061,82034,0.12264426944925275
+2022,Biological sciences,AI-related publications,8730,82034,0.10641928956286417
+2022,Physical sciences,AI-related publications,11598,82034,0.14138040324743398
+2022,Computer and information sciences,AI-related publications,33823,82034,0.4123046541677841
+2022,Mathematics,AI-related publications,3725,82034,0.04540800156032864
+2023,Earth and environmental sciences,AI-related publications,14825,86402,0.17158167635008448
+2023,Chemical sciences,AI-related publications,11351,86402,0.13137427374366334
+2023,Biological sciences,AI-related publications,7651,86402,0.08855119094465407
+2023,Physical sciences,AI-related publications,13713,86402,0.1587116038980579
+2023,Computer and information sciences,AI-related publications,35273,86402,0.4082428647485012
+2023,Mathematics,AI-related publications,3589,86402,0.041538390315039
+2024,Earth and environmental sciences,AI-related publications,18225,102889,0.177132638085704
+2024,Chemical sciences,AI-related publications,13084,102889,0.1271661693669877
+2024,Biological sciences,AI-related publications,8802,102889,0.08554850372731779
+2024,Physical sciences,AI-related publications,17442,102889,0.169522495116096
+2024,Computer and information sciences,AI-related publications,41387,102889,0.4022490256490004
+2024,Mathematics,AI-related publications,3949,102889,0.03838116805489411
+2025,Earth and environmental sciences,AI-related publications,21826,127305,0.1714465260594635
+2025,Chemical sciences,AI-related publications,18241,127305,0.1432858096696909
+2025,Biological sciences,AI-related publications,10537,127305,0.08276972624798712
+2025,Physical sciences,AI-related publications,24059,127305,0.18898707827657987
+2025,Computer and information sciences,AI-related publications,47945,127305,0.3766152154275166
+2025,Mathematics,AI-related publications,4697,127305,0.03689564431876203
+1996,Earth and environmental sciences,Non-AI publications,41414,404635,0.10234903060783175
+1996,Chemical sciences,Non-AI publications,100952,404635,0.24948904568314653
+1996,Biological sciences,Non-AI publications,108272,404635,0.2675794234309934
+1996,Physical sciences,Non-AI publications,109299,404635,0.2701175133144686
+1996,Computer and information sciences,Non-AI publications,19889,404635,0.0491529403042248
+1996,Mathematics,Non-AI publications,24809,404635,0.06131204665933496
+1997,Earth and environmental sciences,Non-AI publications,42690,417156,0.10233581681673043
+1997,Chemical sciences,Non-AI publications,102498,417156,0.24570664211949486
+1997,Biological sciences,Non-AI publications,110929,417156,0.2659173067149939
+1997,Physical sciences,Non-AI publications,112992,417156,0.2708626988464747
+1997,Computer and information sciences,Non-AI publications,21827,417156,0.052323351456050014
+1997,Mathematics,Non-AI publications,26220,417156,0.06285418404625608
+1998,Earth and environmental sciences,Non-AI publications,44258,424604,0.10423359177021413
+1998,Chemical sciences,Non-AI publications,103964,424604,0.24484931842375485
+1998,Biological sciences,Non-AI publications,113470,424604,0.2672372375201364
+1998,Physical sciences,Non-AI publications,113288,424604,0.2668086028393515
+1998,Computer and information sciences,Non-AI publications,23098,424604,0.05439892228994545
+1998,Mathematics,Non-AI publications,26526,424604,0.06247232715659767
+1999,Earth and environmental sciences,Non-AI publications,45833,436865,0.10491341718837627
+1999,Chemical sciences,Non-AI publications,107898,436865,0.24698247742437596
+1999,Biological sciences,Non-AI publications,114348,436865,0.26174676387442347
+1999,Physical sciences,Non-AI publications,117258,436865,0.26840786055188676
+1999,Computer and information sciences,Non-AI publications,24227,436865,0.05545649113570554
+1999,Mathematics,Non-AI publications,27301,436865,0.06249298982523205
+2000,Earth and environmental sciences,Non-AI publications,47874,444683,0.10765871418516111
+2000,Chemical sciences,Non-AI publications,109166,444683,0.24549173231268118
+2000,Biological sciences,Non-AI publications,114676,444683,0.25788258152436677
+2000,Physical sciences,Non-AI publications,118452,444683,0.2663740237427561
+2000,Computer and information sciences,Non-AI publications,25473,444683,0.05728350307972196
+2000,Mathematics,Non-AI publications,29042,444683,0.06530944515531288
+2001,Earth and environmental sciences,Non-AI publications,50490,451997,0.11170428122310547
+2001,Chemical sciences,Non-AI publications,112044,451997,0.2478866010172634
+2001,Biological sciences,Non-AI publications,114997,451997,0.25441983022011205
+2001,Physical sciences,Non-AI publications,120363,451997,0.26629159043090994
+2001,Computer and information sciences,Non-AI publications,24188,451997,0.05351362951524014
+2001,Mathematics,Non-AI publications,29915,451997,0.06618406759336898
+2002,Earth and environmental sciences,Non-AI publications,52009,469371,0.11080573789177431
+2002,Chemical sciences,Non-AI publications,114759,469371,0.24449529263631542
+2002,Biological sciences,Non-AI publications,117516,469371,0.2503691110017449
+2002,Physical sciences,Non-AI publications,125763,469371,0.26793943383805136
+2002,Computer and information sciences,Non-AI publications,28492,469371,0.0607025146419357
+2002,Mathematics,Non-AI publications,30832,469371,0.06568790999017834
+2003,Earth and environmental sciences,Non-AI publications,55563,497247,0.11174124730767607
+2003,Chemical sciences,Non-AI publications,120664,497247,0.24266410858185167
+2003,Biological sciences,Non-AI publications,122065,497247,0.2454816218096841
+2003,Physical sciences,Non-AI publications,129512,497247,0.26045808220059646
+2003,Computer and information sciences,Non-AI publications,36616,497247,0.07363744778751807
+2003,Mathematics,Non-AI publications,32827,497247,0.06601749231267358
+2004,Earth and environmental sciences,Non-AI publications,58504,530024,0.11037990732495133
+2004,Chemical sciences,Non-AI publications,129284,530024,0.24392102999109475
+2004,Biological sciences,Non-AI publications,127709,530024,0.24094946643925558
+2004,Physical sciences,Non-AI publications,137503,530024,0.2594278749641526
+2004,Computer and information sciences,Non-AI publications,43454,530024,0.08198496671848822
+2004,Mathematics,Non-AI publications,33570,530024,0.06333675456205756
+2005,Earth and environmental sciences,Non-AI publications,61162,556264,0.10995138998748795
+2005,Chemical sciences,Non-AI publications,134241,556264,0.24132606100700388
+2005,Biological sciences,Non-AI publications,130389,556264,0.23440129147311348
+2005,Physical sciences,Non-AI publications,143620,556264,0.2581867602433377
+2005,Computer and information sciences,Non-AI publications,50051,556264,0.0899770612514921
+2005,Mathematics,Non-AI publications,36801,556264,0.0661574360375649
+2006,Earth and environmental sciences,Non-AI publications,67487,586272,0.11511209813874788
+2006,Chemical sciences,Non-AI publications,141037,586272,0.24056581245565198
+2006,Biological sciences,Non-AI publications,136749,586272,0.23325180121172426
+2006,Physical sciences,Non-AI publications,151465,586272,0.2583527782326292
+2006,Computer and information sciences,Non-AI publications,49564,586272,0.08454096392118333
+2006,Mathematics,Non-AI publications,39970,586272,0.06817654604006332
+2007,Earth and environmental sciences,Non-AI publications,72400,591890,0.12232002568044738
+2007,Chemical sciences,Non-AI publications,146724,591890,0.24789065535825913
+2007,Biological sciences,Non-AI publications,141901,591890,0.23974218182432547
+2007,Physical sciences,Non-AI publications,156026,591890,0.2636064133538326
+2007,Computer and information sciences,Non-AI publications,32837,591890,0.055478213857304566
+2007,Mathematics,Non-AI publications,42002,591890,0.07096250992583081
+2008,Earth and environmental sciences,Non-AI publications,77650,626432,0.12395599203105843
+2008,Chemical sciences,Non-AI publications,154720,626432,0.2469861054352268
+2008,Biological sciences,Non-AI publications,150187,626432,0.23974988506334288
+2008,Physical sciences,Non-AI publications,161298,626432,0.25748684613812833
+2008,Computer and information sciences,Non-AI publications,35633,626432,0.056882470882713525
+2008,Mathematics,Non-AI publications,46944,626432,0.07493870044953004
+2009,Earth and environmental sciences,Non-AI publications,83134,650223,0.12785459757652376
+2009,Chemical sciences,Non-AI publications,162635,650223,0.25012188126227464
+2009,Biological sciences,Non-AI publications,153306,650223,0.23577449582681634
+2009,Physical sciences,Non-AI publications,163015,650223,0.25070629614762935
+2009,Computer and information sciences,Non-AI publications,38175,650223,0.058710626969516615
+2009,Mathematics,Non-AI publications,49958,650223,0.07683210221723932
+2010,Earth and environmental sciences,Non-AI publications,84759,667077,0.1270602943888037
+2010,Chemical sciences,Non-AI publications,169360,667077,0.25388373456137747
+2010,Biological sciences,Non-AI publications,160697,667077,0.240897227756316
+2010,Physical sciences,Non-AI publications,163479,667077,0.2450676608547439
+2010,Computer and information sciences,Non-AI publications,39514,667077,0.059234541139928376
+2010,Mathematics,Non-AI publications,49268,667077,0.07385654129883057
+2011,Earth and environmental sciences,Non-AI publications,90707,715593,0.12675780786005453
+2011,Chemical sciences,Non-AI publications,185365,715593,0.25903691064613543
+2011,Biological sciences,Non-AI publications,168788,715593,0.23587150796612041
+2011,Physical sciences,Non-AI publications,175199,715593,0.24483051119840468
+2011,Computer and information sciences,Non-AI publications,43559,715593,0.0608711935415802
+2011,Mathematics,Non-AI publications,51975,715593,0.07263206878770474
+2012,Earth and environmental sciences,Non-AI publications,94946,737993,0.12865433682975314
+2012,Chemical sciences,Non-AI publications,190500,737993,0.25813252971234146
+2012,Biological sciences,Non-AI publications,174983,737993,0.23710658502180915
+2012,Physical sciences,Non-AI publications,176218,737993,0.23878004262913063
+2012,Computer and information sciences,Non-AI publications,46032,737993,0.062374575368601054
+2012,Mathematics,Non-AI publications,55314,737993,0.0749519304383646
+2013,Earth and environmental sciences,Non-AI publications,104403,776491,0.13445487455746427
+2013,Chemical sciences,Non-AI publications,201166,776491,0.2590706138255305
+2013,Biological sciences,Non-AI publications,176256,776491,0.22699039654033337
+2013,Physical sciences,Non-AI publications,187319,776491,0.24123782503596308
+2013,Computer and information sciences,Non-AI publications,49239,776491,0.06341219666422405
+2013,Mathematics,Non-AI publications,58108,776491,0.07483409337648472
+2014,Earth and environmental sciences,Non-AI publications,109211,802430,0.1361003452014506
+2014,Chemical sciences,Non-AI publications,210725,802430,0.26260857644903607
+2014,Biological sciences,Non-AI publications,182045,802430,0.2268671410590332
+2014,Physical sciences,Non-AI publications,190028,802430,0.23681567239509987
+2014,Computer and information sciences,Non-AI publications,51061,802430,0.06363296486920977
+2014,Mathematics,Non-AI publications,59360,802430,0.0739753000261705
+2015,Earth and environmental sciences,Non-AI publications,117078,831215,0.14085164488128823
+2015,Chemical sciences,Non-AI publications,220124,831215,0.2648219774667204
+2015,Biological sciences,Non-AI publications,188638,831215,0.22694248780399776
+2015,Physical sciences,Non-AI publications,193090,831215,0.2322985027941026
+2015,Computer and information sciences,Non-AI publications,53587,831215,0.06446827836360028
+2015,Mathematics,Non-AI publications,58698,831215,0.07061710869029073
+2016,Earth and environmental sciences,Non-AI publications,126884,855370,0.14833814606544538
+2016,Chemical sciences,Non-AI publications,222652,855370,0.2602990518722892
+2016,Biological sciences,Non-AI publications,192136,855370,0.2246232624478296
+2016,Physical sciences,Non-AI publications,197422,855370,0.23080304429662019
+2016,Computer and information sciences,Non-AI publications,57745,855370,0.06750879736254486
+2016,Mathematics,Non-AI publications,58531,855370,0.06842769795527082
+2017,Earth and environmental sciences,Non-AI publications,131380,879969,0.1493007140024251
+2017,Chemical sciences,Non-AI publications,229564,879969,0.26087737181650716
+2017,Biological sciences,Non-AI publications,195998,879969,0.2227328462707209
+2017,Physical sciences,Non-AI publications,201883,879969,0.2294205818614065
+2017,Computer and information sciences,Non-AI publications,60144,879969,0.0683478622542385
+2017,Mathematics,Non-AI publications,61000,879969,0.06932062379470186
+2018,Earth and environmental sciences,Non-AI publications,149024,931769,0.15993663665565178
+2018,Chemical sciences,Non-AI publications,244957,931769,0.262894558629875
+2018,Biological sciences,Non-AI publications,197413,931769,0.21186903620961847
+2018,Physical sciences,Non-AI publications,211759,931769,0.22726555616252525
+2018,Computer and information sciences,Non-AI publications,66073,931769,0.07091135249187298
+2018,Mathematics,Non-AI publications,62543,931769,0.0671228598504565
+2019,Earth and environmental sciences,Non-AI publications,163071,999643,0.16312923713765815
+2019,Chemical sciences,Non-AI publications,264321,999643,0.26441539629647787
+2019,Biological sciences,Non-AI publications,211024,999643,0.21109936247240266
+2019,Physical sciences,Non-AI publications,219346,999643,0.219424334487412
+2019,Computer and information sciences,Non-AI publications,77357,999643,0.07738462631159324
+2019,Mathematics,Non-AI publications,64524,999643,0.06454704329445612
+2020,Earth and environmental sciences,Non-AI publications,184762,1082522,0.17067736267715575
+2020,Chemical sciences,Non-AI publications,283394,1082522,0.2617905225020831
+2020,Biological sciences,Non-AI publications,235563,1082522,0.21760573919051993
+2020,Physical sciences,Non-AI publications,228091,1082522,0.21070333905454117
+2020,Computer and information sciences,Non-AI publications,80347,1082522,0.07422204814313242
+2020,Mathematics,Non-AI publications,70365,1082522,0.06500098843256766
+2021,Earth and environmental sciences,Non-AI publications,206140,1158587,0.1779236259340041
+2021,Chemical sciences,Non-AI publications,300350,1158587,0.25923819272959214
+2021,Biological sciences,Non-AI publications,257019,1158587,0.22183832547749974
+2021,Physical sciences,Non-AI publications,238689,1158587,0.20601732973009365
+2021,Computer and information sciences,Non-AI publications,82388,1158587,0.07111075819079621
+2021,Mathematics,Non-AI publications,74001,1158587,0.06387176793801415
+2022,Earth and environmental sciences,Non-AI publications,216319,1179742,0.1833612772962224
+2022,Chemical sciences,Non-AI publications,308496,1179742,0.2614944623485474
+2022,Biological sciences,Non-AI publications,254393,1179742,0.21563443532568985
+2022,Physical sciences,Non-AI publications,237767,1179742,0.20154152348564347
+2022,Computer and information sciences,Non-AI publications,87445,1179742,0.0741221385692804
+2022,Mathematics,Non-AI publications,75322,1179742,0.06384616297461648
+2023,Earth and environmental sciences,Non-AI publications,193487,1121874,0.1724676746229969
+2023,Chemical sciences,Non-AI publications,306431,1121874,0.2731420819093766
+2023,Biological sciences,Non-AI publications,232783,1121874,0.20749478105384384
+2023,Physical sciences,Non-AI publications,236550,1121874,0.21085255563459
+2023,Computer and information sciences,Non-AI publications,80577,1121874,0.07182357377031645
+2023,Mathematics,Non-AI publications,72046,1121874,0.06421933300887622
+2024,Earth and environmental sciences,Non-AI publications,185897,1152249,0.1613340519280121
+2024,Chemical sciences,Non-AI publications,325860,1152249,0.28280345654454897
+2024,Biological sciences,Non-AI publications,231903,1152249,0.20126118573329202
+2024,Physical sciences,Non-AI publications,251486,1152249,0.21825664418020757
+2024,Computer and information sciences,Non-AI publications,83705,1152249,0.07264488838783978
+2024,Mathematics,Non-AI publications,73398,1152249,0.06369977322609957
+2025,Earth and environmental sciences,Non-AI publications,184319,1185647,0.15545858084235864
+2025,Chemical sciences,Non-AI publications,348582,1185647,0.2940015029768557
+2025,Biological sciences,Non-AI publications,240285,1185647,0.20266150042972317
+2025,Physical sciences,Non-AI publications,255213,1185647,0.2152520944260813
+2025,Computer and information sciences,Non-AI publications,83744,1185647,0.07063147800314934
+2025,Mathematics,Non-AI publications,73504,1185647,0.061994843321831875

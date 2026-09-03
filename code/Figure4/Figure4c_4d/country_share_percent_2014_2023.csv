@@ -1,0 +1,222 @@
+Country_std,Year,Total_Paper_Count,share_percent
+China,2014,1189,23.56
+United States,2014,661,13.1
+Iran,2014,278,5.51
+India,2014,243,4.81
+United Kingdom,2014,195,3.86
+Spain,2014,190,3.76
+Unknown,2014,174,3.45
+Germany,2014,171,3.39
+Turkey,2014,135,2.67
+Taiwan,2014,126,2.5
+Australia,2014,122,2.42
+Canada,2014,115,2.28
+Italy,2014,113,2.24
+France,2014,97,1.92
+Brazil,2014,89,1.76
+South Korea,2014,89,1.76
+Japan,2014,87,1.72
+Malaysia,2014,80,1.59
+Poland,2014,65,1.29
+Belgium,2014,53,1.05
+Singapore,2014,51,1.01
+Switzerland,2014,48,0.95
+Greece,2014,43,0.85
+Portugal,2014,34,0.67
+Serbia,2014,34,0.67
+Pakistan,2014,32,0.63
+Saudi Arabia,2014,31,0.61
+South Africa,2014,28,0.55
+Mexico,2014,27,0.53
+Netherlands,2014,27,0.53
+Austria,2014,25,0.5
+Sweden,2014,24,0.48
+Russia,2014,22,0.44
+Romania,2014,21,0.42
+Argentina,2014,20,0.4
+Denmark,2014,19,0.38
+Finland,2014,19,0.38
+Algeria,2014,18,0.36
+Chile,2014,18,0.36
+Egypt,2014,18,0.36
+Slovenia,2014,18,0.36
+Thailand,2014,18,0.36
+Israel,2014,16,0.32
+New Zealand,2014,16,0.32
+Czech Republic,2014,14,0.28
+Ireland,2014,11,0.22
+U Arab Emirates,2014,11,0.22
+Croatia,2014,10,0.2
+Tunisia,2014,8,0.16
+Iceland,2014,7,0.14
+Jordan,2014,6,0.12
+Bangladesh,2014,5,0.1
+Colombia,2014,5,0.1
+Hungary,2014,5,0.1
+Slovakia,2014,5,0.1
+Bulgaria,2014,4,0.08
+Cuba,2014,4,0.08
+Estonia,2014,4,0.08
+Norway,2014,4,0.08
+Vietnam,2014,4,0.08
+Macedonia,2014,3,0.06
+Oman,2014,3,0.06
+Ukraine,2014,3,0.06
+Indonesia,2014,2,0.04
+Iraq,2014,2,0.04
+Lebanon,2014,2,0.04
+Lithuania,2014,2,0.04
+Luxembourg,2014,2,0.04
+Morocco,2014,2,0.04
+Nepal,2014,2,0.04
+Nigeria,2014,2,0.04
+Sudan,2014,2,0.04
+Albania,2014,1,0.02
+Botswana,2014,1,0.02
+Brunei,2014,1,0.02
+Burkina Faso,2014,1,0.02
+Cameroon,2014,1,0.02
+Cyprus,2014,1,0.02
+Fiji,2014,1,0.02
+Georgia,2014,1,0.02
+Jamaica,2014,1,0.02
+Kenya,2014,1,0.02
+Kuwait,2014,1,0.02
+Malta,2014,1,0.02
+Uganda,2014,1,0.02
+Uruguay,2014,1,0.02
+China,2023,23901,42.57
+United States,2023,5380,9.58
+India,2023,4878,8.69
+South Korea,2023,1593,2.84
+Germany,2023,1410,2.51
+United Kingdom,2023,1312,2.34
+Italy,2023,1054,1.88
+Iran,2023,1051,1.87
+Spain,2023,1022,1.82
+Turkiye,2023,997,1.78
+Saudi Arabia,2023,931,1.66
+Australia,2023,851,1.52
+Canada,2023,824,1.47
+Japan,2023,824,1.47
+France,2023,711,1.27
+Brazil,2023,631,1.12
+Pakistan,2023,603,1.07
+Taiwan,2023,581,1.03
+Netherlands,2023,365,0.65
+Russia,2023,367,0.65
+Switzerland,2023,350,0.62
+Egypt,2023,337,0.6
+Malaysia,2023,309,0.55
+Poland,2023,311,0.55
+Singapore,2023,286,0.51
+Greece,2023,241,0.43
+Portugal,2023,214,0.38
+Vietnam,2023,215,0.38
+Belgium,2023,199,0.35
+Israel,2023,199,0.35
+Mexico,2023,196,0.35
+Sweden,2023,182,0.32
+Denmark,2023,174,0.31
+Morocco,2023,173,0.31
+Algeria,2023,167,0.3
+Finland,2023,159,0.28
+Norway,2023,155,0.28
+U Arab Emirates,2023,150,0.27
+Austria,2023,147,0.26
+Bangladesh,2023,144,0.26
+Thailand,2023,146,0.26
+Tunisia,2023,132,0.24
+Czech Republic,2023,122,0.22
+Iraq,2023,121,0.22
+Romania,2023,126,0.22
+South Africa,2023,120,0.21
+Chile,2023,111,0.2
+Ireland,2023,110,0.2
+New Zealand,2023,111,0.2
+Serbia,2023,111,0.2
+Jordan,2023,100,0.18
+Hungary,2023,91,0.16
+Indonesia,2023,88,0.16
+Colombia,2023,82,0.15
+Nigeria,2023,63,0.11
+Qatar,2023,59,0.11
+Slovenia,2023,61,0.11
+Argentina,2023,56,0.1
+Ethiopia,2023,53,0.09
+Croatia,2023,45,0.08
+Ecuador,2023,33,0.06
+Luxembourg,2023,32,0.06
+Philippines,2023,31,0.06
+Ukraine,2023,32,0.06
+Estonia,2023,28,0.05
+Kazakhstan,2023,28,0.05
+Kuwait,2023,26,0.05
+Lithuania,2023,30,0.05
+Slovakia,2023,26,0.05
+Unknown,2023,26,0.05
+Armenia,2023,22,0.04
+Cyprus,2023,25,0.04
+Ghana,2023,25,0.04
+Peru,2023,21,0.04
+Sri Lanka,2023,22,0.04
+Bulgaria,2023,18,0.03
+Kenya,2023,15,0.03
+Oman,2023,16,0.03
+Cameroon,2023,9,0.02
+Latvia,2023,12,0.02
+Lebanon,2023,13,0.02
+Afghanistan,2023,3,0.01
+Bahrain,2023,3,0.01
+Benin,2023,5,0.01
+Bosnia & Herceg,2023,3,0.01
+Botswana,2023,3,0.01
+Brunei,2023,7,0.01
+Georgia,2023,3,0.01
+Iceland,2023,7,0.01
+Liechtenstein,2023,4,0.01
+Malta,2023,4,0.01
+Myanmar,2023,3,0.01
+Nepal,2023,8,0.01
+North Korea,2023,6,0.01
+North Macedonia,2023,3,0.01
+Palestine,2023,4,0.01
+Sudan,2023,5,0.01
+Tanzania,2023,7,0.01
+Uganda,2023,4,0.01
+Uruguay,2023,5,0.01
+Uzbekistan,2023,3,0.01
+Venezuela,2023,3,0.01
+Yemen,2023,8,0.01
+Zambia,2023,3,0.01
+Zimbabwe,2023,4,0.01
+Albania,2023,2,0
+Angola,2023,2,0
+Azerbaijan,2023,1,0
+Belarus,2023,2,0
+Burkina Faso,2023,1,0
+Cambodia,2023,1,0
+Costa Rica,2023,2,0
+Cote Ivoire,2023,1,0
+Cuba,2023,2,0
+Dem Rep Congo,2023,1,0
+Fiji,2023,2,0
+Liberia,2023,1,0
+Libya,2023,1,0
+Madagascar,2023,2,0
+Maldives,2023,1,0
+Mauritania,2023,1,0
+Mauritius,2023,1,0
+Moldova,2023,2,0
+Monaco,2023,1,0
+Mongolia,2023,1,0
+Montenegro,2023,2,0
+Mozambique,2023,1,0
+New Caledonia,2023,1,0
+Panama,2023,2,0
+Paraguay,2023,1,0
+Rep Congo,2023,1,0
+Rwanda,2023,1,0
+Somalia,2023,2,0
+Suriname,2023,1,0
+Turkey,2023,2,0

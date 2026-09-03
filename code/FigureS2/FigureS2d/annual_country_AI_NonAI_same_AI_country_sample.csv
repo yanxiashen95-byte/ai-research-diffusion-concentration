@@ -1,0 +1,2341 @@
+Year,Country,country_key,Income group,AI_Count,Non_AI_Count
+2000,Australia,australia,High income,33,11385
+2000,Austria,austria,High income,11,4083
+2000,Bangladesh,bangladesh,Lower middle income,1,195
+2000,Belgium,belgium,High income,14,6143
+2000,Brazil,brazil,Upper middle income,18,7303
+2000,Bulgaria,bulgaria,High income,1,1307
+2000,Canada,canada,High income,35,18063
+2000,China,china,Upper middle income,55,22571
+2000,Colombia,colombia,Upper middle income,1,475
+2000,Croatia,croatia,High income,7,756
+2000,Czech Republic,czech republic,High income,7,3351
+2000,Denmark,denmark,High income,1,4806
+2000,Egypt,egypt,Lower middle income,4,1800
+2000,Finland,finland,High income,5,3905
+2000,France,france,High income,39,33090
+2000,Germany,germany,High income,34,43143
+2000,Greece,greece,High income,21,3221
+2000,Hungary,hungary,High income,6,3123
+2000,India,india,Lower middle income,18,11260
+2000,Iran,iran,Upper middle income,6,940
+2000,Ireland,ireland,High income,2,1389
+2000,Israel,israel,High income,11,5781
+2000,Italy,italy,High income,32,20351
+2000,Jamaica,jamaica,Upper middle income,1,37
+2000,Japan,japan,High income,32,46338
+2000,Jordan,jordan,Lower middle income,1,277
+2000,Kuwait,kuwait,High income,1,272
+2000,Lithuania,lithuania,High income,2,409
+2000,Malaysia,malaysia,Upper middle income,1,562
+2000,Mexico,mexico,Upper middle income,7,3407
+2000,Netherlands,netherlands,High income,9,10459
+2000,New Zealand,new zealand,High income,6,2297
+2000,Norway,norway,High income,2,2840
+2000,Poland,poland,High income,11,8342
+2000,Portugal,portugal,High income,8,2549
+2000,Romania,romania,High income,2,1777
+2000,Russia,russia,High income,11,23044
+2000,Saudi Arabia,saudi arabia,High income,2,591
+2000,Singapore,singapore,High income,5,2276
+2000,Slovenia,slovenia,High income,9,1005
+2000,South Africa,south africa,Upper middle income,3,1899
+2000,South Korea,south korea,High income,20,9277
+2000,Spain,spain,High income,35,15256
+2000,Sweden,sweden,High income,14,8319
+2000,Switzerland,switzerland,High income,10,8808
+2000,Taiwan,taiwan,High income,16,6069
+2000,Turkey,turkey,Upper middle income,10,2417
+2000,USA,usa,High income,227,131337
+2000,Ukraine,ukraine,Upper middle income,2,3348
+2000,United Kingdom,united kingdom,High income,94,32187
+2000,Yugoslavia,yugoslavia,Upper middle income,3,718
+2001,Algeria,algeria,Upper middle income,1,381
+2001,Argentina,argentina,Upper middle income,4,3205
+2001,Australia,australia,High income,34,11592
+2001,Austria,austria,High income,12,4589
+2001,Belgium,belgium,High income,15,6288
+2001,Brazil,brazil,Upper middle income,21,7949
+2001,Bulgaria,bulgaria,High income,2,1342
+2001,Canada,canada,High income,40,17763
+2001,Chile,chile,High income,1,1496
+2001,China,china,Upper middle income,61,26463
+2001,Colombia,colombia,Upper middle income,2,383
+2001,Cote Ivoire,cote ivoire,Lower middle income,1,39
+2001,Croatia,croatia,High income,1,775
+2001,Cuba,cuba,Upper middle income,1,396
+2001,Cyprus,cyprus,High income,2,124
+2001,Czech Republic,czech republic,High income,8,3497
+2001,Denmark,denmark,High income,6,4833
+2001,Egypt,egypt,Lower middle income,4,1841
+2001,Finland,finland,High income,8,4127
+2001,France,france,High income,39,32736
+2001,Germany,germany,High income,63,43139
+2001,Greece,greece,High income,17,3482
+2001,Hungary,hungary,High income,5,3213
+2001,India,india,Lower middle income,18,12245
+2001,Iran,iran,Upper middle income,7,1160
+2001,Iraq,iraq,Upper middle income,1,42
+2001,Ireland,ireland,High income,5,1495
+2001,Israel,israel,High income,7,5836
+2001,Italy,italy,High income,28,20918
+2001,Japan,japan,High income,45,46566
+2001,Kuwait,kuwait,High income,2,242
+2001,Lithuania,lithuania,High income,3,435
+2001,Macedonia,macedonia,Upper middle income,1,113
+2001,Malaysia,malaysia,Upper middle income,3,585
+2001,Mexico,mexico,Upper middle income,6,3767
+2001,Morocco,morocco,Lower middle income,2,843
+2001,Netherlands,netherlands,High income,8,10393
+2001,New Zealand,new zealand,High income,9,2469
+2001,Norway,norway,High income,2,2941
+2001,Panama,panama,High income,1,109
+2001,Poland,poland,High income,10,8888
+2001,Portugal,portugal,High income,2,2917
+2001,Romania,romania,High income,1,1833
+2001,Russia,russia,High income,14,22584
+2001,Singapore,singapore,High income,6,2524
+2001,Slovakia,slovakia,High income,1,1460
+2001,Slovenia,slovenia,High income,6,1037
+2001,South Korea,south korea,High income,13,10965
+2001,Spain,spain,High income,57,16239
+2001,Sweden,sweden,High income,9,8730
+2001,Switzerland,switzerland,High income,9,8541
+2001,Taiwan,taiwan,High income,21,6951
+2001,Thailand,thailand,Upper middle income,3,769
+2001,Tunisia,tunisia,Lower middle income,2,443
+2001,Turkey,turkey,Upper middle income,8,2944
+2001,USA,usa,High income,202,132742
+2001,Ukraine,ukraine,Upper middle income,2,3351
+2001,United Kingdom,united kingdom,High income,118,31383
+2001,Yugoslavia,yugoslavia,Upper middle income,1,730
+2002,Argentina,argentina,Upper middle income,4,3484
+2002,Australia,australia,High income,27,11717
+2002,Austria,austria,High income,8,4489
+2002,Bangladesh,bangladesh,Lower middle income,2,250
+2002,Belgium,belgium,High income,16,6727
+2002,Brazil,brazil,Upper middle income,25,9039
+2002,Bulgaria,bulgaria,High income,1,1407
+2002,Canada,canada,High income,43,18808
+2002,Chile,chile,High income,2,1769
+2002,China,china,Upper middle income,65,29853
+2002,Croatia,croatia,High income,3,798
+2002,Cuba,cuba,Upper middle income,1,366
+2002,Cyprus,cyprus,High income,3,148
+2002,Czech Republic,czech republic,High income,9,3825
+2002,Denmark,denmark,High income,1,4815
+2002,Eswatini,eswatini,Lower middle income,1,2
+2002,Finland,finland,High income,6,4347
+2002,France,france,High income,51,33796
+2002,Germany,germany,High income,78,43717
+2002,Greece,greece,High income,19,3696
+2002,Hungary,hungary,High income,5,3175
+2002,India,india,Lower middle income,29,13548
+2002,Iran,iran,Upper middle income,12,1491
+2002,Ireland,ireland,High income,7,1579
+2002,Israel,israel,High income,11,6185
+2002,Italy,italy,High income,57,22207
+2002,Japan,japan,High income,36,47891
+2002,Jordan,jordan,Lower middle income,1,326
+2002,Lebanon,lebanon,Lower middle income,1,162
+2002,Lithuania,lithuania,High income,1,550
+2002,Malaysia,malaysia,Upper middle income,3,619
+2002,Mexico,mexico,Upper middle income,6,3939
+2002,Morocco,morocco,Lower middle income,3,822
+2002,Netherlands,netherlands,High income,10,10885
+2002,New Zealand,new zealand,High income,7,2406
+2002,Norway,norway,High income,5,2976
+2002,Oman,oman,High income,1,147
+2002,Pakistan,pakistan,Lower middle income,1,519
+2002,Palestine,palestine,Lower middle income,1,19
+2002,Poland,poland,High income,17,9547
+2002,Portugal,portugal,High income,8,3112
+2002,Romania,romania,High income,3,2003
+2002,Russia,russia,High income,10,22756
+2002,Saudi Arabia,saudi arabia,High income,3,658
+2002,Singapore,singapore,High income,25,2699
+2002,Slovakia,slovakia,High income,3,1552
+2002,Slovenia,slovenia,High income,12,1133
+2002,South Africa,south africa,Upper middle income,7,2296
+2002,South Korea,south korea,High income,27,12122
+2002,Spain,spain,High income,66,17440
+2002,Sweden,sweden,High income,8,9073
+2002,Switzerland,switzerland,High income,13,8868
+2002,Taiwan,taiwan,High income,29,7150
+2002,Thailand,thailand,Upper middle income,1,943
+2002,Tunisia,tunisia,Lower middle income,1,527
+2002,Turkey,turkey,Upper middle income,9,3736
+2002,U Arab Emirates,u arab emirates,High income,2,191
+2002,USA,usa,High income,248,136379
+2002,United Kingdom,united kingdom,High income,98,32000
+2002,Vietnam,vietnam,Lower middle income,1,256
+2002,Yugoslavia,yugoslavia,Upper middle income,3,736
+2003,Algeria,algeria,Upper middle income,1,484
+2003,Argentina,argentina,Upper middle income,5,3380
+2003,Australia,australia,High income,54,12615
+2003,Austria,austria,High income,9,4878
+2003,Belgium,belgium,High income,10,7299
+2003,Brazil,brazil,Upper middle income,17,9065
+2003,Bulgaria,bulgaria,High income,1,1413
+2003,Cameroon,cameroon,Lower middle income,1,178
+2003,Canada,canada,High income,33,20306
+2003,Chile,chile,High income,3,1877
+2003,China,china,Upper middle income,94,35898
+2003,Cuba,cuba,Upper middle income,1,450
+2003,Czech Republic,czech republic,High income,3,3973
+2003,Denmark,denmark,High income,1,5077
+2003,Egypt,egypt,Lower middle income,1,2277
+2003,Estonia,estonia,High income,1,460
+2003,Finland,finland,High income,7,4554
+2003,France,france,High income,33,34963
+2003,Germany,germany,High income,59,44972
+2003,Greece,greece,High income,17,3926
+2003,Hungary,hungary,High income,4,3487
+2003,India,india,Lower middle income,30,14634
+2003,Iran,iran,Upper middle income,11,2057
+2003,Ireland,ireland,High income,3,1778
+2003,Israel,israel,High income,5,6400
+2003,Italy,italy,High income,52,23798
+2003,Japan,japan,High income,53,50128
+2003,Kuwait,kuwait,High income,1,223
+2003,Lithuania,lithuania,High income,1,583
+2003,Macedonia,macedonia,Upper middle income,2,77
+2003,Malaysia,malaysia,Upper middle income,5,651
+2003,Mexico,mexico,Upper middle income,10,4334
+2003,Montserrat,montserrat,High income,1,4
+2003,Morocco,morocco,Lower middle income,2,719
+2003,Nepal,nepal,Lower middle income,1,53
+2003,Netherlands,netherlands,High income,13,11370
+2003,New Zealand,new zealand,High income,6,2511
+2003,Norway,norway,High income,3,3096
+2003,Oman,oman,High income,1,154
+2003,Poland,poland,High income,13,10428
+2003,Portugal,portugal,High income,12,3584
+2003,Romania,romania,High income,2,2006
+2003,Russia,russia,High income,7,22408
+2003,Serbia,serbia,Upper middle income,2,521
+2003,Singapore,singapore,High income,15,3016
+2003,Slovakia,slovakia,High income,1,1500
+2003,Slovenia,slovenia,High income,6,1274
+2003,South Africa,south africa,Upper middle income,5,2344
+2003,South Korea,south korea,High income,45,14327
+2003,Spain,spain,High income,63,18363
+2003,Sweden,sweden,High income,13,9168
+2003,Switzerland,switzerland,High income,16,9689
+2003,Taiwan,taiwan,High income,22,7668
+2003,Thailand,thailand,Upper middle income,2,1146
+2003,Turkey,turkey,Upper middle income,26,4373
+2003,U Arab Emirates,u arab emirates,High income,2,251
+2003,USA,usa,High income,257,143145
+2003,Ukraine,ukraine,Upper middle income,1,3188
+2003,United Kingdom,united kingdom,High income,88,33327
+2004,Algeria,algeria,Upper middle income,4,595
+2004,Argentina,argentina,Upper middle income,6,3585
+2004,Australia,australia,High income,60,13779
+2004,Austria,austria,High income,13,5265
+2004,Bangladesh,bangladesh,Lower middle income,1,315
+2004,Belarus,belarus,Upper middle income,1,860
+2004,Belgium,belgium,High income,24,7662
+2004,Brazil,brazil,Upper middle income,50,10725
+2004,Bulgaria,bulgaria,High income,1,1460
+2004,Canada,canada,High income,53,21501
+2004,Chile,chile,High income,3,1994
+2004,China,china,Upper middle income,218,44923
+2004,Croatia,croatia,High income,2,1034
+2004,Cuba,cuba,Upper middle income,3,410
+2004,Czech Republic,czech republic,High income,7,4432
+2004,Denmark,denmark,High income,13,5089
+2004,Egypt,egypt,Lower middle income,3,2126
+2004,Estonia,estonia,High income,1,504
+2004,Finland,finland,High income,7,4771
+2004,France,france,High income,74,35808
+2004,Germany,germany,High income,93,46827
+2004,Greece,greece,High income,33,4258
+2004,Hungary,hungary,High income,4,3405
+2004,India,india,Lower middle income,71,16265
+2004,Indonesia,indonesia,Upper middle income,1,320
+2004,Iran,iran,Upper middle income,24,2614
+2004,Ireland,ireland,High income,8,2128
+2004,Israel,israel,High income,10,6441
+2004,Italy,italy,High income,70,25844
+2004,Japan,japan,High income,84,50524
+2004,Jordan,jordan,Lower middle income,2,382
+2004,Kuwait,kuwait,High income,3,247
+2004,Lebanon,lebanon,Lower middle income,1,173
+2004,Lithuania,lithuania,High income,6,685
+2004,Luxembourg,luxembourg,High income,1,105
+2004,Macedonia,macedonia,Upper middle income,1,84
+2004,Malaysia,malaysia,Upper middle income,2,824
+2004,Mexico,mexico,Upper middle income,21,4813
+2004,Morocco,morocco,Lower middle income,2,782
+2004,Namibia,namibia,Lower middle income,1,43
+2004,Netherlands,netherlands,High income,23,11840
+2004,New Zealand,new zealand,High income,16,2734
+2004,Nigeria,nigeria,Lower middle income,1,370
+2004,Norway,norway,High income,4,3537
+2004,Oman,oman,High income,2,149
+2004,Poland,poland,High income,47,11102
+2004,Portugal,portugal,High income,10,3900
+2004,Romania,romania,High income,3,2083
+2004,Russia,russia,High income,5,22467
+2004,Serbia,serbia,Upper middle income,1,918
+2004,Singapore,singapore,High income,21,3765
+2004,Slovakia,slovakia,High income,4,1742
+2004,Slovenia,slovenia,High income,15,1265
+2004,South Africa,south africa,Upper middle income,2,2492
+2004,South Korea,south korea,High income,70,16901
+2004,Spain,spain,High income,99,20075
+2004,Sri Lanka,sri lanka,Lower middle income,1,157
+2004,Sweden,sweden,High income,13,9569
+2004,Switzerland,switzerland,High income,21,10227
+2004,Taiwan,taiwan,High income,45,8959
+2004,Thailand,thailand,Upper middle income,4,1245
+2004,Turkey,turkey,Upper middle income,41,5375
+2004,U Arab Emirates,u arab emirates,High income,2,292
+2004,USA,usa,High income,385,150952
+2004,United Kingdom,united kingdom,High income,131,34352
+2004,Vietnam,vietnam,Lower middle income,1,336
+2005,Algeria,algeria,Upper middle income,1,681
+2005,Argentina,argentina,Upper middle income,7,3736
+2005,Australia,australia,High income,71,14537
+2005,Austria,austria,High income,7,5245
+2005,Belgium,belgium,High income,22,8150
+2005,Bosnia & Herceg,bosnia & herceg,Upper middle income,1,49
+2005,Botswana,botswana,Upper middle income,1,88
+2005,Brazil,brazil,Upper middle income,39,11162
+2005,Bulgaria,bulgaria,High income,2,1614
+2005,Canada,canada,High income,83,23632
+2005,Chile,chile,High income,6,2108
+2005,China,china,Upper middle income,386,53906
+2005,Croatia,croatia,High income,5,1062
+2005,Cuba,cuba,Upper middle income,4,459
+2005,Cyprus,cyprus,High income,1,216
+2005,Czech Republic,czech republic,High income,13,4478
+2005,Denmark,denmark,High income,6,5314
+2005,Egypt,egypt,Lower middle income,1,2192
+2005,Estonia,estonia,High income,3,531
+2005,Finland,finland,High income,10,4773
+2005,France,france,High income,74,37387
+2005,Germany,germany,High income,113,48889
+2005,Greece,greece,High income,28,4635
+2005,Hungary,hungary,High income,11,3573
+2005,India,india,Lower middle income,65,17771
+2005,Iran,iran,Upper middle income,40,3405
+2005,Ireland,ireland,High income,18,2479
+2005,Israel,israel,High income,15,6504
+2005,Italy,italy,High income,102,26002
+2005,Japan,japan,High income,103,50138
+2005,Jordan,jordan,Lower middle income,4,407
+2005,Kuwait,kuwait,High income,1,248
+2005,Lebanon,lebanon,Lower middle income,1,226
+2005,Libya,libya,Upper middle income,1,38
+2005,Lithuania,lithuania,High income,3,716
+2005,Luxembourg,luxembourg,High income,1,106
+2005,Macedonia,macedonia,Upper middle income,2,81
+2005,Malaysia,malaysia,Upper middle income,7,915
+2005,Mexico,mexico,Upper middle income,33,5130
+2005,Nepal,nepal,Lower middle income,1,70
+2005,Netherlands,netherlands,High income,25,12467
+2005,New Zealand,new zealand,High income,5,3000
+2005,Norway,norway,High income,9,3795
+2005,Oman,oman,High income,2,154
+2005,Pakistan,pakistan,Lower middle income,4,782
+2005,Philippines,philippines,Lower middle income,1,262
+2005,Poland,poland,High income,38,10927
+2005,Portugal,portugal,High income,18,4257
+2005,Romania,romania,High income,6,2405
+2005,Russia,russia,High income,13,22012
+2005,Saudi Arabia,saudi arabia,High income,1,729
+2005,Serbia,serbia,Upper middle income,2,376
+2005,Serbia Monteneg,serbia monteneg,Upper middle income,4,792
+2005,Singapore,singapore,High income,34,4211
+2005,Slovakia,slovakia,High income,3,1553
+2005,Slovenia,slovenia,High income,14,1452
+2005,South Africa,south africa,Upper middle income,4,2634
+2005,South Korea,south korea,High income,89,17653
+2005,Spain,spain,High income,106,21448
+2005,Sri Lanka,sri lanka,Lower middle income,1,173
+2005,Sweden,sweden,High income,17,9722
+2005,Switzerland,switzerland,High income,19,10550
+2005,Taiwan,taiwan,High income,54,10154
+2005,Thailand,thailand,Upper middle income,6,1453
+2005,Turkey,turkey,Upper middle income,52,5776
+2005,U Arab Emirates,u arab emirates,High income,1,329
+2005,USA,usa,High income,473,155975
+2005,Ukraine,ukraine,Upper middle income,3,3396
+2005,United Kingdom,united kingdom,High income,148,35300
+2005,Vietnam,vietnam,Lower middle income,2,358
+2006,Algeria,algeria,Upper middle income,4,793
+2006,Argentina,argentina,Upper middle income,6,3942
+2006,Australia,australia,High income,74,15645
+2006,Austria,austria,High income,16,5554
+2006,Belarus,belarus,Upper middle income,1,881
+2006,Belgium,belgium,High income,28,8139
+2006,Botswana,botswana,Upper middle income,1,128
+2006,Brazil,brazil,Upper middle income,49,12423
+2006,Bulgaria,bulgaria,High income,1,1630
+2006,Canada,canada,High income,94,25135
+2006,Chile,chile,High income,9,2358
+2006,China,china,Upper middle income,511,65225
+2006,Croatia,croatia,High income,4,1087
+2006,Cuba,cuba,Upper middle income,8,507
+2006,Czech Republic,czech republic,High income,12,5077
+2006,Denmark,denmark,High income,12,5362
+2006,Egypt,egypt,Lower middle income,1,2393
+2006,Estonia,estonia,High income,2,603
+2006,Fiji,fiji,Upper middle income,1,47
+2006,Finland,finland,High income,16,5211
+2006,France,france,High income,93,38894
+2006,Germany,germany,High income,101,49662
+2006,Greece,greece,High income,61,5164
+2006,Hungary,hungary,High income,15,3667
+2006,Iceland,iceland,High income,1,310
+2006,India,india,Lower middle income,82,20203
+2006,Indonesia,indonesia,Upper middle income,1,380
+2006,Iran,iran,Upper middle income,36,4405
+2006,Ireland,ireland,High income,20,2713
+2006,Israel,israel,High income,17,6938
+2006,Italy,italy,High income,110,27040
+2006,Japan,japan,High income,93,50407
+2006,Jordan,jordan,Lower middle income,5,414
+2006,Kuwait,kuwait,High income,1,267
+2006,Lebanon,lebanon,Lower middle income,3,268
+2006,Libya,libya,Upper middle income,1,58
+2006,Lithuania,lithuania,High income,2,867
+2006,Malaysia,malaysia,Upper middle income,7,952
+2006,Mexico,mexico,Upper middle income,20,5063
+2006,Morocco,morocco,Lower middle income,3,745
+2006,Netherlands,netherlands,High income,34,12614
+2006,New Zealand,new zealand,High income,14,3114
+2006,Norway,norway,High income,7,4207
+2006,Oman,oman,High income,2,166
+2006,Philippines,philippines,Lower middle income,3,244
+2006,Poland,poland,High income,54,11676
+2006,Portugal,portugal,High income,18,5074
+2006,Qatar,qatar,High income,1,54
+2006,Romania,romania,High income,13,2739
+2006,Russia,russia,High income,6,21635
+2006,Saudi Arabia,saudi arabia,High income,4,730
+2006,Senegal,senegal,Lower middle income,1,105
+2006,Serbia,serbia,Upper middle income,4,660
+2006,Serbia Monteneg,serbia monteneg,Upper middle income,1,524
+2006,Singapore,singapore,High income,36,4530
+2006,Slovakia,slovakia,High income,5,1712
+2006,Slovenia,slovenia,High income,20,1489
+2006,South Africa,south africa,Upper middle income,6,2960
+2006,South Korea,south korea,High income,126,19146
+2006,Spain,spain,High income,118,23219
+2006,Sudan,sudan,Low income,1,43
+2006,Sweden,sweden,High income,23,10115
+2006,Switzerland,switzerland,High income,25,11383
+2006,Taiwan,taiwan,High income,81,11515
+2006,Thailand,thailand,Upper middle income,4,1822
+2006,Tunisia,tunisia,Lower middle income,4,910
+2006,Turkey,turkey,Upper middle income,80,6379
+2006,USA,usa,High income,533,159526
+2006,United Kingdom,united kingdom,High income,180,36870
+2006,Uruguay,uruguay,High income,1,302
+2006,Vietnam,vietnam,Lower middle income,1,428
+2007,Algeria,algeria,Upper middle income,6,934
+2007,Argentina,argentina,Upper middle income,11,4061
+2007,Australia,australia,High income,52,15660
+2007,Austria,austria,High income,6,5770
+2007,Bahrain,bahrain,High income,1,65
+2007,Belgium,belgium,High income,22,8415
+2007,Brazil,brazil,Upper middle income,37,13054
+2007,Canada,canada,High income,62,25069
+2007,Chile,chile,High income,1,2461
+2007,China,china,Upper middle income,309,70351
+2007,Colombia,colombia,Upper middle income,1,700
+2007,Costa Rica,costa rica,High income,1,176
+2007,Croatia,croatia,High income,6,1198
+2007,Cuba,cuba,Upper middle income,7,432
+2007,Cyprus,cyprus,High income,2,276
+2007,Czech Republic,czech republic,High income,9,5319
+2007,Denmark,denmark,High income,8,5461
+2007,Egypt,egypt,Lower middle income,3,2565
+2007,Estonia,estonia,High income,2,690
+2007,Finland,finland,High income,7,5190
+2007,France,france,High income,77,38048
+2007,Georgia,georgia,Upper middle income,1,295
+2007,Germany,germany,High income,78,48989
+2007,Greece,greece,High income,53,5263
+2007,Hungary,hungary,High income,3,3692
+2007,Iceland,iceland,High income,3,295
+2007,India,india,Lower middle income,87,22261
+2007,Indonesia,indonesia,Upper middle income,1,403
+2007,Iran,iran,Upper middle income,70,5594
+2007,Ireland,ireland,High income,11,2802
+2007,Israel,israel,High income,17,6565
+2007,Italy,italy,High income,84,27578
+2007,Japan,japan,High income,66,49215
+2007,Jordan,jordan,Lower middle income,2,516
+2007,Kuwait,kuwait,High income,2,270
+2007,Latvia,latvia,High income,1,277
+2007,Lebanon,lebanon,Lower middle income,1,249
+2007,Lithuania,lithuania,High income,6,965
+2007,Luxembourg,luxembourg,High income,1,130
+2007,Macedonia,macedonia,Upper middle income,3,120
+2007,Malaysia,malaysia,Upper middle income,9,1217
+2007,Mexico,mexico,Upper middle income,8,5435
+2007,Moldova,moldova,Upper middle income,1,162
+2007,Morocco,morocco,Lower middle income,2,749
+2007,Netherlands,netherlands,High income,29,12317
+2007,New Zealand,new zealand,High income,7,3144
+2007,Nigeria,nigeria,Lower middle income,1,729
+2007,Norway,norway,High income,10,4349
+2007,Oman,oman,High income,1,169
+2007,Pakistan,pakistan,Lower middle income,2,1355
+2007,Philippines,philippines,Lower middle income,1,261
+2007,Poland,poland,High income,22,11386
+2007,Portugal,portugal,High income,15,4979
+2007,Qatar,qatar,High income,2,87
+2007,Romania,romania,High income,10,3412
+2007,Russia,russia,High income,17,22161
+2007,Senegal,senegal,Lower middle income,1,129
+2007,Serbia,serbia,Upper middle income,2,1604
+2007,Singapore,singapore,High income,28,4372
+2007,Slovakia,slovakia,High income,5,1736
+2007,Slovenia,slovenia,High income,13,1756
+2007,South Africa,south africa,Upper middle income,2,3148
+2007,South Korea,south korea,High income,53,18791
+2007,Spain,spain,High income,91,23964
+2007,Sri Lanka,sri lanka,Lower middle income,1,190
+2007,Sweden,sweden,High income,14,9865
+2007,Switzerland,switzerland,High income,15,11227
+2007,Taiwan,taiwan,High income,76,11932
+2007,Thailand,thailand,Upper middle income,11,2105
+2007,Tunisia,tunisia,Lower middle income,1,1050
+2007,Turkey,turkey,Upper middle income,71,7512
+2007,U Arab Emirates,u arab emirates,High income,1,374
+2007,USA,usa,High income,473,159669
+2007,Ukraine,ukraine,Upper middle income,3,3633
+2007,United Kingdom,united kingdom,High income,136,36846
+2008,Algeria,algeria,Upper middle income,2,1048
+2008,Argentina,argentina,Upper middle income,7,4571
+2008,Armenia,armenia,Upper middle income,1,478
+2008,Australia,australia,High income,50,16548
+2008,Austria,austria,High income,13,6134
+2008,Bangladesh,bangladesh,Lower middle income,3,434
+2008,Belgium,belgium,High income,32,8899
+2008,Brazil,brazil,Upper middle income,37,14621
+2008,Brunei,brunei,High income,2,26
+2008,Bulgaria,bulgaria,High income,1,1779
+2008,Cameroon,cameroon,Lower middle income,1,358
+2008,Canada,canada,High income,80,26470
+2008,Chile,chile,High income,3,2686
+2008,China,china,Upper middle income,336,81152
+2008,Colombia,colombia,Upper middle income,1,959
+2008,Croatia,croatia,High income,3,1285
+2008,Cuba,cuba,Upper middle income,4,483
+2008,Czech Republic,czech republic,High income,5,5649
+2008,Denmark,denmark,High income,9,5517
+2008,Egypt,egypt,Lower middle income,6,2862
+2008,Estonia,estonia,High income,1,694
+2008,Fiji,fiji,Upper middle income,1,43
+2008,Finland,finland,High income,17,5276
+2008,France,france,High income,72,40086
+2008,Germany,germany,High income,89,50435
+2008,Greece,greece,High income,33,5417
+2008,Hungary,hungary,High income,9,3752
+2008,India,india,Lower middle income,104,25091
+2008,Iran,iran,Upper middle income,56,6832
+2008,Ireland,ireland,High income,6,3086
+2008,Israel,israel,High income,23,6907
+2008,Italy,italy,High income,86,28343
+2008,Japan,japan,High income,62,49143
+2008,Jordan,jordan,Lower middle income,4,640
+2008,Kuwait,kuwait,High income,2,282
+2008,Lebanon,lebanon,Lower middle income,1,289
+2008,Lithuania,lithuania,High income,5,969
+2008,Macedonia,macedonia,Upper middle income,1,141
+2008,Malaysia,malaysia,Upper middle income,8,1438
+2008,Mexico,mexico,Upper middle income,12,5887
+2008,Morocco,morocco,Lower middle income,1,848
+2008,Netherlands,netherlands,High income,26,12578
+2008,New Zealand,new zealand,High income,9,3182
+2008,Norway,norway,High income,1,4547
+2008,Pakistan,pakistan,Lower middle income,1,1810
+2008,Poland,poland,High income,25,12636
+2008,Portugal,portugal,High income,12,5721
+2008,Romania,romania,High income,12,4170
+2008,Russia,russia,High income,8,24078
+2008,Saudi Arabia,saudi arabia,High income,2,1018
+2008,Serbia,serbia,Upper middle income,3,1713
+2008,Singapore,singapore,High income,33,4860
+2008,Slovakia,slovakia,High income,1,1934
+2008,Slovenia,slovenia,High income,16,1862
+2008,South Africa,south africa,Upper middle income,5,3476
+2008,South Korea,south korea,High income,59,21738
+2008,Spain,spain,High income,98,25160
+2008,Sri Lanka,sri lanka,Lower middle income,1,194
+2008,Sweden,sweden,High income,8,9716
+2008,Switzerland,switzerland,High income,10,11590
+2008,Taiwan,taiwan,High income,86,13764
+2008,Thailand,thailand,Upper middle income,7,2391
+2008,Tunisia,tunisia,Lower middle income,6,1236
+2008,Turkey,turkey,Upper middle income,72,7984
+2008,U Arab Emirates,u arab emirates,High income,3,360
+2008,USA,usa,High income,473,162030
+2008,Ukraine,ukraine,Upper middle income,3,4074
+2008,United Kingdom,united kingdom,High income,110,37632
+2009,Algeria,algeria,Upper middle income,4,1249
+2009,Argentina,argentina,Upper middle income,9,4887
+2009,Australia,australia,High income,54,18148
+2009,Austria,austria,High income,10,6401
+2009,Bahrain,bahrain,High income,1,58
+2009,Bangladesh,bangladesh,Lower middle income,3,541
+2009,Belgium,belgium,High income,28,9149
+2009,Brazil,brazil,Upper middle income,42,15270
+2009,Bulgaria,bulgaria,High income,2,1999
+2009,Canada,canada,High income,85,27474
+2009,Chile,chile,High income,9,3002
+2009,China,china,Upper middle income,480,92694
+2009,Colombia,colombia,Upper middle income,4,1095
+2009,Croatia,croatia,High income,6,1503
+2009,Cuba,cuba,Upper middle income,1,459
+2009,Cyprus,cyprus,High income,2,381
+2009,Czech Republic,czech republic,High income,10,5955
+2009,Denmark,denmark,High income,12,5843
+2009,Egypt,egypt,Lower middle income,6,3326
+2009,Estonia,estonia,High income,6,733
+2009,Finland,finland,High income,21,5443
+2009,France,france,High income,67,41367
+2009,Germany,germany,High income,129,52234
+2009,Greece,greece,High income,51,5671
+2009,Hungary,hungary,High income,6,3803
+2009,Iceland,iceland,High income,5,377
+2009,India,india,Lower middle income,106,26864
+2009,Indonesia,indonesia,Upper middle income,2,550
+2009,Iran,iran,Upper middle income,103,8644
+2009,Iraq,iraq,Upper middle income,1,154
+2009,Ireland,ireland,High income,11,3263
+2009,Israel,israel,High income,25,6674
+2009,Italy,italy,High income,93,29414
+2009,Jamaica,jamaica,Upper middle income,1,54
+2009,Japan,japan,High income,74,48218
+2009,Jordan,jordan,Lower middle income,2,592
+2009,Kenya,kenya,Lower middle income,1,477
+2009,Lebanon,lebanon,Lower middle income,2,282
+2009,Lithuania,lithuania,High income,4,886
+2009,Luxembourg,luxembourg,High income,2,236
+2009,Macedonia,macedonia,Upper middle income,1,136
+2009,Malaysia,malaysia,Upper middle income,12,2235
+2009,Malta,malta,High income,1,53
+2009,Mexico,mexico,Upper middle income,22,5814
+2009,Morocco,morocco,Lower middle income,1,858
+2009,Netherlands,netherlands,High income,20,13557
+2009,New Zealand,new zealand,High income,4,3368
+2009,Nigeria,nigeria,Lower middle income,2,858
+2009,Norway,norway,High income,6,4809
+2009,Pakistan,pakistan,Lower middle income,1,2167
+2009,Philippines,philippines,Lower middle income,1,346
+2009,Poland,poland,High income,38,12615
+2009,Portugal,portugal,High income,16,6211
+2009,Qatar,qatar,High income,2,108
+2009,Romania,romania,High income,15,4393
+2009,Russia,russia,High income,18,24316
+2009,Saudi Arabia,saudi arabia,High income,4,1336
+2009,Serbia,serbia,Upper middle income,13,2094
+2009,Singapore,singapore,High income,32,5245
+2009,Slovakia,slovakia,High income,6,1882
+2009,Slovenia,slovenia,High income,13,1885
+2009,South Africa,south africa,Upper middle income,6,3888
+2009,South Korea,south korea,High income,60,22825
+2009,Spain,spain,High income,112,26980
+2009,Sweden,sweden,High income,14,10097
+2009,Switzerland,switzerland,High income,24,12399
+2009,Taiwan,taiwan,High income,114,14788
+2009,Thailand,thailand,Upper middle income,15,2652
+2009,Turkey,turkey,Upper middle income,134,8983
+2009,U Arab Emirates,u arab emirates,High income,2,451
+2009,USA,usa,High income,489,164899
+2009,Ukraine,ukraine,Upper middle income,3,3738
+2009,United Kingdom,united kingdom,High income,140,38739
+2009,Vietnam,vietnam,Lower middle income,1,711
+2010,Algeria,algeria,Upper middle income,9,1276
+2010,Argentina,argentina,Upper middle income,14,5059
+2010,Australia,australia,High income,58,18624
+2010,Austria,austria,High income,14,6958
+2010,Bangladesh,bangladesh,Lower middle income,2,543
+2010,Belgium,belgium,High income,35,9539
+2010,Bosnia & Herceg,bosnia & herceg,Upper middle income,3,103
+2010,Brazil,brazil,Upper middle income,46,15436
+2010,Bulgaria,bulgaria,High income,3,1632
+2010,Canada,canada,High income,102,27444
+2010,Chile,chile,High income,8,3173
+2010,China,china,Upper middle income,456,101379
+2010,Colombia,colombia,Upper middle income,2,1355
+2010,Costa Rica,costa rica,High income,1,214
+2010,Croatia,croatia,High income,8,1513
+2010,Cyprus,cyprus,High income,4,420
+2010,Czech Republic,czech republic,High income,7,6570
+2010,Denmark,denmark,High income,9,6305
+2010,Egypt,egypt,Lower middle income,2,3466
+2010,Estonia,estonia,High income,1,852
+2010,Finland,finland,High income,17,5538
+2010,France,france,High income,67,41974
+2010,Germany,germany,High income,128,54056
+2010,Greece,greece,High income,50,5687
+2010,Hungary,hungary,High income,6,3517
+2010,Iceland,iceland,High income,2,446
+2010,India,india,Lower middle income,138,28793
+2010,Iran,iran,Upper middle income,134,10050
+2010,Ireland,ireland,High income,11,3665
+2010,Israel,israel,High income,17,6821
+2010,Italy,italy,High income,83,29304
+2010,Japan,japan,High income,62,46635
+2010,Jordan,jordan,Lower middle income,2,642
+2010,Kuwait,kuwait,High income,1,294
+2010,Lebanon,lebanon,Lower middle income,1,266
+2010,Lithuania,lithuania,High income,3,886
+2010,Macedonia,macedonia,Upper middle income,2,158
+2010,Malaysia,malaysia,Upper middle income,28,2960
+2010,Mexico,mexico,Upper middle income,18,6101
+2010,Morocco,morocco,Lower middle income,4,925
+2010,Netherlands,netherlands,High income,32,14148
+2010,New Zealand,new zealand,High income,14,3762
+2010,Norway,norway,High income,10,4865
+2010,Oman,oman,High income,4,229
+2010,Pakistan,pakistan,Lower middle income,5,2582
+2010,Philippines,philippines,Lower middle income,1,381
+2010,Poland,poland,High income,39,12692
+2010,Portugal,portugal,High income,9,6660
+2010,Romania,romania,High income,14,4787
+2010,Russia,russia,High income,10,23696
+2010,Saudi Arabia,saudi arabia,High income,7,2226
+2010,Serbia,serbia,Upper middle income,8,2298
+2010,Singapore,singapore,High income,37,5877
+2010,Slovakia,slovakia,High income,3,2045
+2010,Slovenia,slovenia,High income,24,1918
+2010,South Africa,south africa,Upper middle income,9,4050
+2010,South Korea,south korea,High income,64,24741
+2010,Spain,spain,High income,148,28220
+2010,Sweden,sweden,High income,16,10656
+2010,Switzerland,switzerland,High income,27,12930
+2010,Taiwan,taiwan,High income,100,15050
+2010,Thailand,thailand,Upper middle income,9,3063
+2010,Tunisia,tunisia,Lower middle income,1,1711
+2010,Turkey,turkey,Upper middle income,129,9424
+2010,U Arab Emirates,u arab emirates,High income,3,479
+2010,USA,usa,High income,499,167841
+2010,Uganda,uganda,Low income,1,200
+2010,Ukraine,ukraine,Upper middle income,1,3798
+2010,United Kingdom,united kingdom,High income,155,39487
+2010,Uruguay,uruguay,High income,1,416
+2010,Vietnam,vietnam,Lower middle income,1,868
+2011,Albania,albania,Upper middle income,1,99
+2011,Algeria,algeria,Upper middle income,5,1319
+2011,Argentina,argentina,Upper middle income,8,5473
+2011,Armenia,armenia,Upper middle income,1,615
+2011,Australia,australia,High income,64,20892
+2011,Austria,austria,High income,12,7498
+2011,Azerbaijan,azerbaijan,Upper middle income,1,408
+2011,Bangladesh,bangladesh,Lower middle income,3,627
+2011,Belgium,belgium,High income,42,10170
+2011,Brazil,brazil,Upper middle income,57,17000
+2011,Bulgaria,bulgaria,High income,3,1683
+2011,Canada,canada,High income,101,29096
+2011,Chile,chile,High income,7,3501
+2011,China,china,Upper middle income,594,116790
+2011,Colombia,colombia,Upper middle income,2,1514
+2011,Croatia,croatia,High income,6,1796
+2011,Cuba,cuba,Upper middle income,3,524
+2011,Cyprus,cyprus,High income,7,451
+2011,Czech Republic,czech republic,High income,12,6676
+2011,Denmark,denmark,High income,5,6990
+2011,Egypt,egypt,Lower middle income,18,4291
+2011,Finland,finland,High income,24,6010
+2011,France,france,High income,106,43484
+2011,Germany,germany,High income,121,57403
+2011,Greece,greece,High income,51,5748
+2011,Hungary,hungary,High income,6,3993
+2011,India,india,Lower middle income,157,32381
+2011,Iran,iran,Upper middle income,149,13088
+2011,Iraq,iraq,Upper middle income,1,229
+2011,Ireland,ireland,High income,13,4101
+2011,Israel,israel,High income,28,7139
+2011,Italy,italy,High income,93,31123
+2011,Japan,japan,High income,81,48114
+2011,Jordan,jordan,Lower middle income,11,638
+2011,Kenya,kenya,Lower middle income,1,539
+2011,Kuwait,kuwait,High income,2,309
+2011,Latvia,latvia,High income,1,373
+2011,Lebanon,lebanon,Lower middle income,1,316
+2011,Lithuania,lithuania,High income,3,1131
+2011,Macedonia,macedonia,Upper middle income,1,177
+2011,Malaysia,malaysia,Upper middle income,54,4177
+2011,Mauritius,mauritius,Upper middle income,1,40
+2011,Mexico,mexico,Upper middle income,17,6636
+2011,Morocco,morocco,Lower middle income,3,968
+2011,Netherlands,netherlands,High income,29,14988
+2011,New Zealand,new zealand,High income,8,4003
+2011,Norway,norway,High income,5,5496
+2011,Oman,oman,High income,1,265
+2011,Pakistan,pakistan,Lower middle income,15,3428
+2011,Peru,peru,Upper middle income,1,325
+2011,Philippines,philippines,Lower middle income,1,438
+2011,Poland,poland,High income,37,13364
+2011,Portugal,portugal,High income,27,7434
+2011,Qatar,qatar,High income,1,207
+2011,Romania,romania,High income,15,5009
+2011,Russia,russia,High income,8,24865
+2011,Saudi Arabia,saudi arabia,High income,4,3867
+2011,Serbia,serbia,Upper middle income,13,2559
+2011,Singapore,singapore,High income,49,6526
+2011,Slovakia,slovakia,High income,3,2139
+2011,Slovenia,slovenia,High income,14,2067
+2011,South Africa,south africa,Upper middle income,14,4777
+2011,South Korea,south korea,High income,69,27799
+2011,Spain,spain,High income,160,30723
+2011,Sri Lanka,sri lanka,Lower middle income,4,198
+2011,Sweden,sweden,High income,17,10801
+2011,Switzerland,switzerland,High income,28,13864
+2011,Syria,syria,Low income,1,194
+2011,Taiwan,taiwan,High income,128,16497
+2011,Thailand,thailand,Upper middle income,11,3332
+2011,Tunisia,tunisia,Lower middle income,2,1964
+2011,Turkey,turkey,Upper middle income,103,10168
+2011,U Arab Emirates,u arab emirates,High income,3,607
+2011,USA,usa,High income,529,175522
+2011,Uganda,uganda,Low income,1,192
+2011,Ukraine,ukraine,Upper middle income,1,4062
+2011,United Kingdom,united kingdom,High income,164,41118
+2011,Uruguay,uruguay,High income,1,515
+2011,Vietnam,vietnam,Lower middle income,2,1050
+2011,Zimbabwe,zimbabwe,Lower middle income,1,125
+2012,Algeria,algeria,Upper middle income,13,1408
+2012,Angola,angola,Lower middle income,1,14
+2012,Argentina,argentina,Upper middle income,9,5722
+2012,Australia,australia,High income,72,22531
+2012,Austria,austria,High income,13,7500
+2012,Bangladesh,bangladesh,Lower middle income,1,728
+2012,Belgium,belgium,High income,38,10225
+2012,Bosnia & Herceg,bosnia & herceg,Upper middle income,1,121
+2012,Brazil,brazil,Upper middle income,52,18603
+2012,Bulgaria,bulgaria,High income,4,1738
+2012,Canada,canada,High income,115,29944
+2012,Chile,chile,High income,8,3883
+2012,China,china,Upper middle income,698,131208
+2012,Colombia,colombia,Upper middle income,6,1773
+2012,Croatia,croatia,High income,7,1923
+2012,Cuba,cuba,Upper middle income,1,536
+2012,Cyprus,cyprus,High income,8,497
+2012,Czech Republic,czech republic,High income,13,7053
+2012,Denmark,denmark,High income,17,7355
+2012,Egypt,egypt,Lower middle income,15,4852
+2012,Estonia,estonia,High income,2,933
+2012,Finland,finland,High income,18,5996
+2012,France,france,High income,84,43950
+2012,Gabon,gabon,Upper middle income,1,56
+2012,Germany,germany,High income,154,58439
+2012,Greece,greece,High income,39,5948
+2012,Hungary,hungary,High income,8,4200
+2012,Iceland,iceland,High income,2,554
+2012,India,india,Lower middle income,168,34300
+2012,Indonesia,indonesia,Upper middle income,1,802
+2012,Iran,iran,Upper middle income,236,14638
+2012,Iraq,iraq,Upper middle income,1,315
+2012,Ireland,ireland,High income,6,3875
+2012,Israel,israel,High income,36,7040
+2012,Italy,italy,High income,97,31782
+2012,Japan,japan,High income,65,46987
+2012,Jordan,jordan,Lower middle income,4,652
+2012,Kenya,kenya,Lower middle income,4,556
+2012,Latvia,latvia,High income,1,385
+2012,Lebanon,lebanon,Lower middle income,1,381
+2012,Lithuania,lithuania,High income,6,1080
+2012,Luxembourg,luxembourg,High income,1,415
+2012,Macedonia,macedonia,Upper middle income,4,186
+2012,Malaysia,malaysia,Upper middle income,55,4963
+2012,Malta,malta,High income,1,70
+2012,Mexico,mexico,Upper middle income,23,7140
+2012,Mongolia,mongolia,Upper middle income,1,121
+2012,Morocco,morocco,Lower middle income,3,1080
+2012,Netherlands,netherlands,High income,28,15332
+2012,New Zealand,new zealand,High income,17,4151
+2012,Norway,norway,High income,6,5818
+2012,Oman,oman,High income,5,287
+2012,Pakistan,pakistan,Lower middle income,22,3647
+2012,Philippines,philippines,Lower middle income,1,428
+2012,Poland,poland,High income,62,14257
+2012,Portugal,portugal,High income,33,8061
+2012,Romania,romania,High income,12,5128
+2012,Russia,russia,High income,8,23957
+2012,Saudi Arabia,saudi arabia,High income,11,5328
+2012,Serbia,serbia,Upper middle income,13,2977
+2012,Singapore,singapore,High income,43,7084
+2012,Slovakia,slovakia,High income,2,2334
+2012,Slovenia,slovenia,High income,11,2338
+2012,South Africa,south africa,Upper middle income,14,5176
+2012,South Korea,south korea,High income,77,29255
+2012,Spain,spain,High income,162,32277
+2012,Sweden,sweden,High income,27,11302
+2012,Switzerland,switzerland,High income,35,14571
+2012,Taiwan,taiwan,High income,135,16119
+2012,Thailand,thailand,Upper middle income,9,3303
+2012,Tunisia,tunisia,Lower middle income,3,1942
+2012,Turkey,turkey,Upper middle income,112,10265
+2012,U Arab Emirates,u arab emirates,High income,3,660
+2012,USA,usa,High income,608,179182
+2012,Ukraine,ukraine,Upper middle income,3,4004
+2012,United Kingdom,united kingdom,High income,169,41493
+2012,Vietnam,vietnam,Lower middle income,1,1250
+2013,Algeria,algeria,Upper middle income,17,1620
+2013,Angola,angola,Lower middle income,1,17
+2013,Argentina,argentina,Upper middle income,9,5674
+2013,Armenia,armenia,Upper middle income,2,677
+2013,Australia,australia,High income,107,24150
+2013,Austria,austria,High income,18,7977
+2013,Bahrain,bahrain,High income,1,100
+2013,Bangladesh,bangladesh,Lower middle income,2,759
+2013,Belgium,belgium,High income,30,10786
+2013,Bosnia & Herceg,bosnia & herceg,Upper middle income,3,148
+2013,Brazil,brazil,Upper middle income,65,19679
+2013,Bulgaria,bulgaria,High income,4,1768
+2013,Burkina Faso,burkina faso,Low income,1,118
+2013,Cameroon,cameroon,Lower middle income,1,435
+2013,Canada,canada,High income,93,30141
+2013,Chile,chile,High income,5,4081
+2013,China,china,Upper middle income,931,153051
+2013,Colombia,colombia,Upper middle income,4,1945
+2013,Croatia,croatia,High income,6,1857
+2013,Cuba,cuba,Upper middle income,2,504
+2013,Cyprus,cyprus,High income,6,574
+2013,Czech Republic,czech republic,High income,14,7385
+2013,Denmark,denmark,High income,15,7585
+2013,Egypt,egypt,Lower middle income,16,5318
+2013,Estonia,estonia,High income,2,1106
+2013,Fiji,fiji,Upper middle income,3,49
+2013,Finland,finland,High income,25,6408
+2013,France,france,High income,91,45476
+2013,Germany,germany,High income,142,60081
+2013,Greece,greece,High income,47,5830
+2013,Hungary,hungary,High income,5,4147
+2013,Iceland,iceland,High income,1,507
+2013,India,india,Lower middle income,226,37759
+2013,Iran,iran,Upper middle income,337,16039
+2013,Ireland,ireland,High income,12,3928
+2013,Israel,israel,High income,17,7134
+2013,Italy,italy,High income,126,33767
+2013,Japan,japan,High income,86,47676
+2013,Jordan,jordan,Lower middle income,3,673
+2013,Kenya,kenya,Lower middle income,2,559
+2013,Kuwait,kuwait,High income,3,332
+2013,Lithuania,lithuania,High income,2,1135
+2013,Luxembourg,luxembourg,High income,2,545
+2013,Macedonia,macedonia,Upper middle income,1,175
+2013,Malaysia,malaysia,Upper middle income,60,5604
+2013,Mexico,mexico,Upper middle income,31,7672
+2013,Montenegro,montenegro,Upper middle income,1,114
+2013,Netherlands,netherlands,High income,36,15963
+2013,New Caledonia,new caledonia,High income,1,116
+2013,New Zealand,new zealand,High income,11,4242
+2013,Nigeria,nigeria,Lower middle income,1,798
+2013,Norway,norway,High income,7,5951
+2013,Pakistan,pakistan,Lower middle income,14,4123
+2013,Panama,panama,High income,1,265
+2013,Poland,poland,High income,59,15808
+2013,Portugal,portugal,High income,33,8672
+2013,Romania,romania,High income,13,5665
+2013,Russia,russia,High income,7,25154
+2013,Saudi Arabia,saudi arabia,High income,21,6669
+2013,Serbia,serbia,Upper middle income,15,2928
+2013,Singapore,singapore,High income,48,7382
+2013,Slovakia,slovakia,High income,6,2208
+2013,Slovenia,slovenia,High income,19,2293
+2013,South Africa,south africa,Upper middle income,17,5578
+2013,South Korea,south korea,High income,97,30430
+2013,Spain,spain,High income,201,33026
+2013,Sudan,sudan,Low income,1,163
+2013,Sweden,sweden,High income,25,11740
+2013,Switzerland,switzerland,High income,41,15288
+2013,Taiwan,taiwan,High income,176,16344
+2013,Thailand,thailand,Upper middle income,27,3624
+2013,Tunisia,tunisia,Lower middle income,5,2063
+2013,Turkey,turkey,Upper middle income,187,11367
+2013,U Arab Emirates,u arab emirates,High income,6,737
+2013,USA,usa,High income,663,181762
+2013,Ukraine,ukraine,Upper middle income,1,4116
+2013,United Kingdom,united kingdom,High income,195,43226
+2013,Vietnam,vietnam,Lower middle income,3,1558
+2013,Yemen,yemen,Low income,2,129
+2014,Albania,albania,Upper middle income,1,93
+2014,Algeria,algeria,Upper middle income,18,1824
+2014,Argentina,argentina,Upper middle income,20,5739
+2014,Australia,australia,High income,122,25699
+2014,Austria,austria,High income,25,8246
+2014,Bangladesh,bangladesh,Lower middle income,5,859
+2014,Belgium,belgium,High income,53,10912
+2014,Botswana,botswana,Upper middle income,1,137
+2014,Brazil,brazil,Upper middle income,89,21086
+2014,Brunei,brunei,High income,1,80
+2014,Bulgaria,bulgaria,High income,4,1607
+2014,Burkina Faso,burkina faso,Low income,1,142
+2014,Cameroon,cameroon,Lower middle income,1,459
+2014,Canada,canada,High income,115,30643
+2014,Chile,chile,High income,18,4602
+2014,China,china,Upper middle income,1189,172254
+2014,Colombia,colombia,Upper middle income,5,1934
+2014,Croatia,croatia,High income,10,1799
+2014,Cuba,cuba,Upper middle income,4,477
+2014,Cyprus,cyprus,High income,1,561
+2014,Czech Republic,czech republic,High income,14,8118
+2014,Denmark,denmark,High income,19,8155
+2014,Egypt,egypt,Lower middle income,18,5749
+2014,Estonia,estonia,High income,4,1147
+2014,Fiji,fiji,Upper middle income,1,61
+2014,Finland,finland,High income,19,6852
+2014,France,france,High income,97,46061
+2014,Georgia,georgia,Upper middle income,1,460
+2014,Germany,germany,High income,171,61058
+2014,Greece,greece,High income,43,5707
+2014,Hungary,hungary,High income,5,4326
+2014,Iceland,iceland,High income,7,538
+2014,India,india,Lower middle income,243,41623
+2014,Indonesia,indonesia,Upper middle income,2,950
+2014,Iran,iran,Upper middle income,278,16396
+2014,Iraq,iraq,Upper middle income,2,584
+2014,Ireland,ireland,High income,11,3855
+2014,Israel,israel,High income,16,7262
+2014,Italy,italy,High income,113,34913
+2014,Jamaica,jamaica,Upper middle income,1,73
+2014,Japan,japan,High income,87,45768
+2014,Jordan,jordan,Lower middle income,6,695
+2014,Kenya,kenya,Lower middle income,1,646
+2014,Kuwait,kuwait,High income,1,393
+2014,Lebanon,lebanon,Lower middle income,2,515
+2014,Lithuania,lithuania,High income,2,1270
+2014,Luxembourg,luxembourg,High income,2,602
+2014,Macedonia,macedonia,Upper middle income,3,199
+2014,Malaysia,malaysia,Upper middle income,80,6166
+2014,Malta,malta,High income,1,116
+2014,Mexico,mexico,Upper middle income,27,7749
+2014,Morocco,morocco,Lower middle income,2,1214
+2014,Nepal,nepal,Lower middle income,2,251
+2014,Netherlands,netherlands,High income,27,15954
+2014,New Zealand,new zealand,High income,16,4219
+2014,Nigeria,nigeria,Lower middle income,2,1045
+2014,Norway,norway,High income,4,6126
+2014,Oman,oman,High income,3,361
+2014,Pakistan,pakistan,Lower middle income,32,4501
+2014,Poland,poland,High income,65,16524
+2014,Portugal,portugal,High income,34,8710
+2014,Romania,romania,High income,21,5252
+2014,Russia,russia,High income,22,26008
+2014,Saudi Arabia,saudi arabia,High income,31,8325
+2014,Serbia,serbia,Upper middle income,34,3004
+2014,Singapore,singapore,High income,51,7729
+2014,Slovakia,slovakia,High income,5,2422
+2014,Slovenia,slovenia,High income,18,2366
+2014,South Africa,south africa,Upper middle income,28,6089
+2014,South Korea,south korea,High income,89,32012
+2014,Spain,spain,High income,190,33662
+2014,Sudan,sudan,Low income,2,200
+2014,Sweden,sweden,High income,24,12450
+2014,Switzerland,switzerland,High income,48,15955
+2014,Taiwan,taiwan,High income,126,16111
+2014,Thailand,thailand,Upper middle income,18,3658
+2014,Tunisia,tunisia,Lower middle income,8,2312
+2014,Turkey,turkey,Upper middle income,135,11557
+2014,U Arab Emirates,u arab emirates,High income,11,889
+2014,USA,usa,High income,661,184893
+2014,Uganda,uganda,Low income,1,248
+2014,Ukraine,ukraine,Upper middle income,3,4279
+2014,United Kingdom,united kingdom,High income,195,44446
+2014,Uruguay,uruguay,High income,1,596
+2014,Vietnam,vietnam,Lower middle income,4,1848
+2015,Algeria,algeria,Upper middle income,20,1955
+2015,Argentina,argentina,Upper middle income,7,5952
+2015,Australia,australia,High income,134,27816
+2015,Austria,austria,High income,30,8584
+2015,Bangladesh,bangladesh,Lower middle income,2,975
+2015,Belgium,belgium,High income,59,11443
+2015,Bosnia & Herceg,bosnia & herceg,Upper middle income,2,175
+2015,Botswana,botswana,Upper middle income,1,119
+2015,Brazil,brazil,Upper middle income,88,22104
+2015,Bulgaria,bulgaria,High income,2,1718
+2015,Canada,canada,High income,115,31554
+2015,Chile,chile,High income,19,4966
+2015,China,china,Upper middle income,1367,190920
+2015,Colombia,colombia,Upper middle income,12,2324
+2015,Croatia,croatia,High income,13,1781
+2015,Cuba,cuba,Upper middle income,6,510
+2015,Cyprus,cyprus,High income,4,656
+2015,Czech Republic,czech republic,High income,18,8646
+2015,Denmark,denmark,High income,11,8774
+2015,Egypt,egypt,Lower middle income,23,6361
+2015,Estonia,estonia,High income,1,1115
+2015,Fiji,fiji,Upper middle income,3,74
+2015,Finland,finland,High income,25,7201
+2015,France,france,High income,131,47025
+2015,French Guiana,french guiana,High income,1,52
+2015,Germany,germany,High income,181,62937
+2015,Ghana,ghana,Lower middle income,1,380
+2015,Greece,greece,High income,48,5863
+2015,Hungary,hungary,High income,9,4565
+2015,Iceland,iceland,High income,5,531
+2015,India,india,Lower middle income,327,43105
+2015,Indonesia,indonesia,Upper middle income,2,1019
+2015,Iran,iran,Upper middle income,342,18382
+2015,Iraq,iraq,Upper middle income,1,689
+2015,Ireland,ireland,High income,14,3748
+2015,Israel,israel,High income,25,7654
+2015,Italy,italy,High income,146,36060
+2015,Japan,japan,High income,92,45605
+2015,Jordan,jordan,Lower middle income,9,721
+2015,Kenya,kenya,Lower middle income,1,642
+2015,Latvia,latvia,High income,1,552
+2015,Lebanon,lebanon,Lower middle income,2,559
+2015,Lithuania,lithuania,High income,7,1356
+2015,Luxembourg,luxembourg,High income,9,640
+2015,Macedonia,macedonia,Upper middle income,1,232
+2015,Malaysia,malaysia,Upper middle income,119,6554
+2015,Malta,malta,High income,1,138
+2015,Mexico,mexico,Upper middle income,44,8461
+2015,Moldova,moldova,Upper middle income,1,204
+2015,Montenegro,montenegro,Upper middle income,1,118
+2015,Morocco,morocco,Lower middle income,7,1335
+2015,Nepal,nepal,Lower middle income,1,260
+2015,Netherlands,netherlands,High income,33,16319
+2015,New Caledonia,new caledonia,High income,2,144
+2015,New Zealand,new zealand,High income,17,4483
+2015,Nigeria,nigeria,Lower middle income,4,1053
+2015,Norway,norway,High income,16,6285
+2015,Oman,oman,High income,1,476
+2015,Pakistan,pakistan,Lower middle income,53,5005
+2015,Palestine,palestine,Lower middle income,1,22
+2015,Panama,panama,High income,1,294
+2015,Peru,peru,Upper middle income,1,493
+2015,Poland,poland,High income,107,17817
+2015,Portugal,portugal,High income,44,8925
+2015,Qatar,qatar,High income,2,1003
+2015,Romania,romania,High income,18,5787
+2015,Russia,russia,High income,28,29510
+2015,Saudi Arabia,saudi arabia,High income,26,9739
+2015,Serbia,serbia,Upper middle income,26,2940
+2015,Singapore,singapore,High income,49,8039
+2015,Slovakia,slovakia,High income,3,2458
+2015,Slovenia,slovenia,High income,26,2493
+2015,South Africa,south africa,Upper middle income,25,6464
+2015,South Korea,south korea,High income,131,33577
+2015,Spain,spain,High income,209,33552
+2015,Sudan,sudan,Low income,1,209
+2015,Sweden,sweden,High income,24,13226
+2015,Switzerland,switzerland,High income,39,16430
+2015,Taiwan,taiwan,High income,122,14930
+2015,Tanzania,tanzania,Lower middle income,1,389
+2015,Thailand,thailand,Upper middle income,24,3827
+2015,Tunisia,tunisia,Lower middle income,9,2753
+2015,Turkey,turkey,Upper middle income,170,12186
+2015,U Arab Emirates,u arab emirates,High income,7,1186
+2015,USA,usa,High income,802,186907
+2015,Ukraine,ukraine,Upper middle income,3,3749
+2015,United Kingdom,united kingdom,High income,200,46938
+2015,Uruguay,uruguay,High income,2,624
+2015,Vietnam,vietnam,Lower middle income,7,1958
+2016,Albania,albania,Upper middle income,1,111
+2016,Algeria,algeria,Upper middle income,24,2530
+2016,Argentina,argentina,Upper middle income,19,5998
+2016,Australia,australia,High income,142,29216
+2016,Austria,austria,High income,20,9347
+2016,Azerbaijan,azerbaijan,Upper middle income,2,486
+2016,Bangladesh,bangladesh,Lower middle income,5,1037
+2016,Belgium,belgium,High income,51,11532
+2016,Benin,benin,Lower middle income,1,166
+2016,Bosnia & Herceg,bosnia & herceg,Upper middle income,5,175
+2016,Botswana,botswana,Upper middle income,1,165
+2016,Brazil,brazil,Upper middle income,120,24282
+2016,Brunei,brunei,High income,1,141
+2016,Bulgaria,bulgaria,High income,2,1769
+2016,Cameroon,cameroon,Lower middle income,1,544
+2016,Canada,canada,High income,157,32285
+2016,Chile,chile,High income,22,5505
+2016,China,china,Upper middle income,1767,207529
+2016,Colombia,colombia,Upper middle income,2,2579
+2016,Costa Rica,costa rica,High income,1,357
+2016,Cote Ivoire,cote ivoire,Lower middle income,1,130
+2016,Croatia,croatia,High income,7,1888
+2016,Cuba,cuba,Upper middle income,4,522
+2016,Cyprus,cyprus,High income,6,685
+2016,Czech Republic,czech republic,High income,21,8723
+2016,Denmark,denmark,High income,18,9061
+2016,Ecuador,ecuador,Upper middle income,8,762
+2016,Egypt,egypt,Lower middle income,28,7006
+2016,Estonia,estonia,High income,3,1276
+2016,Fiji,fiji,Upper middle income,3,72
+2016,Finland,finland,High income,30,7313
+2016,France,france,High income,132,48412
+2016,Georgia,georgia,Upper middle income,1,529
+2016,Germany,germany,High income,219,64270
+2016,Ghana,ghana,Lower middle income,1,439
+2016,Greece,greece,High income,42,6162
+2016,Hungary,hungary,High income,5,4581
+2016,Iceland,iceland,High income,3,682
+2016,India,india,Lower middle income,401,45404
+2016,Indonesia,indonesia,Upper middle income,3,1286
+2016,Iran,iran,Upper middle income,442,20476
+2016,Iraq,iraq,Upper middle income,5,822
+2016,Ireland,ireland,High income,14,4176
+2016,Israel,israel,High income,33,7864
+2016,Italy,italy,High income,177,37263
+2016,Jamaica,jamaica,Upper middle income,2,79
+2016,Japan,japan,High income,109,46318
+2016,Jordan,jordan,Lower middle income,9,799
+2016,Kuwait,kuwait,High income,5,435
+2016,Lebanon,lebanon,Lower middle income,2,648
+2016,Libya,libya,Upper middle income,1,123
+2016,Lithuania,lithuania,High income,4,1379
+2016,Luxembourg,luxembourg,High income,3,661
+2016,Macedonia,macedonia,Upper middle income,3,256
+2016,Malaysia,malaysia,Upper middle income,104,6726
+2016,Mexico,mexico,Upper middle income,46,9083
+2016,Moldova,moldova,Upper middle income,1,215
+2016,Morocco,morocco,Lower middle income,12,1598
+2016,Netherlands,netherlands,High income,44,17522
+2016,New Caledonia,new caledonia,High income,1,172
+2016,New Zealand,new zealand,High income,15,4675
+2016,Nigeria,nigeria,Lower middle income,3,1299
+2016,Norway,norway,High income,16,6721
+2016,Oman,oman,High income,1,469
+2016,Pakistan,pakistan,Lower middle income,55,5916
+2016,Paraguay,paraguay,Upper middle income,1,44
+2016,Peru,peru,Upper middle income,1,612
+2016,Poland,poland,High income,85,18625
+2016,Portugal,portugal,High income,39,9023
+2016,Qatar,qatar,High income,9,1282
+2016,Romania,romania,High income,23,5723
+2016,Russia,russia,High income,35,30468
+2016,Saudi Arabia,saudi arabia,High income,39,10429
+2016,Serbia,serbia,Upper middle income,37,3034
+2016,Singapore,singapore,High income,60,8095
+2016,Slovakia,slovakia,High income,7,2518
+2016,Slovenia,slovenia,High income,18,2365
+2016,South Africa,south africa,Upper middle income,30,7377
+2016,South Korea,south korea,High income,139,34507
+2016,Spain,spain,High income,211,34572
+2016,Sri Lanka,sri lanka,Lower middle income,2,473
+2016,Sweden,sweden,High income,36,13976
+2016,Switzerland,switzerland,High income,36,17401
+2016,Taiwan,taiwan,High income,122,14818
+2016,Tanzania,tanzania,Lower middle income,1,402
+2016,Thailand,thailand,Upper middle income,22,4338
+2016,Tunisia,tunisia,Lower middle income,19,3110
+2016,Turkey,turkey,Upper middle income,186,13433
+2016,U Arab Emirates,u arab emirates,High income,11,1314
+2016,USA,usa,High income,942,192291
+2016,Ukraine,ukraine,Upper middle income,5,3685
+2016,United Kingdom,united kingdom,High income,218,49436
+2016,Uruguay,uruguay,High income,1,649
+2016,Vietnam,vietnam,Lower middle income,19,2409
+2016,Zimbabwe,zimbabwe,Lower middle income,1,201
+2017,Algeria,algeria,Upper middle income,44,2689
+2017,Argentina,argentina,Upper middle income,19,6137
+2017,Australia,australia,High income,194,29660
+2017,Austria,austria,High income,36,9484
+2017,Bahrain,bahrain,High income,1,82
+2017,Bangladesh,bangladesh,Lower middle income,14,1293
+2017,Belgium,belgium,High income,64,11470
+2017,Bosnia & Herceg,bosnia & herceg,Upper middle income,1,237
+2017,Brazil,brazil,Upper middle income,150,25516
+2017,Brunei,brunei,High income,1,128
+2017,Bulgaria,bulgaria,High income,2,1948
+2017,Burkina Faso,burkina faso,Low income,2,155
+2017,Canada,canada,High income,208,32484
+2017,Chile,chile,High income,32,5620
+2017,China,china,Upper middle income,2458,230332
+2017,Colombia,colombia,Upper middle income,17,2873
+2017,Costa Rica,costa rica,High income,3,396
+2017,Croatia,croatia,High income,8,2037
+2017,Cuba,cuba,Upper middle income,5,509
+2017,Cyprus,cyprus,High income,2,760
+2017,Czech Republic,czech republic,High income,24,9221
+2017,Denmark,denmark,High income,29,9332
+2017,Ecuador,ecuador,Upper middle income,4,935
+2017,Egypt,egypt,Lower middle income,23,7407
+2017,Estonia,estonia,High income,6,1292
+2017,Fiji,fiji,Upper middle income,3,98
+2017,Finland,finland,High income,36,7266
+2017,France,france,High income,168,48220
+2017,Georgia,georgia,Upper middle income,4,510
+2017,Germany,germany,High income,272,65805
+2017,Greece,greece,High income,62,5980
+2017,Hungary,hungary,High income,15,4601
+2017,Iceland,iceland,High income,5,605
+2017,India,india,Lower middle income,462,47792
+2017,Indonesia,indonesia,Upper middle income,6,1442
+2017,Iran,iran,Upper middle income,496,22713
+2017,Iraq,iraq,Upper middle income,4,1018
+2017,Ireland,ireland,High income,16,4105
+2017,Israel,israel,High income,48,7837
+2017,Italy,italy,High income,169,37766
+2017,Japan,japan,High income,181,47120
+2017,Jordan,jordan,Lower middle income,6,880
+2017,Kazakhstan,kazakhstan,Upper middle income,2,809
+2017,Kenya,kenya,Lower middle income,5,786
+2017,Kuwait,kuwait,High income,2,478
+2017,Latvia,latvia,High income,1,662
+2017,Lebanon,lebanon,Lower middle income,3,697
+2017,Lithuania,lithuania,High income,3,1491
+2017,Luxembourg,luxembourg,High income,3,637
+2017,Macedonia,macedonia,Upper middle income,2,221
+2017,Malaysia,malaysia,Upper middle income,118,6639
+2017,Malta,malta,High income,1,162
+2017,Mexico,mexico,Upper middle income,66,9860
+2017,Morocco,morocco,Lower middle income,17,1687
+2017,Netherlands,netherlands,High income,66,17317
+2017,New Zealand,new zealand,High income,22,4716
+2017,Nigeria,nigeria,Lower middle income,6,1461
+2017,Norway,norway,High income,26,6925
+2017,Oman,oman,High income,3,516
+2017,Pakistan,pakistan,Lower middle income,54,7267
+2017,Palestine,palestine,Lower middle income,2,304
+2017,Philippines,philippines,Lower middle income,2,744
+2017,Poland,poland,High income,94,18595
+2017,Portugal,portugal,High income,52,9043
+2017,Qatar,qatar,High income,6,1255
+2017,Romania,romania,High income,16,5602
+2017,Russia,russia,High income,37,31776
+2017,Saudi Arabia,saudi arabia,High income,48,10413
+2017,Serbia,serbia,Upper middle income,33,2893
+2017,Singapore,singapore,High income,54,8280
+2017,Slovakia,slovakia,High income,7,2720
+2017,Slovenia,slovenia,High income,20,2412
+2017,South Africa,south africa,Upper middle income,42,7472
+2017,South Korea,south korea,High income,198,34433
+2017,Spain,spain,High income,228,34480
+2017,Sweden,sweden,High income,43,14336
+2017,Switzerland,switzerland,High income,64,17711
+2017,Syria,syria,Low income,1,123
+2017,Taiwan,taiwan,High income,129,14345
+2017,Thailand,thailand,Upper middle income,24,4533
+2017,Togo,togo,Low income,1,25
+2017,Trinidad Tobago,trinidad tobago,High income,2,115
+2017,Tunisia,tunisia,Lower middle income,17,3294
+2017,Turkey,turkey,Upper middle income,177,13258
+2017,U Arab Emirates,u arab emirates,High income,9,1549
+2017,USA,usa,High income,1225,193449
+2017,Uganda,uganda,Low income,1,342
+2017,Ukraine,ukraine,Upper middle income,5,3772
+2017,United Kingdom,united kingdom,High income,317,50203
+2017,Uruguay,uruguay,High income,4,668
+2017,Uzbekistan,uzbekistan,Lower middle income,1,304
+2017,Vietnam,vietnam,Lower middle income,16,2888
+2017,Zimbabwe,zimbabwe,Lower middle income,4,196
+2018,Algeria,algeria,Upper middle income,54,2761
+2018,Argentina,argentina,Upper middle income,25,6387
+2018,Armenia,armenia,Upper middle income,1,819
+2018,Australia,australia,High income,271,31762
+2018,Austria,austria,High income,57,9926
+2018,Azerbaijan,azerbaijan,Upper middle income,1,631
+2018,Bahrain,bahrain,High income,2,117
+2018,Bangladesh,bangladesh,Lower middle income,15,1465
+2018,Belgium,belgium,High income,75,11784
+2018,Bosnia & Herceg,bosnia & herceg,Upper middle income,4,286
+2018,Botswana,botswana,Upper middle income,1,237
+2018,Brazil,brazil,Upper middle income,201,27394
+2018,Brunei,brunei,High income,7,125
+2018,Bulgaria,bulgaria,High income,3,1589
+2018,Burkina Faso,burkina faso,Low income,2,179
+2018,Cameroon,cameroon,Lower middle income,2,716
+2018,Canada,canada,High income,295,33764
+2018,Chile,chile,High income,38,6334
+2018,China,china,Upper middle income,3776,267306
+2018,Colombia,colombia,Upper middle income,21,3218
+2018,Costa Rica,costa rica,High income,1,439
+2018,Croatia,croatia,High income,9,2136
+2018,Cuba,cuba,Upper middle income,6,583
+2018,Cyprus,cyprus,High income,4,832
+2018,Czech Republic,czech republic,High income,31,9612
+2018,Denmark,denmark,High income,34,9619
+2018,Ecuador,ecuador,Upper middle income,8,1107
+2018,Egypt,egypt,Lower middle income,47,8417
+2018,Estonia,estonia,High income,6,1294
+2018,Fiji,fiji,Upper middle income,2,99
+2018,Finland,finland,High income,54,7398
+2018,France,france,High income,206,48120
+2018,Georgia,georgia,Upper middle income,1,624
+2018,Germany,germany,High income,383,66939
+2018,Greece,greece,High income,79,6261
+2018,Honduras,honduras,Lower middle income,1,64
+2018,Hungary,hungary,High income,21,4859
+2018,Iceland,iceland,High income,3,660
+2018,India,india,Lower middle income,661,51733
+2018,Indonesia,indonesia,Upper middle income,9,1756
+2018,Iran,iran,Upper middle income,529,24622
+2018,Iraq,iraq,Upper middle income,14,1338
+2018,Ireland,ireland,High income,33,4385
+2018,Israel,israel,High income,64,8071
+2018,Italy,italy,High income,250,39408
+2018,Jamaica,jamaica,Upper middle income,1,62
+2018,Japan,japan,High income,301,47973
+2018,Jordan,jordan,Lower middle income,29,1114
+2018,Kazakhstan,kazakhstan,Upper middle income,5,841
+2018,Kenya,kenya,Lower middle income,5,819
+2018,Kuwait,kuwait,High income,2,553
+2018,Lebanon,lebanon,Lower middle income,5,806
+2018,Lithuania,lithuania,High income,9,1611
+2018,Luxembourg,luxembourg,High income,8,730
+2018,Macedonia,macedonia,Upper middle income,3,218
+2018,Malaysia,malaysia,Upper middle income,110,6700
+2018,Malta,malta,High income,3,170
+2018,Mauritius,mauritius,Upper middle income,1,121
+2018,Mexico,mexico,Upper middle income,66,10706
+2018,Montenegro,montenegro,Upper middle income,2,167
+2018,Morocco,morocco,Lower middle income,22,1948
+2018,Mozambique,mozambique,Low income,1,122
+2018,Myanmar,myanmar,Lower middle income,1,167
+2018,Namibia,namibia,Lower middle income,1,151
+2018,Nepal,nepal,Lower middle income,1,342
+2018,Netherlands,netherlands,High income,98,18097
+2018,New Caledonia,new caledonia,High income,2,167
+2018,New Zealand,new zealand,High income,28,4881
+2018,Niger,niger,Low income,1,56
+2018,Nigeria,nigeria,Lower middle income,9,1751
+2018,North Korea,north korea,Low income,1,105
+2018,Norway,norway,High income,38,7380
+2018,Oman,oman,High income,2,564
+2018,Pakistan,pakistan,Lower middle income,120,8483
+2018,Palestine,palestine,Lower middle income,3,317
+2018,Peru,peru,Upper middle income,3,703
+2018,Philippines,philippines,Lower middle income,1,774
+2018,Poland,poland,High income,132,19897
+2018,Portugal,portugal,High income,64,9222
+2018,Qatar,qatar,High income,7,1357
+2018,Romania,romania,High income,18,5724
+2018,Russia,russia,High income,79,33819
+2018,Saudi Arabia,saudi arabia,High income,76,11169
+2018,Senegal,senegal,Lower middle income,3,255
+2018,Serbia,serbia,Upper middle income,37,3086
+2018,Singapore,singapore,High income,93,8585
+2018,Slovakia,slovakia,High income,8,2793
+2018,Slovenia,slovenia,High income,32,2599
+2018,South Africa,south africa,Upper middle income,45,7990
+2018,South Korea,south korea,High income,360,36924
+2018,Spain,spain,High income,344,36357
+2018,Sri Lanka,sri lanka,Lower middle income,1,586
+2018,Sweden,sweden,High income,63,14788
+2018,Switzerland,switzerland,High income,130,17938
+2018,Syria,syria,Low income,2,103
+2018,Taiwan,taiwan,High income,165,14540
+2018,Thailand,thailand,Upper middle income,29,4920
+2018,Trinidad Tobago,trinidad tobago,High income,1,106
+2018,Tunisia,tunisia,Lower middle income,37,3246
+2018,Turkey,turkey,Upper middle income,235,14184
+2018,U Arab Emirates,u arab emirates,High income,16,1859
+2018,USA,usa,High income,1842,196059
+2018,Uganda,uganda,Low income,2,318
+2018,Ukraine,ukraine,Upper middle income,7,3833
+2018,United Kingdom,united kingdom,High income,461,52246
+2018,Uruguay,uruguay,High income,4,713
+2018,Uzbekistan,uzbekistan,Lower middle income,2,283
+2018,Vietnam,vietnam,Lower middle income,32,3624
+2018,Yemen,yemen,Low income,1,214
+2018,Zimbabwe,zimbabwe,Lower middle income,2,202
+2019,Algeria,algeria,Upper middle income,62,2813
+2019,Argentina,argentina,Upper middle income,37,6485
+2019,Armenia,armenia,Upper middle income,2,837
+2019,Australia,australia,High income,379,33958
+2019,Austria,austria,High income,71,10210
+2019,Azerbaijan,azerbaijan,Upper middle income,2,719
+2019,Bahrain,bahrain,High income,2,141
+2019,Bangladesh,bangladesh,Lower middle income,18,1794
+2019,Belarus,belarus,Upper middle income,4,1153
+2019,Belgium,belgium,High income,78,11818
+2019,Bosnia & Herceg,bosnia & herceg,Upper middle income,4,254
+2019,Botswana,botswana,Upper middle income,3,221
+2019,Brazil,brazil,Upper middle income,323,28832
+2019,Brunei,brunei,High income,1,172
+2019,Bulgaria,bulgaria,High income,3,1638
+2019,Burkina Faso,burkina faso,Low income,1,208
+2019,Cameroon,cameroon,Lower middle income,1,764
+2019,Canada,canada,High income,383,35321
+2019,Chile,chile,High income,44,6704
+2019,China,china,Upper middle income,6371,315921
+2019,Colombia,colombia,Upper middle income,23,3837
+2019,Croatia,croatia,High income,15,2346
+2019,Cuba,cuba,Upper middle income,7,588
+2019,Cyprus,cyprus,High income,9,893
+2019,Czech Republic,czech republic,High income,46,10395
+2019,Denmark,denmark,High income,60,9983
+2019,Ecuador,ecuador,Upper middle income,15,1246
+2019,Egypt,egypt,Lower middle income,72,9756
+2019,Estonia,estonia,High income,12,1330
+2019,Fiji,fiji,Upper middle income,4,130
+2019,Finland,finland,High income,82,7748
+2019,France,france,High income,308,48706
+2019,Georgia,georgia,Upper middle income,5,576
+2019,Germany,germany,High income,568,69350
+2019,Ghana,ghana,Lower middle income,3,660
+2019,Greece,greece,High income,98,6706
+2019,Hungary,hungary,High income,29,5039
+2019,Iceland,iceland,High income,3,734
+2019,India,india,Lower middle income,1109,54444
+2019,Indonesia,indonesia,Upper middle income,18,2401
+2019,Iran,iran,Upper middle income,706,25900
+2019,Iraq,iraq,Upper middle income,19,1779
+2019,Ireland,ireland,High income,30,4569
+2019,Israel,israel,High income,79,8227
+2019,Italy,italy,High income,346,42127
+2019,Jamaica,jamaica,Upper middle income,1,80
+2019,Japan,japan,High income,369,48490
+2019,Jordan,jordan,Lower middle income,31,1223
+2019,Kazakhstan,kazakhstan,Upper middle income,4,1019
+2019,Kenya,kenya,Lower middle income,7,892
+2019,Kuwait,kuwait,High income,7,751
+2019,Latvia,latvia,High income,1,689
+2019,Lebanon,lebanon,Lower middle income,13,942
+2019,Liechtenstein,liechtenstein,High income,1,40
+2019,Lithuania,lithuania,High income,15,1792
+2019,Luxembourg,luxembourg,High income,9,765
+2019,Macedonia,macedonia,Upper middle income,1,170
+2019,Malaysia,malaysia,Upper middle income,146,7466
+2019,Malta,malta,High income,5,214
+2019,Mauritius,mauritius,Upper middle income,2,148
+2019,Mexico,mexico,Upper middle income,106,11591
+2019,Mongolia,mongolia,Upper middle income,2,276
+2019,Montenegro,montenegro,Upper middle income,2,208
+2019,Morocco,morocco,Lower middle income,36,2289
+2019,Nepal,nepal,Lower middle income,2,445
+2019,Netherlands,netherlands,High income,161,18837
+2019,New Zealand,new zealand,High income,44,5353
+2019,Nigeria,nigeria,Lower middle income,14,2096
+2019,North Korea,north korea,Low income,4,145
+2019,Norway,norway,High income,61,7799
+2019,Oman,oman,High income,5,651
+2019,Pakistan,pakistan,Lower middle income,181,10436
+2019,Palestine,palestine,Lower middle income,3,322
+2019,Paraguay,paraguay,Upper middle income,2,94
+2019,Peru,peru,Upper middle income,2,943
+2019,Philippines,philippines,Lower middle income,2,895
+2019,Poland,poland,High income,172,21783
+2019,Portugal,portugal,High income,91,10382
+2019,Qatar,qatar,High income,8,1549
+2019,Romania,romania,High income,38,6484
+2019,Russia,russia,High income,105,35564
+2019,Rwanda,rwanda,Low income,1,103
+2019,Saudi Arabia,saudi arabia,High income,128,12825
+2019,Senegal,senegal,Lower middle income,1,271
+2019,Serbia,serbia,Upper middle income,49,3235
+2019,Singapore,singapore,High income,123,8712
+2019,Slovakia,slovakia,High income,9,2955
+2019,Slovenia,slovenia,High income,22,2708
+2019,South Africa,south africa,Upper middle income,57,8612
+2019,South Korea,south korea,High income,593,39038
+2019,Spain,spain,High income,505,38633
+2019,Sri Lanka,sri lanka,Lower middle income,2,600
+2019,Sudan,sudan,Low income,2,344
+2019,Suriname,suriname,Upper middle income,1,17
+2019,Sweden,sweden,High income,94,15298
+2019,Switzerland,switzerland,High income,185,18056
+2019,Syria,syria,Low income,5,137
+2019,Taiwan,taiwan,High income,198,15357
+2019,Thailand,thailand,Upper middle income,32,5382
+2019,Tunisia,tunisia,Lower middle income,49,3415
+2019,Turkey,turkey,Upper middle income,338,15878
+2019,U Arab Emirates,u arab emirates,High income,25,2443
+2019,USA,usa,High income,2857,198870
+2019,Uganda,uganda,Low income,1,395
+2019,Ukraine,ukraine,Upper middle income,7,3725
+2019,United Kingdom,united kingdom,High income,638,54133
+2019,Uruguay,uruguay,High income,6,794
+2019,Vietnam,vietnam,Lower middle income,104,5068
+2019,Yemen,yemen,Low income,2,257
+2019,Zimbabwe,zimbabwe,Lower middle income,3,210
+2020,Algeria,algeria,Upper middle income,94,3235
+2020,Argentina,argentina,Upper middle income,47,7030
+2020,Armenia,armenia,Upper middle income,3,738
+2020,Australia,australia,High income,550,36246
+2020,Austria,austria,High income,127,10970
+2020,Azerbaijan,azerbaijan,Upper middle income,1,726
+2020,Bahrain,bahrain,High income,1,191
+2020,Bangladesh,bangladesh,Lower middle income,53,2457
+2020,Belarus,belarus,Upper middle income,1,1137
+2020,Belgium,belgium,High income,132,12848
+2020,Belize,belize,Upper middle income,1,19
+2020,Bhutan,bhutan,Lower middle income,1,50
+2020,Bolivia,bolivia,Lower middle income,1,194
+2020,Bosnia & Herceg,bosnia & herceg,Upper middle income,6,323
+2020,Botswana,botswana,Upper middle income,2,304
+2020,Brazil,brazil,Upper middle income,506,31978
+2020,Brunei,brunei,High income,4,246
+2020,Bulgaria,bulgaria,High income,4,1833
+2020,Burkina Faso,burkina faso,Low income,3,198
+2020,Cambodia,cambodia,Lower middle income,1,163
+2020,Cameroon,cameroon,Lower middle income,4,940
+2020,Canada,canada,High income,589,37172
+2020,Chile,chile,High income,66,7766
+2020,China,china,Upper middle income,9787,338581
+2020,Colombia,colombia,Upper middle income,53,4252
+2020,Costa Rica,costa rica,High income,3,545
+2020,Cote Ivoire,cote ivoire,Lower middle income,2,228
+2020,Croatia,croatia,High income,35,2600
+2020,Cuba,cuba,Upper middle income,3,578
+2020,Cyprus,cyprus,High income,19,1077
+2020,Czech Republic,czech republic,High income,66,11506
+2020,Denmark,denmark,High income,83,10424
+2020,Ecuador,ecuador,Upper middle income,20,1461
+2020,Egypt,egypt,Lower middle income,115,12562
+2020,Estonia,estonia,High income,20,1392
+2020,Fiji,fiji,Upper middle income,4,165
+2020,Finland,finland,High income,89,8260
+2020,France,france,High income,448,51468
+2020,Georgia,georgia,Upper middle income,3,575
+2020,Germany,germany,High income,815,71913
+2020,Ghana,ghana,Lower middle income,9,795
+2020,Greece,greece,High income,166,7338
+2020,Hungary,hungary,High income,48,5361
+2020,Iceland,iceland,High income,2,771
+2020,India,india,Lower middle income,2026,60340
+2020,Indonesia,indonesia,Upper middle income,27,3050
+2020,Iran,iran,Upper middle income,916,27959
+2020,Iraq,iraq,Upper middle income,52,2344
+2020,Ireland,ireland,High income,70,5179
+2020,Israel,israel,High income,112,8915
+2020,Italy,italy,High income,620,49795
+2020,Japan,japan,High income,536,51672
+2020,Jordan,jordan,Lower middle income,58,1522
+2020,Kazakhstan,kazakhstan,Upper middle income,10,1231
+2020,Kenya,kenya,Lower middle income,12,1065
+2020,Kuwait,kuwait,High income,15,832
+2020,Latvia,latvia,High income,1,810
+2020,Lebanon,lebanon,Lower middle income,15,1039
+2020,Libya,libya,Upper middle income,2,210
+2020,Liechtenstein,liechtenstein,High income,1,30
+2020,Lithuania,lithuania,High income,16,2010
+2020,Luxembourg,luxembourg,High income,13,794
+2020,Madagascar,madagascar,Low income,1,184
+2020,Malaysia,malaysia,Upper middle income,164,9004
+2020,Malta,malta,High income,2,229
+2020,Mauritania,mauritania,Lower middle income,1,31
+2020,Mexico,mexico,Upper middle income,155,12673
+2020,Moldova,moldova,Upper middle income,2,220
+2020,Montenegro,montenegro,Upper middle income,1,243
+2020,Morocco,morocco,Lower middle income,65,3051
+2020,Myanmar,myanmar,Lower middle income,1,290
+2020,Nepal,nepal,Lower middle income,9,587
+2020,Netherlands,netherlands,High income,211,19724
+2020,New Caledonia,new caledonia,High income,2,138
+2020,New Zealand,new zealand,High income,66,5620
+2020,Nigeria,nigeria,Lower middle income,42,2689
+2020,North Korea,north korea,Low income,2,177
+2020,North Macedonia,north macedonia,Upper middle income,5,269
+2020,Norway,norway,High income,101,8864
+2020,Oman,oman,High income,7,736
+2020,Pakistan,pakistan,Lower middle income,327,12607
+2020,Palestine,palestine,Lower middle income,6,399
+2020,Peru,peru,Upper middle income,3,1103
+2020,Philippines,philippines,Lower middle income,10,1064
+2020,Poland,poland,High income,212,26385
+2020,Portugal,portugal,High income,114,11838
+2020,Qatar,qatar,High income,27,1885
+2020,Romania,romania,High income,69,6485
+2020,Russia,russia,High income,183,37604
+2020,Rwanda,rwanda,Low income,2,155
+2020,Saudi Arabia,saudi arabia,High income,239,17388
+2020,Senegal,senegal,Lower middle income,3,295
+2020,Serbia,serbia,Upper middle income,60,3259
+2020,Singapore,singapore,High income,167,9294
+2020,Slovakia,slovakia,High income,18,3625
+2020,Slovenia,slovenia,High income,48,3126
+2020,Somalia,somalia,Low income,1,13
+2020,South Africa,south africa,Upper middle income,85,9630
+2020,South Korea,south korea,High income,917,44021
+2020,Spain,spain,High income,628,44542
+2020,Sri Lanka,sri lanka,Lower middle income,7,774
+2020,Sweden,sweden,High income,114,15859
+2020,Switzerland,switzerland,High income,224,18969
+2020,Syria,syria,Low income,7,172
+2020,Taiwan,taiwan,High income,361,17947
+2020,Tanzania,tanzania,Lower middle income,1,619
+2020,Thailand,thailand,Upper middle income,54,6252
+2020,Trinidad Tobago,trinidad tobago,High income,1,138
+2020,Tunisia,tunisia,Lower middle income,76,3498
+2020,Turkey,turkey,Upper middle income,471,17634
+2020,U Arab Emirates,u arab emirates,High income,59,3190
+2020,USA,usa,High income,3917,204600
+2020,Uganda,uganda,Low income,2,429
+2020,Ukraine,ukraine,Upper middle income,12,3772
+2020,United Kingdom,united kingdom,High income,895,57068
+2020,Uruguay,uruguay,High income,2,755
+2020,Vietnam,vietnam,Lower middle income,199,7402
+2020,Yemen,yemen,Low income,2,466
+2020,Zambia,zambia,Lower middle income,2,178
+2020,Zimbabwe,zimbabwe,Lower middle income,1,244
+2021,Albania,albania,Upper middle income,1,216
+2021,Algeria,algeria,Upper middle income,121,3671
+2021,Argentina,argentina,Upper middle income,54,6891
+2021,Armenia,armenia,Upper middle income,8,677
+2021,Australia,australia,High income,783,37881
+2021,Austria,austria,High income,169,12013
+2021,Azerbaijan,azerbaijan,Upper middle income,4,674
+2021,Bahrain,bahrain,High income,4,254
+2021,Bangladesh,bangladesh,Lower middle income,101,3522
+2021,Belarus,belarus,Upper middle income,4,1124
+2021,Belgium,belgium,High income,187,13921
+2021,Benin,benin,Lower middle income,3,338
+2021,Bhutan,bhutan,Lower middle income,1,61
+2021,Bosnia & Herceg,bosnia & herceg,Upper middle income,3,407
+2021,Botswana,botswana,Upper middle income,2,284
+2021,Brazil,brazil,Upper middle income,589,33205
+2021,Brunei,brunei,High income,3,310
+2021,Bulgaria,bulgaria,High income,10,2034
+2021,Cambodia,cambodia,Lower middle income,1,204
+2021,Cameroon,cameroon,Lower middle income,1,1132
+2021,Canada,canada,High income,767,38678
+2021,Chile,chile,High income,83,8220
+2021,China,china,Upper middle income,15487,366073
+2021,Colombia,colombia,Upper middle income,90,4675
+2021,Costa Rica,costa rica,High income,7,605
+2021,Cote Ivoire,cote ivoire,Lower middle income,1,293
+2021,Croatia,croatia,High income,40,3201
+2021,Cuba,cuba,Upper middle income,13,630
+2021,Cyprus,cyprus,High income,18,1194
+2021,Czech Republic,czech republic,High income,99,12622
+2021,Dem Rep Congo,dem rep congo,Low income,1,227
+2021,Denmark,denmark,High income,131,11005
+2021,Dominican Rep,dominican rep,Upper middle income,1,111
+2021,Ecuador,ecuador,Upper middle income,25,1590
+2021,Egypt,egypt,Lower middle income,238,15586
+2021,Estonia,estonia,High income,29,1688
+2021,Fiji,fiji,Upper middle income,4,171
+2021,Finland,finland,High income,141,8664
+2021,France,france,High income,647,52088
+2021,French Guiana,french guiana,High income,1,65
+2021,Georgia,georgia,Upper middle income,3,559
+2021,Germany,germany,High income,1123,77053
+2021,Ghana,ghana,Lower middle income,17,1061
+2021,Greece,greece,High income,230,8436
+2021,Guinea,guinea,Lower middle income,1,58
+2021,Hungary,hungary,High income,54,5925
+2021,Iceland,iceland,High income,9,854
+2021,India,india,Lower middle income,3043,69926
+2021,Indonesia,indonesia,Upper middle income,59,3835
+2021,Iran,iran,Upper middle income,1057,28483
+2021,Iraq,iraq,Upper middle income,74,2692
+2021,Ireland,ireland,High income,100,5356
+2021,Israel,israel,High income,161,9373
+2021,Italy,italy,High income,823,53358
+2021,Japan,japan,High income,784,53006
+2021,Jordan,jordan,Lower middle income,82,1918
+2021,Kazakhstan,kazakhstan,Upper middle income,13,1511
+2021,Kenya,kenya,Lower middle income,9,1299
+2021,Kosovo,kosovo,Upper middle income,1,106
+2021,Kuwait,kuwait,High income,15,966
+2021,Kyrgyzstan,kyrgyzstan,Lower middle income,2,151
+2021,Latvia,latvia,High income,3,891
+2021,Lebanon,lebanon,Lower middle income,14,1103
+2021,Libya,libya,Upper middle income,1,299
+2021,Lithuania,lithuania,High income,36,2264
+2021,Luxembourg,luxembourg,High income,23,900
+2021,Madagascar,madagascar,Low income,1,239
+2021,Malawi,malawi,Low income,2,252
+2021,Malaysia,malaysia,Upper middle income,330,11278
+2021,Malta,malta,High income,5,339
+2021,Mauritius,mauritius,Upper middle income,2,194
+2021,Mexico,mexico,Upper middle income,177,13552
+2021,Moldova,moldova,Upper middle income,2,213
+2021,Mongolia,mongolia,Upper middle income,1,381
+2021,Montenegro,montenegro,Upper middle income,5,237
+2021,Morocco,morocco,Lower middle income,103,3622
+2021,Namibia,namibia,Lower middle income,1,208
+2021,Nepal,nepal,Lower middle income,8,707
+2021,Netherlands,netherlands,High income,305,20906
+2021,New Caledonia,new caledonia,High income,2,173
+2021,New Zealand,new zealand,High income,95,5783
+2021,Nigeria,nigeria,Lower middle income,41,3368
+2021,North Korea,north korea,Low income,3,234
+2021,North Macedonia,north macedonia,Upper middle income,1,278
+2021,Norway,norway,High income,158,9391
+2021,Oman,oman,High income,9,1138
+2021,Pakistan,pakistan,Lower middle income,578,15788
+2021,Palestine,palestine,Lower middle income,4,494
+2021,Panama,panama,High income,4,484
+2021,Paraguay,paraguay,Upper middle income,1,108
+2021,Peru,peru,Upper middle income,11,1331
+2021,Philippines,philippines,Lower middle income,19,1369
+2021,Poland,poland,High income,273,29130
+2021,Portugal,portugal,High income,182,13180
+2021,Qatar,qatar,High income,45,1936
+2021,Romania,romania,High income,93,7787
+2021,Russia,russia,High income,260,39002
+2021,Rwanda,rwanda,Low income,2,240
+2021,Saudi Arabia,saudi arabia,High income,486,24217
+2021,Senegal,senegal,Lower middle income,2,271
+2021,Serbia,serbia,Upper middle income,62,3619
+2021,Singapore,singapore,High income,255,9203
+2021,Slovakia,slovakia,High income,37,4017
+2021,Slovenia,slovenia,High income,57,3544
+2021,South Africa,south africa,Upper middle income,119,10372
+2021,South Korea,south korea,High income,1331,46790
+2021,Spain,spain,High income,864,47035
+2021,Sri Lanka,sri lanka,Lower middle income,15,935
+2021,Sudan,sudan,Low income,2,590
+2021,Sweden,sweden,High income,180,17009
+2021,Switzerland,switzerland,High income,329,19605
+2021,Syria,syria,Low income,2,215
+2021,Taiwan,taiwan,High income,522,20310
+2021,Tajikistan,tajikistan,Lower middle income,1,116
+2021,Tanzania,tanzania,Lower middle income,3,739
+2021,Thailand,thailand,Upper middle income,104,7767
+2021,Trinidad Tobago,trinidad tobago,High income,1,157
+2021,Tunisia,tunisia,Lower middle income,101,3879
+2021,Turkey,turkey,Upper middle income,747,19584
+2021,Turkiye,turkiye,Upper middle income,1,43
+2021,U Arab Emirates,u arab emirates,High income,76,4069
+2021,USA,usa,High income,5218,206483
+2021,Uganda,uganda,Low income,2,558
+2021,Ukraine,ukraine,Upper middle income,18,3932
+2021,United Kingdom,united kingdom,High income,1178,59960
+2021,Uruguay,uruguay,High income,12,868
+2021,Uzbekistan,uzbekistan,Lower middle income,1,541
+2021,Vietnam,vietnam,Lower middle income,189,6985
+2021,Yemen,yemen,Low income,3,733
+2021,Zambia,zambia,Lower middle income,1,202
+2021,Zimbabwe,zimbabwe,Lower middle income,2,256
+2022,Algeria,algeria,Upper middle income,150,3807
+2022,Argentina,argentina,Upper middle income,56,5998
+2022,Armenia,armenia,Upper middle income,3,667
+2022,Australia,australia,High income,801,34564
+2022,Austria,austria,High income,155,10816
+2022,Azerbaijan,azerbaijan,Upper middle income,3,630
+2022,Bahrain,bahrain,High income,7,371
+2022,Bangladesh,bangladesh,Lower middle income,133,3918
+2022,Belarus,belarus,Upper middle income,2,1142
+2022,Belgium,belgium,High income,176,12344
+2022,Benin,benin,Lower middle income,3,300
+2022,Bosnia & Herceg,bosnia & herceg,Upper middle income,6,450
+2022,Botswana,botswana,Upper middle income,5,282
+2022,Brazil,brazil,Upper middle income,625,29635
+2022,Brunei,brunei,High income,8,405
+2022,Bulgaria,bulgaria,High income,9,1924
+2022,Burkina Faso,burkina faso,Low income,1,209
+2022,Cameroon,cameroon,Lower middle income,8,1145
+2022,Canada,canada,High income,892,36507
+2022,Cent Afr Republ,cent afr republ,Low income,1,23
+2022,Chile,chile,High income,86,7558
+2022,China,china,Upper middle income,22634,436557
+2022,Colombia,colombia,Upper middle income,84,4217
+2022,Costa Rica,costa rica,High income,3,567
+2022,Cote Ivoire,cote ivoire,Lower middle income,1,254
+2022,Croatia,croatia,High income,62,3282
+2022,Cuba,cuba,Upper middle income,7,468
+2022,Cyprus,cyprus,High income,23,1197
+2022,Czech Republic,czech republic,High income,103,11065
+2022,Dem Rep Congo,dem rep congo,Low income,3,228
+2022,Denmark,denmark,High income,142,10176
+2022,Dominican Rep,dominican rep,Upper middle income,1,94
+2022,Ecuador,ecuador,Upper middle income,23,1481
+2022,Egypt,egypt,Lower middle income,326,17684
+2022,Estonia,estonia,High income,38,1587
+2022,Eswatini,eswatini,Lower middle income,1,35
+2022,Fiji,fiji,Upper middle income,4,137
+2022,Finland,finland,High income,160,8204
+2022,France,france,High income,693,47297
+2022,Georgia,georgia,Upper middle income,3,572
+2022,Germany,germany,High income,1284,69189
+2022,Ghana,ghana,Lower middle income,25,1261
+2022,Greece,greece,High income,235,8006
+2022,Hungary,hungary,High income,88,5709
+2022,Iceland,iceland,High income,5,816
+2022,India,india,Lower middle income,4685,76210
+2022,Indonesia,indonesia,Upper middle income,92,4487
+2022,Iran,iran,Upper middle income,1148,27148
+2022,Iraq,iraq,Upper middle income,99,3614
+2022,Ireland,ireland,High income,97,4827
+2022,Israel,israel,High income,213,8821
+2022,Italy,italy,High income,1028,49926
+2022,Japan,japan,High income,805,48326
+2022,Jordan,jordan,Lower middle income,137,2371
+2022,Kazakhstan,kazakhstan,Upper middle income,23,1584
+2022,Kenya,kenya,Lower middle income,16,1322
+2022,Kosovo,kosovo,Upper middle income,1,131
+2022,Kuwait,kuwait,High income,27,1140
+2022,Kyrgyzstan,kyrgyzstan,Lower middle income,2,164
+2022,Latvia,latvia,High income,4,952
+2022,Lebanon,lebanon,Lower middle income,20,1016
+2022,Lesotho,lesotho,Lower middle income,1,33
+2022,Libya,libya,Upper middle income,2,242
+2022,Liechtenstein,liechtenstein,High income,6,36
+2022,Lithuania,lithuania,High income,36,2254
+2022,Luxembourg,luxembourg,High income,26,913
+2022,Madagascar,madagascar,Low income,1,214
+2022,Malaysia,malaysia,Upper middle income,389,11578
+2022,Maldives,maldives,Upper middle income,1,42
+2022,Mali,mali,Low income,1,109
+2022,Malta,malta,High income,4,339
+2022,Mauritania,mauritania,Lower middle income,1,30
+2022,Mauritius,mauritius,Upper middle income,4,160
+2022,Mexico,mexico,Upper middle income,244,12856
+2022,Micronesia,micronesia,Lower middle income,1,10
+2022,Moldova,moldova,Upper middle income,2,202
+2022,Mongolia,mongolia,Upper middle income,4,348
+2022,Morocco,morocco,Lower middle income,128,3874
+2022,Mozambique,mozambique,Low income,1,211
+2022,Myanmar,myanmar,Lower middle income,2,223
+2022,Namibia,namibia,Lower middle income,1,191
+2022,Nepal,nepal,Lower middle income,5,728
+2022,Netherlands,netherlands,High income,360,18862
+2022,New Caledonia,new caledonia,High income,5,129
+2022,New Zealand,new zealand,High income,93,5474
+2022,Niger,niger,Low income,1,76
+2022,Nigeria,nigeria,Lower middle income,65,3587
+2022,North Korea,north korea,Low income,5,234
+2022,North Macedonia,north macedonia,Upper middle income,2,282
+2022,Norway,norway,High income,178,8816
+2022,Oman,oman,High income,14,1239
+2022,Pakistan,pakistan,Lower middle income,692,17775
+2022,Palestine,palestine,Lower middle income,9,534
+2022,Panama,panama,High income,2,400
+2022,Paraguay,paraguay,Upper middle income,1,107
+2022,Peru,peru,Upper middle income,22,1522
+2022,Philippines,philippines,Lower middle income,34,1315
+2022,Poland,poland,High income,288,27149
+2022,Portugal,portugal,High income,200,12416
+2022,Qatar,qatar,High income,44,1793
+2022,Romania,romania,High income,127,8464
+2022,Russia,russia,High income,291,37528
+2022,Rwanda,rwanda,Low income,2,235
+2022,Saudi Arabia,saudi arabia,High income,995,29613
+2022,Senegal,senegal,Lower middle income,5,329
+2022,Serbia,serbia,Upper middle income,109,3687
+2022,Singapore,singapore,High income,270,8716
+2022,Slovakia,slovakia,High income,27,3556
+2022,Slovenia,slovenia,High income,51,3179
+2022,South Africa,south africa,Upper middle income,130,10021
+2022,South Korea,south korea,High income,1550,43278
+2022,Spain,spain,High income,883,41957
+2022,Sri Lanka,sri lanka,Lower middle income,17,905
+2022,Sudan,sudan,Low income,4,660
+2022,Sweden,sweden,High income,201,15381
+2022,Switzerland,switzerland,High income,331,18110
+2022,Syria,syria,Low income,4,237
+2022,Taiwan,taiwan,High income,611,19859
+2022,Tanzania,tanzania,Lower middle income,7,742
+2022,Thailand,thailand,Upper middle income,164,8420
+2022,Trinidad Tobago,trinidad tobago,High income,3,136
+2022,Tunisia,tunisia,Lower middle income,106,4167
+2022,Turkey,turkey,Upper middle income,887,20553
+2022,Turkiye,turkiye,Upper middle income,34,56
+2022,U Arab Emirates,u arab emirates,High income,124,4581
+2022,USA,usa,High income,5303,186178
+2022,Uganda,uganda,Low income,9,551
+2022,Ukraine,ukraine,Upper middle income,21,3668
+2022,United Kingdom,united kingdom,High income,1248,53649
+2022,Uruguay,uruguay,High income,7,770
+2022,Uzbekistan,uzbekistan,Lower middle income,2,810
+2022,Vietnam,vietnam,Lower middle income,203,5955
+2022,Yemen,yemen,Low income,6,881
+2022,Zambia,zambia,Lower middle income,1,224
+2022,Zimbabwe,zimbabwe,Lower middle income,1,268
+2023,Afghanistan,afghanistan,Low income,3,152
+2023,Albania,albania,Upper middle income,2,176
+2023,Algeria,algeria,Upper middle income,167,3730
+2023,Angola,angola,Lower middle income,2,74
+2023,Argentina,argentina,Upper middle income,56,5787
+2023,Armenia,armenia,Upper middle income,22,742
+2023,Australia,australia,High income,851,30107
+2023,Austria,austria,High income,147,10266
+2023,Azerbaijan,azerbaijan,Upper middle income,1,753
+2023,Bahrain,bahrain,High income,3,334
+2023,Bangladesh,bangladesh,Lower middle income,144,3409
+2023,Belarus,belarus,Upper middle income,2,830
+2023,Belgium,belgium,High income,199,11735
+2023,Benin,benin,Lower middle income,5,248
+2023,Bosnia & Herceg,bosnia & herceg,Upper middle income,3,433
+2023,Botswana,botswana,Upper middle income,3,280
+2023,Brazil,brazil,Upper middle income,631,27133
+2023,Brunei,brunei,High income,7,349
+2023,Bulgaria,bulgaria,High income,18,2279
+2023,Burkina Faso,burkina faso,Low income,1,250
+2023,Cambodia,cambodia,Lower middle income,1,137
+2023,Cameroon,cameroon,Lower middle income,9,1111
+2023,Canada,canada,High income,824,33247
+2023,Chile,chile,High income,111,7431
+2023,China,china,Upper middle income,23901,429405
+2023,Colombia,colombia,Upper middle income,82,4067
+2023,Costa Rica,costa rica,High income,2,522
+2023,Cote Ivoire,cote ivoire,Lower middle income,1,257
+2023,Croatia,croatia,High income,45,3144
+2023,Cuba,cuba,Upper middle income,2,513
+2023,Cyprus,cyprus,High income,25,1199
+2023,Czech Republic,czech republic,High income,122,10324
+2023,Dem Rep Congo,dem rep congo,Low income,1,172
+2023,Denmark,denmark,High income,174,9854
+2023,Ecuador,ecuador,Upper middle income,33,1630
+2023,Egypt,egypt,Lower middle income,337,15734
+2023,Estonia,estonia,High income,28,1488
+2023,Fiji,fiji,Upper middle income,2,123
+2023,Finland,finland,High income,159,7334
+2023,France,france,High income,711,44615
+2023,Georgia,georgia,Upper middle income,3,600
+2023,Germany,germany,High income,1410,64461
+2023,Ghana,ghana,Lower middle income,25,1018
+2023,Greece,greece,High income,241,8097
+2023,Hungary,hungary,High income,91,5663
+2023,Iceland,iceland,High income,7,764
+2023,India,india,Lower middle income,4878,74952
+2023,Indonesia,indonesia,Upper middle income,88,4268
+2023,Iran,iran,Upper middle income,1051,23989
+2023,Iraq,iraq,Upper middle income,121,3876
+2023,Ireland,ireland,High income,110,4739
+2023,Israel,israel,High income,199,8218
+2023,Italy,italy,High income,1054,47824
+2023,Japan,japan,High income,824,45043
+2023,Jordan,jordan,Lower middle income,100,2400
+2023,Kazakhstan,kazakhstan,Upper middle income,28,1660
+2023,Kenya,kenya,Lower middle income,15,1096
+2023,Kuwait,kuwait,High income,26,1128
+2023,Latvia,latvia,High income,12,1059
+2023,Lebanon,lebanon,Lower middle income,13,1711
+2023,Liberia,liberia,Low income,1,25
+2023,Libya,libya,Upper middle income,1,232
+2023,Liechtenstein,liechtenstein,High income,4,28
+2023,Lithuania,lithuania,High income,30,2099
+2023,Luxembourg,luxembourg,High income,32,872
+2023,Madagascar,madagascar,Low income,2,244
+2023,Malaysia,malaysia,Upper middle income,309,9509
+2023,Maldives,maldives,Upper middle income,1,41
+2023,Malta,malta,High income,4,320
+2023,Mauritania,mauritania,Lower middle income,1,53
+2023,Mauritius,mauritius,Upper middle income,1,130
+2023,Mexico,mexico,Upper middle income,196,12036
+2023,Moldova,moldova,Upper middle income,2,196
+2023,Monaco,monaco,High income,1,86
+2023,Mongolia,mongolia,Upper middle income,1,393
+2023,Montenegro,montenegro,Upper middle income,2,241
+2023,Morocco,morocco,Lower middle income,173,4054
+2023,Mozambique,mozambique,Low income,1,183
+2023,Myanmar,myanmar,Lower middle income,3,183
+2023,Nepal,nepal,Lower middle income,8,616
+2023,Netherlands,netherlands,High income,365,18026
+2023,New Caledonia,new caledonia,High income,1,78
+2023,New Zealand,new zealand,High income,111,4657
+2023,Nigeria,nigeria,Lower middle income,63,3308
+2023,North Korea,north korea,Low income,6,243
+2023,North Macedonia,north macedonia,Upper middle income,3,289
+2023,Norway,norway,High income,155,8535
+2023,Oman,oman,High income,16,1108
+2023,Pakistan,pakistan,Lower middle income,603,15505
+2023,Palestine,palestine,Lower middle income,4,623
+2023,Panama,panama,High income,2,400
+2023,Paraguay,paraguay,Upper middle income,1,105
+2023,Peru,peru,Upper middle income,21,1503
+2023,Philippines,philippines,Lower middle income,31,1260
+2023,Poland,poland,High income,311,24634
+2023,Portugal,portugal,High income,214,11676
+2023,Qatar,qatar,High income,59,1575
+2023,Rep Congo,rep congo,Lower middle income,1,140
+2023,Romania,romania,High income,126,7738
+2023,Russia,russia,High income,367,35902
+2023,Rwanda,rwanda,Low income,1,222
+2023,Saudi Arabia,saudi arabia,High income,931,27439
+2023,Serbia,serbia,Upper middle income,111,3744
+2023,Singapore,singapore,High income,286,8177
+2023,Slovakia,slovakia,High income,26,3496
+2023,Slovenia,slovenia,High income,61,3054
+2023,Somalia,somalia,Low income,2,47
+2023,South Africa,south africa,Upper middle income,120,8725
+2023,South Korea,south korea,High income,1593,40522
+2023,Spain,spain,High income,1022,40262
+2023,Sri Lanka,sri lanka,Lower middle income,22,856
+2023,Sudan,sudan,Low income,5,559
+2023,Suriname,suriname,Upper middle income,1,20
+2023,Sweden,sweden,High income,182,14372
+2023,Switzerland,switzerland,High income,350,16985
+2023,Taiwan,taiwan,High income,581,16325
+2023,Tanzania,tanzania,Lower middle income,7,662
+2023,Thailand,thailand,Upper middle income,146,6815
+2023,Tunisia,tunisia,Lower middle income,132,3613
+2023,Turkey,turkey,Upper middle income,2,2577
+2023,Turkiye,turkiye,Upper middle income,997,18211
+2023,U Arab Emirates,u arab emirates,High income,150,4806
+2023,USA,usa,High income,5380,171513
+2023,Uganda,uganda,Low income,4,545
+2023,Ukraine,ukraine,Upper middle income,32,3450
+2023,United Kingdom,united kingdom,High income,1312,49908
+2023,Uruguay,uruguay,High income,5,754
+2023,Uzbekistan,uzbekistan,Lower middle income,3,971
+2023,Vietnam,vietnam,Lower middle income,215,5430
+2023,Yemen,yemen,Low income,8,592
+2023,Zambia,zambia,Lower middle income,3,200
+2023,Zimbabwe,zimbabwe,Lower middle income,4,182
+2024,Albania,albania,Upper middle income,3,166
+2024,Algeria,algeria,Upper middle income,175,4195
+2024,Andorra,andorra,High income,1,28
+2024,Argentina,argentina,Upper middle income,54,6075
+2024,Armenia,armenia,Upper middle income,13,763
+2024,Australia,australia,High income,871,30280
+2024,Austria,austria,High income,175,10501
+2024,Azerbaijan,azerbaijan,Upper middle income,2,1410
+2024,Bahrain,bahrain,High income,5,391
+2024,Bangladesh,bangladesh,Lower middle income,178,3338
+2024,Belarus,belarus,Upper middle income,2,795
+2024,Belgium,belgium,High income,213,11894
+2024,Benin,benin,Lower middle income,3,297
+2024,Bolivia,bolivia,Lower middle income,1,192
+2024,Bosnia & Herceg,bosnia & herceg,Upper middle income,7,447
+2024,Botswana,botswana,Upper middle income,4,264
+2024,Brazil,brazil,Upper middle income,668,28183
+2024,Brunei,brunei,High income,6,287
+2024,Bulgaria,bulgaria,High income,27,2357
+2024,Burkina Faso,burkina faso,Low income,1,253
+2024,Cambodia,cambodia,Lower middle income,1,159
+2024,Cameroon,cameroon,Lower middle income,17,1076
+2024,Canada,canada,High income,1074,32994
+2024,Chile,chile,High income,124,7726
+2024,China,china,Upper middle income,31168,471985
+2024,Colombia,colombia,Upper middle income,116,3987
+2024,Costa Rica,costa rica,High income,5,545
+2024,Cote Ivoire,cote ivoire,Lower middle income,3,225
+2024,Croatia,croatia,High income,57,2986
+2024,Cuba,cuba,Upper middle income,9,437
+2024,Cyprus,cyprus,High income,31,1265
+2024,Czech Republic,czech republic,High income,128,10250
+2024,Dem Rep Congo,dem rep congo,Low income,2,194
+2024,Denmark,denmark,High income,183,9545
+2024,Dominican Rep,dominican rep,Upper middle income,1,90
+2024,Ecuador,ecuador,Upper middle income,36,1662
+2024,Egypt,egypt,Lower middle income,321,14245
+2024,Estonia,estonia,High income,38,1357
+2024,Fiji,fiji,Upper middle income,2,110
+2024,Finland,finland,High income,192,7566
+2024,France,france,High income,815,43800
+2024,Georgia,georgia,Upper middle income,2,606
+2024,Germany,germany,High income,1590,63756
+2024,Ghana,ghana,Lower middle income,28,1010
+2024,Greece,greece,High income,283,7691
+2024,Guatemala,guatemala,Upper middle income,1,70
+2024,Guyana,guyana,High income,1,37
+2024,Haiti,haiti,Lower middle income,1,40
+2024,Honduras,honduras,Lower middle income,1,138
+2024,Hungary,hungary,High income,115,5597
+2024,Iceland,iceland,High income,9,682
+2024,India,india,Lower middle income,4519,79759
+2024,Indonesia,indonesia,Upper middle income,89,4425
+2024,Iran,iran,Upper middle income,1073,22654
+2024,Iraq,iraq,Upper middle income,98,4292
+2024,Ireland,ireland,High income,107,4545
+2024,Israel,israel,High income,223,7700
+2024,Italy,italy,High income,1340,46045
+2024,Jamaica,jamaica,Upper middle income,1,68
+2024,Japan,japan,High income,942,44960
+2024,Jordan,jordan,Lower middle income,93,2675
+2024,Kazakhstan,kazakhstan,Upper middle income,34,1906
+2024,Kenya,kenya,Lower middle income,13,1109
+2024,Kosovo,kosovo,Upper middle income,3,144
+2024,Kuwait,kuwait,High income,24,1409
+2024,Latvia,latvia,High income,13,934
+2024,Lebanon,lebanon,Lower middle income,18,1947
+2024,Liechtenstein,liechtenstein,High income,3,31
+2024,Lithuania,lithuania,High income,43,1985
+2024,Luxembourg,luxembourg,High income,31,824
+2024,Madagascar,madagascar,Low income,1,194
+2024,Malawi,malawi,Low income,1,194
+2024,Malaysia,malaysia,Upper middle income,323,8299
+2024,Mali,mali,Low income,1,102
+2024,Malta,malta,High income,2,285
+2024,Mauritius,mauritius,Upper middle income,3,100
+2024,Mexico,mexico,Upper middle income,247,11941
+2024,Moldova,moldova,Upper middle income,2,175
+2024,Mongolia,mongolia,Upper middle income,1,479
+2024,Montenegro,montenegro,Upper middle income,2,284
+2024,Morocco,morocco,Lower middle income,227,4623
+2024,Mozambique,mozambique,Low income,2,187
+2024,Myanmar,myanmar,Lower middle income,1,184
+2024,Namibia,namibia,Lower middle income,5,187
+2024,Nepal,nepal,Lower middle income,12,659
+2024,Netherlands,netherlands,High income,424,18282
+2024,New Zealand,new zealand,High income,117,4532
+2024,Niger,niger,Low income,2,58
+2024,Nigeria,nigeria,Lower middle income,62,3105
+2024,North Korea,north korea,Low income,5,177
+2024,North Macedonia,north macedonia,Upper middle income,8,286
+2024,Norway,norway,High income,160,7984
+2024,Oman,oman,High income,29,1123
+2024,Pakistan,pakistan,Lower middle income,570,14353
+2024,Palestine,palestine,Lower middle income,10,502
+2024,Panama,panama,High income,1,396
+2024,Paraguay,paraguay,Upper middle income,2,103
+2024,Peru,peru,Upper middle income,27,1432
+2024,Philippines,philippines,Lower middle income,33,1261
+2024,Poland,poland,High income,422,25510
+2024,Portugal,portugal,High income,225,11035
+2024,Qatar,qatar,High income,52,1445
+2024,Rep Congo,rep congo,Lower middle income,2,111
+2024,Romania,romania,High income,167,7297
+2024,Russia,russia,High income,528,31499
+2024,Rwanda,rwanda,Low income,3,195
+2024,Saudi Arabia,saudi arabia,High income,796,27989
+2024,Senegal,senegal,Lower middle income,6,287
+2024,Serbia,serbia,Upper middle income,120,3723
+2024,Singapore,singapore,High income,341,8808
+2024,Slovakia,slovakia,High income,39,3210
+2024,Slovenia,slovenia,High income,54,3129
+2024,Somalia,somalia,Low income,2,46
+2024,South Africa,south africa,Upper middle income,157,8803
+2024,South Korea,south korea,High income,1986,40577
+2024,Spain,spain,High income,1054,39565
+2024,Sri Lanka,sri lanka,Lower middle income,28,863
+2024,Sudan,sudan,Low income,5,484
+2024,Sweden,sweden,High income,236,14230
+2024,Switzerland,switzerland,High income,475,17045
+2024,Syria,syria,Low income,4,200
+2024,Taiwan,taiwan,High income,671,15519
+2024,Tanzania,tanzania,Lower middle income,7,683
+2024,Thailand,thailand,Upper middle income,176,6878
+2024,Togo,togo,Low income,1,91
+2024,Trinidad Tobago,trinidad tobago,High income,1,99
+2024,Tunisia,tunisia,Lower middle income,107,3294
+2024,Turkiye,turkiye,Upper middle income,933,20803
+2024,U Arab Emirates,u arab emirates,High income,160,4783
+2024,USA,usa,High income,6300,170092
+2024,Uganda,uganda,Low income,9,567
+2024,Ukraine,ukraine,Upper middle income,24,3351
+2024,United Kingdom,united kingdom,High income,1451,50743
+2024,Uruguay,uruguay,High income,8,767
+2024,Uzbekistan,uzbekistan,Lower middle income,6,1377
+2024,Vietnam,vietnam,Lower middle income,238,5452
+2024,Yemen,yemen,Low income,6,499
+2024,Zambia,zambia,Lower middle income,3,232
+2024,Zimbabwe,zimbabwe,Lower middle income,4,212
+2025,Afghanistan,afghanistan,Low income,3,157
+2025,Algeria,algeria,Upper middle income,291,4961
+2025,Angola,angola,Lower middle income,1,110
+2025,Argentina,argentina,Upper middle income,79,6146
+2025,Armenia,armenia,Upper middle income,15,904
+2025,Australia,australia,High income,1074,29720
+2025,Austria,austria,High income,224,10221
+2025,Azerbaijan,azerbaijan,Upper middle income,3,2502
+2025,Bahrain,bahrain,High income,5,364
+2025,Bangladesh,bangladesh,Lower middle income,253,3723
+2025,Belarus,belarus,Upper middle income,6,726
+2025,Belgium,belgium,High income,232,11554
+2025,Benin,benin,Lower middle income,3,272
+2025,Bhutan,bhutan,Lower middle income,2,44
+2025,Bosnia & Herceg,bosnia & herceg,Upper middle income,4,477
+2025,Botswana,botswana,Upper middle income,3,250
+2025,Brazil,brazil,Upper middle income,827,28951
+2025,Brunei,brunei,High income,9,226
+2025,Bulgaria,bulgaria,High income,30,2564
+2025,Burkina Faso,burkina faso,Low income,3,299
+2025,Cambodia,cambodia,Lower middle income,3,161
+2025,Cameroon,cameroon,Lower middle income,20,1091
+2025,Canada,canada,High income,1189,32187
+2025,Cayman Islands,cayman islands,High income,1,25
+2025,Chad,chad,Low income,1,50
+2025,Chile,chile,High income,163,8181
+2025,China,china,Upper middle income,42264,507481
+2025,Colombia,colombia,Upper middle income,123,4188
+2025,Costa Rica,costa rica,High income,5,631
+2025,Croatia,croatia,High income,61,3062
+2025,Cuba,cuba,Upper middle income,6,434
+2025,Cyprus,cyprus,High income,47,1246
+2025,Czech Republic,czech republic,High income,157,10194
+2025,Dem Rep Congo,dem rep congo,Low income,3,231
+2025,Denmark,denmark,High income,212,9260
+2025,Dominican Rep,dominican rep,Upper middle income,3,90
+2025,Ecuador,ecuador,Upper middle income,55,1843
+2025,Egypt,egypt,Lower middle income,367,13730
+2025,Eritrea,eritrea,Low income,1,16
+2025,Estonia,estonia,High income,26,1346
+2025,Fiji,fiji,Upper middle income,4,117
+2025,Finland,finland,High income,206,7290
+2025,France,france,High income,889,42432
+2025,Georgia,georgia,Upper middle income,2,589
+2025,Germany,germany,High income,1824,62263
+2025,Ghana,ghana,Lower middle income,33,1066
+2025,Greece,greece,High income,372,7680
+2025,Grenada,grenada,Upper middle income,2,62
+2025,Guatemala,guatemala,Upper middle income,1,75
+2025,Guyana,guyana,High income,1,44
+2025,Honduras,honduras,Lower middle income,1,170
+2025,Hungary,hungary,High income,116,5258
+2025,Iceland,iceland,High income,11,733
+2025,India,india,Lower middle income,5627,83969
+2025,Indonesia,indonesia,Upper middle income,142,4900
+2025,Iran,iran,Upper middle income,1351,20319
+2025,Iraq,iraq,Upper middle income,134,5353
+2025,Ireland,ireland,High income,143,4762
+2025,Israel,israel,High income,241,7418
+2025,Italy,italy,High income,1626,45913
+2025,Japan,japan,High income,1190,45352
+2025,Jordan,jordan,Lower middle income,127,2802
+2025,Kazakhstan,kazakhstan,Upper middle income,75,2512
+2025,Kenya,kenya,Lower middle income,20,1150
+2025,Kosovo,kosovo,Upper middle income,1,173
+2025,Kuwait,kuwait,High income,53,1350
+2025,Kyrgyzstan,kyrgyzstan,Lower middle income,1,187
+2025,Laos,laos,Lower middle income,1,107
+2025,Latvia,latvia,High income,13,911
+2025,Lebanon,lebanon,Lower middle income,23,1022
+2025,Libya,libya,Upper middle income,4,309
+2025,Liechtenstein,liechtenstein,High income,2,30
+2025,Lithuania,lithuania,High income,64,2095
+2025,Luxembourg,luxembourg,High income,36,858
+2025,Madagascar,madagascar,Low income,1,259
+2025,Malawi,malawi,Low income,2,148
+2025,Malaysia,malaysia,Upper middle income,452,8843
+2025,Malta,malta,High income,9,305
+2025,Mauritius,mauritius,Upper middle income,4,86
+2025,Mexico,mexico,Upper middle income,293,12122
+2025,Moldova,moldova,Upper middle income,2,182
+2025,Mongolia,mongolia,Upper middle income,4,483
+2025,Montenegro,montenegro,Upper middle income,2,330
+2025,Morocco,morocco,Lower middle income,262,4792
+2025,Mozambique,mozambique,Low income,2,230
+2025,Myanmar,myanmar,Lower middle income,4,163
+2025,Namibia,namibia,Lower middle income,4,246
+2025,Nepal,nepal,Lower middle income,19,720
+2025,Netherlands,netherlands,High income,505,17463
+2025,New Caledonia,new caledonia,High income,1,89
+2025,New Zealand,new zealand,High income,133,4784
+2025,Nigeria,nigeria,Lower middle income,94,3140
+2025,North Korea,north korea,Low income,7,169
+2025,North Macedonia,north macedonia,Upper middle income,6,305
+2025,Norway,norway,High income,165,7836
+2025,Oman,oman,High income,38,1346
+2025,Pakistan,pakistan,Lower middle income,748,14500
+2025,Palestine,palestine,Lower middle income,17,532
+2025,Panama,panama,High income,4,495
+2025,Peru,peru,Upper middle income,52,1623
+2025,Philippines,philippines,Lower middle income,34,1242
+2025,Poland,poland,High income,500,26002
+2025,Portugal,portugal,High income,297,10481
+2025,Qatar,qatar,High income,69,1351
+2025,Romania,romania,High income,211,8078
+2025,Russia,russia,High income,709,28680
+2025,Rwanda,rwanda,Low income,3,271
+2025,Saudi Arabia,saudi arabia,High income,1251,29604
+2025,Senegal,senegal,Lower middle income,2,309
+2025,Serbia,serbia,Upper middle income,119,3884
+2025,Sierra Leone,sierra leone,Low income,1,61
+2025,Singapore,singapore,High income,357,8803
+2025,Slovakia,slovakia,High income,37,3062
+2025,Slovenia,slovenia,High income,89,3001
+2025,Somalia,somalia,Low income,2,55
+2025,South Africa,south africa,Upper middle income,182,8879
+2025,South Korea,south korea,High income,2394,42426
+2025,Spain,spain,High income,1244,38758
+2025,Sri Lanka,sri lanka,Lower middle income,22,867
+2025,Sudan,sudan,Low income,3,462
+2025,Sweden,sweden,High income,276,13921
+2025,Switzerland,switzerland,High income,459,16554
+2025,Syria,syria,Low income,9,193
+2025,Taiwan,taiwan,High income,835,15379
+2025,Tanzania,tanzania,Lower middle income,13,778
+2025,Thailand,thailand,Upper middle income,216,7905
+2025,Trinidad Tobago,trinidad tobago,High income,1,97
+2025,Tunisia,tunisia,Lower middle income,127,3365
+2025,Turkiye,turkiye,Upper middle income,1411,23586
+2025,U Arab Emirates,u arab emirates,High income,209,4872
+2025,USA,usa,High income,7332,165688
+2025,Uganda,uganda,Low income,12,668
+2025,Ukraine,ukraine,Upper middle income,58,3374
+2025,United Kingdom,united kingdom,High income,1694,49391
+2025,Uruguay,uruguay,High income,10,746
+2025,Uzbekistan,uzbekistan,Lower middle income,9,1984
+2025,Vietnam,vietnam,Lower middle income,339,5761
+2025,Yemen,yemen,Low income,10,507
+2025,Zambia,zambia,Lower middle income,3,243
+2025,Zimbabwe,zimbabwe,Lower middle income,5,221

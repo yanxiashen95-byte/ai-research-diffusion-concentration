@@ -1,0 +1,107 @@
+Country,Income_Group,valid_years,first_year,last_year,median_gini,sen_slope,sen_slope_pct,threshold,trend
+Algeria,Upper middle income,9,2012,2025,0.515238095,0.010121888,1.0121888000000001,At least 5 years,Increasing
+Argentina,Upper middle income,8,2010,2024,0.325814536,-0.002931563,-0.2931563,At least 5 years,Declining
+Australia,High income,23,1998,2025,0.49376947,-0.001433675,-0.14336749999999998,At least 5 years,Declining
+Austria,High income,13,2009,2025,0.327956989,-0.006304412,-0.6304411999999999,At least 5 years,Declining
+Belgium,High income,17,2004,2025,0.392857143,-0.007595018,-0.7595018,At least 5 years,Declining
+Brazil,Upper middle income,20,2003,2025,0.439789448,0.001698207,0.1698207,At least 5 years,Increasing
+Canada,High income,23,2000,2025,0.479710145,-0.008927217,-0.8927217,At least 5 years,Declining
+Chile,High income,9,2014,2025,0.34984985,-0.023993073,-2.3993073,At least 5 years,Declining
+China,Upper middle income,26,1998,2025,0.438034574,2.91232e-4,0.0291232,At least 5 years,Increasing
+Colombia,Upper middle income,7,2018,2025,0.418699187,-0.016260163,-1.6260163,At least 5 years,Declining
+Croatia,High income,6,2020,2025,0.286403509,-0.021679198,-2.1679198,At least 5 years,Declining
+Cyprus,High income,5,2021,2025,0.355072464,-0.017003273,-1.7003272999999999,At least 5 years,Declining
+Czech Republic,High income,7,2017,2025,0.373786408,-0.02224502,-2.224502,At least 5 years,Declining
+Denmark,High income,10,2012,2025,0.315755608,-0.012899897,-1.2899897,At least 5 years,Declining
+Egypt,Lower middle income,8,2018,2025,0.499589621,-0.008263913,-0.8263912999999999,At least 5 years,Declining
+Finland,High income,8,2014,2025,0.458497807,-0.004113567,-0.4113567,At least 5 years,Declining
+France,High income,25,1996,2025,0.405242905,-0.003289469,-0.32894690000000004,At least 5 years,Declining
+Germany,High income,29,1996,2025,0.388888889,-0.008955949,-0.8955949,At least 5 years,Declining
+Greece,High income,12,2009,2025,0.514506962,-0.010841066,-1.0841066,At least 5 years,Declining
+Hungary,High income,6,2020,2025,0.380683971,-0.021886973,-2.1886973,At least 5 years,Declining
+India,Lower middle income,21,1999,2025,0.470276009,0.012934103,1.2934103000000001,At least 5 years,Increasing
+Iran,Upper middle income,21,2003,2025,0.414650538,0.002461791,0.2461791,At least 5 years,Increasing
+Iraq,Upper middle income,5,2021,2025,0.518018018,-0.035698067,-3.5698067,At least 5 years,Declining
+Ireland,High income,5,2021,2025,0.43,-0.005294289,-0.5294289,At least 5 years,Declining
+Israel,High income,11,2011,2025,0.38490284,-0.01210181,-1.210181,At least 5 years,Declining
+Italy,High income,28,1996,2025,0.453513036,-0.005020621,-0.5020621000000001,At least 5 years,Declining
+Japan,High income,24,1999,2025,0.416045066,-0.012213874,-1.2213874,At least 5 years,Declining
+Lithuania,High income,5,2018,2025,0.361111111,0.020791997,2.0791996999999998,At least 5 years,Increasing
+Malaysia,Upper middle income,13,2011,2025,0.519774011,-0.007587341,-0.7587341,At least 5 years,Declining
+Mexico,Upper middle income,12,2014,2025,0.386363636,-0.019183115,-1.9183115000000002,At least 5 years,Declining
+Morocco,Lower middle income,7,2019,2025,0.551779935,-0.020646007,-2.0646007,At least 5 years,Declining
+Netherlands,High income,12,1998,2025,0.400411707,-0.007241694,-0.7241694,At least 5 years,Declining
+New Zealand,High income,6,2020,2025,0.472655999,4.74158e-4,0.0474158,At least 5 years,Increasing
+Nigeria,Lower middle income,5,2020,2025,0.396825397,-0.035690318,-3.5690318,At least 5 years,Declining
+Norway,High income,6,2019,2025,0.462722502,-0.013153392,-1.3153392,At least 5 years,Declining
+Pakistan,Lower middle income,9,2015,2025,0.56918239,-0.022031872,-2.2031872,At least 5 years,Declining
+Poland,High income,22,2003,2025,0.349420319,-3.33e-4,-0.0333,At least 5 years,Declining
+Portugal,High income,12,2012,2025,0.447802198,-0.018569688,-1.8569688000000002,At least 5 years,Declining
+Romania,High income,10,2014,2025,0.28192434,-0.008378305,-0.8378305,At least 5 years,Declining
+Russia,High income,12,1999,2025,0.262140637,-0.001867764,-0.1867764,At least 5 years,Declining
+Saudi Arabia,High income,11,2013,2025,0.489247312,-0.012843693,-1.2843693,At least 5 years,Declining
+Serbia,Upper middle income,11,2014,2025,0.328828829,-0.009318996,-0.9318995999999999,At least 5 years,Declining
+Singapore,High income,13,2010,2025,0.535928144,-0.015917744,-1.5917744,At least 5 years,Declining
+Slovakia,High income,5,2021,2025,0.346846847,0.00985601,0.9856010000000001,At least 5 years,Increasing
+Slovenia,High income,8,2015,2025,0.412280702,-0.008455133,-0.8455133,At least 5 years,Declining
+South Africa,Upper middle income,10,2011,2025,0.468518519,0.0066719,0.66719,At least 5 years,Increasing
+South Korea,High income,19,2007,2025,0.411949686,-0.003642556,-0.3642556,At least 5 years,Declining
+Spain,High income,24,2001,2025,0.479676915,-0.008758584,-0.8758584,At least 5 years,Declining
+Sweden,High income,16,1998,2025,0.38190521,-0.00286053,-0.286053,At least 5 years,Declining
+Switzerland,High income,16,2005,2025,0.347970085,-0.011198711,-1.1198711000000001,At least 5 years,Declining
+Taiwan,High income,19,2006,2025,0.494949495,-0.0046875,-0.46875,At least 5 years,Declining
+Thailand,Upper middle income,13,2009,2025,0.356164384,-6.50854e-4,-0.0650854,At least 5 years,Declining
+Turkey,Upper middle income,18,2003,2022,0.510204037,0.003464835,0.3464835,At least 5 years,Increasing
+U Arab Emirates,High income,5,2021,2025,0.497916667,-0.031404506,-3.1404506,At least 5 years,Declining
+USA,High income,30,1996,2025,0.429905059,-0.010811804,-1.0811804,At least 5 years,Declining
+United Kingdom,High income,28,1996,2025,0.43163845,-0.007411825,-0.7411825000000001,At least 5 years,Declining
+Vietnam,Lower middle income,7,2019,2025,0.512403101,-0.016049278,-1.6049278,At least 5 years,Declining
+Australia,High income,23,1998,2025,0.49376947,-0.001433675,-0.14336749999999998,At least 10 years,Declining
+Austria,High income,13,2009,2025,0.327956989,-0.006304412,-0.6304411999999999,At least 10 years,Declining
+Belgium,High income,17,2004,2025,0.392857143,-0.007595018,-0.7595018,At least 10 years,Declining
+Brazil,Upper middle income,20,2003,2025,0.439789448,0.001698207,0.1698207,At least 10 years,Increasing
+Canada,High income,23,2000,2025,0.479710145,-0.008927217,-0.8927217,At least 10 years,Declining
+China,Upper middle income,26,1998,2025,0.438034574,2.91232e-4,0.0291232,At least 10 years,Increasing
+Denmark,High income,10,2012,2025,0.315755608,-0.012899897,-1.2899897,At least 10 years,Declining
+France,High income,25,1996,2025,0.405242905,-0.003289469,-0.32894690000000004,At least 10 years,Declining
+Germany,High income,29,1996,2025,0.388888889,-0.008955949,-0.8955949,At least 10 years,Declining
+Greece,High income,12,2009,2025,0.514506962,-0.010841066,-1.0841066,At least 10 years,Declining
+India,Lower middle income,21,1999,2025,0.470276009,0.012934103,1.2934103000000001,At least 10 years,Increasing
+Iran,Upper middle income,21,2003,2025,0.414650538,0.002461791,0.2461791,At least 10 years,Increasing
+Israel,High income,11,2011,2025,0.38490284,-0.01210181,-1.210181,At least 10 years,Declining
+Italy,High income,28,1996,2025,0.453513036,-0.005020621,-0.5020621000000001,At least 10 years,Declining
+Japan,High income,24,1999,2025,0.416045066,-0.012213874,-1.2213874,At least 10 years,Declining
+Malaysia,Upper middle income,13,2011,2025,0.519774011,-0.007587341,-0.7587341,At least 10 years,Declining
+Mexico,Upper middle income,12,2014,2025,0.386363636,-0.019183115,-1.9183115000000002,At least 10 years,Declining
+Netherlands,High income,12,1998,2025,0.400411707,-0.007241694,-0.7241694,At least 10 years,Declining
+Poland,High income,22,2003,2025,0.349420319,-3.33e-4,-0.0333,At least 10 years,Declining
+Portugal,High income,12,2012,2025,0.447802198,-0.018569688,-1.8569688000000002,At least 10 years,Declining
+Romania,High income,10,2014,2025,0.28192434,-0.008378305,-0.8378305,At least 10 years,Declining
+Russia,High income,12,1999,2025,0.262140637,-0.001867764,-0.1867764,At least 10 years,Declining
+Saudi Arabia,High income,11,2013,2025,0.489247312,-0.012843693,-1.2843693,At least 10 years,Declining
+Serbia,Upper middle income,11,2014,2025,0.328828829,-0.009318996,-0.9318995999999999,At least 10 years,Declining
+Singapore,High income,13,2010,2025,0.535928144,-0.015917744,-1.5917744,At least 10 years,Declining
+South Africa,Upper middle income,10,2011,2025,0.468518519,0.0066719,0.66719,At least 10 years,Increasing
+South Korea,High income,19,2007,2025,0.411949686,-0.003642556,-0.3642556,At least 10 years,Declining
+Spain,High income,24,2001,2025,0.479676915,-0.008758584,-0.8758584,At least 10 years,Declining
+Sweden,High income,16,1998,2025,0.38190521,-0.00286053,-0.286053,At least 10 years,Declining
+Switzerland,High income,16,2005,2025,0.347970085,-0.011198711,-1.1198711000000001,At least 10 years,Declining
+Taiwan,High income,19,2006,2025,0.494949495,-0.0046875,-0.46875,At least 10 years,Declining
+Thailand,Upper middle income,13,2009,2025,0.356164384,-6.50854e-4,-0.0650854,At least 10 years,Declining
+Turkey,Upper middle income,18,2003,2022,0.510204037,0.003464835,0.3464835,At least 10 years,Increasing
+USA,High income,30,1996,2025,0.429905059,-0.010811804,-1.0811804,At least 10 years,Declining
+United Kingdom,High income,28,1996,2025,0.43163845,-0.007411825,-0.7411825000000001,At least 10 years,Declining
+Australia,High income,23,1998,2025,0.49376947,-0.001433675,-0.14336749999999998,At least 20 years,Declining
+Brazil,Upper middle income,20,2003,2025,0.439789448,0.001698207,0.1698207,At least 20 years,Increasing
+Canada,High income,23,2000,2025,0.479710145,-0.008927217,-0.8927217,At least 20 years,Declining
+China,Upper middle income,26,1998,2025,0.438034574,2.91232e-4,0.0291232,At least 20 years,Increasing
+France,High income,25,1996,2025,0.405242905,-0.003289469,-0.32894690000000004,At least 20 years,Declining
+Germany,High income,29,1996,2025,0.388888889,-0.008955949,-0.8955949,At least 20 years,Declining
+India,Lower middle income,21,1999,2025,0.470276009,0.012934103,1.2934103000000001,At least 20 years,Increasing
+Iran,Upper middle income,21,2003,2025,0.414650538,0.002461791,0.2461791,At least 20 years,Increasing
+Italy,High income,28,1996,2025,0.453513036,-0.005020621,-0.5020621000000001,At least 20 years,Declining
+Japan,High income,24,1999,2025,0.416045066,-0.012213874,-1.2213874,At least 20 years,Declining
+Poland,High income,22,2003,2025,0.349420319,-3.33e-4,-0.0333,At least 20 years,Declining
+Spain,High income,24,2001,2025,0.479676915,-0.008758584,-0.8758584,At least 20 years,Declining
+USA,High income,30,1996,2025,0.429905059,-0.010811804,-1.0811804,At least 20 years,Declining
+United Kingdom,High income,28,1996,2025,0.43163845,-0.007411825,-0.7411825000000001,At least 20 years,Declining

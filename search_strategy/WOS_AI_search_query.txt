@@ -1,0 +1,22 @@
+TS=("artificial intelligence" OR "machine learning" OR "deep learning"
+OR "explainable artificial intelligence" OR "explainable AI"
+OR "automated machine learning" OR "automatic machine learning" OR AutoML
+OR "artificial neural network*" OR "convolutional neural network*"
+OR "recurrent neural network*" OR "long short-term memory"
+OR "long short term memory" OR "support vector machine*"
+OR "random forest*" OR "gradient boosting decision tree*"
+OR "graph neural network*" OR "neural architecture search*" OR XGBoost
+OR "physics-informed neural network*" OR "physics informed neural network*"
+OR "physics-guided deep learning" OR "physics guided deep learning"
+OR "spatiotemporal deep learning" OR "spatio-temporal deep learning"
+OR "large language model*" OR "foundation model*"
+OR "generative artificial intelligence" OR "generative AI"
+OR "generative pre-trained transformer*"
+OR "generative pretrained transformer*"
+OR "pre-trained language model*" OR "pretrained language model*"
+OR "vision-language model*" OR "vision language model*"
+OR "multimodal large language model*"
+OR (transformer* NEAR/3 model*)
+OR (transformer* NEAR/3 network*)
+OR (transformer* NEAR/3 architectur*)
+OR (transformer* NEAR/3 attention*))

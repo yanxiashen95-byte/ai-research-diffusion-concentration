@@ -1,0 +1,217 @@
+"year","field","publication_count"
+1990,"Mathematics",0
+1991,"Mathematics",1
+1992,"Mathematics",2
+1993,"Mathematics",0
+1994,"Mathematics",7
+1995,"Mathematics",8
+1996,"Mathematics",49
+1997,"Mathematics",27
+1998,"Mathematics",54
+1999,"Mathematics",59
+2000,"Mathematics",48
+2001,"Mathematics",56
+2002,"Mathematics",56
+2003,"Mathematics",63
+2004,"Mathematics",81
+2005,"Mathematics",104
+2006,"Mathematics",180
+2007,"Mathematics",164
+2008,"Mathematics",147
+2009,"Mathematics",187
+2010,"Mathematics",190
+2011,"Mathematics",224
+2012,"Mathematics",256
+2013,"Mathematics",289
+2014,"Mathematics",315
+2015,"Mathematics",324
+2016,"Mathematics",290
+2017,"Mathematics",349
+2018,"Mathematics",494
+2019,"Mathematics",729
+2020,"Mathematics",1287
+2021,"Mathematics",1902
+2022,"Mathematics",2745
+2023,"Mathematics",2457
+2024,"Mathematics",2628
+2025,"Mathematics",3102
+1990,"Computer and information sciences",7
+1991,"Computer and information sciences",22
+1992,"Computer and information sciences",25
+1993,"Computer and information sciences",33
+1994,"Computer and information sciences",54
+1995,"Computer and information sciences",82
+1996,"Computer and information sciences",379
+1997,"Computer and information sciences",474
+1998,"Computer and information sciences",488
+1999,"Computer and information sciences",511
+2000,"Computer and information sciences",540
+2001,"Computer and information sciences",550
+2002,"Computer and information sciences",752
+2003,"Computer and information sciences",733
+2004,"Computer and information sciences",1289
+2005,"Computer and information sciences",1628
+2006,"Computer and information sciences",1780
+2007,"Computer and information sciences",984
+2008,"Computer and information sciences",1014
+2009,"Computer and information sciences",1227
+2010,"Computer and information sciences",1346
+2011,"Computer and information sciences",1521
+2012,"Computer and information sciences",1606
+2013,"Computer and information sciences",2083
+2014,"Computer and information sciences",2296
+2015,"Computer and information sciences",2586
+2016,"Computer and information sciences",3087
+2017,"Computer and information sciences",3972
+2018,"Computer and information sciences",5871
+2019,"Computer and information sciences",8760
+2020,"Computer and information sciences",13531
+2021,"Computer and information sciences",19451
+2022,"Computer and information sciences",24742
+2023,"Computer and information sciences",23801
+2024,"Computer and information sciences",25242
+2025,"Computer and information sciences",30009
+1990,"Physical sciences",1
+1991,"Physical sciences",6
+1992,"Physical sciences",8
+1993,"Physical sciences",7
+1994,"Physical sciences",10
+1995,"Physical sciences",19
+1996,"Physical sciences",74
+1997,"Physical sciences",76
+1998,"Physical sciences",75
+1999,"Physical sciences",72
+2000,"Physical sciences",57
+2001,"Physical sciences",77
+2002,"Physical sciences",66
+2003,"Physical sciences",83
+2004,"Physical sciences",117
+2005,"Physical sciences",113
+2006,"Physical sciences",168
+2007,"Physical sciences",172
+2008,"Physical sciences",174
+2009,"Physical sciences",235
+2010,"Physical sciences",221
+2011,"Physical sciences",250
+2012,"Physical sciences",295
+2013,"Physical sciences",364
+2014,"Physical sciences",402
+2015,"Physical sciences",538
+2016,"Physical sciences",651
+2017,"Physical sciences",851
+2018,"Physical sciences",1349
+2019,"Physical sciences",2339
+2020,"Physical sciences",3564
+2021,"Physical sciences",4926
+2022,"Physical sciences",6246
+2023,"Physical sciences",7121
+2024,"Physical sciences",9786
+2025,"Physical sciences",14247
+1990,"Chemical sciences",1
+1991,"Chemical sciences",0
+1992,"Chemical sciences",1
+1993,"Chemical sciences",9
+1994,"Chemical sciences",6
+1995,"Chemical sciences",17
+1996,"Chemical sciences",65
+1997,"Chemical sciences",86
+1998,"Chemical sciences",61
+1999,"Chemical sciences",104
+2000,"Chemical sciences",112
+2001,"Chemical sciences",107
+2002,"Chemical sciences",100
+2003,"Chemical sciences",122
+2004,"Chemical sciences",142
+2005,"Chemical sciences",212
+2006,"Chemical sciences",241
+2007,"Chemical sciences",284
+2008,"Chemical sciences",255
+2009,"Chemical sciences",342
+2010,"Chemical sciences",298
+2011,"Chemical sciences",327
+2012,"Chemical sciences",358
+2013,"Chemical sciences",415
+2014,"Chemical sciences",360
+2015,"Chemical sciences",447
+2016,"Chemical sciences",476
+2017,"Chemical sciences",629
+2018,"Chemical sciences",830
+2019,"Chemical sciences",1107
+2020,"Chemical sciences",1661
+2021,"Chemical sciences",2403
+2022,"Chemical sciences",2979
+2023,"Chemical sciences",3671
+2024,"Chemical sciences",5356
+2025,"Chemical sciences",8637
+1990,"Earth and environmental sciences",2
+1991,"Earth and environmental sciences",1
+1992,"Earth and environmental sciences",2
+1993,"Earth and environmental sciences",6
+1994,"Earth and environmental sciences",8
+1995,"Earth and environmental sciences",3
+1996,"Earth and environmental sciences",54
+1997,"Earth and environmental sciences",59
+1998,"Earth and environmental sciences",55
+1999,"Earth and environmental sciences",93
+2000,"Earth and environmental sciences",100
+2001,"Earth and environmental sciences",128
+2002,"Earth and environmental sciences",115
+2003,"Earth and environmental sciences",155
+2004,"Earth and environmental sciences",189
+2005,"Earth and environmental sciences",212
+2006,"Earth and environmental sciences",305
+2007,"Earth and environmental sciences",337
+2008,"Earth and environmental sciences",363
+2009,"Earth and environmental sciences",456
+2010,"Earth and environmental sciences",496
+2011,"Earth and environmental sciences",579
+2012,"Earth and environmental sciences",759
+2013,"Earth and environmental sciences",871
+2014,"Earth and environmental sciences",1100
+2015,"Earth and environmental sciences",1259
+2016,"Earth and environmental sciences",1528
+2017,"Earth and environmental sciences",1910
+2018,"Earth and environmental sciences",2836
+2019,"Earth and environmental sciences",4419
+2020,"Earth and environmental sciences",6398
+2021,"Earth and environmental sciences",10134
+2022,"Earth and environmental sciences",13124
+2023,"Earth and environmental sciences",14350
+2024,"Earth and environmental sciences",17584
+2025,"Earth and environmental sciences",21760
+1990,"Biological sciences",0
+1991,"Biological sciences",0
+1992,"Biological sciences",0
+1993,"Biological sciences",2
+1994,"Biological sciences",3
+1995,"Biological sciences",4
+1996,"Biological sciences",34
+1997,"Biological sciences",48
+1998,"Biological sciences",63
+1999,"Biological sciences",40
+2000,"Biological sciences",55
+2001,"Biological sciences",69
+2002,"Biological sciences",76
+2003,"Biological sciences",155
+2004,"Biological sciences",141
+2005,"Biological sciences",194
+2006,"Biological sciences",279
+2007,"Biological sciences",323
+2008,"Biological sciences",334
+2009,"Biological sciences",386
+2010,"Biological sciences",395
+2011,"Biological sciences",455
+2012,"Biological sciences",476
+2013,"Biological sciences",502
+2014,"Biological sciences",574
+2015,"Biological sciences",576
+2016,"Biological sciences",716
+2017,"Biological sciences",882
+2018,"Biological sciences",1153
+2019,"Biological sciences",1810
+2020,"Biological sciences",2430
+2021,"Biological sciences",3487
+2022,"Biological sciences",4341
+2023,"Biological sciences",4742
+2024,"Biological sciences",6020
+2025,"Biological sciences",7853

@@ -1,0 +1,165 @@
+Country,n_active_years,in_fixed_union_panel,in_balanced_panel
+Australia,25,TRUE,TRUE
+Austria,25,TRUE,TRUE
+Belgium,25,TRUE,TRUE
+Brazil,25,TRUE,TRUE
+Canada,25,TRUE,TRUE
+China,25,TRUE,TRUE
+Czech Republic,25,TRUE,TRUE
+Denmark,25,TRUE,TRUE
+Finland,25,TRUE,TRUE
+France,25,TRUE,TRUE
+Germany,25,TRUE,TRUE
+Greece,25,TRUE,TRUE
+Hungary,25,TRUE,TRUE
+India,25,TRUE,TRUE
+Iran,25,TRUE,TRUE
+Ireland,25,TRUE,TRUE
+Israel,25,TRUE,TRUE
+Italy,25,TRUE,TRUE
+Japan,25,TRUE,TRUE
+Lithuania,25,TRUE,TRUE
+Malaysia,25,TRUE,TRUE
+Mexico,25,TRUE,TRUE
+Netherlands,25,TRUE,TRUE
+New Zealand,25,TRUE,TRUE
+Norway,25,TRUE,TRUE
+Poland,25,TRUE,TRUE
+Portugal,25,TRUE,TRUE
+Romania,25,TRUE,TRUE
+Russia,25,TRUE,TRUE
+Singapore,25,TRUE,TRUE
+Slovenia,25,TRUE,TRUE
+South Korea,25,TRUE,TRUE
+Spain,25,TRUE,TRUE
+Sweden,25,TRUE,TRUE
+Switzerland,25,TRUE,TRUE
+Taiwan,25,TRUE,TRUE
+USA,25,TRUE,TRUE
+United Kingdom,25,TRUE,TRUE
+Afghanistan,1,TRUE,FALSE
+Albania,6,TRUE,FALSE
+Algeria,23,TRUE,FALSE
+Andorra,1,TRUE,FALSE
+Angola,3,TRUE,FALSE
+Argentina,24,TRUE,FALSE
+Armenia,10,TRUE,FALSE
+Azerbaijan,9,TRUE,FALSE
+Bahrain,11,TRUE,FALSE
+Bangladesh,20,TRUE,FALSE
+Belarus,8,TRUE,FALSE
+Belize,1,TRUE,FALSE
+Benin,5,TRUE,FALSE
+Bhutan,2,TRUE,FALSE
+Bolivia,2,TRUE,FALSE
+Bosnia & Herceg,14,TRUE,FALSE
+Botswana,12,TRUE,FALSE
+Brunei,11,TRUE,FALSE
+Bulgaria,24,TRUE,FALSE
+Burkina Faso,9,TRUE,FALSE
+Cambodia,4,TRUE,FALSE
+Cameroon,12,TRUE,FALSE
+Cent Afr Republ,1,TRUE,FALSE
+Chile,24,TRUE,FALSE
+Colombia,20,TRUE,FALSE
+Costa Rica,10,TRUE,FALSE
+Cote Ivoire,7,TRUE,FALSE
+Croatia,24,TRUE,FALSE
+Cuba,23,TRUE,FALSE
+Cyprus,20,TRUE,FALSE
+Dem Rep Congo,4,TRUE,FALSE
+Dominican Rep,3,TRUE,FALSE
+Ecuador,9,TRUE,FALSE
+Egypt,24,TRUE,FALSE
+Estonia,21,TRUE,FALSE
+Eswatini,2,TRUE,FALSE
+Fiji,14,TRUE,FALSE
+French Guiana,2,TRUE,FALSE
+Gabon,1,TRUE,FALSE
+Georgia,11,TRUE,FALSE
+Ghana,8,TRUE,FALSE
+Guatemala,1,TRUE,FALSE
+Guinea,1,TRUE,FALSE
+Guyana,1,TRUE,FALSE
+Haiti,1,TRUE,FALSE
+Honduras,2,TRUE,FALSE
+Iceland,17,TRUE,FALSE
+Indonesia,16,TRUE,FALSE
+Iraq,15,TRUE,FALSE
+Jamaica,7,TRUE,FALSE
+Jordan,23,TRUE,FALSE
+Kazakhstan,8,TRUE,FALSE
+Kenya,14,TRUE,FALSE
+Kosovo,3,TRUE,FALSE
+Kuwait,21,TRUE,FALSE
+Kyrgyzstan,2,TRUE,FALSE
+Latvia,11,TRUE,FALSE
+Lebanon,21,TRUE,FALSE
+Lesotho,1,TRUE,FALSE
+Liberia,1,TRUE,FALSE
+Libya,7,TRUE,FALSE
+Liechtenstein,5,TRUE,FALSE
+Luxembourg,17,TRUE,FALSE
+Macedonia,17,TRUE,FALSE
+Madagascar,5,TRUE,FALSE
+Malawi,2,TRUE,FALSE
+Maldives,2,TRUE,FALSE
+Mali,2,TRUE,FALSE
+Malta,12,TRUE,FALSE
+Mauritania,3,TRUE,FALSE
+Mauritius,7,TRUE,FALSE
+Micronesia,1,TRUE,FALSE
+Moldova,8,TRUE,FALSE
+Monaco,1,TRUE,FALSE
+Mongolia,6,TRUE,FALSE
+Montenegro,8,TRUE,FALSE
+Montserrat,1,TRUE,FALSE
+Morocco,22,TRUE,FALSE
+Mozambique,4,TRUE,FALSE
+Myanmar,5,TRUE,FALSE
+Namibia,5,TRUE,FALSE
+Nepal,11,TRUE,FALSE
+New Caledonia,8,TRUE,FALSE
+Niger,3,TRUE,FALSE
+Nigeria,15,TRUE,FALSE
+North Korea,7,TRUE,FALSE
+North Macedonia,5,TRUE,FALSE
+Oman,20,TRUE,FALSE
+Pakistan,20,TRUE,FALSE
+Palestine,10,TRUE,FALSE
+Panama,7,TRUE,FALSE
+Paraguay,6,TRUE,FALSE
+Peru,10,TRUE,FALSE
+Philippines,15,TRUE,FALSE
+Qatar,14,TRUE,FALSE
+Rep Congo,2,TRUE,FALSE
+Rwanda,6,TRUE,FALSE
+Saudi Arabia,21,TRUE,FALSE
+Senegal,8,TRUE,FALSE
+Serbia,22,TRUE,FALSE
+Serbia Monteneg,2,TRUE,FALSE
+Slovakia,24,TRUE,FALSE
+Somalia,3,TRUE,FALSE
+South Africa,24,TRUE,FALSE
+Sri Lanka,13,TRUE,FALSE
+Sudan,9,TRUE,FALSE
+Suriname,2,TRUE,FALSE
+Syria,8,TRUE,FALSE
+Tajikistan,1,TRUE,FALSE
+Tanzania,7,TRUE,FALSE
+Thailand,24,TRUE,FALSE
+Togo,2,TRUE,FALSE
+Trinidad Tobago,6,TRUE,FALSE
+Tunisia,20,TRUE,FALSE
+Turkey,24,TRUE,FALSE
+Turkiye,4,TRUE,FALSE
+U Arab Emirates,22,TRUE,FALSE
+Uganda,11,TRUE,FALSE
+Ukraine,22,TRUE,FALSE
+Uruguay,14,TRUE,FALSE
+Uzbekistan,6,TRUE,FALSE
+Vietnam,20,TRUE,FALSE
+Yemen,8,TRUE,FALSE
+Yugoslavia,3,TRUE,FALSE
+Zambia,5,TRUE,FALSE
+Zimbabwe,10,TRUE,FALSE

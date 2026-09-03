@@ -1,0 +1,7 @@
+threshold,trend,n,total_n,prop,label
+At least 5 years,Declining,47,57,0.8245614035087719,82%
+At least 5 years,Increasing,10,57,0.17543859649122806,18%
+At least 10 years,Declining,29,35,0.8285714285714286,83%
+At least 10 years,Increasing,6,35,0.17142857142857143,17%
+At least 20 years,Declining,10,14,0.7142857142857143,71%
+At least 20 years,Increasing,4,14,0.2857142857142857,29%

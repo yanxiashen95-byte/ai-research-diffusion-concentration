@@ -1,0 +1,210 @@
+"year","oecd_code","field","participating_countries","total_publications","gini"
+1992,1.1,"Mathematics",2,2,0
+1994,1.1,"Mathematics",6,7,0.119047619047619
+1995,1.1,"Mathematics",6,8,0.208333333333333
+1996,1.1,"Mathematics",19,46,0.4279176201373
+1997,1.1,"Mathematics",14,25,0.374285714285714
+1998,1.1,"Mathematics",17,53,0.486126526082131
+1999,1.1,"Mathematics",25,58,0.468965517241379
+2000,1.1,"Mathematics",21,48,0.408730158730159
+2001,1.1,"Mathematics",21,56,0.431972789115646
+2002,1.1,"Mathematics",23,56,0.383540372670807
+2003,1.1,"Mathematics",25,57,0.432280701754386
+2004,1.1,"Mathematics",24,81,0.502572016460905
+2005,1.1,"Mathematics",27,104,0.527777777777778
+2006,1.1,"Mathematics",31,179,0.651648945755992
+2007,1.1,"Mathematics",34,164,0.5512912482066
+2008,1.1,"Mathematics",35,147,0.543440233236152
+2009,1.1,"Mathematics",34,186,0.570524984187223
+2010,1.1,"Mathematics",39,190,0.582186234817814
+2011,1.1,"Mathematics",45,223,0.618634778276034
+2012,1.1,"Mathematics",45,256,0.639236111111111
+2013,1.1,"Mathematics",39,289,0.690621950137521
+2014,1.1,"Mathematics",45,315,0.710828924162258
+2015,1.1,"Mathematics",41,324,0.635350797952424
+2016,1.1,"Mathematics",44,290,0.694200626959248
+2017,1.1,"Mathematics",42,349,0.69047619047619
+2018,1.1,"Mathematics",54,494,0.747413405308142
+2019,1.1,"Mathematics",55,727,0.778742028260598
+2020,1.1,"Mathematics",70,1285,0.796609227348527
+2021,1.1,"Mathematics",67,1899,0.757869420669166
+2022,1.1,"Mathematics",82,2743,0.808883810675511
+2023,1.1,"Mathematics",74,2454,0.772362827375052
+2024,1.1,"Mathematics",75,2624,0.779176829268293
+2025,1.1,"Mathematics",79,3097,0.782300552188112
+1990,1.2,"Computer and information sciences",4,6,0.166666666666667
+1991,1.2,"Computer and information sciences",8,19,0.348684210526316
+1992,1.2,"Computer and information sciences",11,23,0.363636363636364
+1993,1.2,"Computer and information sciences",14,31,0.30184331797235
+1994,1.2,"Computer and information sciences",24,52,0.392628205128205
+1995,1.2,"Computer and information sciences",22,77,0.462219598583235
+1996,1.2,"Computer and information sciences",45,330,0.631380471380471
+1997,1.2,"Computer and information sciences",48,431,0.652213843774169
+1998,1.2,"Computer and information sciences",51,486,0.672234325829097
+1999,1.2,"Computer and information sciences",51,510,0.693271818531334
+2000,1.2,"Computer and information sciences",45,535,0.634184839044652
+2001,1.2,"Computer and information sciences",47,546,0.655989400670252
+2002,1.2,"Computer and information sciences",52,749,0.679752490500154
+2003,1.2,"Computer and information sciences",47,669,0.675635276532138
+2004,1.2,"Computer and information sciences",58,1283,0.704585158706695
+2005,1.2,"Computer and information sciences",60,1618,0.72704985578904
+2006,1.2,"Computer and information sciences",65,1761,0.736574498755078
+2007,1.2,"Computer and information sciences",55,980,0.689165120593692
+2008,1.2,"Computer and information sciences",55,1010,0.679423942394239
+2009,1.2,"Computer and information sciences",64,1223,0.719733748977923
+2010,1.2,"Computer and information sciences",66,1342,0.716072799530326
+2011,1.2,"Computer and information sciences",69,1519,0.734407648052208
+2012,1.2,"Computer and information sciences",64,1603,0.714392935121647
+2013,1.2,"Computer and information sciences",70,2077,0.729892014581471
+2014,1.2,"Computer and information sciences",71,2260,0.735398230088496
+2015,1.2,"Computer and information sciences",75,2586,0.740809486981181
+2016,1.2,"Computer and information sciences",78,3086,0.765275769812387
+2017,1.2,"Computer and information sciences",79,3969,0.773347876422018
+2018,1.2,"Computer and information sciences",91,5866,0.808323623188949
+2019,1.2,"Computer and information sciences",94,8755,0.828954882924043
+2020,1.2,"Computer and information sciences",98,13527,0.836466899911439
+2021,1.2,"Computer and information sciences",110,19437,0.854987441945306
+2022,1.2,"Computer and information sciences",112,24717,0.868632563475688
+2023,1.2,"Computer and information sciences",109,23790,0.865522866365098
+2024,1.2,"Computer and information sciences",110,25233,0.869184653574144
+2025,1.2,"Computer and information sciences",114,29997,0.880419328482556
+1990,1.3,"Physical sciences",1,1,NA
+1991,1.3,"Physical sciences",4,5,0.15
+1992,1.3,"Physical sciences",5,7,0.228571428571429
+1993,1.3,"Physical sciences",5,7,0.171428571428571
+1994,1.3,"Physical sciences",6,7,0.119047619047619
+1995,1.3,"Physical sciences",10,18,0.277777777777778
+1996,1.3,"Physical sciences",26,69,0.440914158305463
+1997,1.3,"Physical sciences",27,71,0.414188836724048
+1998,1.3,"Physical sciences",27,75,0.430617283950617
+1999,1.3,"Physical sciences",22,72,0.407828282828283
+2000,1.3,"Physical sciences",24,57,0.358918128654971
+2001,1.3,"Physical sciences",25,77,0.459220779220779
+2002,1.3,"Physical sciences",29,66,0.392894461859979
+2003,1.3,"Physical sciences",28,81,0.479276895943563
+2004,1.3,"Physical sciences",37,117,0.527604527604528
+2005,1.3,"Physical sciences",30,113,0.541297935103245
+2006,1.3,"Physical sciences",33,167,0.547269098167302
+2007,1.3,"Physical sciences",35,172,0.606644518272425
+2008,1.3,"Physical sciences",33,173,0.568575932737782
+2009,1.3,"Physical sciences",37,235,0.53571017826337
+2010,1.3,"Physical sciences",39,221,0.521174150133426
+2011,1.3,"Physical sciences",43,250,0.570046511627907
+2012,1.3,"Physical sciences",45,295,0.602485875706215
+2013,1.3,"Physical sciences",45,364,0.634188034188034
+2014,1.3,"Physical sciences",46,390,0.643366778149387
+2015,1.3,"Physical sciences",54,537,0.686081798744741
+2016,1.3,"Physical sciences",55,651,0.712414467253177
+2017,1.3,"Physical sciences",54,848,0.72353249475891
+2018,1.3,"Physical sciences",62,1347,0.738929999760519
+2019,1.3,"Physical sciences",70,2336,0.78013698630137
+2020,1.3,"Physical sciences",75,3561,0.783862210989422
+2021,1.3,"Physical sciences",82,4923,0.810959508132558
+2022,1.3,"Physical sciences",87,6236,0.82989021845716
+2023,1.3,"Physical sciences",85,7117,0.839329195216094
+2024,1.3,"Physical sciences",93,9774,0.862864171127701
+2025,1.3,"Physical sciences",102,14242,0.875336962477731
+1990,1.4,"Chemical sciences",1,1,NA
+1992,1.4,"Chemical sciences",1,1,NA
+1993,1.4,"Chemical sciences",4,9,0.0833333333333333
+1994,1.4,"Chemical sciences",4,5,0.15
+1995,1.4,"Chemical sciences",7,17,0.336134453781513
+1996,1.4,"Chemical sciences",16,54,0.416666666666667
+1997,1.4,"Chemical sciences",21,78,0.481074481074481
+1998,1.4,"Chemical sciences",23,61,0.392017106200998
+1999,1.4,"Chemical sciences",34,104,0.480769230769231
+2000,1.4,"Chemical sciences",31,112,0.488479262672811
+2001,1.4,"Chemical sciences",26,107,0.516534867002157
+2002,1.4,"Chemical sciences",31,100,0.5
+2003,1.4,"Chemical sciences",32,117,0.528044871794872
+2004,1.4,"Chemical sciences",35,142,0.491348088531187
+2005,1.4,"Chemical sciences",40,212,0.520518867924528
+2006,1.4,"Chemical sciences",43,241,0.520312650776802
+2007,1.4,"Chemical sciences",42,283,0.621150933871782
+2008,1.4,"Chemical sciences",35,255,0.623193277310924
+2009,1.4,"Chemical sciences",47,342,0.643150429264651
+2010,1.4,"Chemical sciences",43,297,0.619841829144155
+2011,1.4,"Chemical sciences",47,327,0.624373739345436
+2012,1.4,"Chemical sciences",44,358,0.636363636363636
+2013,1.4,"Chemical sciences",43,415,0.682544130008406
+2014,1.4,"Chemical sciences",50,353,0.655467422096317
+2015,1.4,"Chemical sciences",46,447,0.692588269623577
+2016,1.4,"Chemical sciences",53,476,0.669097827810369
+2017,1.4,"Chemical sciences",49,628,0.707136357727804
+2018,1.4,"Chemical sciences",58,827,0.741587791352208
+2019,1.4,"Chemical sciences",58,1107,0.745428776126842
+2020,1.4,"Chemical sciences",67,1658,0.763012440811623
+2021,1.4,"Chemical sciences",76,2402,0.779558701082431
+2022,1.4,"Chemical sciences",78,2975,0.79462615815557
+2023,1.4,"Chemical sciences",79,3670,0.800524264477633
+2024,1.4,"Chemical sciences",86,5352,0.832381722112142
+2025,1.4,"Chemical sciences",93,8634,0.855609605435874
+1990,1.5,"Earth and environmental sciences",1,1,NA
+1991,1.5,"Earth and environmental sciences",1,1,NA
+1992,1.5,"Earth and environmental sciences",2,2,0
+1993,1.5,"Earth and environmental sciences",3,5,0.133333333333333
+1994,1.5,"Earth and environmental sciences",6,7,0.119047619047619
+1995,1.5,"Earth and environmental sciences",3,3,0
+1996,1.5,"Earth and environmental sciences",19,46,0.430205949656751
+1997,1.5,"Earth and environmental sciences",17,48,0.475490196078431
+1998,1.5,"Earth and environmental sciences",18,55,0.518181818181818
+1999,1.5,"Earth and environmental sciences",24,93,0.51747311827957
+2000,1.5,"Earth and environmental sciences",27,99,0.531986531986532
+2001,1.5,"Earth and environmental sciences",31,128,0.567036290322581
+2002,1.5,"Earth and environmental sciences",33,114,0.550239234449761
+2003,1.5,"Earth and environmental sciences",38,144,0.524122807017544
+2004,1.5,"Earth and environmental sciences",35,189,0.566288737717309
+2005,1.5,"Earth and environmental sciences",41,212,0.608145421076852
+2006,1.5,"Earth and environmental sciences",43,304,0.570379436964504
+2007,1.5,"Earth and environmental sciences",47,334,0.622244871958211
+2008,1.5,"Earth and environmental sciences",47,361,0.648081570106678
+2009,1.5,"Earth and environmental sciences",49,455,0.639964117515138
+2010,1.5,"Earth and environmental sciences",52,496,0.65462158808933
+2011,1.5,"Earth and environmental sciences",55,578,0.668386284995282
+2012,1.5,"Earth and environmental sciences",55,759,0.677254761049227
+2013,1.5,"Earth and environmental sciences",53,871,0.702424019236185
+2014,1.5,"Earth and environmental sciences",67,1027,0.714267029022366
+2015,1.5,"Earth and environmental sciences",65,1258,0.723248135012841
+2016,1.5,"Earth and environmental sciences",72,1526,0.758482597932139
+2017,1.5,"Earth and environmental sciences",80,1910,0.777460732984293
+2018,1.5,"Earth and environmental sciences",87,2835,0.792418252954651
+2019,1.5,"Earth and environmental sciences",85,4418,0.809676989854339
+2020,1.5,"Earth and environmental sciences",101,6398,0.824626507664833
+2021,1.5,"Earth and environmental sciences",109,10129,0.845532991383628
+2022,1.5,"Earth and environmental sciences",116,13116,0.865886361485314
+2023,1.5,"Earth and environmental sciences",114,14345,0.866499727883669
+2024,1.5,"Earth and environmental sciences",120,17578,0.882060909470171
+2025,1.5,"Earth and environmental sciences",118,21756,0.880006606398858
+1993,1.6,"Biological sciences",2,2,0
+1994,1.6,"Biological sciences",2,2,0
+1995,1.6,"Biological sciences",4,4,0
+1996,1.6,"Biological sciences",11,32,0.454545454545455
+1997,1.6,"Biological sciences",20,42,0.435714285714286
+1998,1.6,"Biological sciences",16,63,0.50297619047619
+1999,1.6,"Biological sciences",21,40,0.35
+2000,1.6,"Biological sciences",17,55,0.470588235294118
+2001,1.6,"Biological sciences",21,69,0.487232574189096
+2002,1.6,"Biological sciences",22,76,0.520334928229665
+2003,1.6,"Biological sciences",26,89,0.621866897147796
+2004,1.6,"Biological sciences",24,141,0.529255319148936
+2005,1.6,"Biological sciences",35,193,0.665284974093264
+2006,1.6,"Biological sciences",32,279,0.664314516129032
+2007,1.6,"Biological sciences",37,323,0.650656848799264
+2008,1.6,"Biological sciences",39,334,0.677260862889605
+2009,1.6,"Biological sciences",40,385,0.650974025974026
+2010,1.6,"Biological sciences",42,394,0.681049069373942
+2011,1.6,"Biological sciences",47,454,0.686474833630143
+2012,1.6,"Biological sciences",46,476,0.694647424187066
+2013,1.6,"Biological sciences",46,502,0.703360471158843
+2014,1.6,"Biological sciences",46,528,0.713932806324111
+2015,1.6,"Biological sciences",52,574,0.720182256767623
+2016,1.6,"Biological sciences",49,716,0.722722608596511
+2017,1.6,"Biological sciences",57,881,0.7354083278571
+2018,1.6,"Biological sciences",69,1153,0.768832409467426
+2019,1.6,"Biological sciences",68,1808,0.776011842790213
+2020,1.6,"Biological sciences",73,2428,0.779964342939676
+2021,1.6,"Biological sciences",79,3486,0.794606999426277
+2022,1.6,"Biological sciences",83,4328,0.805335946373294
+2023,1.6,"Biological sciences",87,4740,0.818512051990882
+2024,1.6,"Biological sciences",89,6018,0.830967770844769
+2025,1.6,"Biological sciences",103,7848,0.849103846877072

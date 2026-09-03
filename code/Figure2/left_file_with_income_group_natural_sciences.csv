@@ -1,0 +1,2640 @@
+﻿Country,Year,Paper_Count,Country_std,Category,Income group
+Afghanistan,2023,3,Afghanistan,Developing,Low income
+Afghanistan,2025,3,Afghanistan,Developing,Low income
+Albania,2011,1,Albania,Developing,Upper middle income
+Albania,2014,1,Albania,Developing,Upper middle income
+Albania,2016,1,Albania,Developing,Upper middle income
+Albania,2021,1,Albania,Developing,Upper middle income
+Albania,2023,2,Albania,Developing,Upper middle income
+Albania,2024,3,Albania,Developing,Upper middle income
+Algeria,1997,1,Algeria,Developing,Upper middle income
+Algeria,1999,1,Algeria,Developing,Upper middle income
+Algeria,2001,1,Algeria,Developing,Upper middle income
+Algeria,2003,1,Algeria,Developing,Upper middle income
+Algeria,2004,4,Algeria,Developing,Upper middle income
+Algeria,2005,1,Algeria,Developing,Upper middle income
+Algeria,2006,4,Algeria,Developing,Upper middle income
+Algeria,2007,6,Algeria,Developing,Upper middle income
+Algeria,2008,2,Algeria,Developing,Upper middle income
+Algeria,2009,4,Algeria,Developing,Upper middle income
+Algeria,2010,9,Algeria,Developing,Upper middle income
+Algeria,2011,5,Algeria,Developing,Upper middle income
+Algeria,2012,13,Algeria,Developing,Upper middle income
+Algeria,2013,17,Algeria,Developing,Upper middle income
+Algeria,2014,18,Algeria,Developing,Upper middle income
+Algeria,2015,20,Algeria,Developing,Upper middle income
+Algeria,2016,24,Algeria,Developing,Upper middle income
+Algeria,2017,44,Algeria,Developing,Upper middle income
+Algeria,2018,54,Algeria,Developing,Upper middle income
+Algeria,2019,62,Algeria,Developing,Upper middle income
+Algeria,2020,94,Algeria,Developing,Upper middle income
+Algeria,2021,121,Algeria,Developing,Upper middle income
+Algeria,2022,150,Algeria,Developing,Upper middle income
+Algeria,2023,167,Algeria,Developing,Upper middle income
+Algeria,2024,175,Algeria,Developing,Upper middle income
+Algeria,2025,291,Algeria,Developing,Upper middle income
+Andorra,2024,1,Andorra,,High income
+Angola,2012,1,Angola,Developing,Lower middle income
+Angola,2013,1,Angola,Developing,Lower middle income
+Angola,2023,2,Angola,Developing,Lower middle income
+Angola,2025,1,Angola,Developing,Lower middle income
+Argentina,1992,1,Argentina,Developing,Upper middle income
+Argentina,1996,1,Argentina,Developing,Upper middle income
+Argentina,1997,1,Argentina,Developing,Upper middle income
+Argentina,1998,1,Argentina,Developing,Upper middle income
+Argentina,1999,2,Argentina,Developing,Upper middle income
+Argentina,2001,4,Argentina,Developing,Upper middle income
+Argentina,2002,4,Argentina,Developing,Upper middle income
+Argentina,2003,5,Argentina,Developing,Upper middle income
+Argentina,2004,6,Argentina,Developing,Upper middle income
+Argentina,2005,7,Argentina,Developing,Upper middle income
+Argentina,2006,6,Argentina,Developing,Upper middle income
+Argentina,2007,11,Argentina,Developing,Upper middle income
+Argentina,2008,7,Argentina,Developing,Upper middle income
+Argentina,2009,9,Argentina,Developing,Upper middle income
+Argentina,2010,14,Argentina,Developing,Upper middle income
+Argentina,2011,8,Argentina,Developing,Upper middle income
+Argentina,2012,9,Argentina,Developing,Upper middle income
+Argentina,2013,9,Argentina,Developing,Upper middle income
+Argentina,2014,20,Argentina,Developing,Upper middle income
+Argentina,2015,7,Argentina,Developing,Upper middle income
+Argentina,2016,19,Argentina,Developing,Upper middle income
+Argentina,2017,19,Argentina,Developing,Upper middle income
+Argentina,2018,25,Argentina,Developing,Upper middle income
+Argentina,2019,37,Argentina,Developing,Upper middle income
+Argentina,2020,47,Argentina,Developing,Upper middle income
+Argentina,2021,54,Argentina,Developing,Upper middle income
+Argentina,2022,56,Argentina,Developing,Upper middle income
+Argentina,2023,56,Argentina,Developing,Upper middle income
+Argentina,2024,54,Argentina,Developing,Upper middle income
+Argentina,2025,79,Argentina,Developing,Upper middle income
+Armenia,2008,1,Armenia,Developing,Upper middle income
+Armenia,2011,1,Armenia,Developing,Upper middle income
+Armenia,2013,2,Armenia,Developing,Upper middle income
+Armenia,2018,1,Armenia,Developing,Upper middle income
+Armenia,2019,2,Armenia,Developing,Upper middle income
+Armenia,2020,3,Armenia,Developing,Upper middle income
+Armenia,2021,8,Armenia,Developing,Upper middle income
+Armenia,2022,3,Armenia,Developing,Upper middle income
+Armenia,2023,22,Armenia,Developing,Upper middle income
+Armenia,2024,13,Armenia,Developing,Upper middle income
+Armenia,2025,15,Armenia,Developing,Upper middle income
+Australia,1992,2,Australia,Developed,High income
+Australia,1994,2,Australia,Developed,High income
+Australia,1995,4,Australia,Developed,High income
+Australia,1996,22,Australia,Developed,High income
+Australia,1997,25,Australia,Developed,High income
+Australia,1998,41,Australia,Developed,High income
+Australia,1999,32,Australia,Developed,High income
+Australia,2000,33,Australia,Developed,High income
+Australia,2001,34,Australia,Developed,High income
+Australia,2002,27,Australia,Developed,High income
+Australia,2003,54,Australia,Developed,High income
+Australia,2004,60,Australia,Developed,High income
+Australia,2005,71,Australia,Developed,High income
+Australia,2006,74,Australia,Developed,High income
+Australia,2007,52,Australia,Developed,High income
+Australia,2008,50,Australia,Developed,High income
+Australia,2009,54,Australia,Developed,High income
+Australia,2010,58,Australia,Developed,High income
+Australia,2011,64,Australia,Developed,High income
+Australia,2012,72,Australia,Developed,High income
+Australia,2013,107,Australia,Developed,High income
+Australia,2014,122,Australia,Developed,High income
+Australia,2015,134,Australia,Developed,High income
+Australia,2016,142,Australia,Developed,High income
+Australia,2017,194,Australia,Developed,High income
+Australia,2018,271,Australia,Developed,High income
+Australia,2019,379,Australia,Developed,High income
+Australia,2020,550,Australia,Developed,High income
+Australia,2021,783,Australia,Developed,High income
+Australia,2022,801,Australia,Developed,High income
+Australia,2023,851,Australia,Developed,High income
+Australia,2024,871,Australia,Developed,High income
+Australia,2025,1074,Australia,Developed,High income
+Austria,1991,1,Austria,Developed,High income
+Austria,1994,1,Austria,Developed,High income
+Austria,1995,2,Austria,Developed,High income
+Austria,1996,6,Austria,Developed,High income
+Austria,1997,3,Austria,Developed,High income
+Austria,1998,4,Austria,Developed,High income
+Austria,1999,3,Austria,Developed,High income
+Austria,2000,11,Austria,Developed,High income
+Austria,2001,12,Austria,Developed,High income
+Austria,2002,8,Austria,Developed,High income
+Austria,2003,9,Austria,Developed,High income
+Austria,2004,13,Austria,Developed,High income
+Austria,2005,7,Austria,Developed,High income
+Austria,2006,16,Austria,Developed,High income
+Austria,2007,6,Austria,Developed,High income
+Austria,2008,13,Austria,Developed,High income
+Austria,2009,10,Austria,Developed,High income
+Austria,2010,14,Austria,Developed,High income
+Austria,2011,12,Austria,Developed,High income
+Austria,2012,13,Austria,Developed,High income
+Austria,2013,18,Austria,Developed,High income
+Austria,2014,25,Austria,Developed,High income
+Austria,2015,30,Austria,Developed,High income
+Austria,2016,20,Austria,Developed,High income
+Austria,2017,36,Austria,Developed,High income
+Austria,2018,57,Austria,Developed,High income
+Austria,2019,71,Austria,Developed,High income
+Austria,2020,127,Austria,Developed,High income
+Austria,2021,169,Austria,Developed,High income
+Austria,2022,155,Austria,Developed,High income
+Austria,2023,147,Austria,Developed,High income
+Austria,2024,175,Austria,Developed,High income
+Austria,2025,224,Austria,Developed,High income
+Azerbaijan,2011,1,Azerbaijan,Developing,Upper middle income
+Azerbaijan,2016,2,Azerbaijan,Developing,Upper middle income
+Azerbaijan,2018,1,Azerbaijan,Developing,Upper middle income
+Azerbaijan,2019,2,Azerbaijan,Developing,Upper middle income
+Azerbaijan,2020,1,Azerbaijan,Developing,Upper middle income
+Azerbaijan,2021,4,Azerbaijan,Developing,Upper middle income
+Azerbaijan,2022,3,Azerbaijan,Developing,Upper middle income
+Azerbaijan,2023,1,Azerbaijan,Developing,Upper middle income
+Azerbaijan,2024,2,Azerbaijan,Developing,Upper middle income
+Azerbaijan,2025,3,Azerbaijan,Developing,Upper middle income
+Bahrain,2007,1,Bahrain,Developing,High income
+Bahrain,2009,1,Bahrain,Developing,High income
+Bahrain,2013,1,Bahrain,Developing,High income
+Bahrain,2017,1,Bahrain,Developing,High income
+Bahrain,2018,2,Bahrain,Developing,High income
+Bahrain,2019,2,Bahrain,Developing,High income
+Bahrain,2020,1,Bahrain,Developing,High income
+Bahrain,2021,4,Bahrain,Developing,High income
+Bahrain,2022,7,Bahrain,Developing,High income
+Bahrain,2023,3,Bahrain,Developing,High income
+Bahrain,2024,5,Bahrain,Developing,High income
+Bahrain,2025,5,Bahrain,Developing,High income
+Bangladesh,1998,1,Bangladesh,Developing,Lower middle income
+Bangladesh,2000,1,Bangladesh,Developing,Lower middle income
+Bangladesh,2002,2,Bangladesh,Developing,Lower middle income
+Bangladesh,2004,1,Bangladesh,Developing,Lower middle income
+Bangladesh,2008,3,Bangladesh,Developing,Lower middle income
+Bangladesh,2009,3,Bangladesh,Developing,Lower middle income
+Bangladesh,2010,2,Bangladesh,Developing,Lower middle income
+Bangladesh,2011,3,Bangladesh,Developing,Lower middle income
+Bangladesh,2012,1,Bangladesh,Developing,Lower middle income
+Bangladesh,2013,2,Bangladesh,Developing,Lower middle income
+Bangladesh,2014,5,Bangladesh,Developing,Lower middle income
+Bangladesh,2015,2,Bangladesh,Developing,Lower middle income
+Bangladesh,2016,5,Bangladesh,Developing,Lower middle income
+Bangladesh,2017,14,Bangladesh,Developing,Lower middle income
+Bangladesh,2018,15,Bangladesh,Developing,Lower middle income
+Bangladesh,2019,18,Bangladesh,Developing,Lower middle income
+Bangladesh,2020,53,Bangladesh,Developing,Lower middle income
+Bangladesh,2021,101,Bangladesh,Developing,Lower middle income
+Bangladesh,2022,133,Bangladesh,Developing,Lower middle income
+Bangladesh,2023,144,Bangladesh,Developing,Lower middle income
+Bangladesh,2024,178,Bangladesh,Developing,Lower middle income
+Bangladesh,2025,253,Bangladesh,Developing,Lower middle income
+Belarus,2004,1,Belarus,,Upper middle income
+Belarus,2006,1,Belarus,,Upper middle income
+Belarus,2019,4,Belarus,,Upper middle income
+Belarus,2020,1,Belarus,,Upper middle income
+Belarus,2021,4,Belarus,,Upper middle income
+Belarus,2022,2,Belarus,,Upper middle income
+Belarus,2023,2,Belarus,,Upper middle income
+Belarus,2024,2,Belarus,,Upper middle income
+Belarus,2025,6,Belarus,,Upper middle income
+Belgium,1994,1,Belgium,Developed,High income
+Belgium,1995,4,Belgium,Developed,High income
+Belgium,1996,7,Belgium,Developed,High income
+Belgium,1997,7,Belgium,Developed,High income
+Belgium,1998,8,Belgium,Developed,High income
+Belgium,1999,6,Belgium,Developed,High income
+Belgium,2000,14,Belgium,Developed,High income
+Belgium,2001,15,Belgium,Developed,High income
+Belgium,2002,16,Belgium,Developed,High income
+Belgium,2003,10,Belgium,Developed,High income
+Belgium,2004,24,Belgium,Developed,High income
+Belgium,2005,22,Belgium,Developed,High income
+Belgium,2006,28,Belgium,Developed,High income
+Belgium,2007,22,Belgium,Developed,High income
+Belgium,2008,32,Belgium,Developed,High income
+Belgium,2009,28,Belgium,Developed,High income
+Belgium,2010,35,Belgium,Developed,High income
+Belgium,2011,42,Belgium,Developed,High income
+Belgium,2012,38,Belgium,Developed,High income
+Belgium,2013,30,Belgium,Developed,High income
+Belgium,2014,53,Belgium,Developed,High income
+Belgium,2015,59,Belgium,Developed,High income
+Belgium,2016,51,Belgium,Developed,High income
+Belgium,2017,64,Belgium,Developed,High income
+Belgium,2018,75,Belgium,Developed,High income
+Belgium,2019,78,Belgium,Developed,High income
+Belgium,2020,132,Belgium,Developed,High income
+Belgium,2021,187,Belgium,Developed,High income
+Belgium,2022,176,Belgium,Developed,High income
+Belgium,2023,199,Belgium,Developed,High income
+Belgium,2024,213,Belgium,Developed,High income
+Belgium,2025,232,Belgium,Developed,High income
+Belize,2020,1,Belize,,Upper middle income
+Benin,2016,1,Benin,Developing,Lower middle income
+Benin,2021,3,Benin,Developing,Lower middle income
+Benin,2022,3,Benin,Developing,Lower middle income
+Benin,2023,5,Benin,Developing,Lower middle income
+Benin,2024,3,Benin,Developing,Lower middle income
+Benin,2025,3,Benin,Developing,Lower middle income
+Bhutan,2020,1,Bhutan,Developing,Lower middle income
+Bhutan,2021,1,Bhutan,Developing,Lower middle income
+Bhutan,2025,2,Bhutan,Developing,Lower middle income
+Bolivia,2020,1,Bolivia,Developing,Lower middle income
+Bolivia,2024,1,Bolivia,Developing,Lower middle income
+Bosnia and Herzegovina,2005,1,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2010,3,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2012,1,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2013,3,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2015,2,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2016,5,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2017,1,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2018,4,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2019,4,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2020,6,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2021,3,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2022,6,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2023,3,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2024,7,Bosnia and Herzegovina,,Upper middle income
+Bosnia and Herzegovina,2025,4,Bosnia and Herzegovina,,Upper middle income
+Botswana,2005,1,Botswana,Developing,Upper middle income
+Botswana,2006,1,Botswana,Developing,Upper middle income
+Botswana,2014,1,Botswana,Developing,Upper middle income
+Botswana,2015,1,Botswana,Developing,Upper middle income
+Botswana,2016,1,Botswana,Developing,Upper middle income
+Botswana,2018,1,Botswana,Developing,Upper middle income
+Botswana,2019,3,Botswana,Developing,Upper middle income
+Botswana,2020,2,Botswana,Developing,Upper middle income
+Botswana,2021,2,Botswana,Developing,Upper middle income
+Botswana,2022,5,Botswana,Developing,Upper middle income
+Botswana,2023,3,Botswana,Developing,Upper middle income
+Botswana,2024,4,Botswana,Developing,Upper middle income
+Botswana,2025,3,Botswana,Developing,Upper middle income
+Brazil,1994,1,Brazil,Developing,Upper middle income
+Brazil,1995,1,Brazil,Developing,Upper middle income
+Brazil,1996,7,Brazil,Developing,Upper middle income
+Brazil,1997,8,Brazil,Developing,Upper middle income
+Brazil,1998,9,Brazil,Developing,Upper middle income
+Brazil,1999,11,Brazil,Developing,Upper middle income
+Brazil,2000,18,Brazil,Developing,Upper middle income
+Brazil,2001,21,Brazil,Developing,Upper middle income
+Brazil,2002,25,Brazil,Developing,Upper middle income
+Brazil,2003,17,Brazil,Developing,Upper middle income
+Brazil,2004,50,Brazil,Developing,Upper middle income
+Brazil,2005,39,Brazil,Developing,Upper middle income
+Brazil,2006,49,Brazil,Developing,Upper middle income
+Brazil,2007,37,Brazil,Developing,Upper middle income
+Brazil,2008,37,Brazil,Developing,Upper middle income
+Brazil,2009,42,Brazil,Developing,Upper middle income
+Brazil,2010,46,Brazil,Developing,Upper middle income
+Brazil,2011,57,Brazil,Developing,Upper middle income
+Brazil,2012,52,Brazil,Developing,Upper middle income
+Brazil,2013,65,Brazil,Developing,Upper middle income
+Brazil,2014,89,Brazil,Developing,Upper middle income
+Brazil,2015,88,Brazil,Developing,Upper middle income
+Brazil,2016,120,Brazil,Developing,Upper middle income
+Brazil,2017,150,Brazil,Developing,Upper middle income
+Brazil,2018,201,Brazil,Developing,Upper middle income
+Brazil,2019,323,Brazil,Developing,Upper middle income
+Brazil,2020,506,Brazil,Developing,Upper middle income
+Brazil,2021,589,Brazil,Developing,Upper middle income
+Brazil,2022,625,Brazil,Developing,Upper middle income
+Brazil,2023,631,Brazil,Developing,Upper middle income
+Brazil,2024,668,Brazil,Developing,Upper middle income
+Brazil,2025,827,Brazil,Developing,Upper middle income
+Brunei,2008,2,Brunei Darussalam,Developing,High income
+Brunei,2014,1,Brunei Darussalam,Developing,High income
+Brunei,2016,1,Brunei Darussalam,Developing,High income
+Brunei,2017,1,Brunei Darussalam,Developing,High income
+Brunei,2018,7,Brunei Darussalam,Developing,High income
+Brunei,2019,1,Brunei Darussalam,Developing,High income
+Brunei,2020,4,Brunei Darussalam,Developing,High income
+Brunei,2021,3,Brunei Darussalam,Developing,High income
+Brunei,2022,8,Brunei Darussalam,Developing,High income
+Brunei,2023,7,Brunei Darussalam,Developing,High income
+Brunei,2024,6,Brunei Darussalam,Developing,High income
+Brunei,2025,9,Brunei Darussalam,Developing,High income
+Bulgaria,1994,1,Bulgaria,Developing,High income
+Bulgaria,1995,1,Bulgaria,Developing,High income
+Bulgaria,1996,3,Bulgaria,Developing,High income
+Bulgaria,1997,2,Bulgaria,Developing,High income
+Bulgaria,1998,4,Bulgaria,Developing,High income
+Bulgaria,1999,3,Bulgaria,Developing,High income
+Bulgaria,2000,1,Bulgaria,Developing,High income
+Bulgaria,2001,2,Bulgaria,Developing,High income
+Bulgaria,2002,1,Bulgaria,Developing,High income
+Bulgaria,2003,1,Bulgaria,Developing,High income
+Bulgaria,2004,1,Bulgaria,Developing,High income
+Bulgaria,2005,2,Bulgaria,Developing,High income
+Bulgaria,2006,1,Bulgaria,Developing,High income
+Bulgaria,2008,1,Bulgaria,Developing,High income
+Bulgaria,2009,2,Bulgaria,Developing,High income
+Bulgaria,2010,3,Bulgaria,Developing,High income
+Bulgaria,2011,3,Bulgaria,Developing,High income
+Bulgaria,2012,4,Bulgaria,Developing,High income
+Bulgaria,2013,4,Bulgaria,Developing,High income
+Bulgaria,2014,4,Bulgaria,Developing,High income
+Bulgaria,2015,2,Bulgaria,Developing,High income
+Bulgaria,2016,2,Bulgaria,Developing,High income
+Bulgaria,2017,2,Bulgaria,Developing,High income
+Bulgaria,2018,3,Bulgaria,Developing,High income
+Bulgaria,2019,3,Bulgaria,Developing,High income
+Bulgaria,2020,4,Bulgaria,Developing,High income
+Bulgaria,2021,10,Bulgaria,Developing,High income
+Bulgaria,2022,9,Bulgaria,Developing,High income
+Bulgaria,2023,18,Bulgaria,Developing,High income
+Bulgaria,2024,27,Bulgaria,Developing,High income
+Bulgaria,2025,30,Bulgaria,Developing,High income
+Burkina Faso,2013,1,Burkina Faso,Developing,Low income
+Burkina Faso,2014,1,Burkina Faso,Developing,Low income
+Burkina Faso,2017,2,Burkina Faso,Developing,Low income
+Burkina Faso,2018,2,Burkina Faso,Developing,Low income
+Burkina Faso,2019,1,Burkina Faso,Developing,Low income
+Burkina Faso,2020,3,Burkina Faso,Developing,Low income
+Burkina Faso,2022,1,Burkina Faso,Developing,Low income
+Burkina Faso,2023,1,Burkina Faso,Developing,Low income
+Burkina Faso,2024,1,Burkina Faso,Developing,Low income
+Burkina Faso,2025,3,Burkina Faso,Developing,Low income
+Cambodia,2020,1,Cambodia,Developing,Lower middle income
+Cambodia,2021,1,Cambodia,Developing,Lower middle income
+Cambodia,2023,1,Cambodia,Developing,Lower middle income
+Cambodia,2024,1,Cambodia,Developing,Lower middle income
+Cambodia,2025,3,Cambodia,Developing,Lower middle income
+Cameroon,2003,1,Cameroon,Developing,Lower middle income
+Cameroon,2008,1,Cameroon,Developing,Lower middle income
+Cameroon,2013,1,Cameroon,Developing,Lower middle income
+Cameroon,2014,1,Cameroon,Developing,Lower middle income
+Cameroon,2016,1,Cameroon,Developing,Lower middle income
+Cameroon,2018,2,Cameroon,Developing,Lower middle income
+Cameroon,2019,1,Cameroon,Developing,Lower middle income
+Cameroon,2020,4,Cameroon,Developing,Lower middle income
+Cameroon,2021,1,Cameroon,Developing,Lower middle income
+Cameroon,2022,8,Cameroon,Developing,Lower middle income
+Cameroon,2023,9,Cameroon,Developing,Lower middle income
+Cameroon,2024,17,Cameroon,Developing,Lower middle income
+Cameroon,2025,20,Cameroon,Developing,Lower middle income
+Canada,1991,1,Canada,Developed,High income
+Canada,1992,1,Canada,Developed,High income
+Canada,1994,2,Canada,Developed,High income
+Canada,1995,2,Canada,Developed,High income
+Canada,1996,23,Canada,Developed,High income
+Canada,1997,30,Canada,Developed,High income
+Canada,1998,37,Canada,Developed,High income
+Canada,1999,29,Canada,Developed,High income
+Canada,2000,35,Canada,Developed,High income
+Canada,2001,40,Canada,Developed,High income
+Canada,2002,43,Canada,Developed,High income
+Canada,2003,33,Canada,Developed,High income
+Canada,2004,53,Canada,Developed,High income
+Canada,2005,83,Canada,Developed,High income
+Canada,2006,94,Canada,Developed,High income
+Canada,2007,62,Canada,Developed,High income
+Canada,2008,80,Canada,Developed,High income
+Canada,2009,85,Canada,Developed,High income
+Canada,2010,102,Canada,Developed,High income
+Canada,2011,101,Canada,Developed,High income
+Canada,2012,115,Canada,Developed,High income
+Canada,2013,93,Canada,Developed,High income
+Canada,2014,115,Canada,Developed,High income
+Canada,2015,115,Canada,Developed,High income
+Canada,2016,157,Canada,Developed,High income
+Canada,2017,208,Canada,Developed,High income
+Canada,2018,295,Canada,Developed,High income
+Canada,2019,383,Canada,Developed,High income
+Canada,2020,589,Canada,Developed,High income
+Canada,2021,767,Canada,Developed,High income
+Canada,2022,892,Canada,Developed,High income
+Canada,2023,824,Canada,Developed,High income
+Canada,2024,1074,Canada,Developed,High income
+Canada,2025,1189,Canada,Developed,High income
+Cayman Islands (UK),2025,1,Cayman Islands,,High income
+Central African Republic,2022,1,Central African Republic,,Low income
+Chad,2025,1,Chad,,Low income
+Chile,1996,1,Chile,Developed,High income
+Chile,1998,1,Chile,Developed,High income
+Chile,1999,1,Chile,Developed,High income
+Chile,2001,1,Chile,Developed,High income
+Chile,2002,2,Chile,Developed,High income
+Chile,2003,3,Chile,Developed,High income
+Chile,2004,3,Chile,Developed,High income
+Chile,2005,6,Chile,Developed,High income
+Chile,2006,9,Chile,Developed,High income
+Chile,2007,1,Chile,Developed,High income
+Chile,2008,3,Chile,Developed,High income
+Chile,2009,9,Chile,Developed,High income
+Chile,2010,8,Chile,Developed,High income
+Chile,2011,7,Chile,Developed,High income
+Chile,2012,8,Chile,Developed,High income
+Chile,2013,5,Chile,Developed,High income
+Chile,2014,18,Chile,Developed,High income
+Chile,2015,19,Chile,Developed,High income
+Chile,2016,22,Chile,Developed,High income
+Chile,2017,32,Chile,Developed,High income
+Chile,2018,38,Chile,Developed,High income
+Chile,2019,44,Chile,Developed,High income
+Chile,2020,66,Chile,Developed,High income
+Chile,2021,83,Chile,Developed,High income
+Chile,2022,86,Chile,Developed,High income
+Chile,2023,111,Chile,Developed,High income
+Chile,2024,124,Chile,Developed,High income
+Chile,2025,163,Chile,Developed,High income
+China,1992,2,China,Developing,Upper middle income
+China,1994,2,China,Developing,Upper middle income
+China,1996,27,China,Developing,Upper middle income
+China,1997,27,China,Developing,Upper middle income
+China,1998,26,China,Developing,Upper middle income
+China,1999,43,China,Developing,Upper middle income
+China,2000,55,China,Developing,Upper middle income
+China,2001,61,China,Developing,Upper middle income
+China,2002,65,China,Developing,Upper middle income
+China,2003,94,China,Developing,Upper middle income
+China,2004,218,China,Developing,Upper middle income
+China,2005,386,China,Developing,Upper middle income
+China,2006,511,China,Developing,Upper middle income
+China,2007,309,China,Developing,Upper middle income
+China,2008,336,China,Developing,Upper middle income
+China,2009,480,China,Developing,Upper middle income
+China,2010,456,China,Developing,Upper middle income
+China,2011,594,China,Developing,Upper middle income
+China,2012,698,China,Developing,Upper middle income
+China,2013,931,China,Developing,Upper middle income
+China,2014,1189,China,Developing,Upper middle income
+China,2015,1367,China,Developing,Upper middle income
+China,2016,1767,China,Developing,Upper middle income
+China,2017,2458,China,Developing,Upper middle income
+China,2018,3776,China,Developing,Upper middle income
+China,2019,6371,China,Developing,Upper middle income
+China,2020,9787,China,Developing,Upper middle income
+China,2021,15487,China,Developing,Upper middle income
+China,2022,22634,China,Developing,Upper middle income
+China,2023,23901,China,Developing,Upper middle income
+China,2024,31168,China,Developing,Upper middle income
+China,2025,42264,China,Developing,Upper middle income
+Colombia,1996,1,Colombia,Developing,Upper middle income
+Colombia,1999,2,Colombia,Developing,Upper middle income
+Colombia,2000,1,Colombia,Developing,Upper middle income
+Colombia,2001,2,Colombia,Developing,Upper middle income
+Colombia,2007,1,Colombia,Developing,Upper middle income
+Colombia,2008,1,Colombia,Developing,Upper middle income
+Colombia,2009,4,Colombia,Developing,Upper middle income
+Colombia,2010,2,Colombia,Developing,Upper middle income
+Colombia,2011,2,Colombia,Developing,Upper middle income
+Colombia,2012,6,Colombia,Developing,Upper middle income
+Colombia,2013,4,Colombia,Developing,Upper middle income
+Colombia,2014,5,Colombia,Developing,Upper middle income
+Colombia,2015,12,Colombia,Developing,Upper middle income
+Colombia,2016,2,Colombia,Developing,Upper middle income
+Colombia,2017,17,Colombia,Developing,Upper middle income
+Colombia,2018,21,Colombia,Developing,Upper middle income
+Colombia,2019,23,Colombia,Developing,Upper middle income
+Colombia,2020,53,Colombia,Developing,Upper middle income
+Colombia,2021,90,Colombia,Developing,Upper middle income
+Colombia,2022,84,Colombia,Developing,Upper middle income
+Colombia,2023,82,Colombia,Developing,Upper middle income
+Colombia,2024,116,Colombia,Developing,Upper middle income
+Colombia,2025,123,Colombia,Developing,Upper middle income
+Congo,2023,1,"Congo, Rep.",,Lower middle income
+Congo,2024,2,"Congo, Rep.",,Lower middle income
+Costa Rica,2007,1,Costa Rica,Developing,High income
+Costa Rica,2010,1,Costa Rica,Developing,High income
+Costa Rica,2016,1,Costa Rica,Developing,High income
+Costa Rica,2017,3,Costa Rica,Developing,High income
+Costa Rica,2018,1,Costa Rica,Developing,High income
+Costa Rica,2020,3,Costa Rica,Developing,High income
+Costa Rica,2021,7,Costa Rica,Developing,High income
+Costa Rica,2022,3,Costa Rica,Developing,High income
+Costa Rica,2023,2,Costa Rica,Developing,High income
+Costa Rica,2024,5,Costa Rica,Developing,High income
+Costa Rica,2025,5,Costa Rica,Developing,High income
+Croatia,1994,2,Croatia,Developing,High income
+Croatia,1995,2,Croatia,Developing,High income
+Croatia,1996,1,Croatia,Developing,High income
+Croatia,1998,1,Croatia,Developing,High income
+Croatia,1999,1,Croatia,Developing,High income
+Croatia,2000,7,Croatia,Developing,High income
+Croatia,2001,1,Croatia,Developing,High income
+Croatia,2002,3,Croatia,Developing,High income
+Croatia,2004,2,Croatia,Developing,High income
+Croatia,2005,5,Croatia,Developing,High income
+Croatia,2006,4,Croatia,Developing,High income
+Croatia,2007,6,Croatia,Developing,High income
+Croatia,2008,3,Croatia,Developing,High income
+Croatia,2009,6,Croatia,Developing,High income
+Croatia,2010,8,Croatia,Developing,High income
+Croatia,2011,6,Croatia,Developing,High income
+Croatia,2012,7,Croatia,Developing,High income
+Croatia,2013,6,Croatia,Developing,High income
+Croatia,2014,10,Croatia,Developing,High income
+Croatia,2015,13,Croatia,Developing,High income
+Croatia,2016,7,Croatia,Developing,High income
+Croatia,2017,8,Croatia,Developing,High income
+Croatia,2018,9,Croatia,Developing,High income
+Croatia,2019,15,Croatia,Developing,High income
+Croatia,2020,35,Croatia,Developing,High income
+Croatia,2021,40,Croatia,Developing,High income
+Croatia,2022,62,Croatia,Developing,High income
+Croatia,2023,45,Croatia,Developing,High income
+Croatia,2024,57,Croatia,Developing,High income
+Croatia,2025,61,Croatia,Developing,High income
+Cuba,1999,1,Cuba,Developing,Upper middle income
+Cuba,2001,1,Cuba,Developing,Upper middle income
+Cuba,2002,1,Cuba,Developing,Upper middle income
+Cuba,2003,1,Cuba,Developing,Upper middle income
+Cuba,2004,3,Cuba,Developing,Upper middle income
+Cuba,2005,4,Cuba,Developing,Upper middle income
+Cuba,2006,8,Cuba,Developing,Upper middle income
+Cuba,2007,7,Cuba,Developing,Upper middle income
+Cuba,2008,4,Cuba,Developing,Upper middle income
+Cuba,2009,1,Cuba,Developing,Upper middle income
+Cuba,2011,3,Cuba,Developing,Upper middle income
+Cuba,2012,1,Cuba,Developing,Upper middle income
+Cuba,2013,2,Cuba,Developing,Upper middle income
+Cuba,2014,4,Cuba,Developing,Upper middle income
+Cuba,2015,6,Cuba,Developing,Upper middle income
+Cuba,2016,4,Cuba,Developing,Upper middle income
+Cuba,2017,5,Cuba,Developing,Upper middle income
+Cuba,2018,6,Cuba,Developing,Upper middle income
+Cuba,2019,7,Cuba,Developing,Upper middle income
+Cuba,2020,3,Cuba,Developing,Upper middle income
+Cuba,2021,13,Cuba,Developing,Upper middle income
+Cuba,2022,7,Cuba,Developing,Upper middle income
+Cuba,2023,2,Cuba,Developing,Upper middle income
+Cuba,2024,9,Cuba,Developing,Upper middle income
+Cuba,2025,6,Cuba,Developing,Upper middle income
+Cyprus,1996,1,Cyprus,Developed,High income
+Cyprus,1997,2,Cyprus,Developed,High income
+Cyprus,1998,1,Cyprus,Developed,High income
+Cyprus,1999,1,Cyprus,Developed,High income
+Cyprus,2001,2,Cyprus,Developed,High income
+Cyprus,2002,3,Cyprus,Developed,High income
+Cyprus,2005,1,Cyprus,Developed,High income
+Cyprus,2007,2,Cyprus,Developed,High income
+Cyprus,2009,2,Cyprus,Developed,High income
+Cyprus,2010,4,Cyprus,Developed,High income
+Cyprus,2011,7,Cyprus,Developed,High income
+Cyprus,2012,8,Cyprus,Developed,High income
+Cyprus,2013,6,Cyprus,Developed,High income
+Cyprus,2014,1,Cyprus,Developed,High income
+Cyprus,2015,4,Cyprus,Developed,High income
+Cyprus,2016,6,Cyprus,Developed,High income
+Cyprus,2017,2,Cyprus,Developed,High income
+Cyprus,2018,4,Cyprus,Developed,High income
+Cyprus,2019,9,Cyprus,Developed,High income
+Cyprus,2020,19,Cyprus,Developed,High income
+Cyprus,2021,18,Cyprus,Developed,High income
+Cyprus,2022,23,Cyprus,Developed,High income
+Cyprus,2023,25,Cyprus,Developed,High income
+Cyprus,2024,31,Cyprus,Developed,High income
+Cyprus,2025,47,Cyprus,Developed,High income
+Czech Republic,1996,2,Czechia,Developed,High income
+Czech Republic,1997,5,Czechia,Developed,High income
+Czech Republic,1998,1,Czechia,Developed,High income
+Czech Republic,1999,9,Czechia,Developed,High income
+Czech Republic,2000,7,Czechia,Developed,High income
+Czech Republic,2001,8,Czechia,Developed,High income
+Czech Republic,2002,9,Czechia,Developed,High income
+Czech Republic,2003,3,Czechia,Developed,High income
+Czech Republic,2004,7,Czechia,Developed,High income
+Czech Republic,2005,13,Czechia,Developed,High income
+Czech Republic,2006,12,Czechia,Developed,High income
+Czech Republic,2007,9,Czechia,Developed,High income
+Czech Republic,2008,5,Czechia,Developed,High income
+Czech Republic,2009,10,Czechia,Developed,High income
+Czech Republic,2010,7,Czechia,Developed,High income
+Czech Republic,2011,12,Czechia,Developed,High income
+Czech Republic,2012,13,Czechia,Developed,High income
+Czech Republic,2013,14,Czechia,Developed,High income
+Czech Republic,2014,14,Czechia,Developed,High income
+Czech Republic,2015,18,Czechia,Developed,High income
+Czech Republic,2016,21,Czechia,Developed,High income
+Czech Republic,2017,24,Czechia,Developed,High income
+Czech Republic,2018,31,Czechia,Developed,High income
+Czech Republic,2019,46,Czechia,Developed,High income
+Czech Republic,2020,66,Czechia,Developed,High income
+Czech Republic,2021,99,Czechia,Developed,High income
+Czech Republic,2022,103,Czechia,Developed,High income
+Czech Republic,2023,122,Czechia,Developed,High income
+Czech Republic,2024,128,Czechia,Developed,High income
+Czech Republic,2025,157,Czechia,Developed,High income
+Democratic Republic of the Congo,2021,1,"Congo, Dem. Rep.",,Low income
+Democratic Republic of the Congo,2022,3,"Congo, Dem. Rep.",,Low income
+Democratic Republic of the Congo,2023,1,"Congo, Dem. Rep.",,Low income
+Democratic Republic of the Congo,2024,2,"Congo, Dem. Rep.",,Low income
+Democratic Republic of the Congo,2025,3,"Congo, Dem. Rep.",,Low income
+Denmark,1994,2,Denmark,Developed,High income
+Denmark,1996,5,Denmark,Developed,High income
+Denmark,1997,3,Denmark,Developed,High income
+Denmark,1999,4,Denmark,Developed,High income
+Denmark,2000,1,Denmark,Developed,High income
+Denmark,2001,6,Denmark,Developed,High income
+Denmark,2002,1,Denmark,Developed,High income
+Denmark,2003,1,Denmark,Developed,High income
+Denmark,2004,13,Denmark,Developed,High income
+Denmark,2005,6,Denmark,Developed,High income
+Denmark,2006,12,Denmark,Developed,High income
+Denmark,2007,8,Denmark,Developed,High income
+Denmark,2008,9,Denmark,Developed,High income
+Denmark,2009,12,Denmark,Developed,High income
+Denmark,2010,9,Denmark,Developed,High income
+Denmark,2011,5,Denmark,Developed,High income
+Denmark,2012,17,Denmark,Developed,High income
+Denmark,2013,15,Denmark,Developed,High income
+Denmark,2014,19,Denmark,Developed,High income
+Denmark,2015,11,Denmark,Developed,High income
+Denmark,2016,18,Denmark,Developed,High income
+Denmark,2017,29,Denmark,Developed,High income
+Denmark,2018,34,Denmark,Developed,High income
+Denmark,2019,60,Denmark,Developed,High income
+Denmark,2020,83,Denmark,Developed,High income
+Denmark,2021,131,Denmark,Developed,High income
+Denmark,2022,142,Denmark,Developed,High income
+Denmark,2023,174,Denmark,Developed,High income
+Denmark,2024,183,Denmark,Developed,High income
+Denmark,2025,212,Denmark,Developed,High income
+Dominican Republic,2021,1,Dominican Republic,,Upper middle income
+Dominican Republic,2022,1,Dominican Republic,,Upper middle income
+Dominican Republic,2024,1,Dominican Republic,,Upper middle income
+Dominican Republic,2025,3,Dominican Republic,,Upper middle income
+Ecuador,2016,8,Ecuador,Developing,Upper middle income
+Ecuador,2017,4,Ecuador,Developing,Upper middle income
+Ecuador,2018,8,Ecuador,Developing,Upper middle income
+Ecuador,2019,15,Ecuador,Developing,Upper middle income
+Ecuador,2020,20,Ecuador,Developing,Upper middle income
+Ecuador,2021,25,Ecuador,Developing,Upper middle income
+Ecuador,2022,23,Ecuador,Developing,Upper middle income
+Ecuador,2023,33,Ecuador,Developing,Upper middle income
+Ecuador,2024,36,Ecuador,Developing,Upper middle income
+Ecuador,2025,55,Ecuador,Developing,Upper middle income
+Egypt,1997,1,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,1998,3,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,1999,3,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2000,4,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2001,4,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2003,1,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2004,3,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2005,1,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2006,1,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2007,3,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2008,6,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2009,6,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2010,2,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2011,18,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2012,15,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2013,16,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2014,18,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2015,23,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2016,28,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2017,23,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2018,47,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2019,72,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2020,115,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2021,238,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2022,326,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2023,337,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2024,321,"Egypt, Arab Rep.",Developing,Lower middle income
+Egypt,2025,367,"Egypt, Arab Rep.",Developing,Lower middle income
+Eritrea,2025,1,Eritrea,,Low income
+Estonia,2003,1,Estonia,Developed,High income
+Estonia,2004,1,Estonia,Developed,High income
+Estonia,2005,3,Estonia,Developed,High income
+Estonia,2006,2,Estonia,Developed,High income
+Estonia,2007,2,Estonia,Developed,High income
+Estonia,2008,1,Estonia,Developed,High income
+Estonia,2009,6,Estonia,Developed,High income
+Estonia,2010,1,Estonia,Developed,High income
+Estonia,2012,2,Estonia,Developed,High income
+Estonia,2013,2,Estonia,Developed,High income
+Estonia,2014,4,Estonia,Developed,High income
+Estonia,2015,1,Estonia,Developed,High income
+Estonia,2016,3,Estonia,Developed,High income
+Estonia,2017,6,Estonia,Developed,High income
+Estonia,2018,6,Estonia,Developed,High income
+Estonia,2019,12,Estonia,Developed,High income
+Estonia,2020,20,Estonia,Developed,High income
+Estonia,2021,29,Estonia,Developed,High income
+Estonia,2022,38,Estonia,Developed,High income
+Estonia,2023,28,Estonia,Developed,High income
+Estonia,2024,38,Estonia,Developed,High income
+Estonia,2025,26,Estonia,Developed,High income
+Federated States of Micronesia,2022,1,"Micronesia, Fed. Sts.",,Lower middle income
+Fiji,2006,1,Fiji,Developing,Upper middle income
+Fiji,2008,1,Fiji,Developing,Upper middle income
+Fiji,2013,3,Fiji,Developing,Upper middle income
+Fiji,2014,1,Fiji,Developing,Upper middle income
+Fiji,2015,3,Fiji,Developing,Upper middle income
+Fiji,2016,3,Fiji,Developing,Upper middle income
+Fiji,2017,3,Fiji,Developing,Upper middle income
+Fiji,2018,2,Fiji,Developing,Upper middle income
+Fiji,2019,4,Fiji,Developing,Upper middle income
+Fiji,2020,4,Fiji,Developing,Upper middle income
+Fiji,2021,4,Fiji,Developing,Upper middle income
+Fiji,2022,4,Fiji,Developing,Upper middle income
+Fiji,2023,2,Fiji,Developing,Upper middle income
+Fiji,2024,2,Fiji,Developing,Upper middle income
+Fiji,2025,4,Fiji,Developing,Upper middle income
+Finland,1992,1,Finland,Developed,High income
+Finland,1993,2,Finland,Developed,High income
+Finland,1995,1,Finland,Developed,High income
+Finland,1996,3,Finland,Developed,High income
+Finland,1997,8,Finland,Developed,High income
+Finland,1998,7,Finland,Developed,High income
+Finland,1999,8,Finland,Developed,High income
+Finland,2000,5,Finland,Developed,High income
+Finland,2001,8,Finland,Developed,High income
+Finland,2002,6,Finland,Developed,High income
+Finland,2003,7,Finland,Developed,High income
+Finland,2004,7,Finland,Developed,High income
+Finland,2005,10,Finland,Developed,High income
+Finland,2006,16,Finland,Developed,High income
+Finland,2007,7,Finland,Developed,High income
+Finland,2008,17,Finland,Developed,High income
+Finland,2009,21,Finland,Developed,High income
+Finland,2010,17,Finland,Developed,High income
+Finland,2011,24,Finland,Developed,High income
+Finland,2012,18,Finland,Developed,High income
+Finland,2013,25,Finland,Developed,High income
+Finland,2014,19,Finland,Developed,High income
+Finland,2015,25,Finland,Developed,High income
+Finland,2016,30,Finland,Developed,High income
+Finland,2017,36,Finland,Developed,High income
+Finland,2018,54,Finland,Developed,High income
+Finland,2019,82,Finland,Developed,High income
+Finland,2020,89,Finland,Developed,High income
+Finland,2021,141,Finland,Developed,High income
+Finland,2022,160,Finland,Developed,High income
+Finland,2023,159,Finland,Developed,High income
+Finland,2024,192,Finland,Developed,High income
+Finland,2025,206,Finland,Developed,High income
+France,1990,2,France,Developed,High income
+France,1991,3,France,Developed,High income
+France,1992,1,France,Developed,High income
+France,1993,3,France,Developed,High income
+France,1994,7,France,Developed,High income
+France,1995,13,France,Developed,High income
+France,1996,26,France,Developed,High income
+France,1997,25,France,Developed,High income
+France,1998,34,France,Developed,High income
+France,1999,45,France,Developed,High income
+France,2000,39,France,Developed,High income
+France,2001,39,France,Developed,High income
+France,2002,51,France,Developed,High income
+France,2003,33,France,Developed,High income
+France,2004,74,France,Developed,High income
+France,2005,74,France,Developed,High income
+France,2006,93,France,Developed,High income
+France,2007,77,France,Developed,High income
+France,2008,72,France,Developed,High income
+France,2009,67,France,Developed,High income
+France,2010,67,France,Developed,High income
+France,2011,106,France,Developed,High income
+France,2012,84,France,Developed,High income
+France,2013,91,France,Developed,High income
+France,2014,97,France,Developed,High income
+France,2015,131,France,Developed,High income
+France,2016,132,France,Developed,High income
+France,2017,168,France,Developed,High income
+France,2018,206,France,Developed,High income
+France,2019,308,France,Developed,High income
+France,2020,448,France,Developed,High income
+France,2021,647,France,Developed,High income
+France,2022,693,France,Developed,High income
+France,2023,711,France,Developed,High income
+France,2024,815,France,Developed,High income
+France,2025,889,France,Developed,High income
+Gabon,2012,1,Gabon,Developing,Upper middle income
+Georgia,1999,1,Georgia,Developing,Upper middle income
+Georgia,2007,1,Georgia,Developing,Upper middle income
+Georgia,2014,1,Georgia,Developing,Upper middle income
+Georgia,2016,1,Georgia,Developing,Upper middle income
+Georgia,2017,4,Georgia,Developing,Upper middle income
+Georgia,2018,1,Georgia,Developing,Upper middle income
+Georgia,2019,5,Georgia,Developing,Upper middle income
+Georgia,2020,3,Georgia,Developing,Upper middle income
+Georgia,2021,3,Georgia,Developing,Upper middle income
+Georgia,2022,3,Georgia,Developing,Upper middle income
+Georgia,2023,3,Georgia,Developing,Upper middle income
+Georgia,2024,2,Georgia,Developing,Upper middle income
+Georgia,2025,2,Georgia,Developing,Upper middle income
+Germany,1990,1,Germany,Developed,High income
+Germany,1991,6,Germany,Developed,High income
+Germany,1992,2,Germany,Developed,High income
+Germany,1993,4,Germany,Developed,High income
+Germany,1994,9,Germany,Developed,High income
+Germany,1995,13,Germany,Developed,High income
+Germany,1996,45,Germany,Developed,High income
+Germany,1997,49,Germany,Developed,High income
+Germany,1998,36,Germany,Developed,High income
+Germany,1999,41,Germany,Developed,High income
+Germany,2000,34,Germany,Developed,High income
+Germany,2001,63,Germany,Developed,High income
+Germany,2002,78,Germany,Developed,High income
+Germany,2003,59,Germany,Developed,High income
+Germany,2004,93,Germany,Developed,High income
+Germany,2005,113,Germany,Developed,High income
+Germany,2006,101,Germany,Developed,High income
+Germany,2007,78,Germany,Developed,High income
+Germany,2008,89,Germany,Developed,High income
+Germany,2009,129,Germany,Developed,High income
+Germany,2010,128,Germany,Developed,High income
+Germany,2011,121,Germany,Developed,High income
+Germany,2012,154,Germany,Developed,High income
+Germany,2013,142,Germany,Developed,High income
+Germany,2014,171,Germany,Developed,High income
+Germany,2015,181,Germany,Developed,High income
+Germany,2016,219,Germany,Developed,High income
+Germany,2017,272,Germany,Developed,High income
+Germany,2018,383,Germany,Developed,High income
+Germany,2019,568,Germany,Developed,High income
+Germany,2020,815,Germany,Developed,High income
+Germany,2021,1123,Germany,Developed,High income
+Germany,2022,1284,Germany,Developed,High income
+Germany,2023,1410,Germany,Developed,High income
+Germany,2024,1590,Germany,Developed,High income
+Germany,2025,1824,Germany,Developed,High income
+Ghana,2015,1,Ghana,Developing,Lower middle income
+Ghana,2016,1,Ghana,Developing,Lower middle income
+Ghana,2019,3,Ghana,Developing,Lower middle income
+Ghana,2020,9,Ghana,Developing,Lower middle income
+Ghana,2021,17,Ghana,Developing,Lower middle income
+Ghana,2022,25,Ghana,Developing,Lower middle income
+Ghana,2023,25,Ghana,Developing,Lower middle income
+Ghana,2024,28,Ghana,Developing,Lower middle income
+Ghana,2025,33,Ghana,Developing,Lower middle income
+Greece,1992,1,Greece,Developed,High income
+Greece,1996,5,Greece,Developed,High income
+Greece,1997,9,Greece,Developed,High income
+Greece,1998,10,Greece,Developed,High income
+Greece,1999,11,Greece,Developed,High income
+Greece,2000,21,Greece,Developed,High income
+Greece,2001,17,Greece,Developed,High income
+Greece,2002,19,Greece,Developed,High income
+Greece,2003,17,Greece,Developed,High income
+Greece,2004,33,Greece,Developed,High income
+Greece,2005,28,Greece,Developed,High income
+Greece,2006,61,Greece,Developed,High income
+Greece,2007,53,Greece,Developed,High income
+Greece,2008,33,Greece,Developed,High income
+Greece,2009,51,Greece,Developed,High income
+Greece,2010,50,Greece,Developed,High income
+Greece,2011,51,Greece,Developed,High income
+Greece,2012,39,Greece,Developed,High income
+Greece,2013,47,Greece,Developed,High income
+Greece,2014,43,Greece,Developed,High income
+Greece,2015,48,Greece,Developed,High income
+Greece,2016,42,Greece,Developed,High income
+Greece,2017,62,Greece,Developed,High income
+Greece,2018,79,Greece,Developed,High income
+Greece,2019,98,Greece,Developed,High income
+Greece,2020,166,Greece,Developed,High income
+Greece,2021,230,Greece,Developed,High income
+Greece,2022,235,Greece,Developed,High income
+Greece,2023,241,Greece,Developed,High income
+Greece,2024,283,Greece,Developed,High income
+Greece,2025,372,Greece,Developed,High income
+Grenada,2025,2,Grenada,,Upper middle income
+Guatemala,2024,1,Guatemala,,Upper middle income
+Guatemala,2025,1,Guatemala,,Upper middle income
+Guinea,2021,1,Guinea,Developing,Lower middle income
+Guyana,2024,1,Guyana,Developing,High income
+Guyana,2025,1,Guyana,Developing,High income
+Haiti,2024,1,Haiti,Developing,Lower middle income
+Honduras,2018,1,Honduras,,Lower middle income
+Honduras,2024,1,Honduras,,Lower middle income
+Honduras,2025,1,Honduras,,Lower middle income
+Hong Kong Sar,1995,1,"Hong Kong SAR, China",,High income
+Hong Kong Sar,1996,1,"Hong Kong SAR, China",,High income
+Hong Kong Sar,1997,6,"Hong Kong SAR, China",,High income
+Hong Kong Sar,1998,7,"Hong Kong SAR, China",,High income
+Hungary,1991,2,Hungary,Developing,High income
+Hungary,1993,5,Hungary,Developing,High income
+Hungary,1996,2,Hungary,Developing,High income
+Hungary,1997,7,Hungary,Developing,High income
+Hungary,1999,3,Hungary,Developing,High income
+Hungary,2000,6,Hungary,Developing,High income
+Hungary,2001,5,Hungary,Developing,High income
+Hungary,2002,5,Hungary,Developing,High income
+Hungary,2003,4,Hungary,Developing,High income
+Hungary,2004,4,Hungary,Developing,High income
+Hungary,2005,11,Hungary,Developing,High income
+Hungary,2006,15,Hungary,Developing,High income
+Hungary,2007,3,Hungary,Developing,High income
+Hungary,2008,9,Hungary,Developing,High income
+Hungary,2009,6,Hungary,Developing,High income
+Hungary,2010,6,Hungary,Developing,High income
+Hungary,2011,6,Hungary,Developing,High income
+Hungary,2012,8,Hungary,Developing,High income
+Hungary,2013,5,Hungary,Developing,High income
+Hungary,2014,5,Hungary,Developing,High income
+Hungary,2015,9,Hungary,Developing,High income
+Hungary,2016,5,Hungary,Developing,High income
+Hungary,2017,15,Hungary,Developing,High income
+Hungary,2018,21,Hungary,Developing,High income
+Hungary,2019,29,Hungary,Developing,High income
+Hungary,2020,48,Hungary,Developing,High income
+Hungary,2021,54,Hungary,Developing,High income
+Hungary,2022,88,Hungary,Developing,High income
+Hungary,2023,91,Hungary,Developing,High income
+Hungary,2024,115,Hungary,Developing,High income
+Hungary,2025,116,Hungary,Developing,High income
+Iceland,1997,1,Iceland,Developed,High income
+Iceland,2006,1,Iceland,Developed,High income
+Iceland,2007,3,Iceland,Developed,High income
+Iceland,2009,5,Iceland,Developed,High income
+Iceland,2010,2,Iceland,Developed,High income
+Iceland,2012,2,Iceland,Developed,High income
+Iceland,2013,1,Iceland,Developed,High income
+Iceland,2014,7,Iceland,Developed,High income
+Iceland,2015,5,Iceland,Developed,High income
+Iceland,2016,3,Iceland,Developed,High income
+Iceland,2017,5,Iceland,Developed,High income
+Iceland,2018,3,Iceland,Developed,High income
+Iceland,2019,3,Iceland,Developed,High income
+Iceland,2020,2,Iceland,Developed,High income
+Iceland,2021,9,Iceland,Developed,High income
+Iceland,2022,5,Iceland,Developed,High income
+Iceland,2023,7,Iceland,Developed,High income
+Iceland,2024,9,Iceland,Developed,High income
+Iceland,2025,11,Iceland,Developed,High income
+India,1995,1,India,Developing,Lower middle income
+India,1996,14,India,Developing,Lower middle income
+India,1997,11,India,Developing,Lower middle income
+India,1998,16,India,Developing,Lower middle income
+India,1999,18,India,Developing,Lower middle income
+India,2000,18,India,Developing,Lower middle income
+India,2001,18,India,Developing,Lower middle income
+India,2002,29,India,Developing,Lower middle income
+India,2003,30,India,Developing,Lower middle income
+India,2004,71,India,Developing,Lower middle income
+India,2005,65,India,Developing,Lower middle income
+India,2006,82,India,Developing,Lower middle income
+India,2007,87,India,Developing,Lower middle income
+India,2008,104,India,Developing,Lower middle income
+India,2009,106,India,Developing,Lower middle income
+India,2010,138,India,Developing,Lower middle income
+India,2011,157,India,Developing,Lower middle income
+India,2012,168,India,Developing,Lower middle income
+India,2013,226,India,Developing,Lower middle income
+India,2014,243,India,Developing,Lower middle income
+India,2015,327,India,Developing,Lower middle income
+India,2016,401,India,Developing,Lower middle income
+India,2017,462,India,Developing,Lower middle income
+India,2018,661,India,Developing,Lower middle income
+India,2019,1109,India,Developing,Lower middle income
+India,2020,2026,India,Developing,Lower middle income
+India,2021,3043,India,Developing,Lower middle income
+India,2022,4685,India,Developing,Lower middle income
+India,2023,4878,India,Developing,Lower middle income
+India,2024,4519,India,Developing,Lower middle income
+India,2025,5627,India,Developing,Lower middle income
+Indonesia,2004,1,Indonesia,Developing,Upper middle income
+Indonesia,2006,1,Indonesia,Developing,Upper middle income
+Indonesia,2007,1,Indonesia,Developing,Upper middle income
+Indonesia,2009,2,Indonesia,Developing,Upper middle income
+Indonesia,2012,1,Indonesia,Developing,Upper middle income
+Indonesia,2014,2,Indonesia,Developing,Upper middle income
+Indonesia,2015,2,Indonesia,Developing,Upper middle income
+Indonesia,2016,3,Indonesia,Developing,Upper middle income
+Indonesia,2017,6,Indonesia,Developing,Upper middle income
+Indonesia,2018,9,Indonesia,Developing,Upper middle income
+Indonesia,2019,18,Indonesia,Developing,Upper middle income
+Indonesia,2020,27,Indonesia,Developing,Upper middle income
+Indonesia,2021,59,Indonesia,Developing,Upper middle income
+Indonesia,2022,92,Indonesia,Developing,Upper middle income
+Indonesia,2023,88,Indonesia,Developing,Upper middle income
+Indonesia,2024,89,Indonesia,Developing,Upper middle income
+Indonesia,2025,142,Indonesia,Developing,Upper middle income
+Iran,1997,1,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,1998,4,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,1999,2,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2000,6,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2001,7,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2002,12,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2003,11,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2004,24,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2005,40,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2006,36,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2007,70,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2008,56,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2009,103,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2010,134,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2011,149,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2012,236,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2013,337,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2014,278,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2015,342,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2016,442,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2017,496,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2018,529,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2019,706,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2020,916,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2021,1057,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2022,1148,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2023,1051,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2024,1073,"Iran, Islamic Rep.",Developing,Upper middle income
+Iran,2025,1351,"Iran, Islamic Rep.",Developing,Upper middle income
+Iraq,2001,1,Iraq,Developing,Upper middle income
+Iraq,2009,1,Iraq,Developing,Upper middle income
+Iraq,2011,1,Iraq,Developing,Upper middle income
+Iraq,2012,1,Iraq,Developing,Upper middle income
+Iraq,2014,2,Iraq,Developing,Upper middle income
+Iraq,2015,1,Iraq,Developing,Upper middle income
+Iraq,2016,5,Iraq,Developing,Upper middle income
+Iraq,2017,4,Iraq,Developing,Upper middle income
+Iraq,2018,14,Iraq,Developing,Upper middle income
+Iraq,2019,19,Iraq,Developing,Upper middle income
+Iraq,2020,52,Iraq,Developing,Upper middle income
+Iraq,2021,74,Iraq,Developing,Upper middle income
+Iraq,2022,99,Iraq,Developing,Upper middle income
+Iraq,2023,121,Iraq,Developing,Upper middle income
+Iraq,2024,98,Iraq,Developing,Upper middle income
+Iraq,2025,134,Iraq,Developing,Upper middle income
+Ireland,1992,1,Ireland,Developed,High income
+Ireland,1994,1,Ireland,Developed,High income
+Ireland,1996,1,Ireland,Developed,High income
+Ireland,1997,1,Ireland,Developed,High income
+Ireland,1998,3,Ireland,Developed,High income
+Ireland,1999,4,Ireland,Developed,High income
+Ireland,2000,2,Ireland,Developed,High income
+Ireland,2001,5,Ireland,Developed,High income
+Ireland,2002,7,Ireland,Developed,High income
+Ireland,2003,3,Ireland,Developed,High income
+Ireland,2004,8,Ireland,Developed,High income
+Ireland,2005,18,Ireland,Developed,High income
+Ireland,2006,20,Ireland,Developed,High income
+Ireland,2007,11,Ireland,Developed,High income
+Ireland,2008,6,Ireland,Developed,High income
+Ireland,2009,11,Ireland,Developed,High income
+Ireland,2010,11,Ireland,Developed,High income
+Ireland,2011,13,Ireland,Developed,High income
+Ireland,2012,6,Ireland,Developed,High income
+Ireland,2013,12,Ireland,Developed,High income
+Ireland,2014,11,Ireland,Developed,High income
+Ireland,2015,14,Ireland,Developed,High income
+Ireland,2016,14,Ireland,Developed,High income
+Ireland,2017,16,Ireland,Developed,High income
+Ireland,2018,33,Ireland,Developed,High income
+Ireland,2019,30,Ireland,Developed,High income
+Ireland,2020,70,Ireland,Developed,High income
+Ireland,2021,100,Ireland,Developed,High income
+Ireland,2022,97,Ireland,Developed,High income
+Ireland,2023,110,Ireland,Developed,High income
+Ireland,2024,107,Ireland,Developed,High income
+Ireland,2025,143,Ireland,Developed,High income
+Israel,1992,1,Israel,Developed,High income
+Israel,1993,1,Israel,Developed,High income
+Israel,1995,1,Israel,Developed,High income
+Israel,1996,9,Israel,Developed,High income
+Israel,1997,10,Israel,Developed,High income
+Israel,1998,5,Israel,Developed,High income
+Israel,1999,13,Israel,Developed,High income
+Israel,2000,11,Israel,Developed,High income
+Israel,2001,7,Israel,Developed,High income
+Israel,2002,11,Israel,Developed,High income
+Israel,2003,5,Israel,Developed,High income
+Israel,2004,10,Israel,Developed,High income
+Israel,2005,15,Israel,Developed,High income
+Israel,2006,17,Israel,Developed,High income
+Israel,2007,17,Israel,Developed,High income
+Israel,2008,23,Israel,Developed,High income
+Israel,2009,25,Israel,Developed,High income
+Israel,2010,17,Israel,Developed,High income
+Israel,2011,28,Israel,Developed,High income
+Israel,2012,36,Israel,Developed,High income
+Israel,2013,17,Israel,Developed,High income
+Israel,2014,16,Israel,Developed,High income
+Israel,2015,25,Israel,Developed,High income
+Israel,2016,33,Israel,Developed,High income
+Israel,2017,48,Israel,Developed,High income
+Israel,2018,64,Israel,Developed,High income
+Israel,2019,79,Israel,Developed,High income
+Israel,2020,112,Israel,Developed,High income
+Israel,2021,161,Israel,Developed,High income
+Israel,2022,213,Israel,Developed,High income
+Israel,2023,199,Israel,Developed,High income
+Israel,2024,223,Israel,Developed,High income
+Israel,2025,241,Israel,Developed,High income
+Italy,1991,2,Italy,Developed,High income
+Italy,1992,4,Italy,Developed,High income
+Italy,1993,6,Italy,Developed,High income
+Italy,1994,3,Italy,Developed,High income
+Italy,1995,13,Italy,Developed,High income
+Italy,1996,31,Italy,Developed,High income
+Italy,1997,34,Italy,Developed,High income
+Italy,1998,39,Italy,Developed,High income
+Italy,1999,41,Italy,Developed,High income
+Italy,2000,32,Italy,Developed,High income
+Italy,2001,28,Italy,Developed,High income
+Italy,2002,57,Italy,Developed,High income
+Italy,2003,52,Italy,Developed,High income
+Italy,2004,70,Italy,Developed,High income
+Italy,2005,102,Italy,Developed,High income
+Italy,2006,110,Italy,Developed,High income
+Italy,2007,84,Italy,Developed,High income
+Italy,2008,86,Italy,Developed,High income
+Italy,2009,93,Italy,Developed,High income
+Italy,2010,83,Italy,Developed,High income
+Italy,2011,93,Italy,Developed,High income
+Italy,2012,97,Italy,Developed,High income
+Italy,2013,126,Italy,Developed,High income
+Italy,2014,113,Italy,Developed,High income
+Italy,2015,146,Italy,Developed,High income
+Italy,2016,177,Italy,Developed,High income
+Italy,2017,169,Italy,Developed,High income
+Italy,2018,250,Italy,Developed,High income
+Italy,2019,346,Italy,Developed,High income
+Italy,2020,620,Italy,Developed,High income
+Italy,2021,823,Italy,Developed,High income
+Italy,2022,1028,Italy,Developed,High income
+Italy,2023,1054,Italy,Developed,High income
+Italy,2024,1340,Italy,Developed,High income
+Italy,2025,1626,Italy,Developed,High income
+Ivory Coast,2001,1,Côte d’Ivoire,,Lower middle income
+Ivory Coast,2016,1,Côte d’Ivoire,,Lower middle income
+Ivory Coast,2020,2,Côte d’Ivoire,,Lower middle income
+Ivory Coast,2021,1,Côte d’Ivoire,,Lower middle income
+Ivory Coast,2022,1,Côte d’Ivoire,,Lower middle income
+Ivory Coast,2023,1,Côte d’Ivoire,,Lower middle income
+Ivory Coast,2024,3,Côte d’Ivoire,,Lower middle income
+Jamaica,2000,1,Jamaica,Developing,Upper middle income
+Jamaica,2009,1,Jamaica,Developing,Upper middle income
+Jamaica,2014,1,Jamaica,Developing,Upper middle income
+Jamaica,2016,2,Jamaica,Developing,Upper middle income
+Jamaica,2018,1,Jamaica,Developing,Upper middle income
+Jamaica,2019,1,Jamaica,Developing,Upper middle income
+Jamaica,2024,1,Jamaica,Developing,Upper middle income
+Japan,1990,1,Japan,Developed,High income
+Japan,1991,2,Japan,Developed,High income
+Japan,1992,4,Japan,Developed,High income
+Japan,1993,8,Japan,Developed,High income
+Japan,1994,9,Japan,Developed,High income
+Japan,1995,10,Japan,Developed,High income
+Japan,1996,31,Japan,Developed,High income
+Japan,1997,30,Japan,Developed,High income
+Japan,1998,41,Japan,Developed,High income
+Japan,1999,44,Japan,Developed,High income
+Japan,2000,32,Japan,Developed,High income
+Japan,2001,45,Japan,Developed,High income
+Japan,2002,36,Japan,Developed,High income
+Japan,2003,53,Japan,Developed,High income
+Japan,2004,84,Japan,Developed,High income
+Japan,2005,103,Japan,Developed,High income
+Japan,2006,93,Japan,Developed,High income
+Japan,2007,66,Japan,Developed,High income
+Japan,2008,62,Japan,Developed,High income
+Japan,2009,74,Japan,Developed,High income
+Japan,2010,62,Japan,Developed,High income
+Japan,2011,81,Japan,Developed,High income
+Japan,2012,65,Japan,Developed,High income
+Japan,2013,86,Japan,Developed,High income
+Japan,2014,87,Japan,Developed,High income
+Japan,2015,92,Japan,Developed,High income
+Japan,2016,109,Japan,Developed,High income
+Japan,2017,181,Japan,Developed,High income
+Japan,2018,301,Japan,Developed,High income
+Japan,2019,369,Japan,Developed,High income
+Japan,2020,536,Japan,Developed,High income
+Japan,2021,784,Japan,Developed,High income
+Japan,2022,805,Japan,Developed,High income
+Japan,2023,824,Japan,Developed,High income
+Japan,2024,942,Japan,Developed,High income
+Japan,2025,1190,Japan,Developed,High income
+Jordan,1996,1,Jordan,Developing,Lower middle income
+Jordan,1998,3,Jordan,Developing,Lower middle income
+Jordan,2000,1,Jordan,Developing,Lower middle income
+Jordan,2002,1,Jordan,Developing,Lower middle income
+Jordan,2004,2,Jordan,Developing,Lower middle income
+Jordan,2005,4,Jordan,Developing,Lower middle income
+Jordan,2006,5,Jordan,Developing,Lower middle income
+Jordan,2007,2,Jordan,Developing,Lower middle income
+Jordan,2008,4,Jordan,Developing,Lower middle income
+Jordan,2009,2,Jordan,Developing,Lower middle income
+Jordan,2010,2,Jordan,Developing,Lower middle income
+Jordan,2011,11,Jordan,Developing,Lower middle income
+Jordan,2012,4,Jordan,Developing,Lower middle income
+Jordan,2013,3,Jordan,Developing,Lower middle income
+Jordan,2014,6,Jordan,Developing,Lower middle income
+Jordan,2015,9,Jordan,Developing,Lower middle income
+Jordan,2016,9,Jordan,Developing,Lower middle income
+Jordan,2017,6,Jordan,Developing,Lower middle income
+Jordan,2018,29,Jordan,Developing,Lower middle income
+Jordan,2019,31,Jordan,Developing,Lower middle income
+Jordan,2020,58,Jordan,Developing,Lower middle income
+Jordan,2021,82,Jordan,Developing,Lower middle income
+Jordan,2022,137,Jordan,Developing,Lower middle income
+Jordan,2023,100,Jordan,Developing,Lower middle income
+Jordan,2024,93,Jordan,Developing,Lower middle income
+Jordan,2025,127,Jordan,Developing,Lower middle income
+Kazakhstan,2017,2,Kazakhstan,Developing,Upper middle income
+Kazakhstan,2018,5,Kazakhstan,Developing,Upper middle income
+Kazakhstan,2019,4,Kazakhstan,Developing,Upper middle income
+Kazakhstan,2020,10,Kazakhstan,Developing,Upper middle income
+Kazakhstan,2021,13,Kazakhstan,Developing,Upper middle income
+Kazakhstan,2022,23,Kazakhstan,Developing,Upper middle income
+Kazakhstan,2023,28,Kazakhstan,Developing,Upper middle income
+Kazakhstan,2024,34,Kazakhstan,Developing,Upper middle income
+Kazakhstan,2025,75,Kazakhstan,Developing,Upper middle income
+Kenya,2009,1,Kenya,Developing,Lower middle income
+Kenya,2011,1,Kenya,Developing,Lower middle income
+Kenya,2012,4,Kenya,Developing,Lower middle income
+Kenya,2013,2,Kenya,Developing,Lower middle income
+Kenya,2014,1,Kenya,Developing,Lower middle income
+Kenya,2015,1,Kenya,Developing,Lower middle income
+Kenya,2017,5,Kenya,Developing,Lower middle income
+Kenya,2018,5,Kenya,Developing,Lower middle income
+Kenya,2019,7,Kenya,Developing,Lower middle income
+Kenya,2020,12,Kenya,Developing,Lower middle income
+Kenya,2021,9,Kenya,Developing,Lower middle income
+Kenya,2022,16,Kenya,Developing,Lower middle income
+Kenya,2023,15,Kenya,Developing,Lower middle income
+Kenya,2024,13,Kenya,Developing,Lower middle income
+Kenya,2025,20,Kenya,Developing,Lower middle income
+Kosovo,2021,1,Kosovo,Developing,Upper middle income
+Kosovo,2022,1,Kosovo,Developing,Upper middle income
+Kosovo,2024,3,Kosovo,Developing,Upper middle income
+Kosovo,2025,1,Kosovo,Developing,Upper middle income
+Kuwait,1996,2,Kuwait,Developing,High income
+Kuwait,1998,3,Kuwait,Developing,High income
+Kuwait,1999,2,Kuwait,Developing,High income
+Kuwait,2000,1,Kuwait,Developing,High income
+Kuwait,2001,2,Kuwait,Developing,High income
+Kuwait,2003,1,Kuwait,Developing,High income
+Kuwait,2004,3,Kuwait,Developing,High income
+Kuwait,2005,1,Kuwait,Developing,High income
+Kuwait,2006,1,Kuwait,Developing,High income
+Kuwait,2007,2,Kuwait,Developing,High income
+Kuwait,2008,2,Kuwait,Developing,High income
+Kuwait,2010,1,Kuwait,Developing,High income
+Kuwait,2011,2,Kuwait,Developing,High income
+Kuwait,2013,3,Kuwait,Developing,High income
+Kuwait,2014,1,Kuwait,Developing,High income
+Kuwait,2016,5,Kuwait,Developing,High income
+Kuwait,2017,2,Kuwait,Developing,High income
+Kuwait,2018,2,Kuwait,Developing,High income
+Kuwait,2019,7,Kuwait,Developing,High income
+Kuwait,2020,15,Kuwait,Developing,High income
+Kuwait,2021,15,Kuwait,Developing,High income
+Kuwait,2022,27,Kuwait,Developing,High income
+Kuwait,2023,26,Kuwait,Developing,High income
+Kuwait,2024,24,Kuwait,Developing,High income
+Kuwait,2025,53,Kuwait,Developing,High income
+Kyrgyzstan,1997,1,Kyrgyz Republic,,Lower middle income
+Kyrgyzstan,1998,1,Kyrgyz Republic,,Lower middle income
+Kyrgyzstan,2021,2,Kyrgyz Republic,,Lower middle income
+Kyrgyzstan,2022,2,Kyrgyz Republic,,Lower middle income
+Kyrgyzstan,2025,1,Kyrgyz Republic,,Lower middle income
+Laos,2025,1,Lao PDR,,Lower middle income
+Latvia,1997,1,Latvia,Developed,High income
+Latvia,2007,1,Latvia,Developed,High income
+Latvia,2011,1,Latvia,Developed,High income
+Latvia,2012,1,Latvia,Developed,High income
+Latvia,2015,1,Latvia,Developed,High income
+Latvia,2017,1,Latvia,Developed,High income
+Latvia,2019,1,Latvia,Developed,High income
+Latvia,2020,1,Latvia,Developed,High income
+Latvia,2021,3,Latvia,Developed,High income
+Latvia,2022,4,Latvia,Developed,High income
+Latvia,2023,12,Latvia,Developed,High income
+Latvia,2024,13,Latvia,Developed,High income
+Latvia,2025,13,Latvia,Developed,High income
+Lebanon,2002,1,Lebanon,Developing,Lower middle income
+Lebanon,2004,1,Lebanon,Developing,Lower middle income
+Lebanon,2005,1,Lebanon,Developing,Lower middle income
+Lebanon,2006,3,Lebanon,Developing,Lower middle income
+Lebanon,2007,1,Lebanon,Developing,Lower middle income
+Lebanon,2008,1,Lebanon,Developing,Lower middle income
+Lebanon,2009,2,Lebanon,Developing,Lower middle income
+Lebanon,2010,1,Lebanon,Developing,Lower middle income
+Lebanon,2011,1,Lebanon,Developing,Lower middle income
+Lebanon,2012,1,Lebanon,Developing,Lower middle income
+Lebanon,2014,2,Lebanon,Developing,Lower middle income
+Lebanon,2015,2,Lebanon,Developing,Lower middle income
+Lebanon,2016,2,Lebanon,Developing,Lower middle income
+Lebanon,2017,3,Lebanon,Developing,Lower middle income
+Lebanon,2018,5,Lebanon,Developing,Lower middle income
+Lebanon,2019,13,Lebanon,Developing,Lower middle income
+Lebanon,2020,15,Lebanon,Developing,Lower middle income
+Lebanon,2021,14,Lebanon,Developing,Lower middle income
+Lebanon,2022,20,Lebanon,Developing,Lower middle income
+Lebanon,2023,13,Lebanon,Developing,Lower middle income
+Lebanon,2024,18,Lebanon,Developing,Lower middle income
+Lebanon,2025,23,Lebanon,Developing,Lower middle income
+Lesotho,2022,1,Lesotho,Developing,Lower middle income
+Liberia,2023,1,Liberia,Developing,Low income
+Libya,2005,1,Libya,,Upper middle income
+Libya,2006,1,Libya,,Upper middle income
+Libya,2016,1,Libya,,Upper middle income
+Libya,2020,2,Libya,,Upper middle income
+Libya,2021,1,Libya,,Upper middle income
+Libya,2022,2,Libya,,Upper middle income
+Libya,2023,1,Libya,,Upper middle income
+Libya,2025,4,Libya,,Upper middle income
+Liechtenstein,2019,1,Liechtenstein,,High income
+Liechtenstein,2020,1,Liechtenstein,,High income
+Liechtenstein,2022,6,Liechtenstein,,High income
+Liechtenstein,2023,4,Liechtenstein,,High income
+Liechtenstein,2024,3,Liechtenstein,,High income
+Liechtenstein,2025,2,Liechtenstein,,High income
+Lithuania,1998,2,Lithuania,Developed,High income
+Lithuania,2000,2,Lithuania,Developed,High income
+Lithuania,2001,3,Lithuania,Developed,High income
+Lithuania,2002,1,Lithuania,Developed,High income
+Lithuania,2003,1,Lithuania,Developed,High income
+Lithuania,2004,6,Lithuania,Developed,High income
+Lithuania,2005,3,Lithuania,Developed,High income
+Lithuania,2006,2,Lithuania,Developed,High income
+Lithuania,2007,6,Lithuania,Developed,High income
+Lithuania,2008,5,Lithuania,Developed,High income
+Lithuania,2009,4,Lithuania,Developed,High income
+Lithuania,2010,3,Lithuania,Developed,High income
+Lithuania,2011,3,Lithuania,Developed,High income
+Lithuania,2012,6,Lithuania,Developed,High income
+Lithuania,2013,2,Lithuania,Developed,High income
+Lithuania,2014,2,Lithuania,Developed,High income
+Lithuania,2015,7,Lithuania,Developed,High income
+Lithuania,2016,4,Lithuania,Developed,High income
+Lithuania,2017,3,Lithuania,Developed,High income
+Lithuania,2018,9,Lithuania,Developed,High income
+Lithuania,2019,15,Lithuania,Developed,High income
+Lithuania,2020,16,Lithuania,Developed,High income
+Lithuania,2021,36,Lithuania,Developed,High income
+Lithuania,2022,36,Lithuania,Developed,High income
+Lithuania,2023,30,Lithuania,Developed,High income
+Lithuania,2024,43,Lithuania,Developed,High income
+Lithuania,2025,64,Lithuania,Developed,High income
+Luxembourg,2004,1,Luxembourg,Developed,High income
+Luxembourg,2005,1,Luxembourg,Developed,High income
+Luxembourg,2007,1,Luxembourg,Developed,High income
+Luxembourg,2009,2,Luxembourg,Developed,High income
+Luxembourg,2012,1,Luxembourg,Developed,High income
+Luxembourg,2013,2,Luxembourg,Developed,High income
+Luxembourg,2014,2,Luxembourg,Developed,High income
+Luxembourg,2015,9,Luxembourg,Developed,High income
+Luxembourg,2016,3,Luxembourg,Developed,High income
+Luxembourg,2017,3,Luxembourg,Developed,High income
+Luxembourg,2018,8,Luxembourg,Developed,High income
+Luxembourg,2019,9,Luxembourg,Developed,High income
+Luxembourg,2020,13,Luxembourg,Developed,High income
+Luxembourg,2021,23,Luxembourg,Developed,High income
+Luxembourg,2022,26,Luxembourg,Developed,High income
+Luxembourg,2023,32,Luxembourg,Developed,High income
+Luxembourg,2024,31,Luxembourg,Developed,High income
+Luxembourg,2025,36,Luxembourg,Developed,High income
+Macedonia,1997,1,North Macedonia,Developing,Upper middle income
+Macedonia,2001,1,North Macedonia,Developing,Upper middle income
+Macedonia,2003,2,North Macedonia,Developing,Upper middle income
+Macedonia,2004,1,North Macedonia,Developing,Upper middle income
+Macedonia,2005,2,North Macedonia,Developing,Upper middle income
+Macedonia,2007,3,North Macedonia,Developing,Upper middle income
+Macedonia,2008,1,North Macedonia,Developing,Upper middle income
+Macedonia,2009,1,North Macedonia,Developing,Upper middle income
+Macedonia,2010,2,North Macedonia,Developing,Upper middle income
+Macedonia,2011,1,North Macedonia,Developing,Upper middle income
+Macedonia,2012,4,North Macedonia,Developing,Upper middle income
+Macedonia,2013,1,North Macedonia,Developing,Upper middle income
+Macedonia,2014,3,North Macedonia,Developing,Upper middle income
+Macedonia,2015,1,North Macedonia,Developing,Upper middle income
+Macedonia,2016,3,North Macedonia,Developing,Upper middle income
+Macedonia,2017,2,North Macedonia,Developing,Upper middle income
+Macedonia,2018,3,North Macedonia,Developing,Upper middle income
+Macedonia,2019,1,North Macedonia,Developing,Upper middle income
+Macedonia,2020,5,North Macedonia,Developing,Upper middle income
+Macedonia,2021,1,North Macedonia,Developing,Upper middle income
+Macedonia,2022,2,North Macedonia,Developing,Upper middle income
+Macedonia,2023,3,North Macedonia,Developing,Upper middle income
+Macedonia,2024,8,North Macedonia,Developing,Upper middle income
+Macedonia,2025,6,North Macedonia,Developing,Upper middle income
+Madagascar,2020,1,Madagascar,Developing,Low income
+Madagascar,2021,1,Madagascar,Developing,Low income
+Madagascar,2022,1,Madagascar,Developing,Low income
+Madagascar,2023,2,Madagascar,Developing,Low income
+Madagascar,2024,1,Madagascar,Developing,Low income
+Madagascar,2025,1,Madagascar,Developing,Low income
+Malawi,2021,2,Malawi,Developing,Low income
+Malawi,2024,1,Malawi,Developing,Low income
+Malawi,2025,2,Malawi,Developing,Low income
+Malaysia,2000,1,Malaysia,Developing,Upper middle income
+Malaysia,2001,3,Malaysia,Developing,Upper middle income
+Malaysia,2002,3,Malaysia,Developing,Upper middle income
+Malaysia,2003,5,Malaysia,Developing,Upper middle income
+Malaysia,2004,2,Malaysia,Developing,Upper middle income
+Malaysia,2005,7,Malaysia,Developing,Upper middle income
+Malaysia,2006,7,Malaysia,Developing,Upper middle income
+Malaysia,2007,9,Malaysia,Developing,Upper middle income
+Malaysia,2008,8,Malaysia,Developing,Upper middle income
+Malaysia,2009,12,Malaysia,Developing,Upper middle income
+Malaysia,2010,28,Malaysia,Developing,Upper middle income
+Malaysia,2011,54,Malaysia,Developing,Upper middle income
+Malaysia,2012,55,Malaysia,Developing,Upper middle income
+Malaysia,2013,60,Malaysia,Developing,Upper middle income
+Malaysia,2014,80,Malaysia,Developing,Upper middle income
+Malaysia,2015,119,Malaysia,Developing,Upper middle income
+Malaysia,2016,104,Malaysia,Developing,Upper middle income
+Malaysia,2017,118,Malaysia,Developing,Upper middle income
+Malaysia,2018,110,Malaysia,Developing,Upper middle income
+Malaysia,2019,146,Malaysia,Developing,Upper middle income
+Malaysia,2020,164,Malaysia,Developing,Upper middle income
+Malaysia,2021,330,Malaysia,Developing,Upper middle income
+Malaysia,2022,389,Malaysia,Developing,Upper middle income
+Malaysia,2023,309,Malaysia,Developing,Upper middle income
+Malaysia,2024,323,Malaysia,Developing,Upper middle income
+Malaysia,2025,452,Malaysia,Developing,Upper middle income
+Maldives,2022,1,Maldives,,Upper middle income
+Maldives,2023,1,Maldives,,Upper middle income
+Mali,2022,1,Mali,Developing,Low income
+Mali,2024,1,Mali,Developing,Low income
+Malta,2009,1,Malta,Developed,High income
+Malta,2012,1,Malta,Developed,High income
+Malta,2014,1,Malta,Developed,High income
+Malta,2015,1,Malta,Developed,High income
+Malta,2017,1,Malta,Developed,High income
+Malta,2018,3,Malta,Developed,High income
+Malta,2019,5,Malta,Developed,High income
+Malta,2020,2,Malta,Developed,High income
+Malta,2021,5,Malta,Developed,High income
+Malta,2022,4,Malta,Developed,High income
+Malta,2023,4,Malta,Developed,High income
+Malta,2024,2,Malta,Developed,High income
+Malta,2025,9,Malta,Developed,High income
+Mauritania,2020,1,Mauritania,,Lower middle income
+Mauritania,2022,1,Mauritania,,Lower middle income
+Mauritania,2023,1,Mauritania,,Lower middle income
+Mauritius,2011,1,Mauritius,Developing,Upper middle income
+Mauritius,2018,1,Mauritius,Developing,Upper middle income
+Mauritius,2019,2,Mauritius,Developing,Upper middle income
+Mauritius,2021,2,Mauritius,Developing,Upper middle income
+Mauritius,2022,4,Mauritius,Developing,Upper middle income
+Mauritius,2023,1,Mauritius,Developing,Upper middle income
+Mauritius,2024,3,Mauritius,Developing,Upper middle income
+Mauritius,2025,4,Mauritius,Developing,Upper middle income
+Mexico,1996,3,Mexico,Developing,Upper middle income
+Mexico,1997,2,Mexico,Developing,Upper middle income
+Mexico,1998,8,Mexico,Developing,Upper middle income
+Mexico,1999,3,Mexico,Developing,Upper middle income
+Mexico,2000,7,Mexico,Developing,Upper middle income
+Mexico,2001,6,Mexico,Developing,Upper middle income
+Mexico,2002,6,Mexico,Developing,Upper middle income
+Mexico,2003,10,Mexico,Developing,Upper middle income
+Mexico,2004,21,Mexico,Developing,Upper middle income
+Mexico,2005,33,Mexico,Developing,Upper middle income
+Mexico,2006,20,Mexico,Developing,Upper middle income
+Mexico,2007,8,Mexico,Developing,Upper middle income
+Mexico,2008,12,Mexico,Developing,Upper middle income
+Mexico,2009,22,Mexico,Developing,Upper middle income
+Mexico,2010,18,Mexico,Developing,Upper middle income
+Mexico,2011,17,Mexico,Developing,Upper middle income
+Mexico,2012,23,Mexico,Developing,Upper middle income
+Mexico,2013,31,Mexico,Developing,Upper middle income
+Mexico,2014,27,Mexico,Developing,Upper middle income
+Mexico,2015,44,Mexico,Developing,Upper middle income
+Mexico,2016,46,Mexico,Developing,Upper middle income
+Mexico,2017,66,Mexico,Developing,Upper middle income
+Mexico,2018,66,Mexico,Developing,Upper middle income
+Mexico,2019,106,Mexico,Developing,Upper middle income
+Mexico,2020,155,Mexico,Developing,Upper middle income
+Mexico,2021,177,Mexico,Developing,Upper middle income
+Mexico,2022,244,Mexico,Developing,Upper middle income
+Mexico,2023,196,Mexico,Developing,Upper middle income
+Mexico,2024,247,Mexico,Developing,Upper middle income
+Mexico,2025,293,Mexico,Developing,Upper middle income
+Moldova,1994,1,Moldova,,Upper middle income
+Moldova,2007,1,Moldova,,Upper middle income
+Moldova,2015,1,Moldova,,Upper middle income
+Moldova,2016,1,Moldova,,Upper middle income
+Moldova,2020,2,Moldova,,Upper middle income
+Moldova,2021,2,Moldova,,Upper middle income
+Moldova,2022,2,Moldova,,Upper middle income
+Moldova,2023,2,Moldova,,Upper middle income
+Moldova,2024,2,Moldova,,Upper middle income
+Moldova,2025,2,Moldova,,Upper middle income
+Monaco,2023,1,Monaco,,High income
+Mongolia,2012,1,Mongolia,Developing,Upper middle income
+Mongolia,2019,2,Mongolia,Developing,Upper middle income
+Mongolia,2021,1,Mongolia,Developing,Upper middle income
+Mongolia,2022,4,Mongolia,Developing,Upper middle income
+Mongolia,2023,1,Mongolia,Developing,Upper middle income
+Mongolia,2024,1,Mongolia,Developing,Upper middle income
+Mongolia,2025,4,Mongolia,Developing,Upper middle income
+Montenegro,2013,1,Montenegro,Developing,Upper middle income
+Montenegro,2015,1,Montenegro,Developing,Upper middle income
+Montenegro,2018,2,Montenegro,Developing,Upper middle income
+Montenegro,2019,2,Montenegro,Developing,Upper middle income
+Montenegro,2020,1,Montenegro,Developing,Upper middle income
+Montenegro,2021,5,Montenegro,Developing,Upper middle income
+Montenegro,2023,2,Montenegro,Developing,Upper middle income
+Montenegro,2024,2,Montenegro,Developing,Upper middle income
+Montenegro,2025,2,Montenegro,Developing,Upper middle income
+Morocco,1999,1,Morocco,Developing,Lower middle income
+Morocco,2001,2,Morocco,Developing,Lower middle income
+Morocco,2002,3,Morocco,Developing,Lower middle income
+Morocco,2003,2,Morocco,Developing,Lower middle income
+Morocco,2004,2,Morocco,Developing,Lower middle income
+Morocco,2006,3,Morocco,Developing,Lower middle income
+Morocco,2007,2,Morocco,Developing,Lower middle income
+Morocco,2008,1,Morocco,Developing,Lower middle income
+Morocco,2009,1,Morocco,Developing,Lower middle income
+Morocco,2010,4,Morocco,Developing,Lower middle income
+Morocco,2011,3,Morocco,Developing,Lower middle income
+Morocco,2012,3,Morocco,Developing,Lower middle income
+Morocco,2014,2,Morocco,Developing,Lower middle income
+Morocco,2015,7,Morocco,Developing,Lower middle income
+Morocco,2016,12,Morocco,Developing,Lower middle income
+Morocco,2017,17,Morocco,Developing,Lower middle income
+Morocco,2018,22,Morocco,Developing,Lower middle income
+Morocco,2019,36,Morocco,Developing,Lower middle income
+Morocco,2020,65,Morocco,Developing,Lower middle income
+Morocco,2021,103,Morocco,Developing,Lower middle income
+Morocco,2022,128,Morocco,Developing,Lower middle income
+Morocco,2023,173,Morocco,Developing,Lower middle income
+Morocco,2024,227,Morocco,Developing,Lower middle income
+Morocco,2025,262,Morocco,Developing,Lower middle income
+Mozambique,2018,1,Mozambique,Developing,Low income
+Mozambique,2022,1,Mozambique,Developing,Low income
+Mozambique,2023,1,Mozambique,Developing,Low income
+Mozambique,2024,2,Mozambique,Developing,Low income
+Mozambique,2025,2,Mozambique,Developing,Low income
+Myanmar,2018,1,Myanmar,Developing,Lower middle income
+Myanmar,2020,1,Myanmar,Developing,Lower middle income
+Myanmar,2022,2,Myanmar,Developing,Lower middle income
+Myanmar,2023,3,Myanmar,Developing,Lower middle income
+Myanmar,2024,1,Myanmar,Developing,Lower middle income
+Myanmar,2025,4,Myanmar,Developing,Lower middle income
+Namibia,2004,1,Namibia,Developing,Lower middle income
+Namibia,2018,1,Namibia,Developing,Lower middle income
+Namibia,2021,1,Namibia,Developing,Lower middle income
+Namibia,2022,1,Namibia,Developing,Lower middle income
+Namibia,2024,5,Namibia,Developing,Lower middle income
+Namibia,2025,4,Namibia,Developing,Lower middle income
+Nepal,2003,1,Nepal,Developing,Lower middle income
+Nepal,2005,1,Nepal,Developing,Lower middle income
+Nepal,2014,2,Nepal,Developing,Lower middle income
+Nepal,2015,1,Nepal,Developing,Lower middle income
+Nepal,2018,1,Nepal,Developing,Lower middle income
+Nepal,2019,2,Nepal,Developing,Lower middle income
+Nepal,2020,9,Nepal,Developing,Lower middle income
+Nepal,2021,8,Nepal,Developing,Lower middle income
+Nepal,2022,5,Nepal,Developing,Lower middle income
+Nepal,2023,8,Nepal,Developing,Lower middle income
+Nepal,2024,12,Nepal,Developing,Lower middle income
+Nepal,2025,19,Nepal,Developing,Lower middle income
+Netherlands,1993,4,Netherlands,Developed,High income
+Netherlands,1994,1,Netherlands,Developed,High income
+Netherlands,1995,6,Netherlands,Developed,High income
+Netherlands,1996,14,Netherlands,Developed,High income
+Netherlands,1997,14,Netherlands,Developed,High income
+Netherlands,1998,14,Netherlands,Developed,High income
+Netherlands,1999,16,Netherlands,Developed,High income
+Netherlands,2000,9,Netherlands,Developed,High income
+Netherlands,2001,8,Netherlands,Developed,High income
+Netherlands,2002,10,Netherlands,Developed,High income
+Netherlands,2003,13,Netherlands,Developed,High income
+Netherlands,2004,23,Netherlands,Developed,High income
+Netherlands,2005,25,Netherlands,Developed,High income
+Netherlands,2006,34,Netherlands,Developed,High income
+Netherlands,2007,29,Netherlands,Developed,High income
+Netherlands,2008,26,Netherlands,Developed,High income
+Netherlands,2009,20,Netherlands,Developed,High income
+Netherlands,2010,32,Netherlands,Developed,High income
+Netherlands,2011,29,Netherlands,Developed,High income
+Netherlands,2012,28,Netherlands,Developed,High income
+Netherlands,2013,36,Netherlands,Developed,High income
+Netherlands,2014,27,Netherlands,Developed,High income
+Netherlands,2015,33,Netherlands,Developed,High income
+Netherlands,2016,44,Netherlands,Developed,High income
+Netherlands,2017,66,Netherlands,Developed,High income
+Netherlands,2018,98,Netherlands,Developed,High income
+Netherlands,2019,161,Netherlands,Developed,High income
+Netherlands,2020,211,Netherlands,Developed,High income
+Netherlands,2021,305,Netherlands,Developed,High income
+Netherlands,2022,360,Netherlands,Developed,High income
+Netherlands,2023,365,Netherlands,Developed,High income
+Netherlands,2024,424,Netherlands,Developed,High income
+Netherlands,2025,505,Netherlands,Developed,High income
+New Caledonia (France),2013,1,New Caledonia,Developing,High income
+New Caledonia (France),2015,2,New Caledonia,Developing,High income
+New Caledonia (France),2016,1,New Caledonia,Developing,High income
+New Caledonia (France),2018,2,New Caledonia,Developing,High income
+New Caledonia (France),2020,2,New Caledonia,Developing,High income
+New Caledonia (France),2021,2,New Caledonia,Developing,High income
+New Caledonia (France),2022,5,New Caledonia,Developing,High income
+New Caledonia (France),2023,1,New Caledonia,Developing,High income
+New Caledonia (France),2025,1,New Caledonia,Developing,High income
+New Zealand,1996,5,New Zealand,Developed,High income
+New Zealand,1997,1,New Zealand,Developed,High income
+New Zealand,1998,2,New Zealand,Developed,High income
+New Zealand,1999,7,New Zealand,Developed,High income
+New Zealand,2000,6,New Zealand,Developed,High income
+New Zealand,2001,9,New Zealand,Developed,High income
+New Zealand,2002,7,New Zealand,Developed,High income
+New Zealand,2003,6,New Zealand,Developed,High income
+New Zealand,2004,16,New Zealand,Developed,High income
+New Zealand,2005,5,New Zealand,Developed,High income
+New Zealand,2006,14,New Zealand,Developed,High income
+New Zealand,2007,7,New Zealand,Developed,High income
+New Zealand,2008,9,New Zealand,Developed,High income
+New Zealand,2009,4,New Zealand,Developed,High income
+New Zealand,2010,14,New Zealand,Developed,High income
+New Zealand,2011,8,New Zealand,Developed,High income
+New Zealand,2012,17,New Zealand,Developed,High income
+New Zealand,2013,11,New Zealand,Developed,High income
+New Zealand,2014,16,New Zealand,Developed,High income
+New Zealand,2015,17,New Zealand,Developed,High income
+New Zealand,2016,15,New Zealand,Developed,High income
+New Zealand,2017,22,New Zealand,Developed,High income
+New Zealand,2018,28,New Zealand,Developed,High income
+New Zealand,2019,44,New Zealand,Developed,High income
+New Zealand,2020,66,New Zealand,Developed,High income
+New Zealand,2021,95,New Zealand,Developed,High income
+New Zealand,2022,93,New Zealand,Developed,High income
+New Zealand,2023,111,New Zealand,Developed,High income
+New Zealand,2024,117,New Zealand,Developed,High income
+New Zealand,2025,133,New Zealand,Developed,High income
+Niger,2018,1,Niger,Developing,Low income
+Niger,2022,1,Niger,Developing,Low income
+Niger,2024,2,Niger,Developing,Low income
+Nigeria,2004,1,Nigeria,Developing,Lower middle income
+Nigeria,2007,1,Nigeria,Developing,Lower middle income
+Nigeria,2009,2,Nigeria,Developing,Lower middle income
+Nigeria,2013,1,Nigeria,Developing,Lower middle income
+Nigeria,2014,2,Nigeria,Developing,Lower middle income
+Nigeria,2015,4,Nigeria,Developing,Lower middle income
+Nigeria,2016,3,Nigeria,Developing,Lower middle income
+Nigeria,2017,6,Nigeria,Developing,Lower middle income
+Nigeria,2018,9,Nigeria,Developing,Lower middle income
+Nigeria,2019,14,Nigeria,Developing,Lower middle income
+Nigeria,2020,42,Nigeria,Developing,Lower middle income
+Nigeria,2021,41,Nigeria,Developing,Lower middle income
+Nigeria,2022,65,Nigeria,Developing,Lower middle income
+Nigeria,2023,63,Nigeria,Developing,Lower middle income
+Nigeria,2024,62,Nigeria,Developing,Lower middle income
+Nigeria,2025,94,Nigeria,Developing,Lower middle income
+North Korea,2018,1,"Korea, Dem. People's Rep.",Developing,Low income
+North Korea,2019,4,"Korea, Dem. People's Rep.",Developing,Low income
+North Korea,2020,2,"Korea, Dem. People's Rep.",Developing,Low income
+North Korea,2021,3,"Korea, Dem. People's Rep.",Developing,Low income
+North Korea,2022,5,"Korea, Dem. People's Rep.",Developing,Low income
+North Korea,2023,6,"Korea, Dem. People's Rep.",Developing,Low income
+North Korea,2024,5,"Korea, Dem. People's Rep.",Developing,Low income
+North Korea,2025,7,"Korea, Dem. People's Rep.",Developing,Low income
+Norway,1995,1,Norway,Developed,High income
+Norway,1996,1,Norway,Developed,High income
+Norway,1998,2,Norway,Developed,High income
+Norway,1999,3,Norway,Developed,High income
+Norway,2000,2,Norway,Developed,High income
+Norway,2001,2,Norway,Developed,High income
+Norway,2002,5,Norway,Developed,High income
+Norway,2003,3,Norway,Developed,High income
+Norway,2004,4,Norway,Developed,High income
+Norway,2005,9,Norway,Developed,High income
+Norway,2006,7,Norway,Developed,High income
+Norway,2007,10,Norway,Developed,High income
+Norway,2008,1,Norway,Developed,High income
+Norway,2009,6,Norway,Developed,High income
+Norway,2010,10,Norway,Developed,High income
+Norway,2011,5,Norway,Developed,High income
+Norway,2012,6,Norway,Developed,High income
+Norway,2013,7,Norway,Developed,High income
+Norway,2014,4,Norway,Developed,High income
+Norway,2015,16,Norway,Developed,High income
+Norway,2016,16,Norway,Developed,High income
+Norway,2017,26,Norway,Developed,High income
+Norway,2018,38,Norway,Developed,High income
+Norway,2019,61,Norway,Developed,High income
+Norway,2020,101,Norway,Developed,High income
+Norway,2021,158,Norway,Developed,High income
+Norway,2022,178,Norway,Developed,High income
+Norway,2023,155,Norway,Developed,High income
+Norway,2024,160,Norway,Developed,High income
+Norway,2025,165,Norway,Developed,High income
+Oman,1998,1,Oman,Developing,High income
+Oman,1999,1,Oman,Developing,High income
+Oman,2002,1,Oman,Developing,High income
+Oman,2003,1,Oman,Developing,High income
+Oman,2004,2,Oman,Developing,High income
+Oman,2005,2,Oman,Developing,High income
+Oman,2006,2,Oman,Developing,High income
+Oman,2007,1,Oman,Developing,High income
+Oman,2010,4,Oman,Developing,High income
+Oman,2011,1,Oman,Developing,High income
+Oman,2012,5,Oman,Developing,High income
+Oman,2014,3,Oman,Developing,High income
+Oman,2015,1,Oman,Developing,High income
+Oman,2016,1,Oman,Developing,High income
+Oman,2017,3,Oman,Developing,High income
+Oman,2018,2,Oman,Developing,High income
+Oman,2019,5,Oman,Developing,High income
+Oman,2020,7,Oman,Developing,High income
+Oman,2021,9,Oman,Developing,High income
+Oman,2022,14,Oman,Developing,High income
+Oman,2023,16,Oman,Developing,High income
+Oman,2024,29,Oman,Developing,High income
+Oman,2025,38,Oman,Developing,High income
+Pakistan,2002,1,Pakistan,Developing,Lower middle income
+Pakistan,2005,4,Pakistan,Developing,Lower middle income
+Pakistan,2007,2,Pakistan,Developing,Lower middle income
+Pakistan,2008,1,Pakistan,Developing,Lower middle income
+Pakistan,2009,1,Pakistan,Developing,Lower middle income
+Pakistan,2010,5,Pakistan,Developing,Lower middle income
+Pakistan,2011,15,Pakistan,Developing,Lower middle income
+Pakistan,2012,22,Pakistan,Developing,Lower middle income
+Pakistan,2013,14,Pakistan,Developing,Lower middle income
+Pakistan,2014,32,Pakistan,Developing,Lower middle income
+Pakistan,2015,53,Pakistan,Developing,Lower middle income
+Pakistan,2016,55,Pakistan,Developing,Lower middle income
+Pakistan,2017,54,Pakistan,Developing,Lower middle income
+Pakistan,2018,120,Pakistan,Developing,Lower middle income
+Pakistan,2019,181,Pakistan,Developing,Lower middle income
+Pakistan,2020,327,Pakistan,Developing,Lower middle income
+Pakistan,2021,578,Pakistan,Developing,Lower middle income
+Pakistan,2022,692,Pakistan,Developing,Lower middle income
+Pakistan,2023,603,Pakistan,Developing,Lower middle income
+Pakistan,2024,570,Pakistan,Developing,Lower middle income
+Pakistan,2025,748,Pakistan,Developing,Lower middle income
+Palestine,2002,1,West Bank and Gaza,Developing,Lower middle income
+Palestine,2015,1,West Bank and Gaza,Developing,Lower middle income
+Palestine,2017,2,West Bank and Gaza,Developing,Lower middle income
+Palestine,2018,3,West Bank and Gaza,Developing,Lower middle income
+Palestine,2019,3,West Bank and Gaza,Developing,Lower middle income
+Palestine,2020,6,West Bank and Gaza,Developing,Lower middle income
+Palestine,2021,4,West Bank and Gaza,Developing,Lower middle income
+Palestine,2022,9,West Bank and Gaza,Developing,Lower middle income
+Palestine,2023,4,West Bank and Gaza,Developing,Lower middle income
+Palestine,2024,10,West Bank and Gaza,Developing,Lower middle income
+Palestine,2025,17,West Bank and Gaza,Developing,Lower middle income
+Panama,2001,1,Panama,Developing,High income
+Panama,2013,1,Panama,Developing,High income
+Panama,2015,1,Panama,Developing,High income
+Panama,2021,4,Panama,Developing,High income
+Panama,2022,2,Panama,Developing,High income
+Panama,2023,2,Panama,Developing,High income
+Panama,2024,1,Panama,Developing,High income
+Panama,2025,4,Panama,Developing,High income
+Paraguay,2016,1,Paraguay,Developing,Upper middle income
+Paraguay,2019,2,Paraguay,Developing,Upper middle income
+Paraguay,2021,1,Paraguay,Developing,Upper middle income
+Paraguay,2022,1,Paraguay,Developing,Upper middle income
+Paraguay,2023,1,Paraguay,Developing,Upper middle income
+Paraguay,2024,2,Paraguay,Developing,Upper middle income
+Peru,1999,1,Peru,Developing,Upper middle income
+Peru,2011,1,Peru,Developing,Upper middle income
+Peru,2015,1,Peru,Developing,Upper middle income
+Peru,2016,1,Peru,Developing,Upper middle income
+Peru,2018,3,Peru,Developing,Upper middle income
+Peru,2019,2,Peru,Developing,Upper middle income
+Peru,2020,3,Peru,Developing,Upper middle income
+Peru,2021,11,Peru,Developing,Upper middle income
+Peru,2022,22,Peru,Developing,Upper middle income
+Peru,2023,21,Peru,Developing,Upper middle income
+Peru,2024,27,Peru,Developing,Upper middle income
+Peru,2025,52,Peru,Developing,Upper middle income
+Philippines,2005,1,Philippines,Developing,Lower middle income
+Philippines,2006,3,Philippines,Developing,Lower middle income
+Philippines,2007,1,Philippines,Developing,Lower middle income
+Philippines,2009,1,Philippines,Developing,Lower middle income
+Philippines,2010,1,Philippines,Developing,Lower middle income
+Philippines,2011,1,Philippines,Developing,Lower middle income
+Philippines,2012,1,Philippines,Developing,Lower middle income
+Philippines,2017,2,Philippines,Developing,Lower middle income
+Philippines,2018,1,Philippines,Developing,Lower middle income
+Philippines,2019,2,Philippines,Developing,Lower middle income
+Philippines,2020,10,Philippines,Developing,Lower middle income
+Philippines,2021,19,Philippines,Developing,Lower middle income
+Philippines,2022,34,Philippines,Developing,Lower middle income
+Philippines,2023,31,Philippines,Developing,Lower middle income
+Philippines,2024,33,Philippines,Developing,Lower middle income
+Philippines,2025,34,Philippines,Developing,Lower middle income
+Poland,1993,2,Poland,Developed,High income
+Poland,1994,5,Poland,Developed,High income
+Poland,1996,5,Poland,Developed,High income
+Poland,1997,4,Poland,Developed,High income
+Poland,1998,5,Poland,Developed,High income
+Poland,1999,9,Poland,Developed,High income
+Poland,2000,11,Poland,Developed,High income
+Poland,2001,10,Poland,Developed,High income
+Poland,2002,17,Poland,Developed,High income
+Poland,2003,13,Poland,Developed,High income
+Poland,2004,47,Poland,Developed,High income
+Poland,2005,38,Poland,Developed,High income
+Poland,2006,54,Poland,Developed,High income
+Poland,2007,22,Poland,Developed,High income
+Poland,2008,25,Poland,Developed,High income
+Poland,2009,38,Poland,Developed,High income
+Poland,2010,39,Poland,Developed,High income
+Poland,2011,37,Poland,Developed,High income
+Poland,2012,62,Poland,Developed,High income
+Poland,2013,59,Poland,Developed,High income
+Poland,2014,65,Poland,Developed,High income
+Poland,2015,107,Poland,Developed,High income
+Poland,2016,85,Poland,Developed,High income
+Poland,2017,94,Poland,Developed,High income
+Poland,2018,132,Poland,Developed,High income
+Poland,2019,172,Poland,Developed,High income
+Poland,2020,212,Poland,Developed,High income
+Poland,2021,273,Poland,Developed,High income
+Poland,2022,288,Poland,Developed,High income
+Poland,2023,311,Poland,Developed,High income
+Poland,2024,422,Poland,Developed,High income
+Poland,2025,500,Poland,Developed,High income
+Portugal,1994,1,Portugal,Developed,High income
+Portugal,1995,1,Portugal,Developed,High income
+Portugal,1996,1,Portugal,Developed,High income
+Portugal,1997,5,Portugal,Developed,High income
+Portugal,1998,6,Portugal,Developed,High income
+Portugal,1999,6,Portugal,Developed,High income
+Portugal,2000,8,Portugal,Developed,High income
+Portugal,2001,2,Portugal,Developed,High income
+Portugal,2002,8,Portugal,Developed,High income
+Portugal,2003,12,Portugal,Developed,High income
+Portugal,2004,10,Portugal,Developed,High income
+Portugal,2005,18,Portugal,Developed,High income
+Portugal,2006,18,Portugal,Developed,High income
+Portugal,2007,15,Portugal,Developed,High income
+Portugal,2008,12,Portugal,Developed,High income
+Portugal,2009,16,Portugal,Developed,High income
+Portugal,2010,9,Portugal,Developed,High income
+Portugal,2011,27,Portugal,Developed,High income
+Portugal,2012,33,Portugal,Developed,High income
+Portugal,2013,33,Portugal,Developed,High income
+Portugal,2014,34,Portugal,Developed,High income
+Portugal,2015,44,Portugal,Developed,High income
+Portugal,2016,39,Portugal,Developed,High income
+Portugal,2017,52,Portugal,Developed,High income
+Portugal,2018,64,Portugal,Developed,High income
+Portugal,2019,91,Portugal,Developed,High income
+Portugal,2020,114,Portugal,Developed,High income
+Portugal,2021,182,Portugal,Developed,High income
+Portugal,2022,200,Portugal,Developed,High income
+Portugal,2023,214,Portugal,Developed,High income
+Portugal,2024,225,Portugal,Developed,High income
+Portugal,2025,297,Portugal,Developed,High income
+Qatar,2006,1,Qatar,Developing,High income
+Qatar,2007,2,Qatar,Developing,High income
+Qatar,2009,2,Qatar,Developing,High income
+Qatar,2011,1,Qatar,Developing,High income
+Qatar,2015,2,Qatar,Developing,High income
+Qatar,2016,9,Qatar,Developing,High income
+Qatar,2017,6,Qatar,Developing,High income
+Qatar,2018,7,Qatar,Developing,High income
+Qatar,2019,8,Qatar,Developing,High income
+Qatar,2020,27,Qatar,Developing,High income
+Qatar,2021,45,Qatar,Developing,High income
+Qatar,2022,44,Qatar,Developing,High income
+Qatar,2023,59,Qatar,Developing,High income
+Qatar,2024,52,Qatar,Developing,High income
+Qatar,2025,69,Qatar,Developing,High income
+Romania,1996,1,Romania,Developing,High income
+Romania,1997,4,Romania,Developing,High income
+Romania,1998,7,Romania,Developing,High income
+Romania,1999,4,Romania,Developing,High income
+Romania,2000,2,Romania,Developing,High income
+Romania,2001,1,Romania,Developing,High income
+Romania,2002,3,Romania,Developing,High income
+Romania,2003,2,Romania,Developing,High income
+Romania,2004,3,Romania,Developing,High income
+Romania,2005,6,Romania,Developing,High income
+Romania,2006,13,Romania,Developing,High income
+Romania,2007,10,Romania,Developing,High income
+Romania,2008,12,Romania,Developing,High income
+Romania,2009,15,Romania,Developing,High income
+Romania,2010,14,Romania,Developing,High income
+Romania,2011,15,Romania,Developing,High income
+Romania,2012,12,Romania,Developing,High income
+Romania,2013,13,Romania,Developing,High income
+Romania,2014,21,Romania,Developing,High income
+Romania,2015,18,Romania,Developing,High income
+Romania,2016,23,Romania,Developing,High income
+Romania,2017,16,Romania,Developing,High income
+Romania,2018,18,Romania,Developing,High income
+Romania,2019,38,Romania,Developing,High income
+Romania,2020,69,Romania,Developing,High income
+Romania,2021,93,Romania,Developing,High income
+Romania,2022,127,Romania,Developing,High income
+Romania,2023,126,Romania,Developing,High income
+Romania,2024,167,Romania,Developing,High income
+Romania,2025,211,Romania,Developing,High income
+Russia,1992,1,Russian Federation,Developing,High income
+Russia,1993,1,Russian Federation,Developing,High income
+Russia,1994,2,Russian Federation,Developing,High income
+Russia,1996,5,Russian Federation,Developing,High income
+Russia,1997,7,Russian Federation,Developing,High income
+Russia,1998,7,Russian Federation,Developing,High income
+Russia,1999,15,Russian Federation,Developing,High income
+Russia,2000,11,Russian Federation,Developing,High income
+Russia,2001,14,Russian Federation,Developing,High income
+Russia,2002,10,Russian Federation,Developing,High income
+Russia,2003,7,Russian Federation,Developing,High income
+Russia,2004,5,Russian Federation,Developing,High income
+Russia,2005,13,Russian Federation,Developing,High income
+Russia,2006,6,Russian Federation,Developing,High income
+Russia,2007,17,Russian Federation,Developing,High income
+Russia,2008,8,Russian Federation,Developing,High income
+Russia,2009,18,Russian Federation,Developing,High income
+Russia,2010,10,Russian Federation,Developing,High income
+Russia,2011,8,Russian Federation,Developing,High income
+Russia,2012,8,Russian Federation,Developing,High income
+Russia,2013,7,Russian Federation,Developing,High income
+Russia,2014,22,Russian Federation,Developing,High income
+Russia,2015,28,Russian Federation,Developing,High income
+Russia,2016,35,Russian Federation,Developing,High income
+Russia,2017,37,Russian Federation,Developing,High income
+Russia,2018,79,Russian Federation,Developing,High income
+Russia,2019,105,Russian Federation,Developing,High income
+Russia,2020,183,Russian Federation,Developing,High income
+Russia,2021,260,Russian Federation,Developing,High income
+Russia,2022,291,Russian Federation,Developing,High income
+Russia,2023,367,Russian Federation,Developing,High income
+Russia,2024,528,Russian Federation,Developing,High income
+Russia,2025,709,Russian Federation,Developing,High income
+Rwanda,2019,1,Rwanda,Developing,Low income
+Rwanda,2020,2,Rwanda,Developing,Low income
+Rwanda,2021,2,Rwanda,Developing,Low income
+Rwanda,2022,2,Rwanda,Developing,Low income
+Rwanda,2023,1,Rwanda,Developing,Low income
+Rwanda,2024,3,Rwanda,Developing,Low income
+Rwanda,2025,3,Rwanda,Developing,Low income
+Saudi Arabia,1996,1,Saudi Arabia,Developing,High income
+Saudi Arabia,1997,5,Saudi Arabia,Developing,High income
+Saudi Arabia,1998,3,Saudi Arabia,Developing,High income
+Saudi Arabia,1999,4,Saudi Arabia,Developing,High income
+Saudi Arabia,2000,2,Saudi Arabia,Developing,High income
+Saudi Arabia,2002,3,Saudi Arabia,Developing,High income
+Saudi Arabia,2005,1,Saudi Arabia,Developing,High income
+Saudi Arabia,2006,4,Saudi Arabia,Developing,High income
+Saudi Arabia,2008,2,Saudi Arabia,Developing,High income
+Saudi Arabia,2009,4,Saudi Arabia,Developing,High income
+Saudi Arabia,2010,7,Saudi Arabia,Developing,High income
+Saudi Arabia,2011,4,Saudi Arabia,Developing,High income
+Saudi Arabia,2012,11,Saudi Arabia,Developing,High income
+Saudi Arabia,2013,21,Saudi Arabia,Developing,High income
+Saudi Arabia,2014,31,Saudi Arabia,Developing,High income
+Saudi Arabia,2015,26,Saudi Arabia,Developing,High income
+Saudi Arabia,2016,39,Saudi Arabia,Developing,High income
+Saudi Arabia,2017,48,Saudi Arabia,Developing,High income
+Saudi Arabia,2018,76,Saudi Arabia,Developing,High income
+Saudi Arabia,2019,128,Saudi Arabia,Developing,High income
+Saudi Arabia,2020,239,Saudi Arabia,Developing,High income
+Saudi Arabia,2021,486,Saudi Arabia,Developing,High income
+Saudi Arabia,2022,995,Saudi Arabia,Developing,High income
+Saudi Arabia,2023,931,Saudi Arabia,Developing,High income
+Saudi Arabia,2024,796,Saudi Arabia,Developing,High income
+Saudi Arabia,2025,1251,Saudi Arabia,Developing,High income
+Senegal,2006,1,Senegal,Developing,Lower middle income
+Senegal,2007,1,Senegal,Developing,Lower middle income
+Senegal,2018,3,Senegal,Developing,Lower middle income
+Senegal,2019,1,Senegal,Developing,Lower middle income
+Senegal,2020,3,Senegal,Developing,Lower middle income
+Senegal,2021,2,Senegal,Developing,Lower middle income
+Senegal,2022,5,Senegal,Developing,Lower middle income
+Senegal,2024,6,Senegal,Developing,Lower middle income
+Senegal,2025,2,Senegal,Developing,Lower middle income
+Serbia,2003,2,Serbia,Developing,Upper middle income
+Serbia,2004,1,Serbia,Developing,Upper middle income
+Serbia,2005,2,Serbia,Developing,Upper middle income
+Serbia,2006,4,Serbia,Developing,Upper middle income
+Serbia,2007,2,Serbia,Developing,Upper middle income
+Serbia,2008,3,Serbia,Developing,Upper middle income
+Serbia,2009,13,Serbia,Developing,Upper middle income
+Serbia,2010,8,Serbia,Developing,Upper middle income
+Serbia,2011,13,Serbia,Developing,Upper middle income
+Serbia,2012,13,Serbia,Developing,Upper middle income
+Serbia,2013,15,Serbia,Developing,Upper middle income
+Serbia,2014,34,Serbia,Developing,Upper middle income
+Serbia,2015,26,Serbia,Developing,Upper middle income
+Serbia,2016,37,Serbia,Developing,Upper middle income
+Serbia,2017,33,Serbia,Developing,Upper middle income
+Serbia,2018,37,Serbia,Developing,Upper middle income
+Serbia,2019,49,Serbia,Developing,Upper middle income
+Serbia,2020,60,Serbia,Developing,Upper middle income
+Serbia,2021,62,Serbia,Developing,Upper middle income
+Serbia,2022,109,Serbia,Developing,Upper middle income
+Serbia,2023,111,Serbia,Developing,Upper middle income
+Serbia,2024,120,Serbia,Developing,Upper middle income
+Serbia,2025,119,Serbia,Developing,Upper middle income
+Sierra Leone,2025,1,Sierra Leone,,Low income
+Singapore,1995,1,Singapore,Developed,High income
+Singapore,1996,5,Singapore,Developed,High income
+Singapore,1997,6,Singapore,Developed,High income
+Singapore,1998,8,Singapore,Developed,High income
+Singapore,1999,4,Singapore,Developed,High income
+Singapore,2000,5,Singapore,Developed,High income
+Singapore,2001,6,Singapore,Developed,High income
+Singapore,2002,25,Singapore,Developed,High income
+Singapore,2003,15,Singapore,Developed,High income
+Singapore,2004,21,Singapore,Developed,High income
+Singapore,2005,34,Singapore,Developed,High income
+Singapore,2006,36,Singapore,Developed,High income
+Singapore,2007,28,Singapore,Developed,High income
+Singapore,2008,33,Singapore,Developed,High income
+Singapore,2009,32,Singapore,Developed,High income
+Singapore,2010,37,Singapore,Developed,High income
+Singapore,2011,49,Singapore,Developed,High income
+Singapore,2012,43,Singapore,Developed,High income
+Singapore,2013,48,Singapore,Developed,High income
+Singapore,2014,51,Singapore,Developed,High income
+Singapore,2015,49,Singapore,Developed,High income
+Singapore,2016,60,Singapore,Developed,High income
+Singapore,2017,54,Singapore,Developed,High income
+Singapore,2018,93,Singapore,Developed,High income
+Singapore,2019,123,Singapore,Developed,High income
+Singapore,2020,167,Singapore,Developed,High income
+Singapore,2021,255,Singapore,Developed,High income
+Singapore,2022,270,Singapore,Developed,High income
+Singapore,2023,286,Singapore,Developed,High income
+Singapore,2024,341,Singapore,Developed,High income
+Singapore,2025,357,Singapore,Developed,High income
+Slovakia,1997,1,Slovak Republic,Developed,High income
+Slovakia,1998,3,Slovak Republic,Developed,High income
+Slovakia,1999,2,Slovak Republic,Developed,High income
+Slovakia,2001,1,Slovak Republic,Developed,High income
+Slovakia,2002,3,Slovak Republic,Developed,High income
+Slovakia,2003,1,Slovak Republic,Developed,High income
+Slovakia,2004,4,Slovak Republic,Developed,High income
+Slovakia,2005,3,Slovak Republic,Developed,High income
+Slovakia,2006,5,Slovak Republic,Developed,High income
+Slovakia,2007,5,Slovak Republic,Developed,High income
+Slovakia,2008,1,Slovak Republic,Developed,High income
+Slovakia,2009,6,Slovak Republic,Developed,High income
+Slovakia,2010,3,Slovak Republic,Developed,High income
+Slovakia,2011,3,Slovak Republic,Developed,High income
+Slovakia,2012,2,Slovak Republic,Developed,High income
+Slovakia,2013,6,Slovak Republic,Developed,High income
+Slovakia,2014,5,Slovak Republic,Developed,High income
+Slovakia,2015,3,Slovak Republic,Developed,High income
+Slovakia,2016,7,Slovak Republic,Developed,High income
+Slovakia,2017,7,Slovak Republic,Developed,High income
+Slovakia,2018,8,Slovak Republic,Developed,High income
+Slovakia,2019,9,Slovak Republic,Developed,High income
+Slovakia,2020,18,Slovak Republic,Developed,High income
+Slovakia,2021,37,Slovak Republic,Developed,High income
+Slovakia,2022,27,Slovak Republic,Developed,High income
+Slovakia,2023,26,Slovak Republic,Developed,High income
+Slovakia,2024,39,Slovak Republic,Developed,High income
+Slovakia,2025,37,Slovak Republic,Developed,High income
+Slovenia,1993,2,Slovenia,Developed,High income
+Slovenia,1994,2,Slovenia,Developed,High income
+Slovenia,1996,6,Slovenia,Developed,High income
+Slovenia,1997,17,Slovenia,Developed,High income
+Slovenia,1998,7,Slovenia,Developed,High income
+Slovenia,1999,13,Slovenia,Developed,High income
+Slovenia,2000,9,Slovenia,Developed,High income
+Slovenia,2001,6,Slovenia,Developed,High income
+Slovenia,2002,12,Slovenia,Developed,High income
+Slovenia,2003,6,Slovenia,Developed,High income
+Slovenia,2004,15,Slovenia,Developed,High income
+Slovenia,2005,14,Slovenia,Developed,High income
+Slovenia,2006,20,Slovenia,Developed,High income
+Slovenia,2007,13,Slovenia,Developed,High income
+Slovenia,2008,16,Slovenia,Developed,High income
+Slovenia,2009,13,Slovenia,Developed,High income
+Slovenia,2010,24,Slovenia,Developed,High income
+Slovenia,2011,14,Slovenia,Developed,High income
+Slovenia,2012,11,Slovenia,Developed,High income
+Slovenia,2013,19,Slovenia,Developed,High income
+Slovenia,2014,18,Slovenia,Developed,High income
+Slovenia,2015,26,Slovenia,Developed,High income
+Slovenia,2016,18,Slovenia,Developed,High income
+Slovenia,2017,20,Slovenia,Developed,High income
+Slovenia,2018,32,Slovenia,Developed,High income
+Slovenia,2019,22,Slovenia,Developed,High income
+Slovenia,2020,48,Slovenia,Developed,High income
+Slovenia,2021,57,Slovenia,Developed,High income
+Slovenia,2022,51,Slovenia,Developed,High income
+Slovenia,2023,61,Slovenia,Developed,High income
+Slovenia,2024,54,Slovenia,Developed,High income
+Slovenia,2025,89,Slovenia,Developed,High income
+Somalia,2020,1,"Somalia, Fed. Rep.",,Low income
+Somalia,2023,2,"Somalia, Fed. Rep.",,Low income
+Somalia,2024,2,"Somalia, Fed. Rep.",,Low income
+Somalia,2025,2,"Somalia, Fed. Rep.",,Low income
+South Africa,1995,2,South Africa,Developing,Upper middle income
+South Africa,1996,2,South Africa,Developing,Upper middle income
+South Africa,1997,3,South Africa,Developing,Upper middle income
+South Africa,1998,3,South Africa,Developing,Upper middle income
+South Africa,1999,2,South Africa,Developing,Upper middle income
+South Africa,2000,3,South Africa,Developing,Upper middle income
+South Africa,2002,7,South Africa,Developing,Upper middle income
+South Africa,2003,5,South Africa,Developing,Upper middle income
+South Africa,2004,2,South Africa,Developing,Upper middle income
+South Africa,2005,4,South Africa,Developing,Upper middle income
+South Africa,2006,6,South Africa,Developing,Upper middle income
+South Africa,2007,2,South Africa,Developing,Upper middle income
+South Africa,2008,5,South Africa,Developing,Upper middle income
+South Africa,2009,6,South Africa,Developing,Upper middle income
+South Africa,2010,9,South Africa,Developing,Upper middle income
+South Africa,2011,14,South Africa,Developing,Upper middle income
+South Africa,2012,14,South Africa,Developing,Upper middle income
+South Africa,2013,17,South Africa,Developing,Upper middle income
+South Africa,2014,28,South Africa,Developing,Upper middle income
+South Africa,2015,25,South Africa,Developing,Upper middle income
+South Africa,2016,30,South Africa,Developing,Upper middle income
+South Africa,2017,42,South Africa,Developing,Upper middle income
+South Africa,2018,45,South Africa,Developing,Upper middle income
+South Africa,2019,57,South Africa,Developing,Upper middle income
+South Africa,2020,85,South Africa,Developing,Upper middle income
+South Africa,2021,119,South Africa,Developing,Upper middle income
+South Africa,2022,130,South Africa,Developing,Upper middle income
+South Africa,2023,120,South Africa,Developing,Upper middle income
+South Africa,2024,157,South Africa,Developing,Upper middle income
+South Africa,2025,182,South Africa,Developing,Upper middle income
+South Korea,1994,2,"Korea, Rep.",,High income
+South Korea,1996,5,"Korea, Rep.",,High income
+South Korea,1997,9,"Korea, Rep.",,High income
+South Korea,1998,6,"Korea, Rep.",,High income
+South Korea,1999,10,"Korea, Rep.",,High income
+South Korea,2000,20,"Korea, Rep.",,High income
+South Korea,2001,13,"Korea, Rep.",,High income
+South Korea,2002,27,"Korea, Rep.",,High income
+South Korea,2003,45,"Korea, Rep.",,High income
+South Korea,2004,70,"Korea, Rep.",,High income
+South Korea,2005,89,"Korea, Rep.",,High income
+South Korea,2006,126,"Korea, Rep.",,High income
+South Korea,2007,53,"Korea, Rep.",,High income
+South Korea,2008,59,"Korea, Rep.",,High income
+South Korea,2009,60,"Korea, Rep.",,High income
+South Korea,2010,64,"Korea, Rep.",,High income
+South Korea,2011,69,"Korea, Rep.",,High income
+South Korea,2012,77,"Korea, Rep.",,High income
+South Korea,2013,97,"Korea, Rep.",,High income
+South Korea,2014,89,"Korea, Rep.",,High income
+South Korea,2015,131,"Korea, Rep.",,High income
+South Korea,2016,139,"Korea, Rep.",,High income
+South Korea,2017,198,"Korea, Rep.",,High income
+South Korea,2018,360,"Korea, Rep.",,High income
+South Korea,2019,593,"Korea, Rep.",,High income
+South Korea,2020,917,"Korea, Rep.",,High income
+South Korea,2021,1331,"Korea, Rep.",,High income
+South Korea,2022,1550,"Korea, Rep.",,High income
+South Korea,2023,1593,"Korea, Rep.",,High income
+South Korea,2024,1986,"Korea, Rep.",,High income
+South Korea,2025,2394,"Korea, Rep.",,High income
+Spain,1993,3,Spain,Developed,High income
+Spain,1994,2,Spain,Developed,High income
+Spain,1995,9,Spain,Developed,High income
+Spain,1996,14,Spain,Developed,High income
+Spain,1997,36,Spain,Developed,High income
+Spain,1998,23,Spain,Developed,High income
+Spain,1999,42,Spain,Developed,High income
+Spain,2000,35,Spain,Developed,High income
+Spain,2001,57,Spain,Developed,High income
+Spain,2002,66,Spain,Developed,High income
+Spain,2003,63,Spain,Developed,High income
+Spain,2004,99,Spain,Developed,High income
+Spain,2005,106,Spain,Developed,High income
+Spain,2006,118,Spain,Developed,High income
+Spain,2007,91,Spain,Developed,High income
+Spain,2008,98,Spain,Developed,High income
+Spain,2009,112,Spain,Developed,High income
+Spain,2010,148,Spain,Developed,High income
+Spain,2011,160,Spain,Developed,High income
+Spain,2012,162,Spain,Developed,High income
+Spain,2013,201,Spain,Developed,High income
+Spain,2014,190,Spain,Developed,High income
+Spain,2015,209,Spain,Developed,High income
+Spain,2016,211,Spain,Developed,High income
+Spain,2017,228,Spain,Developed,High income
+Spain,2018,344,Spain,Developed,High income
+Spain,2019,505,Spain,Developed,High income
+Spain,2020,628,Spain,Developed,High income
+Spain,2021,864,Spain,Developed,High income
+Spain,2022,883,Spain,Developed,High income
+Spain,2023,1022,Spain,Developed,High income
+Spain,2024,1054,Spain,Developed,High income
+Spain,2025,1244,Spain,Developed,High income
+Sri Lanka,2004,1,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2005,1,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2007,1,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2008,1,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2011,4,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2016,2,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2018,1,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2019,2,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2020,7,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2021,15,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2022,17,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2023,22,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2024,28,Sri Lanka,Developing,Lower middle income
+Sri Lanka,2025,22,Sri Lanka,Developing,Lower middle income
+Sudan,2006,1,Sudan,Developing,Low income
+Sudan,2013,1,Sudan,Developing,Low income
+Sudan,2014,2,Sudan,Developing,Low income
+Sudan,2015,1,Sudan,Developing,Low income
+Sudan,2019,2,Sudan,Developing,Low income
+Sudan,2021,2,Sudan,Developing,Low income
+Sudan,2022,4,Sudan,Developing,Low income
+Sudan,2023,5,Sudan,Developing,Low income
+Sudan,2024,5,Sudan,Developing,Low income
+Sudan,2025,3,Sudan,Developing,Low income
+Suriname,2019,1,Suriname,,Upper middle income
+Suriname,2023,1,Suriname,,Upper middle income
+Swaziland,2002,1,Eswatini,,Lower middle income
+Swaziland,2022,1,Eswatini,,Lower middle income
+Sweden,1993,2,Sweden,Developed,High income
+Sweden,1995,1,Sweden,Developed,High income
+Sweden,1996,12,Sweden,Developed,High income
+Sweden,1997,13,Sweden,Developed,High income
+Sweden,1998,15,Sweden,Developed,High income
+Sweden,1999,18,Sweden,Developed,High income
+Sweden,2000,14,Sweden,Developed,High income
+Sweden,2001,9,Sweden,Developed,High income
+Sweden,2002,8,Sweden,Developed,High income
+Sweden,2003,13,Sweden,Developed,High income
+Sweden,2004,13,Sweden,Developed,High income
+Sweden,2005,17,Sweden,Developed,High income
+Sweden,2006,23,Sweden,Developed,High income
+Sweden,2007,14,Sweden,Developed,High income
+Sweden,2008,8,Sweden,Developed,High income
+Sweden,2009,14,Sweden,Developed,High income
+Sweden,2010,16,Sweden,Developed,High income
+Sweden,2011,17,Sweden,Developed,High income
+Sweden,2012,27,Sweden,Developed,High income
+Sweden,2013,25,Sweden,Developed,High income
+Sweden,2014,24,Sweden,Developed,High income
+Sweden,2015,24,Sweden,Developed,High income
+Sweden,2016,36,Sweden,Developed,High income
+Sweden,2017,43,Sweden,Developed,High income
+Sweden,2018,63,Sweden,Developed,High income
+Sweden,2019,94,Sweden,Developed,High income
+Sweden,2020,114,Sweden,Developed,High income
+Sweden,2021,180,Sweden,Developed,High income
+Sweden,2022,201,Sweden,Developed,High income
+Sweden,2023,182,Sweden,Developed,High income
+Sweden,2024,236,Sweden,Developed,High income
+Sweden,2025,276,Sweden,Developed,High income
+Switzerland,1992,1,Switzerland,Developed,High income
+Switzerland,1993,2,Switzerland,Developed,High income
+Switzerland,1994,1,Switzerland,Developed,High income
+Switzerland,1995,2,Switzerland,Developed,High income
+Switzerland,1996,9,Switzerland,Developed,High income
+Switzerland,1997,11,Switzerland,Developed,High income
+Switzerland,1998,4,Switzerland,Developed,High income
+Switzerland,1999,11,Switzerland,Developed,High income
+Switzerland,2000,10,Switzerland,Developed,High income
+Switzerland,2001,9,Switzerland,Developed,High income
+Switzerland,2002,13,Switzerland,Developed,High income
+Switzerland,2003,16,Switzerland,Developed,High income
+Switzerland,2004,21,Switzerland,Developed,High income
+Switzerland,2005,19,Switzerland,Developed,High income
+Switzerland,2006,25,Switzerland,Developed,High income
+Switzerland,2007,15,Switzerland,Developed,High income
+Switzerland,2008,10,Switzerland,Developed,High income
+Switzerland,2009,24,Switzerland,Developed,High income
+Switzerland,2010,27,Switzerland,Developed,High income
+Switzerland,2011,28,Switzerland,Developed,High income
+Switzerland,2012,35,Switzerland,Developed,High income
+Switzerland,2013,41,Switzerland,Developed,High income
+Switzerland,2014,48,Switzerland,Developed,High income
+Switzerland,2015,39,Switzerland,Developed,High income
+Switzerland,2016,36,Switzerland,Developed,High income
+Switzerland,2017,64,Switzerland,Developed,High income
+Switzerland,2018,130,Switzerland,Developed,High income
+Switzerland,2019,185,Switzerland,Developed,High income
+Switzerland,2020,224,Switzerland,Developed,High income
+Switzerland,2021,329,Switzerland,Developed,High income
+Switzerland,2022,331,Switzerland,Developed,High income
+Switzerland,2023,350,Switzerland,Developed,High income
+Switzerland,2024,475,Switzerland,Developed,High income
+Switzerland,2025,459,Switzerland,Developed,High income
+Syria,2011,1,Syrian Arab Republic,Developing,Low income
+Syria,2017,1,Syrian Arab Republic,Developing,Low income
+Syria,2018,2,Syrian Arab Republic,Developing,Low income
+Syria,2019,5,Syrian Arab Republic,Developing,Low income
+Syria,2020,7,Syrian Arab Republic,Developing,Low income
+Syria,2021,2,Syrian Arab Republic,Developing,Low income
+Syria,2022,4,Syrian Arab Republic,Developing,Low income
+Syria,2024,4,Syrian Arab Republic,Developing,Low income
+Syria,2025,9,Syrian Arab Republic,Developing,Low income
+Taiwan,1995,2,"Taiwan, China",,High income
+Taiwan,1996,10,"Taiwan, China",,High income
+Taiwan,1997,11,"Taiwan, China",,High income
+Taiwan,1998,16,"Taiwan, China",,High income
+Taiwan,1999,12,"Taiwan, China",,High income
+Taiwan,2000,16,"Taiwan, China",,High income
+Taiwan,2001,21,"Taiwan, China",,High income
+Taiwan,2002,29,"Taiwan, China",,High income
+Taiwan,2003,22,"Taiwan, China",,High income
+Taiwan,2004,45,"Taiwan, China",,High income
+Taiwan,2005,54,"Taiwan, China",,High income
+Taiwan,2006,81,"Taiwan, China",,High income
+Taiwan,2007,76,"Taiwan, China",,High income
+Taiwan,2008,86,"Taiwan, China",,High income
+Taiwan,2009,114,"Taiwan, China",,High income
+Taiwan,2010,100,"Taiwan, China",,High income
+Taiwan,2011,128,"Taiwan, China",,High income
+Taiwan,2012,135,"Taiwan, China",,High income
+Taiwan,2013,176,"Taiwan, China",,High income
+Taiwan,2014,126,"Taiwan, China",,High income
+Taiwan,2015,122,"Taiwan, China",,High income
+Taiwan,2016,122,"Taiwan, China",,High income
+Taiwan,2017,129,"Taiwan, China",,High income
+Taiwan,2018,165,"Taiwan, China",,High income
+Taiwan,2019,198,"Taiwan, China",,High income
+Taiwan,2020,361,"Taiwan, China",,High income
+Taiwan,2021,522,"Taiwan, China",,High income
+Taiwan,2022,611,"Taiwan, China",,High income
+Taiwan,2023,581,"Taiwan, China",,High income
+Taiwan,2024,671,"Taiwan, China",,High income
+Taiwan,2025,835,"Taiwan, China",,High income
+Tajikistan,2021,1,Tajikistan,Developing,Lower middle income
+Tanzania,2015,1,Tanzania,Developing,Lower middle income
+Tanzania,2016,1,Tanzania,Developing,Lower middle income
+Tanzania,2020,1,Tanzania,Developing,Lower middle income
+Tanzania,2021,3,Tanzania,Developing,Lower middle income
+Tanzania,2022,7,Tanzania,Developing,Lower middle income
+Tanzania,2023,7,Tanzania,Developing,Lower middle income
+Tanzania,2024,7,Tanzania,Developing,Lower middle income
+Tanzania,2025,13,Tanzania,Developing,Lower middle income
+Thailand,1997,1,Thailand,Developing,Upper middle income
+Thailand,1999,1,Thailand,Developing,Upper middle income
+Thailand,2001,3,Thailand,Developing,Upper middle income
+Thailand,2002,1,Thailand,Developing,Upper middle income
+Thailand,2003,2,Thailand,Developing,Upper middle income
+Thailand,2004,4,Thailand,Developing,Upper middle income
+Thailand,2005,6,Thailand,Developing,Upper middle income
+Thailand,2006,4,Thailand,Developing,Upper middle income
+Thailand,2007,11,Thailand,Developing,Upper middle income
+Thailand,2008,7,Thailand,Developing,Upper middle income
+Thailand,2009,15,Thailand,Developing,Upper middle income
+Thailand,2010,9,Thailand,Developing,Upper middle income
+Thailand,2011,11,Thailand,Developing,Upper middle income
+Thailand,2012,9,Thailand,Developing,Upper middle income
+Thailand,2013,27,Thailand,Developing,Upper middle income
+Thailand,2014,18,Thailand,Developing,Upper middle income
+Thailand,2015,24,Thailand,Developing,Upper middle income
+Thailand,2016,22,Thailand,Developing,Upper middle income
+Thailand,2017,24,Thailand,Developing,Upper middle income
+Thailand,2018,29,Thailand,Developing,Upper middle income
+Thailand,2019,32,Thailand,Developing,Upper middle income
+Thailand,2020,54,Thailand,Developing,Upper middle income
+Thailand,2021,104,Thailand,Developing,Upper middle income
+Thailand,2022,164,Thailand,Developing,Upper middle income
+Thailand,2023,146,Thailand,Developing,Upper middle income
+Thailand,2024,176,Thailand,Developing,Upper middle income
+Thailand,2025,216,Thailand,Developing,Upper middle income
+Togo,2017,1,Togo,Developing,Low income
+Togo,2024,1,Togo,Developing,Low income
+Trinidad and Tobago,2017,2,Trinidad and Tobago,,High income
+Trinidad and Tobago,2018,1,Trinidad and Tobago,,High income
+Trinidad and Tobago,2020,1,Trinidad and Tobago,,High income
+Trinidad and Tobago,2021,1,Trinidad and Tobago,,High income
+Trinidad and Tobago,2022,3,Trinidad and Tobago,,High income
+Trinidad and Tobago,2024,1,Trinidad and Tobago,,High income
+Trinidad and Tobago,2025,1,Trinidad and Tobago,,High income
+Tunisia,1998,1,Tunisia,Developing,Lower middle income
+Tunisia,2001,2,Tunisia,Developing,Lower middle income
+Tunisia,2002,1,Tunisia,Developing,Lower middle income
+Tunisia,2006,4,Tunisia,Developing,Lower middle income
+Tunisia,2007,1,Tunisia,Developing,Lower middle income
+Tunisia,2008,6,Tunisia,Developing,Lower middle income
+Tunisia,2010,1,Tunisia,Developing,Lower middle income
+Tunisia,2011,2,Tunisia,Developing,Lower middle income
+Tunisia,2012,3,Tunisia,Developing,Lower middle income
+Tunisia,2013,5,Tunisia,Developing,Lower middle income
+Tunisia,2014,8,Tunisia,Developing,Lower middle income
+Tunisia,2015,9,Tunisia,Developing,Lower middle income
+Tunisia,2016,19,Tunisia,Developing,Lower middle income
+Tunisia,2017,17,Tunisia,Developing,Lower middle income
+Tunisia,2018,37,Tunisia,Developing,Lower middle income
+Tunisia,2019,49,Tunisia,Developing,Lower middle income
+Tunisia,2020,76,Tunisia,Developing,Lower middle income
+Tunisia,2021,101,Tunisia,Developing,Lower middle income
+Tunisia,2022,106,Tunisia,Developing,Lower middle income
+Tunisia,2023,132,Tunisia,Developing,Lower middle income
+Tunisia,2024,107,Tunisia,Developing,Lower middle income
+Tunisia,2025,127,Tunisia,Developing,Lower middle income
+Turkey,1991,1,Türkiye,Developing,Upper middle income
+Turkey,1994,1,Türkiye,Developing,Upper middle income
+Turkey,1995,1,Türkiye,Developing,Upper middle income
+Turkey,1997,8,Türkiye,Developing,Upper middle income
+Turkey,1998,7,Türkiye,Developing,Upper middle income
+Turkey,1999,7,Türkiye,Developing,Upper middle income
+Turkey,2000,10,Türkiye,Developing,Upper middle income
+Turkey,2001,8,Türkiye,Developing,Upper middle income
+Turkey,2002,9,Türkiye,Developing,Upper middle income
+Turkey,2003,26,Türkiye,Developing,Upper middle income
+Turkey,2004,41,Türkiye,Developing,Upper middle income
+Turkey,2005,52,Türkiye,Developing,Upper middle income
+Turkey,2006,80,Türkiye,Developing,Upper middle income
+Turkey,2007,71,Türkiye,Developing,Upper middle income
+Turkey,2008,72,Türkiye,Developing,Upper middle income
+Turkey,2009,134,Türkiye,Developing,Upper middle income
+Turkey,2010,129,Türkiye,Developing,Upper middle income
+Turkey,2011,103,Türkiye,Developing,Upper middle income
+Turkey,2012,112,Türkiye,Developing,Upper middle income
+Turkey,2013,187,Türkiye,Developing,Upper middle income
+Turkey,2014,135,Türkiye,Developing,Upper middle income
+Turkey,2015,170,Türkiye,Developing,Upper middle income
+Turkey,2016,186,Türkiye,Developing,Upper middle income
+Turkey,2017,177,Türkiye,Developing,Upper middle income
+Turkey,2018,235,Türkiye,Developing,Upper middle income
+Turkey,2019,338,Türkiye,Developing,Upper middle income
+Turkey,2020,471,Türkiye,Developing,Upper middle income
+Turkey,2021,748,Türkiye,Developing,Upper middle income
+Turkey,2022,921,Türkiye,Developing,Upper middle income
+Turkey,2023,999,Türkiye,Developing,Upper middle income
+Turkey,2024,933,Türkiye,Developing,Upper middle income
+Turkey,2025,1411,Türkiye,Developing,Upper middle income
+Uganda,2010,1,Uganda,Developing,Low income
+Uganda,2011,1,Uganda,Developing,Low income
+Uganda,2014,1,Uganda,Developing,Low income
+Uganda,2017,1,Uganda,Developing,Low income
+Uganda,2018,2,Uganda,Developing,Low income
+Uganda,2019,1,Uganda,Developing,Low income
+Uganda,2020,2,Uganda,Developing,Low income
+Uganda,2021,2,Uganda,Developing,Low income
+Uganda,2022,9,Uganda,Developing,Low income
+Uganda,2023,4,Uganda,Developing,Low income
+Uganda,2024,9,Uganda,Developing,Low income
+Uganda,2025,12,Uganda,Developing,Low income
+Ukraine,1994,1,Ukraine,Developing,Upper middle income
+Ukraine,1995,1,Ukraine,Developing,Upper middle income
+Ukraine,1997,3,Ukraine,Developing,Upper middle income
+Ukraine,1999,4,Ukraine,Developing,Upper middle income
+Ukraine,2000,2,Ukraine,Developing,Upper middle income
+Ukraine,2001,2,Ukraine,Developing,Upper middle income
+Ukraine,2003,1,Ukraine,Developing,Upper middle income
+Ukraine,2005,3,Ukraine,Developing,Upper middle income
+Ukraine,2007,3,Ukraine,Developing,Upper middle income
+Ukraine,2008,3,Ukraine,Developing,Upper middle income
+Ukraine,2009,3,Ukraine,Developing,Upper middle income
+Ukraine,2010,1,Ukraine,Developing,Upper middle income
+Ukraine,2011,1,Ukraine,Developing,Upper middle income
+Ukraine,2012,3,Ukraine,Developing,Upper middle income
+Ukraine,2013,1,Ukraine,Developing,Upper middle income
+Ukraine,2014,3,Ukraine,Developing,Upper middle income
+Ukraine,2015,3,Ukraine,Developing,Upper middle income
+Ukraine,2016,5,Ukraine,Developing,Upper middle income
+Ukraine,2017,5,Ukraine,Developing,Upper middle income
+Ukraine,2018,7,Ukraine,Developing,Upper middle income
+Ukraine,2019,7,Ukraine,Developing,Upper middle income
+Ukraine,2020,12,Ukraine,Developing,Upper middle income
+Ukraine,2021,18,Ukraine,Developing,Upper middle income
+Ukraine,2022,21,Ukraine,Developing,Upper middle income
+Ukraine,2023,32,Ukraine,Developing,Upper middle income
+Ukraine,2024,24,Ukraine,Developing,Upper middle income
+Ukraine,2025,58,Ukraine,Developing,Upper middle income
+United Arab Emirates,1993,2,United Arab Emirates,Developing,High income
+United Arab Emirates,1997,1,United Arab Emirates,Developing,High income
+United Arab Emirates,2002,2,United Arab Emirates,Developing,High income
+United Arab Emirates,2003,2,United Arab Emirates,Developing,High income
+United Arab Emirates,2004,2,United Arab Emirates,Developing,High income
+United Arab Emirates,2005,1,United Arab Emirates,Developing,High income
+United Arab Emirates,2007,1,United Arab Emirates,Developing,High income
+United Arab Emirates,2008,3,United Arab Emirates,Developing,High income
+United Arab Emirates,2009,2,United Arab Emirates,Developing,High income
+United Arab Emirates,2010,3,United Arab Emirates,Developing,High income
+United Arab Emirates,2011,3,United Arab Emirates,Developing,High income
+United Arab Emirates,2012,3,United Arab Emirates,Developing,High income
+United Arab Emirates,2013,6,United Arab Emirates,Developing,High income
+United Arab Emirates,2014,11,United Arab Emirates,Developing,High income
+United Arab Emirates,2015,7,United Arab Emirates,Developing,High income
+United Arab Emirates,2016,11,United Arab Emirates,Developing,High income
+United Arab Emirates,2017,9,United Arab Emirates,Developing,High income
+United Arab Emirates,2018,16,United Arab Emirates,Developing,High income
+United Arab Emirates,2019,25,United Arab Emirates,Developing,High income
+United Arab Emirates,2020,59,United Arab Emirates,Developing,High income
+United Arab Emirates,2021,76,United Arab Emirates,Developing,High income
+United Arab Emirates,2022,124,United Arab Emirates,Developing,High income
+United Arab Emirates,2023,150,United Arab Emirates,Developing,High income
+United Arab Emirates,2024,160,United Arab Emirates,Developing,High income
+United Arab Emirates,2025,209,United Arab Emirates,Developing,High income
+United Kingdom,1990,2,United Kingdom,Developed,High income
+United Kingdom,1991,2,United Kingdom,Developed,High income
+United Kingdom,1992,2,United Kingdom,Developed,High income
+United Kingdom,1993,5,United Kingdom,Developed,High income
+United Kingdom,1994,6,United Kingdom,Developed,High income
+United Kingdom,1995,14,United Kingdom,Developed,High income
+United Kingdom,1996,77,United Kingdom,Developed,High income
+United Kingdom,1997,88,United Kingdom,Developed,High income
+United Kingdom,1998,72,United Kingdom,Developed,High income
+United Kingdom,1999,82,United Kingdom,Developed,High income
+United Kingdom,2000,94,United Kingdom,Developed,High income
+United Kingdom,2001,118,United Kingdom,Developed,High income
+United Kingdom,2002,98,United Kingdom,Developed,High income
+United Kingdom,2003,88,United Kingdom,Developed,High income
+United Kingdom,2004,131,United Kingdom,Developed,High income
+United Kingdom,2005,148,United Kingdom,Developed,High income
+United Kingdom,2006,180,United Kingdom,Developed,High income
+United Kingdom,2007,136,United Kingdom,Developed,High income
+United Kingdom,2008,110,United Kingdom,Developed,High income
+United Kingdom,2009,140,United Kingdom,Developed,High income
+United Kingdom,2010,155,United Kingdom,Developed,High income
+United Kingdom,2011,164,United Kingdom,Developed,High income
+United Kingdom,2012,169,United Kingdom,Developed,High income
+United Kingdom,2013,195,United Kingdom,Developed,High income
+United Kingdom,2014,195,United Kingdom,Developed,High income
+United Kingdom,2015,200,United Kingdom,Developed,High income
+United Kingdom,2016,218,United Kingdom,Developed,High income
+United Kingdom,2017,317,United Kingdom,Developed,High income
+United Kingdom,2018,461,United Kingdom,Developed,High income
+United Kingdom,2019,638,United Kingdom,Developed,High income
+United Kingdom,2020,895,United Kingdom,Developed,High income
+United Kingdom,2021,1178,United Kingdom,Developed,High income
+United Kingdom,2022,1248,United Kingdom,Developed,High income
+United Kingdom,2023,1312,United Kingdom,Developed,High income
+United Kingdom,2024,1451,United Kingdom,Developed,High income
+United Kingdom,2025,1694,United Kingdom,Developed,High income
+United States,1990,4,United States,Developed,High income
+United States,1991,3,United States,Developed,High income
+United States,1992,11,United States,Developed,High income
+United States,1993,5,United States,Developed,High income
+United States,1994,17,United States,Developed,High income
+United States,1995,21,United States,Developed,High income
+United States,1996,148,United States,Developed,High income
+United States,1997,171,United States,Developed,High income
+United States,1998,218,United States,Developed,High income
+United States,1999,210,United States,Developed,High income
+United States,2000,227,United States,Developed,High income
+United States,2001,202,United States,Developed,High income
+United States,2002,248,United States,Developed,High income
+United States,2003,257,United States,Developed,High income
+United States,2004,385,United States,Developed,High income
+United States,2005,473,United States,Developed,High income
+United States,2006,533,United States,Developed,High income
+United States,2007,473,United States,Developed,High income
+United States,2008,473,United States,Developed,High income
+United States,2009,489,United States,Developed,High income
+United States,2010,499,United States,Developed,High income
+United States,2011,529,United States,Developed,High income
+United States,2012,608,United States,Developed,High income
+United States,2013,663,United States,Developed,High income
+United States,2014,661,United States,Developed,High income
+United States,2015,802,United States,Developed,High income
+United States,2016,942,United States,Developed,High income
+United States,2017,1225,United States,Developed,High income
+United States,2018,1842,United States,Developed,High income
+United States,2019,2857,United States,Developed,High income
+United States,2020,3917,United States,Developed,High income
+United States,2021,5218,United States,Developed,High income
+United States,2022,5303,United States,Developed,High income
+United States,2023,5380,United States,Developed,High income
+United States,2024,6300,United States,Developed,High income
+United States,2025,7332,United States,Developed,High income
+Uruguay,2006,1,Uruguay,Developing,High income
+Uruguay,2010,1,Uruguay,Developing,High income
+Uruguay,2011,1,Uruguay,Developing,High income
+Uruguay,2014,1,Uruguay,Developing,High income
+Uruguay,2015,2,Uruguay,Developing,High income
+Uruguay,2016,1,Uruguay,Developing,High income
+Uruguay,2017,4,Uruguay,Developing,High income
+Uruguay,2018,4,Uruguay,Developing,High income
+Uruguay,2019,6,Uruguay,Developing,High income
+Uruguay,2020,2,Uruguay,Developing,High income
+Uruguay,2021,12,Uruguay,Developing,High income
+Uruguay,2022,7,Uruguay,Developing,High income
+Uruguay,2023,5,Uruguay,Developing,High income
+Uruguay,2024,8,Uruguay,Developing,High income
+Uruguay,2025,10,Uruguay,Developing,High income
+Uzbekistan,2017,1,Uzbekistan,Developing,Lower middle income
+Uzbekistan,2018,2,Uzbekistan,Developing,Lower middle income
+Uzbekistan,2021,1,Uzbekistan,Developing,Lower middle income
+Uzbekistan,2022,2,Uzbekistan,Developing,Lower middle income
+Uzbekistan,2023,3,Uzbekistan,Developing,Lower middle income
+Uzbekistan,2024,6,Uzbekistan,Developing,Lower middle income
+Uzbekistan,2025,9,Uzbekistan,Developing,Lower middle income
+Vietnam,2002,1,Vietnam,Developing,Lower middle income
+Vietnam,2004,1,Vietnam,Developing,Lower middle income
+Vietnam,2005,2,Vietnam,Developing,Lower middle income
+Vietnam,2006,1,Vietnam,Developing,Lower middle income
+Vietnam,2009,1,Vietnam,Developing,Lower middle income
+Vietnam,2010,1,Vietnam,Developing,Lower middle income
+Vietnam,2011,2,Vietnam,Developing,Lower middle income
+Vietnam,2012,1,Vietnam,Developing,Lower middle income
+Vietnam,2013,3,Vietnam,Developing,Lower middle income
+Vietnam,2014,4,Vietnam,Developing,Lower middle income
+Vietnam,2015,7,Vietnam,Developing,Lower middle income
+Vietnam,2016,19,Vietnam,Developing,Lower middle income
+Vietnam,2017,16,Vietnam,Developing,Lower middle income
+Vietnam,2018,32,Vietnam,Developing,Lower middle income
+Vietnam,2019,104,Vietnam,Developing,Lower middle income
+Vietnam,2020,199,Vietnam,Developing,Lower middle income
+Vietnam,2021,189,Vietnam,Developing,Lower middle income
+Vietnam,2022,203,Vietnam,Developing,Lower middle income
+Vietnam,2023,215,Vietnam,Developing,Lower middle income
+Vietnam,2024,238,Vietnam,Developing,Lower middle income
+Vietnam,2025,339,Vietnam,Developing,Lower middle income
+Western Samoa,1997,1,Samoa,,Upper middle income
+Yemen,2013,2,"Yemen, Rep.",,Low income
+Yemen,2018,1,"Yemen, Rep.",,Low income
+Yemen,2019,2,"Yemen, Rep.",,Low income
+Yemen,2020,2,"Yemen, Rep.",,Low income
+Yemen,2021,3,"Yemen, Rep.",,Low income
+Yemen,2022,6,"Yemen, Rep.",,Low income
+Yemen,2023,8,"Yemen, Rep.",,Low income
+Yemen,2024,6,"Yemen, Rep.",,Low income
+Yemen,2025,10,"Yemen, Rep.",,Low income
+Zambia,2020,2,Zambia,Developing,Lower middle income
+Zambia,2021,1,Zambia,Developing,Lower middle income
+Zambia,2022,1,Zambia,Developing,Lower middle income
+Zambia,2023,3,Zambia,Developing,Lower middle income
+Zambia,2024,3,Zambia,Developing,Lower middle income
+Zambia,2025,3,Zambia,Developing,Lower middle income
+Zimbabwe,2011,1,Zimbabwe,Developing,Lower middle income
+Zimbabwe,2016,1,Zimbabwe,Developing,Lower middle income
+Zimbabwe,2017,4,Zimbabwe,Developing,Lower middle income
+Zimbabwe,2018,2,Zimbabwe,Developing,Lower middle income
+Zimbabwe,2019,3,Zimbabwe,Developing,Lower middle income
+Zimbabwe,2020,1,Zimbabwe,Developing,Lower middle income
+Zimbabwe,2021,2,Zimbabwe,Developing,Lower middle income
+Zimbabwe,2022,1,Zimbabwe,Developing,Lower middle income
+Zimbabwe,2023,4,Zimbabwe,Developing,Lower middle income
+Zimbabwe,2024,4,Zimbabwe,Developing,Lower middle income
+Zimbabwe,2025,5,Zimbabwe,Developing,Lower middle income
