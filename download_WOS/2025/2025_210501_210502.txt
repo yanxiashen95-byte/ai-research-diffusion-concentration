@@ -1,0 +1,202 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+
+PT J
+AU Zhang, C
+   Tian, T
+   Han, C
+   Shao, TC
+   Zhou, M
+   Zhao, SC
+AF Zhang, Chao
+   Tian, Tian
+   Han, Cheng
+   Shao, Tiancheng
+   Zhou, Mi
+   Zhao, Shichao
+TI Dual-Path Attention Network for Lightweight Self-Supervised Monocular
+   Depth Estimation
+SO IEEE SENSORS JOURNAL
+LA English
+DT Article
+DE Depth measurement; Accuracy; Training; Adaptation models; Convolution;
+   Decoding; Context modeling; Self-supervised learning; Intelligent
+   sensors; Image reconstruction; Dynamic attention; lightweight
+   architecture; monocular depth estimation; multiscale feature fusion;
+   self-supervised learning
+AB Self-supervised monocular depth estimation realizes training without depth labeling data by mining the geometric consistency of image sequences, which has important application value in fields, such as autonomous driving. Traditional methods rely on complex CNN and transformer hybrid architectures to balance local and global features but face problems, such as a large number of model parameters and low computational efficiency, which severely limit the deployment capability of edge devices. Although the existing lightweight methods reduce the number of parameters through techniques, such as depth-separable convolution and channel compression, there are still have problems, such as insufficient multiscale feature fusion, limited interaction ability of global and local context information, and loss of details at the edge of the depth map. To solve these problems, we propose LM-DualNet, a novel architecture with dual-path attention enhancement. Specifically, the encoder integrates a dynamic local context-aware (DLCA) module for capturing fine-grained local structures, and a dual-axis gated attention (DAGA) module that constructs two parallel attention paths-spatial and channel-to jointly model positional dependencies and cross-channel correlations. In the decoder, we design a multiscale depth enhancement (MSDE) module to refine edge regions and enhance depth continuity. Experiments on the KITTI dataset show that the absolute relative error and squared relative error of LM-DualNet have decreased to 0.106 and 0.731, respectively, and the accuracy has reached 88.8%, which is a good improvement compared with other state-of-the-art algorithms.
+C1 [Zhang, Chao; Tian, Tian; Han, Cheng; Shao, Tiancheng; Zhou, Mi; Zhao, Shichao] Changchun Univ Sci & Technol, Changchun 130022, Peoples R China.
+   [Zhang, Chao; Han, Cheng] Natl & Local Joint Engn Res Ctr Special Film Techn, Changchun 130022, Peoples R China.
+C3 Changchun University of Science & Technology
+RP Tian, T (corresponding author), Changchun Univ Sci & Technol, Changchun 130022, Peoples R China.
+EM zhangchao@cust.edu.cn; 2023101040@mails.cust.edu.cn;
+   hancheng@cust.edu.cn; 2023100973@mails.cust.edu.cn;
+   zhoumi@mails.cust.edu.cn; 2023101158@mails.cust.edu.cn
+OI 田, 甜/0009-0000-7993-6204; han, cheng/0000-0003-3735-0162; Zhang,
+   Chao/0000-0003-3076-2316
+FU Scientific Research Project of Jilin Provincial Education Department
+   [JJKH20250520KJ]
+FX This work was supported by the Scientific Research Project of Jilin
+   Provincial Education Department under Grant JJKH20250520KJ.
+CR Bae J, 2022, Arxiv, DOI arXiv:2205.11083
+   Bhat SF, 2021, PROC CVPR IEEE, P4008, DOI 10.1109/CVPR46437.2021.00400
+   Criminisi A, 2000, INT J COMPUT VISION, V40, P123, DOI 10.1023/A:1026598000963
+   Deng J, 2009, PROC CVPR IEEE, P248, DOI 10.1109/CVPRW.2009.5206848
+   Eigen D., 2014, Advances in neural information processing systems, V27, DOI [10.48550/arXiv.1406.2283, 10.48550/arxiv.1406.2283, DOI 10.48550/ARXIV.1406.2283]
+   Eigen D, 2015, IEEE I CONF COMP VIS, P2650, DOI 10.1109/ICCV.2015.304
+   Fu H, 2018, PROC CVPR IEEE, P2002, DOI 10.1109/CVPR.2018.00214
+   Garg R, 2016, LECT NOTES COMPUT SC, V9912, P740, DOI 10.1007/978-3-319-46484-8_45
+   Geiger A, 2013, INT J ROBOT RES, V32, P1231, DOI 10.1177/0278364913491297
+   Godard C, 2019, IEEE I CONF COMP VIS, P3827, DOI 10.1109/ICCV.2019.00393
+   Godard C, 2017, PROC CVPR IEEE, P6602, DOI 10.1109/CVPR.2017.699
+   Guizilini V, 2020, PROC CVPR IEEE, P2482, DOI 10.1109/CVPR42600.2020.00256
+   Laina I, 2016, INT CONF 3D VISION, P239, DOI 10.1109/3DV.2016.32
+   Liu BY, 2010, PROC CVPR IEEE, P1253, DOI 10.1109/CVPR.2010.5539823
+   Liu J, 2020, ISPRS J PHOTOGRAMM, V166, P255, DOI 10.1016/j.isprsjprs.2020.06.004
+   Lyu XY, 2021, AAAI CONF ARTIF INTE, V35, P2294
+   Mahjourian R, 2018, PROC CVPR IEEE, P5667, DOI 10.1109/CVPR.2018.00594
+   Minsoo Song, 2021, IEEE Transactions on Circuits and Systems for Video Technology, V31, P4381, DOI 10.1109/TCSVT.2021.3049869
+   Papa L, 2022, IEEE ACCESS, V10, P44881, DOI 10.1109/ACCESS.2022.3170425
+   Poggi M, 2018, IEEE INT C INT ROBOT, P5848, DOI 10.1109/IROS.2018.8593814
+   Saxena A, 2009, IEEE T PATTERN ANAL, V31, P824, DOI 10.1109/TPAMI.2008.132
+   Shu C, 2020, Img Proc Comp Vis Re, V12364, P572, DOI 10.1007/978-3-030-58529-7_34
+   Sun Y., 2023, ADV NEURAL INFORM PR, V36, p54 987
+   Wang CY, 2018, PROC CVPR IEEE, P2022, DOI 10.1109/CVPR.2018.00216
+   Wang Z, 2004, IEEE T IMAGE PROCESS, V13, P600, DOI 10.1109/TIP.2003.819861
+   Wei JS, 2024, IEEE T INTELL TRANSP, V25, P13706, DOI 10.1109/TITS.2024.3402655
+   Yan JX, 2021, INT CONF 3D VISION, P464, DOI 10.1109/3DV53792.2021.00056
+   Yin ZC, 2018, PROC CVPR IEEE, P1983, DOI 10.1109/CVPR.2018.00212
+   Zhan HY, 2018, PROC CVPR IEEE, P340, DOI 10.1109/CVPR.2018.00043
+   Zhang N, 2023, PROC CVPR IEEE, P18537, DOI 10.1109/CVPR52729.2023.01778
+   Zhao BW, 2024, KNOWL-BASED SYST, V304, DOI 10.1016/j.knosys.2024.112552
+   Zhao CQ, 2022, INT CONF 3D VISION, P668, DOI 10.1109/3DV57658.2022.00077
+   Zhou H, 2021, Arxiv, DOI [arXiv:2110.09482, 10.48550/arXiv.2110.09482]
+   Zhou TH, 2017, PROC CVPR IEEE, P6612, DOI 10.1109/CVPR.2017.700
+   Zhou ZK, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P12757, DOI 10.1109/ICCV48922.2021.01254
+   Zhu SJ, 2020, PROC CVPR IEEE, P13113, DOI 10.1109/CVPR42600.2020.01313
+   ZiWen D, 2023, APPL INTELL, V53, P24566, DOI 10.1007/s10489-023-04872-2
+NR 37
+TC 0
+Z9 0
+U1 1
+U2 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1530-437X
+EI 1558-1748
+J9 IEEE SENS J
+JI IEEE Sens. J.
+PD OCT 1
+PY 2025
+VL 25
+IS 19
+BP 37419
+EP 37428
+DI 10.1109/JSEN.2025.3601212
+PG 10
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation;
+   Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Instruments & Instrumentation; Physics
+GA 8FF9E
+UT WOS:001587258200005
+DA 2026-08-26
+ER
+
+
+PT J
+AU Zhou, YF
+   Lepage, Y
+AF Zhou, Yifei
+   Lepage, Yves
+TI Mixup Helps Translation, But Do the Coefficients and the Selection
+   Strategy Influence Translation Quality?
+SO ACM TRANSACTIONS ON ASIAN AND LOW-RESOURCE LANGUAGE INFORMATION
+   PROCESSING
+LA English
+DT Article
+DE Mixup; low-resource machine translation
+AB Mixup, an interpolation-based method that implicitly generates synthetic examples for training, has shown effectiveness in tasks such as image and text classification. Standard mixup randomly interpolates two samples of images and their labels. In this article, we apply mixup to low-resource machine translation tasks by interpolating in the hidden space. We investigate the impact of different mixing coefficients on this technique. We also explore whether semantically related or unrelated samples provide more benefits for interpolation compared to random selection. To investigate this, we extend the standard mixup approach by selecting samples based on distance and experimenting with different sampling settings. Our experiments are conducted across several low-resource language pairs, including Lower Sorbian and Upper Sorbian, Lower Sorbian and German, and Upper Sorbian and German. Through systematic experiments on multiple language pairs, we evaluate the effectiveness of mixup data augmentation in improving low-resource machine translation performance. Our findings indicate that the standard mixup technique enhances the quality of machine translation, resulting in an average increase of 1.9 BLEU points over the baseline Transformer model. The choice of mixing coefficients has minimal impact on translation quality, which suggests that fine-tuning these coefficients is not essential to benefit from mixup. In addition, the standard mixup performs robustly, as selecting either the most similar or most dissimilar samples for mixing does not provide a significant improvement over it.
+C1 [Zhou, Yifei; Lepage, Yves] Waseda Univ, Grad Sch Informat Prod & Syst, Kitakyushu, Japan.
+C3 Waseda University
+RP Zhou, YF (corresponding author), Waseda Univ, Grad Sch Informat Prod & Syst, Kitakyushu, Japan.
+EM yifei.zhou@ruri.waseda.jp; yves.lepage@waseda.jp
+FU China Scholarship Council (CSC) under the CSC [202308050092]
+FX The first author received financial support from the China Scholarship
+   Council (CSC) under the CSC Grant No.202308050092.
+CR Artetxe M., 2018, ICLR
+   Chen GD, 2021, FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, ACL-IJCNLP 2021, P3184
+   Chen J, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), P1241
+   Chen JA, 2020, 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020), P2147
+   Cheng Yong, 2022, Long Papers, V1, P4092
+   Cheng Yong, 2019, Joint Training for Pivot-Based Neural Machine Translation
+   Cheng Yong, 2020, [No title captured], P5961, DOI [10.18653/v1/2020.acl-main.529, DOI 10.18653/V1/2020.ACL-MAIN.529, 10.18653/v1/2020.acl, DOI 10.18653/V1/2020.ACL]
+   Edunov S, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), P489
+   Fadaee M, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), P436
+   Firat O., 2016, P 2016 C EMP METH NA, P268, DOI [10.18653/v1/D16-1026, DOI 10.18653/V1/D16-1026]
+   Fraser A, 2020, PROCEEDINGS OF THE FIFTH CONFERENCE ON MACHINE TRANSLATION, P765
+   Gao F, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P5539
+   Guo D, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), P5547
+   Guo HY, 2019, Arxiv, DOI arXiv:1905.08941
+   Guo HY, 2019, AAAI CONF ARTIF INTE, P3714
+   Guo HY, 2020, AAAI CONF ARTIF INTE, V34, P4044
+   Haddow B, 2022, COMPUT LINGUIST, V48, P673, DOI 10.1162/coli_a_00446
+   Jin C, 2022, PROCEEDINGS OF THE THIRTY-FIRST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, IJCAI 2022, P4171
+   Johnson M, 2017, T ASSOC COMPUT LING, V5, P339, DOI [10.1162/tacl_a_00065, 10.1162/tacl_a_00065, DOI 10.1162/TACL_A_00065]
+   Koehn Philipp., 2017, P 1 WORKSHOP NEURAL, P28, DOI [DOI 10.18653/V1/W17-3204, 10.18653/v1/w17-3204]
+   Lample G., 2018, P 6 INT C LEARN REPR
+   Li JC, 2021, FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, EMNLP 2021, P312
+   Liu Shudong, 2023, Long Papers, V1, P1878
+   Mai ZJ, 2022, IEEE T NEUR NET LEAR, V33, P3050, DOI 10.1109/TNNLS.2020.3049011
+   Marco MWD, 2022, PROCEEDINGS OF THE SEVENTH CONFERENCE ON MACHINE TRANSLATION, WMT, P801
+   Ott Myle, 2018, P 3 C MACH TRANSL AS, P1
+   Papineni K, 2002, 40TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, PROCEEDINGS OF THE CONFERENCE, P311, DOI 10.3115/1073083.1073135
+   Popovic Maja., 2015, P 10 WORKSHOP STAT M, P392, DOI [10.18653/v1/w15-3049, 10.18653/v1/W15-3049, DOI 10.18653/V1/W15-3049]
+   Post Matt., 2018, P 3 C MACHINE TRANSL, P186, DOI [DOI 10.18653/V1/W18-6319, 10.18653/v1/w18-6319, 10.18653/v1/W18-6319]
+   Ranathunga S, 2023, ACM COMPUT SURV, V55, DOI 10.1145/3567592
+   Sawhney R, 2022, PROCEEDINGS OF THE 60TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2022): (SHORT PAPERS), VOL 2, P606
+   Sennrich R, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P1715
+   Shi SM, 2022, ACM T ASIAN LOW-RESO, V21, DOI 10.1145/3524300
+   Stahlberg F, 2020, J ARTIF INTELL RES, V69, P343, DOI 10.1613/jair.1.12007
+   Summers C, 2019, IEEE WINT CONF APPL, P1262, DOI 10.1109/WACV.2019.00139
+   Sun Lichao, 2020, [No title captured], P3436, DOI [DOI 10.18653/V1/2020.COLING-MAIN.305, 10.18653/v1/2020.coling-main.305]
+   Sutskever I, 2014, ADV NEUR IN, V27
+   Üstun A, 2021, 2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021), P6650
+   Vaswani A., 2017, ADV NEURAL INFORM PR, V30, DOI [10.48550/arXiv.1706.03762, DOI 10.48550/ARXIV.1706.03762]
+   Venkataramanan S, 2022, PROC CVPR IEEE, P19152, DOI 10.1109/CVPR52688.2022.01858
+   Verma V, 2019, PR MACH LEARN RES, V97
+   Wang XY, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), P856
+   Wei XP, 2022, PROCEEDINGS OF THE 60TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2022), VOL 1: (LONG PAPERS), P7930
+   Yun S, 2019, IEEE I CONF COMP VIS, P6022, DOI 10.1109/ICCV.2019.00612
+   Zhang Hongyi., 2018, INT C LEARN REPRESEN, DOI [10.48550/arXiv.1710.09412, DOI 10.48550/ARXIV.1710.09412]
+   Zhang Shaokang, 2022, P 29 INT C COMP LING, P3788
+   Zoph Barret., 2016, P 2016 C EMPIRICAL M, P1568, DOI [DOI 10.18653/V1/D16-1163, 10.18653/v1/d16-1163, 10.18653/v1/D16-1163]
+NR 47
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 2375-4699
+EI 2375-4702
+J9 ACM T ASIAN LOW-RESO
+JI ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+PD OCT
+PY 2025
+VL 24
+IS 10
+AR 108
+DI 10.1145/3750043
+PG 20
+WC Computer Science, Artificial Intelligence
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 9HM2Y
+UT WOS:001606468400005
+DA 2026-08-26
+ER
+
+EF
