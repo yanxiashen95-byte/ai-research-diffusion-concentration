@@ -1,0 +1,1237 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Mkandawire, BO
+   Ijumba, N
+   Saha, A
+AF Mkandawire, Burnet O'Brien
+   Ijumba, Nelson
+   Saha, Akshay
+TI Transformer risk modelling by stochastic augmentation of reliability-centred maintenance
+SO ELECTRIC POWER SYSTEMS RESEARCH
+LA English
+DT Article
+DE Markov processes; Power asset management; Reliability-centred maintenance; Risk analysis; Transformer; Reliability modelling
+ID PARAMETERS
+AB This paper reviews the literature and then applies power transformer case studies to develop a risk assessment model that augments the probabilistic capabilities of Reliability-centred maintenance (RCM). It is usually very difficult to assess the effectiveness of the RCM at its inception, when data is inadequate or when it is implemented on a large population of assets, especially when most of them are small in size as in the distribution systems. Thus, the major contribution of the study rests on applying a key performance indicator (KPI) for assessing the effectiveness of the RCM programmes, obtained by trending the profile of the mean-time-to-first-failure (MTFFF) and the average annual repair costs. The MUFF, determined using Markov analysis, is inversely proportional to the costs. Besides, the method of moments is applied to statistical, historical data to generate a failure probability distribution comparative model, which lacks in the current practices for conducting a failure mode effect and criticality analysis (FMECA). Finally, the Markov derives complement of uptime-steady-state probability as input for FMECA, using limited data; which is an improvement on the current approaches. The overall approach developed offers a cost effective risk-priority-screening model for transformers, which can be applied prior to rigorous testing and inspection procedures on individual items during the RCM application. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Mkandawire, Burnet O'Brien; Saha, Akshay] Univ KwaZulu Natal, Sch Elect Engn, Howard Coll, ZA-4041 Durban, South Africa; [Ijumba, Nelson] Univ Rwanda, Kigali, Rwanda
+C3 University of Kwazulu Natal; University of Rwanda
+RP Mkandawire, BO (corresponding author), Univ KwaZulu Natal, Sch Elect Engn, Howard Coll, ZA-4041 Durban, South Africa.
+EM saha@ukzn.ac.za; mutatinak@gmail.com; burnemkanda@hotmail.com
+RI Ijumba, Nelson/E-3301-2017; Saha, Akshay Kumar/ABH-1317-2020
+OI Ijumba, Nelson/0000-0002-6194-7084; Saha, Akshay Kumar/0000-0002-3523-9455
+FU University of KwaZulu-Natal's High Voltage Direct Current Centre (HVDC); Centre for Postgraduate Engineering Studies (CEPS) of South Africa [HVDC/CEPS/2014/PHD/BOM/ND19]
+FX The authors are grateful to the University of KwaZulu-Natal's High Voltage Direct Current Centre (HVDC) and the Centre for Postgraduate Engineering Studies (CEPS) of South Africa (Grant No. HVDC/CEPS/2014/PHD/BOM/ND19), for supporting this study.
+NR 37
+TC 29
+Z9 34
+U1 0
+U2 39
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0378-7796
+EI 1873-2046
+J9 ELECTR POW SYST RES
+JI Electr. Power Syst. Res.
+PD FEB 2015
+PY 2015
+VL 119
+BP 471
+EP 477
+DI 10.1016/j.epsr.2014.11.005
+PG 7
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Safety & Maintenance (4.237); Reliability Engineering (4.237.651)
+D3 2015-02-22
+GA AY7RM
+UT WOS:000347756700052
+DA 2026-08-19
+ER
+
+PT J
+AU Qian, KJ
+   Zhou, CK
+   Yuan, Y
+AF Qian, Kejun
+   Zhou, Chengke
+   Yuan, Yue
+TI Impacts of high penetration level of fully electric vehicles charging loads on the thermal ageing of power transformers
+SO INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+LA English
+DT Article
+DE Fully electric vehicles (FEVs); Electricity distribution systems; Power distribution transformers; Thermal ageing
+ID BATTERY CHARGERS; DISTRIBUTION-SYSTEMS; DEMAND
+AB This paper develops a methodology to determine the impacts of high penetration level of fully electric vehicles (FEVs) charging loads on the thermal ageing of power distribution transformers. The method proposed in this paper is stochastically formulated by modelling the transformer life consumption due to FEVs charging loads as a function of ambient temperature, start time of FEVs charging, initial state-of-charge and charging modes. FEVs loads are modelled using the results from an analytical solution that predicts a cluster of FEVs chargers. A UK generic LV distribution network model and real load demand data are used to simulate FEVs' impacts on the thermal ageing of LV power distribution transformers. Results show that the ambient temperature, FEVs penetration level, and start time of charging are the main factors that affect the transformer life expectancy. It was concluded that the smart charging scenario generally shows the best outcome from the loss of life reduction perspective. Meanwhile, public charging which shifts a large percentage of charging load to commercial and industrial areas can significantly alleviate the residential transformer loading thus has little impact on the loss of life of transformers. The proposed method in this paper on be easily applied to the determination of the optimum charging time as a function of existing loads, and ambient temperature. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Qian, Kejun] State Grid Corp China, Suzhou Power Supply Co, Suzhou 215004, Peoples R China; [Zhou, Chengke] Glasgow Caledonian Univ, Sch Engn & Built Environm, Glasgow G4 0BA, Lanark, Scotland; [Yuan, Yue] Hohai Univ, Coll Energy & Elect Engn, Nanjing 210098, Jiangsu, Peoples R China
+C3 State Grid Corporation of China; Glasgow Caledonian University; Hohai University
+RP Qian, KJ (corresponding author), State Grid Corp China, Suzhou Power Supply Co, Suzhou 215004, Peoples R China.
+EM kejun.qian@xjtlu.edu.cn
+NR 26
+TC 84
+Z9 96
+U1 0
+U2 34
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0142-0615
+EI 1879-3517
+J9 INT J ELEC POWER
+JI Int. J. Electr. Power Energy Syst.
+PD FEB 2015
+PY 2015
+VL 65
+BP 102
+EP 112
+DI 10.1016/j.ijepes.2014.09.040
+PG 11
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Smart Grids (4.18.204)
+D3 2015-01-14
+GA AW8XE
+UT WOS:000346541900013
+OA Green Submitted
+DA 2026-08-19
+ER
+
+PT J
+AU Rezaei-Zare, A
+AF Rezaei-Zare, Afshin
+TI Enhanced Transformer Model for Low- and Mid-Frequency Transients-Part I: Model Development
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE Duality; dynamic hysteresis; electromagnetic transients; transformer model; transformer tank
+ID ELECTROMAGNETIC TRANSIENTS; FERRORESONANCE MODES; HYSTERESIS; INDUCTANCE; CIRCUIT; DOMAIN
+AB Based on an enhanced topological representation of the transformer core, flux air paths, and tank, a duality-based transformer model is proposed for low and mid-frequency transients analysis. In the developed transformer model, the core and tank iron are represented based on a frequency-dependent hysteresis model. The winding capacitances and the frequency dependency of the winding resistance are also incorporated in the developed model. Furthermore, a detailed model is developed for the air gap and tank, and the corresponding average equivalent is presented which is more appropriate for extracting the parameters from the measurement. In addition, the nonuniform air gap and the fringing flux effects are taken into account, and an approach is presented to obtain the corresponding parameters. The developed models also include the equivalents of the tank magnetic shield and the structural parts. Part II of this paper provides validations and further simulation results.
+C1 Hydro One Networks Inc, Toronto, ON M5G 2P5, Canada
+C3 Hydro One Limited
+RP Rezaei-Zare, A (corresponding author), Hydro One Networks Inc, Toronto, ON M5G 2P5, Canada.
+EM Afshin.Rezaei-Zare@hydroone.com
+RI Rezaei-Zare, Afshin/AAB-2656-2021
+NR 25
+TC 56
+Z9 65
+U1 0
+U2 27
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0885-8977
+EI 1937-4208
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD FEB 2015
+PY 2015
+VL 30
+IS 1
+BP 307
+EP 315
+DI 10.1109/TPWRD.2014.2347930
+PG 9
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Fault Detection (4.18.1055)
+D3 2015-02-26
+GA AZ7CE
+UT WOS:000348375100035
+DA 2026-08-19
+ER
+
+PT J
+AU Rezaei-Zare, A
+AF Rezaei-Zare, Afshin
+TI Enhanced Transformer Model for Low- and Mid-Frequency Transients-Part II: Validation and Simulation Results
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE Duality; ferroresonance; geomagnetically induced current (GIC); transformer model
+ID SYSTEM
+AB The transformer model developed in Part I is validated based on the zero-sequence test data, a ferroresonance event, and the geomagnetically induced current (GIC) measurements. Various transformer core constructions, including single phase, three limb, five limb, conventional shell type, and seven-limb shell type are represented, based on the proposed transformer model. The simulation results show high accuracy of the proposed transformer model in representing the studied cases. The study reveals that the saturation of the transformers at a given GIC level is more severe than that predicted by the existing transformer models. Furthermore, the proposed transformer model clearly explains the reasons for the previously reported discrepancies between the GIC experimental and simulation results. The study also concludes that for an accurate transformer model, particularly for the three-limb core type, the detailed representation of the zero-sequence characteristic is an essential requirement. Such a characteristic can be obtained based on either the proposed approach of the paper or a zero-sequence dc excitation test in addition to the test data at the power frequency.
+C1 Hydro One Networks Inc, Toronto, ON M5G 2P5, Canada
+C3 Hydro One Limited
+RP Rezaei-Zare, A (corresponding author), Hydro One Networks Inc, Toronto, ON M5G 2P5, Canada.
+EM Afshin.Rezaei-Zare@hydroone.com
+RI Rezaei-Zare, Afshin/AAB-2656-2021
+NR 23
+TC 45
+Z9 53
+U1 0
+U2 19
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0885-8977
+EI 1937-4208
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD FEB 2015
+PY 2015
+VL 30
+IS 1
+BP 316
+EP 325
+DI 10.1109/TPWRD.2014.2347934
+PG 10
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Physics (5); Space & Plasma Physics (5.131); Magnetosphere Dynamics (5.131.331)
+D3 2015-02-26
+GA AZ7CE
+UT WOS:000348375100036
+DA 2026-08-19
+ER
+
+PT J
+AU Theocharis, A
+   Popov, M
+   Seibold, R
+   Voss, S
+   Eiselt, M
+AF Theocharis, Andreas
+   Popov, Marjan
+   Seibold, Robert
+   Voss, Stephan
+   Eiselt, Martin
+TI Analysis of Switching Effects of Vacuum Circuit Breaker on Dry-Type Foil-Winding Transformers Validated by Experiments
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE Modelling; overvoltages; resonance; severity factor; transformer; transients; vacuum circuit breaker (CB)
+ID FAST TRANSIENTS; RATIONAL APPROXIMATION; MODEL; REPRESENTATION; OVERVOLTAGES; COMPUTATION; CAPACITANCE; SIMULATION; VOLTAGES; SELF
+AB In this paper, the prestrike and the restrike effects during switching a vacuum circuit breaker (VCB) connected to a dry-type foil-winding transformer are theoretically and experimentally analyzed. The analysis is conducted by performing a wide range of experimental three-phase switching ON/OFF tests for a 3.75-MVA prototype test transformer connected to a VCB by a cable with different lengths and for different loading conditions. A refined transformer model is successfully applied for the computation of the voltage distribution along the transformer windings. In particular, the winding properties are separately investigated, for which the core influence for frequencies above some tens of kilohertz is studied, and the terminal impedance variation for a broad frequency range is accurately calculated. The simulated results are excellent. Based on these results, an analysis was performed to evaluate the severity of the switching operations by applying spectral analysis of the recorded signals. The statistical analysis of the overvoltages with respect to the cable length and the load value shows that long cables do not guarantee lower overvoltages because of the load and its interaction with the system that makes each case unique.
+C1 [Theocharis, Andreas; Popov, Marjan] Delft Univ Technol, Fac EEMCS, NL-2628 CD Delft, Netherlands; [Seibold, Robert] Siemens AG, Power Transmiss Div Transformers, D-73230 Kirchheim Unter Teck, Germany; [Voss, Stephan] Siemens AG, Power Transmiss Div Transformers, D-90461 Nurnberg, Germany; [Eiselt, Martin] Siemens AG, D-13629 Berlin, Germany
+C3 Delft University of Technology; Siemens AG; Siemens Germany; Siemens AG; Siemens Germany; Siemens AG; Siemens Germany
+RP Theocharis, A (corresponding author), Delft Univ Technol, Fac EEMCS, NL-2628 CD Delft, Netherlands.
+EM robert.seibold@siemens.com; mar-tineiselt@siemens.com; A.Theocharis@tudelft.nl; M.Popov@ieee.org; stephan.voss@siemens.com
+RI Popov, Marjan/T-9849-2019
+OI Theocharis, Andreas/0000-0001-9750-9863; Popov, Marjan/0000-0001-7292-5334
+FU Siemens AG
+FX The authors would like to thank Siemens AG for the support of this project, using their facilities, providing test objects, and helping to realize this project. In particular, the authors thank Dipl.-Ing. K. Niemeyer for performing the tests and processing the measurements and Dr.-Ing. D. Samann from Low&Medium Voltage Division, Erlangen, Germany, for his valuable suggestions throughout this project.
+NR 44
+TC 36
+Z9 38
+U1 0
+U2 14
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0885-8977
+EI 1937-4208
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD FEB 2015
+PY 2015
+VL 30
+IS 1
+BP 351
+EP 359
+DI 10.1109/TPWRD.2014.2327073
+PG 9
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2015-02-26
+GA AZ7CE
+UT WOS:000348375100040
+DA 2026-08-19
+ER
+
+PT J
+AU Theocharis, A
+   Popov, M
+AF Theocharis, Andreas
+   Popov, Marjan
+TI Modelling of foil-type transformer windings for computation of terminal impedance and internal voltage propagation
+SO IET ELECTRIC POWER APPLICATIONS
+LA English
+DT Article
+ID FAST TRANSIENTS; FINITE-ELEMENT; PARAMETERS; REDUCTION
+AB The goal of this work is to develop an efficient numerical model of foil-type windings. An equivalent lumped-parameter circuit model is presented, which is suitable for the computation of the terminal impedance within a broad frequency range and for internal voltage propagation studies. Owing to the special geometrical winding shape, particular attention has been paid to the calculation of the involved lumped parameters where efficient and accurate formulas for parameter determination are presented. The core influence is investigated for the broad frequency range by taking into account the frequency dependency of core material properties. Simulated results compared to measurements show that the proposed equivalent circuit in combination with the applied formulas for parameter determination can be used with full success for the computation of the terminal impedance and internal voltage distribution studies.
+C1 [Theocharis, Andreas; Popov, Marjan] Delft Univ Technol, Fac EEMCS, NL-2628 CD Delft, Netherlands
+C3 Delft University of Technology
+RP Theocharis, A (corresponding author), Delft Univ Technol, Fac EEMCS, Mekelweg 4, NL-2628 CD Delft, Netherlands.
+EM A.Theocharis@tudelft.nl
+RI Popov, Marjan/T-9849-2019
+OI Theocharis, Andreas/0000-0001-9750-9863; Popov, Marjan/0000-0001-7292-5334
+FU Norwegian Research Council RENERGI program
+FX Financial support provided by the Norwegian Research Council RENERGI program and a consortium of industry partners led by SINTEF Energy Research is highly acknowledged. The authors thank Siemens AG for the support of this project, for using their facilities, for providing test objects and help to realise this project. In particular, the authors thank Dipl.-Ing. Mr Klaus Niemeyer for performing the tests and processing the measurements and Dr-Ing. Dieter Samann the from Low & Medium Voltage Division, Erlangen for his valuable suggestions throughout this project.
+NR 38
+TC 14
+Z9 14
+U1 0
+U2 8
+PU INST ENGINEERING TECHNOLOGY-IET
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD SG1 2AY, ENGLAND
+SN 1751-8660
+EI 1751-8679
+J9 IET ELECTR POWER APP
+JI IET Electr. Power Appl.
+PD FEB 2015
+PY 2015
+VL 9
+IS 2
+BP 128
+EP 137
+DI 10.1049/iet-epa.2014.0135
+PG 10
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2015-04-08
+GA CC7TD
+UT WOS:000350570400004
+OA Bronze
+DA 2026-08-19
+ER
+
+PT J
+AU Tokic, A
+   Smajic, J
+AF Tokic, Amir
+   Smajic, Jasmin
+TI Modeling and Simulations of Ferroresonance by Using BDF/NDF Numerical Methods
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE Ferroresonance; NDF method; numerical oscillations; transformer model; very stiff system
+ID TRANSFORMER FERRORESONANCE; PERIOD-1 FERRORESONANCE; STABILITY DOMAIN; TRANSIENTS; NONLINEARITY
+AB The predictive power of transient ferroresonance simulations depends mainly on the accuracy and fidelity of the power transformer model used for simulating complete systems involving all relevant network components. This paper considers three ways of transformer iron-core modeling relevant for ferroresonance simulations that are presented in detail. The presented transformer models are suitable for the state-space form of differential equation systems that describe the ferroresonance effect. Before solving the obtained differential equation systems, their numerical eigenvalues were analyzed in detail. This eigenvalue analysis has revealed a very stiff nature of the obtained equation systems. The obtained equation systems are solved by using a A- and L-stable numerical differentiation formulas (NDF) numerical technique, with the aim of suppressing undesired numerical oscillations. The obtained numerical results are verified by comparison against the available experimental results. The presented analysis shows that the suggested transformer model based on a hysteretic core inductor provides the most accurate results in terms of voltage and current waveforms and their peak values during the steady-state and transient ferroresonance. The analyzed transformer core models can be implemented in the existing Electromagnetic Transients Program-type simulation tools by using a combination of the trapezoidal and proposed NDF2 method.
+C1 [Tokic, Amir] Tuzla Univ, Fac Elect Engn, Tuzla 75000, Bosnia & Herceg; [Smajic, Jasmin] Univ Appl Sci Eastern Switzerland HSR, CH-8640 Rapperswil, Switzerland
+C3 University of Tuzla
+RP Tokic, A (corresponding author), Tuzla Univ, Fac Elect Engn, Tuzla 75000, Bosnia & Herceg.
+EM amir.tokic@untz.ba; jasmin.smajic@hsr.ch
+RI Smajic, Jasmin/X-9410-2019
+NR 34
+TC 20
+Z9 23
+U1 0
+U2 16
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0885-8977
+EI 1937-4208
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD FEB 2015
+PY 2015
+VL 30
+IS 1
+BP 342
+EP 350
+DI 10.1109/TPWRD.2014.2346766
+PG 9
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Fault Detection (4.18.1055)
+D3 2015-02-26
+GA AZ7CE
+UT WOS:000348375100039
+DA 2026-08-19
+ER
+
+PT J
+AU Tseng, CW
+   Wang, YJ
+AF Tseng, Chien-Wei
+   Wang, Yu-Jiu
+TI A 60 GHz 19.6 dBm Power Amplifier With 18.3% PAE in 40 nm CMOS
+SO IEEE MICROWAVE AND WIRELESS COMPONENTS LETTERS
+LA English
+DT Article
+DE Class-A; cMOS technology; power amplifier (PA); power combining
+AB This letter reports a fully integrated 60 GHz power amplifier (PA) implemented in TSMC 40 nm CMOS technology. This PA is based on a three-stage two-way differential topology with an output transformer-based power combining network. This topology improves layout symmetry and mitigates parasitic effects between different signal paths to increase overall efficiency. The use of parasitic coupling capacitors inside a vertically-coupled transformer can increase impedance transformation ratio. This PA achieves 20.3 dB power gain, 19.6 dBm output power with 18.3% peak PAE, and 12 GHz bandwidth.
+C1 [Tseng, Chien-Wei; Wang, Yu-Jiu] Natl Chiao Tung Univ, Dept Elect Engn, Hsinchu 30010, Taiwan
+C3 National Yang Ming Chiao Tung University
+RP Tseng, CW (corresponding author), Natl Chiao Tung Univ, Dept Elect Engn, Hsinchu 30010, Taiwan.
+EM ywang@faculty.nctu.edu.tw
+RI Tseng, ChienWei/KLD-6191-2024
+NR 7
+TC 16
+Z9 18
+U1 0
+U2 6
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1531-1309
+EI 1558-1764
+J9 IEEE MICROW WIREL CO
+JI IEEE Microw. Wirel. Compon. Lett.
+PD FEB 2015
+PY 2015
+VL 25
+IS 2
+BP 121
+EP 123
+DI 10.1109/LMWC.2014.2382682
+PG 3
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Semiconductor Technology (4.138); RF Power Amplifiers (4.138.828)
+D3 2015-03-19
+GA CB7AM
+UT WOS:000349778300017
+DA 2026-08-19
+ER
+
+PT J
+AU Xiao, J
+   Li, X
+   Gu, WZ
+   Li, FX
+   Wang, CS
+AF Xiao, Jun
+   Li, Xin
+   Gu, Wenzhuo
+   Li, Fangxing
+   Wang, Chengshan
+TI Model of distribution system total supply capability considering feeder and substation transformer contingencies
+SO INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+LA English
+DT Article
+DE Total supply capability (TSC); Distribution system; N-1 contingencies; Load balance; System security
+ID RECONFIGURATION; RESTORATION; DEFINITION; NETWORKS; SERVICE
+AB This paper proposes a model for calculating the total supply capability (TSC) for distribution system considering both feeder and substation transformer contingencies. Existing models and methods for TSC only consider substation transformer contingencies and ignore feeder contingencies. However, the feeder contingencies occur much more frequently than substation transformer contingencies in practice. Moreover, some operation state fail the feeder contingencies N - 1 verification even they pass the transformer contingencies N - 1 verification. In this paper, a TSC model is firstly proposed in which feeder and transformer N - 1 contingencies are fully considered. This model is designed in feeder level, which means the topology of interconnection among feeders is accurately modeled. Secondly, a supplementary model for load balancing is set up for a better load distribution solution on feeders and transformers at TSC loading. Finally, the method is tested in a test distribution system and a real partial distribution network and the results are verified by the traditional N - 1 simulation. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Xiao, Jun; Li, Xin; Wang, Chengshan] Tianjin Univ, Key Lab Smart Grid, Minist Educ, Tianjin 300072, Peoples R China; [Gu, Wenzhuo] Qinhuangdao Elect Power Co, Qinhuangdao 066000, Peoples R China; [Li, Fangxing] Univ Tennessee, Dept EECS, Knoxville, TN 37996 USA
+C3 Tianjin University; University of Tennessee System; University of Tennessee Knoxville
+RP Xiao, J (corresponding author), Tianjin Univ, Key Lab Smart Grid, Minist Educ, Tianjin 300072, Peoples R China.
+EM xiaojun@tju.edu.cn
+RI Li, Fangxing/E-6023-2013
+OI Li, Fangxing/0000-0003-1060-7618; Li, Xin/0000-0001-8425-1525
+FU National Natural Science Foundation of China [51277129]; Program for New Century Excellent Talents in University [NCET-10-0624]
+FX This work was supported by the National Natural Science Foundation of China (51277129) and the Program for New Century Excellent Talents in University (NCET-10-0624).
+NR 23
+TC 27
+Z9 34
+U1 2
+U2 39
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0142-0615
+EI 1879-3517
+J9 INT J ELEC POWER
+JI Int. J. Electr. Power Energy Syst.
+PD FEB 2015
+PY 2015
+VL 65
+BP 419
+EP 424
+DI 10.1016/j.ijepes.2014.10.025
+PG 6
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Smart Grids (4.18.204)
+D3 2015-01-14
+GA AW8XE
+UT WOS:000346541900045
+DA 2026-08-19
+ER
+
+PT J
+AU Bednar, B
+   Blahnik, V
+   Drabek, P
+   Pittermann, M
+AF Bednar, Bedrich
+   Blahnik, Vojtech
+   Drabek, Pavel
+   Pittermann, Martin
+TI Novel Control Strategy of Single Matrix Traction Converter - Variable Switching Frequency
+SO ELEKTRONIKA IR ELEKTROTECHNIKA
+LA English
+DT Article
+DE Matrix converters; electric vehicles; transformer cores; high-voltage techniques
+ID TRANSFORMER
+AB This paper describes research into a novel control strategy of traction converter for the AC-Trolley Line with the middle frequency transformer (MFT). Attention is paid to the problematics of finding a suitable control algorithm that will provide minimal magnetic saturation. This could be ensured by variable pulse widths, determined according to the actual value of input voltage. Special attention is focused on the single-phase matrix converter topology and the best commutation solution. Two basic methods of controlling the switches in the matrix converter are discussed. The first method requires some knowledge of the converter output current polarity and the second method assumes some knowledge of the input voltage polarity. In addition, the article describes the switching method in uncertain states -when the voltage or current cross zero. Moreover, the paper presents a new modular topology with several separate middle frequency transformers. The proposed algorithm is described and implemented in the laboratory model.
+C1 [Bednar, Bedrich; Blahnik, Vojtech; Drabek, Pavel] Univ W Bohemia, Reg Innovat Ctr Elect Engn, Plzen 30614, Czech Republic; [Pittermann, Martin] Univ W Bohemia, Dept Electromech & Power Elect, Plzen 30614, Czech Republic
+C3 University of West Bohemia Pilsen; University of West Bohemia Pilsen
+RP Bednar, B (corresponding author), Univ W Bohemia, Reg Innovat Ctr Elect Engn, Univ 8, Plzen 30614, Czech Republic.
+EM bead@kev.zcu.cz
+RI Blahnik, Vojtech/J-9687-2018; Pittermann, Martin/L-8655-2019; DRABEK, Pavel/KYQ-2961-2024
+OI Blahnik, Vojtech/0000-0002-8815-4906; Pittermann, Martin/0000-0002-6071-5476; DRABEK, Pavel/0000-0001-8921-1127
+FU European Regional Development Fund; Ministry of Education, Youth and Sports of the Czech Republic [CZ.1.05/2.1.00/03.0094]; Regional Innovation Centre for Electrical Engineering (RICE) [SGS-2015-038]
+FX This research has been supported by the European Regional Development Fund and Ministry of Education, Youth and Sports of the Czech Republic under project No. CZ.1.05/2.1.00/03.0094: Regional Innovation Centre for Electrical Engineering (RICE) and project No. SGS-2015-038.
+NR 15
+TC 5
+Z9 5
+U1 0
+U2 6
+PU KAUNAS UNIV TECHNOLOGY
+PI KAUNAS
+PA KAUNAS UNIV TECHNOL, DEPT ELECTRONICS ENGINEERING, STUDENTU STR 50, KAUNAS, LT-51368, LITHUANIA
+SN 1392-1215
+J9 ELEKTRON ELEKTROTECH
+JI Elektron. Elektrotech.
+PD 2015
+PY 2015
+VL 21
+IS 5
+BP 13
+EP 18
+DI 10.5755/j01.eee.21.5.13318
+PG 6
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Grid Converter Control (4.18.101)
+D3 2015-11-04
+GA CT7BI
+UT WOS:000362967700003
+OA gold
+DA 2026-08-19
+ER
+
+PT J
+AU Bogicevic, Z
+   Bjelic, S
+   Spalevic, P
+   Misic, M
+AF Bogicevic, Zorica
+   Bjelic, Slobodan
+   Spalevic, Petar
+   Misic, Milan
+TI Graph-Analytical Method of Determining Impedance in Electrical Transformers
+SO MATHEMATICAL PROBLEMS IN ENGINEERING
+LA English
+DT Article
+ID CONTAINMENT CONTROL
+AB This paper presents a graph-analytical method for determining the electrical impedance of alternate energy sources, especially small power transformers and current transformers in electric networks. Unlike conventional short-circuit and idle tests, according to proposed method, in this paper, transformer parameters are determined in a new way, which is based on measurement of voltages and currents on the active and reactive load (inductive or capacitive). The effectiveness of the proposed model was verified using an adapted simulation in the software package MATLAB Simulink. The simulation was performed for three types of ABB transformers with a 100% load. Simulation results were obtained for power transformer S-n1 = 1 [MVA], S-n2 = 2[MVA], S-n3 = 3.15 [MVA]. If we compare measurement result values of R-T, X-T, which are contained in a brochure for ABB transformers and those obtained through simulation, different tolerances are obtained. For reactance results, deviations are up to 20% for all three tested transformers. For results of active resistance tolerances are up to 5% for all three tested transformers. This method can be used not only to determine the active and inductive AC power source parameters but also to determine and analyze the impendence of electrical sources with high frequencies.
+C1 [Bogicevic, Zorica; Misic, Milan] Higher Tech Profess Sch Zvecan, Zvecan 38227, Serbia; [Bjelic, Slobodan; Spalevic, Petar] Univ Pristina, Fac Tech Sci, Kosovska Mitrovica 38220, Serbia
+C3 Universiteti i Prishtines
+RP Bogicevic, Z (corresponding author), Higher Tech Profess Sch Zvecan, Nusiceva 6, Zvecan 38227, Serbia.
+EM slobodanbjelic49@yahoo.com; zocabogi@gmail.com
+RI Spalevic, Petar/AAB-7148-2020
+OI Bogicevic, Zorica/0000-0002-1890-1654; Mišić, Milan/0000-0002-9695-7776
+NR 13
+TC 2
+Z9 3
+U1 0
+U2 3
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1024-123X
+EI 1563-5147
+J9 MATH PROBL ENG
+JI Math. Probl. Eng.
+PD 2015
+PY 2015
+VL 2015
+AR 745629
+DI 10.1155/2015/745629
+PG 11
+WC Engineering, Multidisciplinary; Mathematics, Interdisciplinary Applications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Mathematics
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2015-12-02
+GA CW0ME
+UT WOS:000364682700001
+OA hybrid
+DA 2026-08-19
+ER
+
+PT J
+AU Brown, T
+AF Brown, Tom
+TI Transmission network loading in Europe with high shares of renewables
+SO IET RENEWABLE POWER GENERATION
+LA English
+DT Article; Proceedings Paper
+CT 12th Wind and Solar Integration Workshop
+CY OCT 22-24, 2013
+CL London, UNITED KINGDOM
+DE transmission networks; load flow; HVDC power transmission; photovoltaic power systems; wind power plants; transmission network loading; Europe; marginal participation algorithm; MP algorithm; high voltage direct current lines; alternating current networks; offshore wind
+ID COST; ALLOCATION; FLOW
+AB The need for long-distance power transfers in the electricity system is being driven by both deeper market integration and the increasing share of renewables in generation. The best renewables resources are often located far from load centres, while variable renewables, such as wind and solar, benefit from smoothing effects when aggregated over large areas. However, the increased usage of transmission infrastructure raises the question of how the associated costs should be distributed. The authors present here the application of an existing algorithm called marginal participation (MP) which can be used to allocate the power flowing through each network asset (lines and transformers) to particular network users. They consider two new methods to extend the MP algorithm to high voltage direct current lines that operate parallel to alternating current networks. They then apply the allocation algorithm to a future scenario with high renewables penetration in Europe in 2050, developed as part of the Smooth PV project. They see a significant increase in network usage, including a rise in the proportion of cross-border flows. The increase in network usage is driven disproportionately by offshore wind, because of its geographical concentration away from load centres.
+C1 Energynautics GmbH, D-64293 Darmstadt, Germany
+RP Brown, T (corresponding author), Energynautics GmbH, Robert Bosch Str 7, D-64293 Darmstadt, Germany.
+EM t.brown@energynautics.com
+OI Brown, Thomas/0000-0001-5898-1911
+FU German Federal Ministry for the Environment, Nature Conservation and Nuclear Safety [0325272]; federal state of North-Rhine Westphalia
+FX The author would like to thank all members of the Smooth PV team at EWI and Energynautics for allowing him to re-use the data from the project. In particular we thank Thomas Ackermann, Stanislav Cherevatskiy, Simeon Hagspiel and Eckehard Troster for very useful discussions. The Smooth PV project was funded with grant no. 0325272 by the German Federal Ministry for the Environment, Nature Conservation and Nuclear Safety and by the federal state of North-Rhine Westphalia. Responsibility for the contents of this publication lies solely with the author.
+NR 22
+TC 34
+Z9 37
+U1 0
+U2 17
+PU INST ENGINEERING TECHNOLOGY-IET
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD SG1 2AY, ENGLAND
+SN 1752-1416
+EI 1752-1424
+J9 IET RENEW POWER GEN
+JI IET Renew. Power Gener.
+PD JAN 2015
+PY 2015
+VL 9
+IS 1
+SI SI
+BP 57
+EP 65
+DI 10.1049/iet-rpg.2014.0114
+PG 9
+WC Green & Sustainable Science & Technology; Energy & Fuels; Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Science & Technology - Other Topics; Energy & Fuels; Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Power System Stability (4.18.472)
+D3 2015-01-01
+GA AY8JM
+UT WOS:000347799900008
+DA 2026-08-19
+ER
+
+PT J
+AU Dezelak, K
+   Petrun, M
+   Roser, M
+   Dolinar, D
+   Stumberger, G
+AF Dezelak, Klemen
+   Petrun, Martin
+   Roser, Miran
+   Dolinar, Drago
+   Stumberger, Gorazd
+TI The Impact of Iron Core Model on Dynamic Behavior of Three-Phase Power Transformer Dynamic Model
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article
+DE Dynamic model; inrush current; iron core model; power transformer; three-phase transformer
+ID HYSTERESIS MODEL; ELECTROMAGNETIC TRANSIENTS; MAGNETIC HYSTERESIS
+AB This paper deals with the evaluation of various dynamic models for modeling of three-limb core power transformers. Due to the specific construction of such transformers, the magnetic fluxes in individual core limbs are interdependent. For applications, such as simulations and testing protection devices and algorithms, adequate prediction of inrush currents waveforms is crucial and indispensable. In this paper, various different dynamic models are tested where the limitations of standard models that are available in commercial program packages are pointed out. Two groups of models are evaluated separately: standard three-phase models composed of three-single phase transformer models and advanced three-phase models, where the topology of the magnetic circuit is considered. Furthermore, in both transformer model groups, three different material descriptions are evaluated, where linear, non-linear, and hysteretic material properties are considered. The comparison between measured and calculated waveforms of inrush currents is used to evaluate individual models. The comparison of evaluated models shows that standard dynamic models cannot provide proper waveforms of inrush currents regardless of which magnetically non-linear behavior of the iron core is considered. For adequate modeling of discussed transformers the consideration of the topology of the magnetic circuit is crucial.
+C1 [Dezelak, Klemen; Petrun, Martin; Dolinar, Drago; Stumberger, Gorazd] Univ Maribor, Fac Elect Engn & Comp Sci, SLO-2000 Maribor, Slovenia; [Roser, Miran] Elektro Celje Dd, Celje 3000, Slovenia
+C3 University of Maribor
+RP Dezelak, K (corresponding author), Univ Maribor, Fac Elect Engn & Comp Sci, SLO-2000 Maribor, Slovenia.
+EM klemen.dezelak@uni-mb.si
+RI Petrun, Martin/AAH-1385-2019
+OI Petrun, Martin/0000-0001-9134-5802; Dezelak, Klemen/0000-0002-7317-1607
+FU Slovenian Research Agency [L2-4114, L2-5489, P2-0115]
+FX This work was supported by the Slovenian Research Agency under Project L2-4114, Project L2-5489, and Project P2-0115.
+NR 14
+TC 6
+Z9 6
+U1 0
+U2 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-9464
+EI 1941-0069
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD JAN 2015
+PY 2015
+VL 51
+IS 1
+PN 1
+AR 8400104
+DI 10.1109/TMAG.2014.2357075
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Physics
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Fault Detection (4.18.1055)
+D3 2015-03-11
+GA CB2HD
+UT WOS:000349446800068
+DA 2026-08-19
+ER
+
+PT J
+AU Farina, M
+   Guagardi, A
+   Mariani, F
+   Sandroni, C
+   Scattolini, R
+AF Farina, M.
+   Guagardi, A.
+   Mariani, F.
+   Sandroni, C.
+   Scattolini, R.
+TI Model predictive control of voltage profiles in MV networks with distributed generation
+SO CONTROL ENGINEERING PRACTICE
+LA English
+DT Article
+DE Voltage control; Medium voltage network; Distributed generation; Model predictive control; Hierarchical control
+ID PENETRATION; STABILITY; POWER
+AB The presence of distributed generators in Medium Voltage (MV) networks can produce local voltage increase, with inversion of power flows, and emergence of dangerous inverse currents. For this reason, the control of the voltage profile is becoming of paramount importance. However, the design of a dynamic controller is problematic due to the multivariable and large scale nature of the problem, and to the difficulty to derive a reliable model of the system. In this paper, we first identify a MIMO impulse response model of the system, through a suitable identification phase, where a detailed industrial reference simulator of the network is used. Then we propose and design an MPC-based algorithm for control of the network, used at the intermediate level of a three-layer hierarchical structure. At the upper level a static Optimal Power Flow (OPF) computes the required voltage profiles to be transmitted to the MPC level, while at the lower level local Automatic Voltage Regulators (AVR), one for each Distributed Generator (DG), track the reactive power reference values computed by MPC. The proposed method allows to cope with constraints on the voltage profiles and/or on the reactive power flows along the network. If these constraints cannot be satisfied by acting on the available DGs, the algorithm acts on the On-Load Tap Changing (OLTC) transformer. A radial rural network with two feeders, eight DGs, and thirty-one loads is used as case study. The model of the network is implemented in DIgSILENT PowerFactory (R), while the control algorithm runs in MATLAB (R). A number of simulation results is reported to witness the main characteristics and limitations of the proposed approach. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Farina, M.; Mariani, F.; Scattolini, R.] Politecn Milan, Dipartimento Elettr Informaz & Bioingn, Milan, Italy; [Guagardi, A.; Sandroni, C.] RSE, Milan, Italy
+C3 Polytechnic University of Milan
+RP Farina, M (corresponding author), Politecn Milan, Dipartimento Elettr Informaz & Bioingn, Via Ponzio 34-5, Milan, Italy.
+EM marianifederico@gmail.com; guagliardi@rse-web.it; riccardo.scattolini@polimi.it; marcello.farina@polimi.it; sandroni@rse-web.it
+RI Sanoni, Carlo/O-7809-2019; Sandroni, Claudio/O-7809-2019; Farina, Marcello/ABG-8880-2020
+OI Sanoni, Carlo/0000-0003-1545-3531; Sandroni, Claudio/0000-0002-8878-2611; Scattolini, Riccardo/0000-0003-1804-9921
+NR 21
+TC 38
+Z9 41
+U1 1
+U2 20
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0967-0661
+EI 1873-6939
+J9 CONTROL ENG PRACT
+JI Control Eng. Practice
+PD JAN 2015
+PY 2015
+VL 34
+BP 18
+EP 29
+DI 10.1016/j.conengprac.2014.09.010
+PG 12
+WC Automation & Control Systems; Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Automation & Control Systems; Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Smart Grids (4.18.204)
+D3 2015-02-19
+GA AY5FY
+UT WOS:000347599500002
+OA Green Submitted
+DA 2026-08-19
+ER
+
+PT J
+AU Hosseini, SMH
+   Madar, SME
+   Vakilian, M
+AF Hosseini, Seyed Mohammad Hassan
+   Madar, Seyed Mohsen Enjavi
+   Vakilian, Mehdi
+TI Using the finite element method to calculate parameters for a detailed model of transformer winding for partial discharge research
+SO TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES
+LA English
+DT Article
+DE Partial discharge; power transformers; finite element analysis; detailed model
+ID LOCALIZATION
+AB Power transformers are considered to be one of the most essential and costly pieces of equipment in a power system. Identifying insulation faults in the shortest possible time prevents the occurrence of irreparable damage. Partial discharge (PD) is one of the most significant insulation faults. The first step in the study of PD is the precise modeling of transformer winding at high frequencies. In this paper, the finite element method is used to calculate the parameters for a detailed model of transformer winding. For this reason, a detailed model of transformer winding and the analytic formulations are first presented for the calculation of the parameters of the model. Using two-dimensional finite element methods, the 20-kV transformer winding is then simulated according to exact technical specifications and designed using Maxwell software. After that, the parameters for the detailed model presented in this paper are derived and calculated. Finally, the validity of the model in the frequency range is determined by applying a similar PD pulse on the real and simulated models.
+C1 [Hosseini, Seyed Mohammad Hassan; Madar, Seyed Mohsen Enjavi; Vakilian, Mehdi] Islamic Azad Univ, South Tehran Branch, Dept Elect Engn, Tehran, Iran
+C3 Islamic Azad University
+RP Hosseini, SMH (corresponding author), Islamic Azad Univ, South Tehran Branch, Dept Elect Engn, Tehran, Iran.
+EM smhh110@azad.ac.ir
+RI Hosseini, Seyed Mohammad Hassan/ABC-8127-2021; Vakilian, Mehdi/J-1028-2019
+OI Hosseini, Seyed Mohammad Hassan/0000-0002-3686-0702
+NR 12
+TC 13
+Z9 14
+U1 0
+U2 21
+PU Tubitak Scientific & Technological Research Council Turkey
+PI ANKARA
+PA ATATURK BULVARI NO 221, KAVAKLIDERE, TR-06100 ANKARA, TURKIYE
+SN 1300-0632
+EI 1303-6203
+J9 TURK J ELECTR ENG CO
+JI Turk. J. Electr. Eng. Comput. Sci.
+PD 2015
+PY 2015
+VL 23
+IS 3
+BP 709
+EP 718
+DI 10.3906/elk-1209-132
+PG 10
+WC Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2015-04-29
+GA CF3VL
+UT WOS:000352476800007
+OA Bronze
+DA 2026-08-19
+ER
+
+PT J
+AU Lin, XN
+   Lu, JS
+   Tian, Q
+   Weng, HL
+   Li, ZT
+   Tong, CL
+   Li, M
+   Sun, JW
+   Yang, DX
+AF Lin, Xiangning
+   Lu, Junsheng
+   Tian, Qing
+   Weng, Hanli
+   Li, Zhengtian
+   Tong, Chongli
+   Li, Ming
+   Sun, Jinwen
+   Yang, Dexian
+TI Abnormal operation behavior analysis and countermeasures on the differential protection of converter transformer
+SO INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+LA English
+DT Article
+DE HVDC system; Converter transformer; Differential protection; 2nd harmonic; Inrush; Time-difference
+ID DISCRIMINATION; INRUSH; CURRENTS
+AB Intriguing mal-operations and fail-to-trip of the differential protection of the converter transformer in the HVDC system are reported. In this paper, the mechanism of these abnormal operation behaviors is analyzed. By virtue of deliberately designed models of the converter transformer and the HVDC transmission system, a variety of simulation tests are carried out and above mentioned strange operation behaviors can be recurred. Then, the conditions of the operating states and faults resulting in this sort of abnormal operations can be determined. The reasons rest with the deep saturation of core due to energization and the high second harmonic within the differential currents due to faults. To solve above problems, the characteristics of voltage and differential current of the converter transformer are studied. It is disclosed that the time difference between the sudden change of the phase voltage and the emergence of differential current exists due to switching-on of the converter transformer. However, this time difference does not exist for any cases due to internal faults. Based on this finding, a novel criterion is therefore proposed. And it is verified with extensive RTDS based simulation test results. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Lin, Xiangning; Lu, Junsheng; Tong, Chongli; Sun, Jinwen; Yang, Dexian] Huazhong Univ Sci & Technol, State Key Lab Adv Electromagnet Engn & Technol, Wuhan 430074, Hubei, Peoples R China; [Tian, Qing] Southern China Power Grid, Chief Dispatching Ctr, Guangzhou 510000, Guangdong, Peoples R China; [Weng, Hanli] CHINA Three Gorge Univ, Coll Elect Engn & New Energy, Yichang 443000, Peoples R China; [Li, Zhengtian] State Grid, Jiangxi Elect Power Res Inst, Nanchang 330000, Peoples R China; [Li, Ming] China Southern Power Grid, Elect Power Res Inst, Guangzhou 510080, Guangdong, Peoples R China
+C3 Huazhong University of Science & Technology; State Grid Corporation of China; China Southern Power Grid
+RP Yang, DX (corresponding author), Huazhong Univ Sci & Technol, Sch Elect & Elect Engn Xi Jiu Lou, Luoyu Rd 1037, Wuhan 430074, Hubei, Peoples R China.
+EM ydx@hust.edu.cn
+FU National Natural Science Foundation of China [51277110]; National Key Basic Research Program of China (973 Program) [2012CB215100]; Research Fund for the Doctoral Program of Higher Education of China [20110142110055]; Natural Science Foundation of Fujian Province [2011J01281]; Study on Special Protection of HVDC Inverter Stations in Response to Severe Transient Overvoltage [CSGTRC-K132019]
+FX This work was supported in part by the National Natural Science Foundation of China (51277110), and in part by the National Key Basic Research Program of China (973 Program) (2012CB215100), and in part by the Research Fund for the Doctoral Program of Higher Education of China (20110142110055), and in part by Natural Science Foundation of Fujian Province (2011J01281), and in part by the Study on Special Protection of HVDC Inverter Stations in Response to Severe Transient Overvoltage (CSGTRC-K132019).
+NR 15
+TC 6
+Z9 8
+U1 1
+U2 39
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0142-0615
+EI 1879-3517
+J9 INT J ELEC POWER
+JI Int. J. Electr. Power Energy Syst.
+PD JAN 2015
+PY 2015
+VL 64
+BP 516
+EP 525
+DI 10.1016/j.ijepes.2014.07.048
+PG 10
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Fault Detection (4.18.1055)
+D3 2014-12-10
+GA AS7OD
+UT WOS:000344444200051
+DA 2026-08-19
+ER
+
+PT J
+AU Meyne, S
+   David, JF
+   Jacob, AF
+AF Meyne, Sascha
+   David, Jean-Francois
+   Jacob, Arne F.
+TI Large-Signal Investigation of Cold and Hot Matched Coupled-Cavity Traveling-Wave Tubes
+SO FREQUENZ
+LA English
+DT Article
+DE traveling-wave tubes; interaction simulation; delay line modeling
+ID GUIDE CIRCUITS
+AB The implications of different matching conditions for coupled-cavity traveling-wave tubes are considered. Using a small-signal approach the characteristic impedance for the coupled (hot) beam-wave system is derived. It is taken as reference impedance to model ideal transformers and severs. This matching condition is compared to the standard cold match and both cases are analyzed using a large-signal interaction tool. The implications on input reflection and output gain are discussed.
+C1 [Meyne, Sascha; Jacob, Arne F.] Tech Univ Hamburg, Inst Hochfrequenztech, Hamburg, Germany; [David, Jean-Francois] Thales Electron Devices, Velizy Villacoublay, France
+C3 Hamburg University of Technology; Thales Group
+RP Meyne, S (corresponding author), Tech Univ Hamburg, Inst Hochfrequenztech, Hamburg, Germany.
+EM sascha.meyne@tuhh.de
+OI Meyne, Sascha/0000-0002-0347-1663
+FU German Aerospace Center (DLR) on behalf of the German Federal Ministry of Economics and Technology (BMWi) [50YB1230]
+FX The authors would like to acknowledge funding and support of this work by the German Aerospace Center (DLR) on behalf of the German Federal Ministry of Economics and Technology (BMWi) under research contract 50YB1230.
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 6
+PU WALTER DE GRUYTER GMBH
+PI BERLIN
+PA GENTHINER STRASSE 13, D-10785 BERLIN, GERMANY
+SN 0016-1136
+EI 2191-6349
+J9 FREQUENZ
+JI Frequenz
+PD JAN 2015
+PY 2015
+VL 69
+IS 1-2
+BP 3
+EP 10
+DI 10.1515/freq-2014-0118
+PG 8
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Physics (5); Laser Science (5.107); Gyrotron (5.107.1062)
+D3 2015-02-25
+GA AY6AA
+UT WOS:000347649000002
+DA 2026-08-19
+ER
+
+PT J
+AU Samirmi, FD
+   Tang, WH
+   Wu, QH
+AF Samirmi, Farhad Davoodi
+   Tang, Wenhu
+   Wu, Qinghua
+TI Fuzzy Ontology Reasoning for Power Transformer Fault Diagnosis
+SO ADVANCES IN ELECTRICAL AND COMPUTER ENGINEERING
+LA English
+DT Article
+DE Fault diagnosis; ontology; fuzzy sets; multi-agent systems; power transformer
+ID IN-OIL ANALYSIS; REPRESENTATION; SYSTEM
+AB This paper presents a novel fuzzy ontology reasoner for power transformer fault diagnosis under a multi-agent framework. The developed ontology provides a comprehensive knowledge base as part of a multi-agent system to enable imprecision reasoning. It is the first time that a fuzzy ontology model is developed for accurate power transformer fault diagnosis. It aims to develop an improved ontology model for transformer fault diagnosis by applying the fuzzy ontology. The proposed technique deals with the imprecision situation using the fuzzy ontology, in order to build an ontology-based knowledge representation for accurate power transformer fault diagnosis. The proposed system is tested with actual transformer online data to demonstrate the functionality of the developed fuzzy ontology, which can identify the faults that are unidentifiable using a basic ontology model, and this can significantly improve the overall accuracy for transformer fault diagnosis under a multi-agent framework.
+C1 [Samirmi, Farhad Davoodi; Wu, Qinghua] Univ Liverpool, Dept Elect Engn & Elect, Liverpool L69 3GJ, Merseyside, England; [Tang, Wenhu; Wu, Qinghua] S China Univ Technol, Sch Elect Power Engn, Guangzhou 510640, Peoples R China
+C3 University of Liverpool; South China University of Technology
+RP Samirmi, FD (corresponding author), Univ Liverpool, Dept Elect Engn & Elect, Liverpool L69 3GJ, Merseyside, England.
+EM wenhutang@scut.edu.cn
+FU National Natural Science Foundation of China [51477054]; National High Technology Research and Development Program of China, 863 Program [2015AA050201]
+FX This work was supported by National Natural Science Foundation of China (Grant 51477054) and National High Technology Research and Development Program of China, 863 Program (Grant 2015AA050201).
+NR 29
+TC 13
+Z9 14
+U1 2
+U2 80
+PU UNIV SUCEAVA, FAC ELECTRICAL ENG
+PI SUCEAVA
+PA UNIV SUCEAVA, FAC ELECTRICAL ENG, STEFAN CEL MARE, UNIVERSITATII 13, SUCEAVA, 720229, ROMANIA
+SN 1582-7445
+EI 1844-7600
+J9 ADV ELECTR COMPUT EN
+JI Adv. Electr. Comput. Eng.
+PD 2015
+PY 2015
+VL 15
+IS 4
+BP 107
+EP 114
+DI 10.4316/AECE.2015.04015
+PG 8
+WC Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Information Retrieval & Knowledge Systems (4.48); Ontology and Knowledge Graphs (4.48.322)
+D3 2016-02-10
+GA DB4RC
+UT WOS:000368499800014
+OA gold; Green Submitted
+DA 2026-08-19
+ER
+
+PT J
+AU Shilyashki, G
+   Pfützner, H
+   Hamberger, P
+   Aigner, M
+   Palkovits, M
+   Trenner, G
+   Gerstbauer, E
+AF Shilyashki, Georgi
+   Pfuetzner, Helmut
+   Hamberger, Peter
+   Aigner, Martin
+   Palkovits, Martin
+   Trenner, Gerald
+   Gerstbauer, Erich
+TI Automatic 3-dimensional flux analyses of a 3-phase model transformer core
+SO INTERNATIONAL JOURNAL OF APPLIED ELECTROMAGNETICS AND MECHANICS
+LA English
+DT Article; Proceedings Paper
+CT 13th International Workshop on One and Two Dimensional Magnetic Measurement and Testing
+CY SEP 03-06, 2014
+CL Ist Nazl Ric Metrolog, Electromagnet Div, Turin, ITALY
+SP Politecnico Torino, Energy Dept
+HO Ist Nazl Ric Metrolog, Electromagnet Div
+DE Magnetic sensors; induction distribution; transformer cores
+AB For the development of new strategies for reduction of energy losses and audible noise of transformer cores, the assessment of the induction distribution is essential. The results confirm that the core represents a strongly inhomogeneous 3-dimensional magnetization system. For a full understanding of distributions, measurements in the core interior are necessary. For the first time the paper presents detailed analyses of induction distribution in a multi-package model core. Automatic measurements were performed in 112 local positions within 3-phase, 3-limb transformer core stacked from three packages of different width of grain oriented material. As a completely novel approach, a soft magnetic Fe-pin (of 2.4 mm diameter) with pick up coil was used as an a priori calibrated pin sensor. 25 measurement channels (of 3 mm diameter) were established through the entire core. Z-profiles of the induction through the channels were determined in an automatic way for a nominal induction of 1.7 T. They confirm that the core represents a system that is magnetized in a strong inhomogeneous way. Strong variations of the induction up to 10% were observed not only for the in-plane direction, but also along the normal direction (off-plane). Maximum induction values were detected in the widest main package, minimum ones in the narrowest peripheral package. An exception is the corner area where the inhomogeneity of B decreases, linked with a balancing off-plane flux. The paper proposes a model for the flux distribution through the three packages of the core.
+C1 [Shilyashki, Georgi; Pfuetzner, Helmut; Palkovits, Martin; Trenner, Gerald; Gerstbauer, Erich] TU Wien, Inst EMCE, Vienna, Austria; [Hamberger, Peter; Aigner, Martin] Siemens AG Osterreich, Transformers Linz, Linz, Austria
+C3 Technische Universitat Wien; Siemens AG; Siemens Austria
+RP Shilyashki, G (corresponding author), Vienna Univ Technol, Inst EMCE, Gusshausstr 25-354, A-1040 Vienna, Austria.
+EM shilyashki@tuwien.ac.at
+OI Shilyashki, Georgi/0000-0002-4471-0632
+FU Austrian Research Promotion Agency FFG [834159]
+FX We thank for support from the Austrian Research Promotion Agency FFG (Project No. 834159).
+NR 7
+TC 6
+Z9 6
+U1 0
+U2 7
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 1383-5416
+EI 1875-8800
+J9 INT J APPL ELECTROM
+JI Int. J. Appl. Electromagn. Mech.
+PD 2015
+PY 2015
+VL 48
+IS 2-3
+BP 277
+EP 282
+DI 10.3233/JAE-151999
+PG 6
+WC Engineering, Electrical & Electronic; Mechanics; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Mechanics; Physics
+TO Physics (5); Electromagnetism (5.88); Magnetostriction (5.88.1216)
+D3 2015-08-09
+GA CM8YD
+UT WOS:000357988500024
+DA 2026-08-19
+ER
+
+PT J
+AU Sitar, R
+   Janic, Z
+   Stih, Z
+AF Sitar, Robert
+   Janic, Zarko
+   Stih, Zeljko
+TI Local overheating of transformers with high currents
+SO COMPEL-THE INTERNATIONAL JOURNAL FOR COMPUTATION AND MATHEMATICS IN ELECTRICAL AND ELECTRONIC ENGINEERING
+LA English
+DT Article
+DE Magnetic fields; Transformers; Thermal analysis; Eddy current loss; Coupled phenomena
+ID EDDY-CURRENT; FIELD
+AB Purpose - The purpose of the paper is to compare losses and temperatures in power transformer tanks for different high current lead arrangements.Design/methodology/approach - 3D computational tools MagNet and ThermNet based on the finite element method are used to calculate magnetic field distribution in 3D models of power transformers. Eddy current losses in conducting metal parts are induced by the stray magnetic field of transformer windings and high current leads. From loss distribution and appropriate cooling condition temperature values are calculated.Findings - From calculation results it is possible to understand advantages and disadvantages of different lead arrangements. The analysis is finalized with a short presentation of the influence of magnetic shielding height on temperature and loss values.Originality/value - Results give transformer designer clearer understanding of precautions that should be taken for avoiding high temperatures on the tank wall of a transformer.
+C1 [Sitar, Robert] Koncar Elect Engn Inst, Transformer Dept, Zagreb, Croatia; [Janic, Zarko] Koncar Power Transformers Ltd, Siemens E T TR LPT GTC RES, Zagreb, Croatia; [Stih, Zeljko] Univ Zagreb, Fac Elect Engn & Comp, Dept Fundamentals Elect Engn & Measurements, Zagreb 41000, Croatia
+C3 University of Zagreb
+RP Sitar, R (corresponding author), Koncar Elect Engn Inst, Transformer Dept, Zagreb, Croatia.
+EM rsitar@koncar-institut.hr
+RI /I-8127-2019; /J-2339-2019
+NR 9
+TC 2
+Z9 2
+U1 1
+U2 18
+PU EMERALD GROUP PUBLISHING LIMITED
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0332-1649
+J9 COMPEL
+JI Compel-Int. J. Comp. Math. Electr. Electron. Eng.
+PD 2015
+PY 2015
+VL 34
+IS 2
+SI SI
+BP 550
+EP 560
+DI 10.1108/COMPEL-07-2014-0164
+PG 11
+WC Computer Science, Interdisciplinary Applications; Engineering, Electrical & Electronic; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Mathematics
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2015-06-03
+GA CI3KF
+UT WOS:000354645900013
+DA 2026-08-19
+ER
+
+PT J
+AU Strac, L
+   Zarko, D
+AF Strac, Leonardo
+   Zarko, Damir
+TI Determination of electromagnetic properties of steel for prediction of stray losses in power transformers
+SO TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES
+LA English
+DT Article
+DE Transformers; steel; magnetic losses; eddy currents; hysteresis; permeability; finite element methods; optimization
+AB This paper introduces a method for determination of equivalent linear electromagnetic parameters (constant complex permeability and electrical conductivity) of nonlinear magnetic steel, which can be used in a time-harmonic finite-element simulation to yield the same losses in the volume of that material as the measured ones. The conductivity and the static hysteresis loop of the steel have been measured, from which complex permeability as a function of flux density has been extracted. The indirect measurement of losses in various samples of nonmagnetic and magnetic steel has been carried out using a physical model of a transformer core with a coil. The 3D model of the core has been made with finite-element software and combining it with evolutionary optimization the equivalent constant complex permeability and conductivity of each sample have been found, which yield the equality of measured and calculated losses in the sample. Thus, calculated equivalent material parameters have been implemented in 3 finite-element models of transformers of various power ratings in order to determine the share of hysteresis losses in the total amount of losses in structural parts of transformers. The results have been compared with the measurement and the reasons for discrepancies have been explained.
+C1 [Strac, Leonardo] Koncar Power Transformers Ltd, Dept Res & Dev, Zagreb, Croatia; [Zarko, Damir] Univ Zagreb, Fac Elect Engn & Comp, Dept Elect Machines Drives & Automat, Zagreb 41000, Croatia
+C3 University of Zagreb
+RP Strac, L (corresponding author), Koncar Power Transformers Ltd, Dept Res & Dev, Zagreb, Croatia.
+EM leonardo.strac@siemens.com
+RI Žarko, Damir/Z-5626-2019
+OI Žarko, Damir/0000-0002-5844-1664
+NR 9
+TC 4
+Z9 4
+U1 0
+U2 10
+PU Tubitak Scientific & Technological Research Council Turkey
+PI ANKARA
+PA ATATURK BULVARI NO 221, KAVAKLIDERE, TR-06100 ANKARA, TURKIYE
+SN 1300-0632
+EI 1303-6203
+J9 TURK J ELECTR ENG CO
+JI Turk. J. Electr. Eng. Comput. Sci.
+PD 2015
+PY 2015
+VL 23
+IS 5
+BP 1357
+EP 1371
+DI 10.3906/elk-1301-31
+PG 15
+WC Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+TO Physics (5); Electromagnetism (5.88); Magnetostriction (5.88.1216)
+D3 2015-08-26
+GA CO4IQ
+UT WOS:000359124800012
+OA Bronze
+DA 2026-08-19
+ER
+
+PT J
+AU Suwanasri, T
+   Suwanasri, C
+   Phadungthin, R
+AF Suwanasri, Thanapong
+   Suwanasri, Cattareeya
+   Phadungthin, Rattanakorn
+TI Risk Assessment Based on Condition and Importance Criteria for Power Transformer in Thailand Transmission Network
+SO IEEJ TRANSACTIONS ON ELECTRICAL AND ELECTRONIC ENGINEERING
+LA English
+DT Article
+DE asset management; risk assessment; risk matrix; condition; importance; diagnosis test; weight and score; transformer maintenance
+ID RELIABILITY CENTERED MAINTENANCE; ASSET-MANAGEMENT
+AB This paper proposes an innovative risk-assessment strategy based on condition and importance criteria for power transformer maintenance in a transmission network. The condition assessment is performed by the analysis of different diagnosis methods such as electrical test, insulating oil test, and visual inspection. The importance assessment is evaluated from various aspects such as load criticality, impact on system stability, possibility of failure, failure consequence, damage to property, as well as social impact and environmental concerns. Weighting and scoring techniques are applied to determine the actual condition and importance of the power transformer with regard to condition and importance aspects. By combining the condition and importance assessment, the overall risk to the power transformer is assessed and differentiated into nine categories in the risk matrix from the lowest to the highest risk. Additionally, by applying distance d' technique, the risk-based assessment matrix for the power transformer can be identified into five zones: healthy, good, moderate, bad, and risky. These five zones are also represented by color indicators as green, blue, yellow, orange, and red, which are further interpreted to five steps of maintenance tasks. The transformer with longer distance d' is subjected to higher risk and should be maintained first. By this method, a total of 19 power transformers were analyzed and are presented as examples for risk-based maintenance. Then, risks of a total 598 power transformers are shown in the risk matrix. A computerized web application program is developed for practical implementation in a utility in Thailand. Finally, the systematic risk assessment and maintenance task of the power transformer fleet in Thailand are effectively managed. Thereby, the total maintenance cost of power transformer can be reduced. (c) 2014 Institute of Electrical Engineers of Japan. Published by John Wiley & Sons, Inc.
+C1 [Suwanasri, Thanapong] KMUTNB, Sirindhorn Int Thai German Grad Sch Engn, Bangkok 10800, Thailand; [Suwanasri, Cattareeya] KMUTNB, Fac Engn, Dept Elect & Comp Engn, Bangkok 10800, Thailand; [Phadungthin, Rattanakorn] KMUTNB, Coll Ind Technol, Dept Elect Engn Technol, Bangkok 10800, Thailand
+RP Suwanasri, C (corresponding author), KMUTNB, Fac Engn, Dept Elect & Comp Engn, 1518 Pracharat 1 Rd, Bangkok 10800, Thailand.
+EM cattareeyas@kmutnb.ac.th
+RI Suwanasri, thanapong/MBH-7963-2025
+OI Chantawarang, Rattanakorn/0009-0004-9230-9175
+FU Research and Development Division of the Electricity Generating Authority of Thailand
+FX The authors gratefully acknowledge the Transmission System Maintenance as well as the Research and Development Division of the Electricity Generating Authority of Thailand for supporting this work.
+NR 32
+TC 14
+Z9 14
+U1 0
+U2 30
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1931-4973
+EI 1931-4981
+J9 IEEJ T ELECTR ELECTR
+JI IEEJ Trans. Electr. Electron. Eng.
+PD JAN 2015
+PY 2015
+VL 10
+IS 1
+BP 18
+EP 27
+DI 10.1002/tee.22061
+PG 10
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2015-02-17
+GA AX1KI
+UT WOS:000346705700003
+DA 2026-08-19
+ER
+
+PT J
+AU Wilk, A
+AF Wilk, Andrzej
+TI Representation of magnetic hysteresis in a circuit model of a single-phase transformer
+SO COMPEL-THE INTERNATIONAL JOURNAL FOR COMPUTATION AND MATHEMATICS IN ELECTRICAL AND ELECTRONIC ENGINEERING
+LA English
+DT Article; Proceedings Paper
+CT 23rd Symposium on Electromagnetic Phenomena in Nonlinear Circuits (EPNC 2014)
+CY JUL 02-04, 2014
+CL Pilsen, CZECH REPUBLIC
+SP Univ West Bohemia; Polish Acad Sci; Polish Soc Theoret & Appl Elect Engn
+DE Magnetic hysteresis; Transformers; Single-phase transformer; Magnetic flux common; Magneto motive force; Feedback Preisach model; Preisach distribution function; Flux linkage measurements; Parameter identification procedure
+ID IDENTIFICATION
+AB Purpose - The paper presents a mathematical model for the hysteresis phenomenon in a multi-winding single-phase core type transformer. The set of loop differential equations was developed for Kth winding transformer model where the flux linkages of each winding includes a flux common Phi to all windings as function of magneto motive force Theta of all windings. The purpose of this paper is to first determine a hysteresis nonlinearity involved in Phi(Theta) function using modified Preisach theory and second to develop new analytical formula of Preisach distribution function (PDF).Design/methodology/approach - It is assumed in this paper that flux linkage characteristics psi(i) of each winding have nonlinear component due to the magnetization characteristic of the steel core and sum of linear components due to the self and mutual leakage fluxes. This nonlinear component of psi(i) characteristic can be expressed as a flux common Phi to all windings vs ampere-turns Theta of all windings. The nonlinear flux linkage characteristics psi(i) of the tested transformer are calculated from the set of measured terminal voltages and terminal currents. To simulate magnetic behavior of the iron core the feedback scalar Preisach model of hysteresis is proposed which gives more accurate predictions than classical model. For this hysteresis model the PDF and feedback function are needed. The intend of this paper is to find these function as an analytical formulas which are convenient for numerical simulations. For identification of the PDF and feedback function parameters of the considered iron core of tested transformer the Levenberg-Marquardt optimization algorithm was used.Findings - The flux common to all windings is calculated by integrating the induced voltages of the appropriate windings. In this paper the PDF is proposed as a functional series including two dimensional Gauss expressions. In order to proper approximation of hysteresis nonlinearity of the tested iron core the first three terms of functional series of the PDF have been used. In the optimization algorithm only initial and descending limiting hysteresis curves Phi(Theta) were utilized. The feedback function for proposed hysteresis model is assumed as third-order polynomial. The hysteresis model has been successfully validated by comparing the calculated and measured results of Phi(Theta) hysteresis curves. This hysteresis model can be used in transient and steady state simulations of tested transformer taking into account the hysteresis phenomenon. The developed hysteresis model can be also used for analysis of the influence of remnant flux on the operation of tested transformer especially in transient states.Originality/value - In this paper the feedback Preisach hysteresis model is involved in the flux common to all windings vs ampere-turns of all windings. The new PDF is proposed as functional series including two dimensional Gauss expressions. For tested transformer the three first terms of this functional series may be used for proper approximation of hysteresis nonlinearities.
+C1 Gdansk Univ Technol, Fac Elect & Control Engn, PL-80952 Gdansk, Poland
+C3 Fahrenheit Universities; Gdansk University of Technology
+RP Wilk, A (corresponding author), Gdansk Univ Technol, Fac Elect & Control Engn, PL-80952 Gdansk, Poland.
+EM awilk@ely.pg.gda.pl
+NR 24
+TC 5
+Z9 6
+U1 0
+U2 15
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0332-1649
+J9 COMPEL
+JI Compel-Int. J. Comp. Math. Electr. Electron. Eng.
+PD 2015
+PY 2015
+VL 34
+IS 3
+SI SI
+BP 778
+EP 791
+DI 10.1108/COMPEL-10-2014-0282
+PG 14
+WC Computer Science, Interdisciplinary Applications; Engineering, Electrical & Electronic; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering; Mathematics
+TO Physics (5); Electromagnetism (5.88); Magnetostriction (5.88.1216)
+D3 2015-07-08
+GA CK7TD
+UT WOS:000356434800014
+DA 2026-08-19
+ER
+
+PT J
+AU Xu, ZW
+   Luo, LF
+   Zhang, ZW
+   Li, Y
+AF Xu, Zhiwei
+   Luo, Longfu
+   Zhang, Zhiwen
+   Li, Yong
+TI A novel asymmetrical connection balance transformer for traction power supply
+SO TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES
+LA English
+DT Article
+DE Connection scheme; balance condition; asymmetrical winding; traction power supply
+ID TRANSMISSION-SYSTEMS; ELECTRIFIED RAILWAY; COMPENSATOR
+AB Balance transformers can usually eliminate the zero sequence current and suppress the negative sequence current. This paper develops a novel approach for balance transformers, which is different from the traditional one with two-phase or three-phase symmetrical windings. First, the basic principle and the connected scheme of the transformer are clarified. Second, this paper derives the relationship between the primary and the second windings from a mathematical model for the new approach. Third, the balance condition (i.e. the neutral current in the primary side is zero) and the decoupling condition of the two-phase system are also obtained. Finally, the correctness and feasibility of the new approach are verified by the experimental results of a 1-kVA model transformer. Compared to the traditional balance transformers, the new approach has better performance and can be applied to the two-phase or single power supply, such as the traction power supply in electric railway.
+C1 [Xu, Zhiwei; Luo, Longfu; Zhang, Zhiwen; Li, Yong] Hunan Univ, Coll Elect & Informat Engn, Changsha 410082, Hunan, Peoples R China
+C3 Hunan University
+RP Luo, LF (corresponding author), Hunan Univ, Coll Elect & Informat Engn, Changsha 410082, Hunan, Peoples R China.
+EM luolongfulab@hnu.edu.cn
+RI Zhang, Zhiwen/ABI-4441-2022; Liu, Fang/AAT-5247-2020
+OI Li, Yong/0000-0002-1183-5359
+FU National Natural Science Foundation of China [51077044, 51077045]; Hunan Natural Science Foundation [12JJ2034]; Hunan Science and Technology Project [2012FJ4372]
+FX The authors would like to give thanks for project support by the National Natural Science Foundation of China under Grants 51077044 and 51077045, the Hunan Natural Science Foundation 12JJ2034, and the Hunan Science and Technology Project 2012FJ4372. The authors are also grateful to engineer Siyong Ye for his great help in transformer experiments.
+NR 15
+TC 6
+Z9 6
+U1 0
+U2 10
+PU Tubitak Scientific & Technological Research Council Turkey
+PI ANKARA
+PA ATATURK BULVARI NO 221, KAVAKLIDERE, TR-06100 ANKARA, TURKIYE
+SN 1300-0632
+EI 1303-6203
+J9 TURK J ELECTR ENG CO
+JI Turk. J. Electr. Eng. Comput. Sci.
+PD 2015
+PY 2015
+VL 23
+IS 5
+BP 1284
+EP U311
+DI 10.3906/elk-1304-195
+PG 11
+WC Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Transportation (4.183); Rail Transit Optimization (4.183.2127)
+D3 2015-08-26
+GA CO4IQ
+UT WOS:000359124800007
+DA 2026-08-19
+ER
+
+EF  
