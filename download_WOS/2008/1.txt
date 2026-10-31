@@ -1,0 +1,135 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Söderberg, A
+   Bjöklund, S
+AF Soderberg, Anders
+   Bjoklund, Stefan
+TI Validation of a simplified numerical contact model
+SO TRIBOLOGY INTERNATIONAL
+LA English
+DT Article; Proceedings Paper
+CT 12th Nordic Symposium on Tribology
+CY JUN 07-09, 2006
+CL Helsinger, DENMARK
+DE contact calculations; Winkler; surface roughness; elastic foundation model
+ID SIMULATION; WEAR
+AB Surface roughness tends to have a significant effect on how loads are transmitted at the contact interface between solid bodies. Most numerical contact models for analyzing rough surface contacts are computational demanding and more computationally efficient contact models are required. Depending on the purpose of the simulation, simplified and less accurate models can be preferable to more accurate, but also more complex, models. This paper discusses a simplified contact model called the elastic foundation model and its applicability to rough surfaces. The advantage of the model is that it is fast to evaluate, but its disadvantage is that it only gives an approximate solution to the contact problem. It is studied how surface roughness influences the errors in the elastic foundation solution in terms of predicted pressure distribution, real contact area, and normal and tangential contact stiffness. The results can be used to estimate the extent of error in the elastic foundation model, depending on the degree of surface roughness. The conclusion is that the elastic foundation model is not accurate enough to give a correct prediction of the actual contact stresses and contact areas, but it might be good enough for simulations where contact stiffness are of interest. (C) 2008 Elsevier Ltd. All rights reserved.
+C1 [Soderberg, Anders; Bjoklund, Stefan] Royal Inst Technol, Dept Machine Design, SE-10044 Stockholm, Sweden
+C3 Royal Institute of Technology
+RP Söderberg, A (corresponding author), Royal Inst Technol, Dept Machine Design, SE-10044 Stockholm, Sweden.
+EM aes@md.kth.se
+CR [Anonymous], 1992, CONTACT MECH
+   BJORKLUND, S, 1994, WEAR, V179, P117, DOI 10.1016/0043-1648(94)90228-3
+   Carter, FW, 1926, P R SOC LOND A-CONTA, V112, P151, DOI 10.1098/rspa.1926.0100
+   JAEGER J, 1992, THESIS U DELFT DELFT
+   Kalker, J. J., 1990, 3 DIMENSIONAL ELASTI
+   LIANG X, 1991, WEAR, V148, P91
+   MINDLIN, RD, 1949, J APPL MECH-T ASME, V16, P259
+   Patir, N., 1978, ASME Journal of Lubrication Technology, V100, P12, DOI DOI 10.1115/1.3453103
+   Podra, P, 1997, WEAR, V207, P79, DOI 10.1016/S0043-1648(96)07468-6
+   REN, N, 1993, J TRIBOL-T ASME, V115, P597, DOI 10.1115/1.2921681
+   Spiegelberg, C, 2006, WEAR, V261, P58, DOI 10.1016/j.wear.2005.09.022
+NR 11
+TC 15
+Z9 16
+U1 0
+U2 9
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0301-679X
+EI 1879-2464
+J9 TRIBOL INT
+JI Tribol. Int.
+PD SEP-OCT 2008
+PY 2008
+VL 41
+IS 9-10
+BP 926
+EP 933
+DI 10.1016/j.triboint.2008.02.013
+PG 8
+WC Engineering, Mechanical
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering
+TO Engineering & Materials Science (7); Friction & Vibration (7.215); Wear (7.215.386)
+D3 2008-09-01
+GA 327NW
+UT WOS:000257736800016
+DA 2026-08-19
+ER
+
+PT J
+AU Zhang, Y
+AF Zhang, Yin
+TI Tensionless contact of a finite beam resting on Reissner foundation
+SO INTERNATIONAL JOURNAL OF MECHANICAL SCIENCES
+LA English
+DT Article
+DE tensionless contact; beam; Reissner foundation; lift-off
+ID RECTANGULAR-PLATES; UNBONDED CONTACT
+AB A more generalized model of a beam resting on a tensionless Reissner foundation is presented. Compared with the Winkler foundation model, the Reissner foundation model is a much improved one. In the Winkler foundation model, there is no shear stress inside the foundation layer and the foundation is assumed to consist of closely spaced, independent springs. The presence of shear stress inside Reissner foundation makes the springs no longer independent and the foundation to deform as a whole. Mathematically, the governing equation of a beam on Reissner foundation is sixth order differential equation compared with fourth order of Winkler one. Because of this order change of the governing equation, new boundary conditions are needed and related discussion is presented. The presence of the shear stress inside the tensionless Reissner foundation together with the unknown feature of contact area/length makes the problem much more difficult than that of Winkler foundation. In the model presented here, the effects of beam dimension, gap distance, loading asymmetry and foundation shear stress on the contact length are all incorporated and studied. As the beam length increases, the results of a finite beam with zero gap distance converge asymptotically to those obtained by the previous model for an infinitely long beam. (C) 2008 Elsevier Ltd. All rights reserved.
+C1 Chinese Acad Sci, Inst Mech, State Key Lab Nonlinear Mech, Beijing 100080, Peoples R China
+C3 Chinese Academy of Sciences; Institute of Mechanics, CAS
+RP Zhang, Y (corresponding author), Chinese Acad Sci, Inst Mech, State Key Lab Nonlinear Mech, Beijing 100080, Peoples R China.
+EM zhangyin@lnm.imech.ac.cn
+RI Zhang, Yin/B-7962-2011; 张, 吟/B-7962-2011
+OI 张, 吟/0000-0001-5334-0605
+CR Akbarov, SD, 1997, INT J SOLIDS STRUCT, V34, P3673, DOI 10.1016/S0020-7683(96)00227-2
+   CELEP, Z, 1988, J ENG MECH-ASCE, V114, P2083, DOI 10.1061/(ASCE)0733-9399(1988)114:12(2083)
+   CELEP, Z, 1988, INT J MECH SCI, V30, P733, DOI 10.1016/0020-7403(88)90038-0
+   DEMPSEY, JP, 1986, J APPL MECH-T ASME, V53, P146, DOI 10.1115/1.3171702
+   DEMPSEY, JP, 1984, J APPL MECH-T ASME, V51, P324, DOI 10.1115/1.3167620
+   HU, CF, 1994, COMPUT STRUCT, V52, P227, DOI 10.1016/0045-7949(94)90276-3
+   Johnson, K.L., 1987, CONTACT MECH
+   Kerr, A.D., 1964, J. Appl. Mech, V31, P491, DOI 10.1115/1.3629667
+   KERR, AD, 1979, ACTA MECH, V33, P135, DOI 10.1007/BF01175944
+   KERR, AD, 1984, ING ARCH, V54, P455, DOI 10.1007/BF00537376
+   Korn, G.A., 1968, MATH HDB SCI ENG
+   LI, H, 1988, J APPL MECH-T ASME, V55, P430, DOI 10.1115/1.3173694
+   LIN, L, 1987, J ENG MECH-ASCE, V113, P542, DOI 10.1061/(ASCE)0733-9399(1987)113:4(542)
+   Mastrangelo, C. H., 1993, Journal of Microelectromechanical Systems, V2, P44, DOI 10.1109/84.232594
+   Reissner, E., 1958, Journal of Applied Mechanics, V25, P144, DOI 10.1115/1.4011704
+   Silva, ARD, 2001, INT J SOLIDS STRUCT, V38, P2083, DOI 10.1016/S0020-7683(00)00154-2
+   Timoshenko, S., 1959, Theory of Plates and Shells
+   Tsai, N.C., 1967, Journal of Engineering Mechanics, V93, P1, DOI DOI 10.1061/JMCEA3.0000889
+   VALLABHAN CVG, 1988, J ENG MECH DIVISION, V113, P542
+   VLASOV VZ, N6714238 NTIS
+   WEITSMAN, Y, 1969, J APPL MECH, V36, P198, DOI 10.1115/1.3564607
+   Weitsman, Y., 1970, Journal of Applied Mechanics, V37, P1019, DOI DOI 10.1115/1.3408653
+   Yang, FQ, 2004, J MICROMECH MICROENG, V14, P263, DOI 10.1088/0960-1317/14/2/014
+   Zhang, Y, 2005, J ADHES SCI TECHNOL, V19, P799, DOI 10.1163/1568561054867864
+   Zhang, Y, 2004, INT J SOLIDS STRUCT, V41, P6745, DOI 10.1016/j.ijsolstr.2004.05.028
+NR 25
+TC 35
+Z9 37
+U1 0
+U2 13
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0020-7403
+EI 1879-2162
+J9 INT J MECH SCI
+JI Int. J. Mech. Sci.
+PD JUN 2008
+PY 2008
+VL 50
+IS 6
+BP 1035
+EP 1041
+DI 10.1016/j.ijmecsci.2008.02.006
+PG 7
+WC Engineering, Mechanical; Mechanics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Mechanics
+TO Engineering & Materials Science (7); Mechanics (7.63); Composite Plate Dynamics (7.63.181)
+D3 2008-06-01
+GA 317AY
+UT WOS:000256992700006
+OA Green Submitted
+DA 2026-08-19
+ER
+
+EF  

@@ -1,0 +1,3205 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU HARADA, Y
+   GOTO, E
+AF HARADA, Y
+   GOTO, E
+TI ARTIFICIAL NEURAL NETWORK CIRCUITS WITH JOSEPHSON DEVICES
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 1990 CONF ON APPLIED SUPERCONDUCTIVITY
+CY SEP 24-28, 1990
+CL SNOWMASS, CO
+AB This article describes a new approach of Josephson devices for computer applications. With an artificial neural network scheme, Josephson devices will be expected to develop a new paradigm for future computer systems. Here we will discuss circuit configurations for a neuron with Josephson devices. We propose a combination of a variable bias source and Josephson devices for a synapse circuit. The bias source signal is steered by the Josephson device input signal and becomes the synapse output signal. These output signals are summed up at the specific resistor or inductor to produce the weighted sum of Josephson devices input signals. According to the error signal, the bias source value is corrected. This corresponds to the learning procedure. Because Josephson devices are threshold logic circuits themselves, they are employed as soma circuits. We also discuss the cell structure of the artificial neural network.
+C1 [HARADA, Y] RES DEV CORP JAPAN,QUANTUM MAGNETO FLUX LOG PROJECT,ERATO,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN
+C3 Japan Science & Technology Agency (JST)
+RP HARADA, Y (corresponding author), RES DEV CORP JAPAN,QUANTUM MAGNETO FLUX LOG PROJECT,ERATO,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR DIEDERICH J, 1990, IEEE COMPUTER SOC NE
+   HARADA, Y, 1989, P IEEE, V77, P1280, DOI 10.1109/5.34126
+   HARING, DR, 1966, IEEE TRANS ELECTRON, VEC15, P45, DOI 10.1109/PGEC.1966.264375
+   HATANO, Y, 1987, IEEE J SOLID-ST CIRC, V22, P606, DOI 10.1109/JSSC.1987.1052778
+   MORGAN N, 1990, IEEE COMPUTER SOC NE
+NR 5
+TC 27
+Z9 31
+U1 0
+U2 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAR 1991
+PY 1991
+VL 27
+IS 2
+PN 4
+BP 2863
+EP 2866
+DI 10.1109/20.133806
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Physics
+TO Physics (5); Superconductor Science (5.30); Superconducting Detectors (5.30.929)
+D3 1991-03-01
+GA EY654
+UT WOS:A1991EY65400077
+DA 2026-08-19
+ER
+
+PT J
+AU CHOW, MY
+   YEE, SO
+AF CHOW, MY
+   YEE, SO
+TI METHODOLOGY FOR ONLINE INCIPIENT FAULT-DETECTION IN SINGLE-PHASE SQUIRREL-CAGE INDUCTION-MOTORS USING ARTIFICIAL NEURAL NETWORKS
+SO IEEE TRANSACTIONS ON ENERGY CONVERSION
+LA English
+DT Article; Proceedings Paper
+CT 1991 WINTER MEETING OF THE POWER ENGINEERING SOC OF THE IEEE
+CY FEB 03-07, 1991
+CL NEW YORK, NY
+SP IEEE, POWER ENGN SOC
+DE INCIPIENT FAULT DETECTION; SINGLE-PHASE SQUIRREL-CAGE INDUCTION MOTOR; ARTIFICIAL NEURAL NETWORKS; HIGH-ORDER NEURAL NETWORKS; COMPETITIVE LEARNING; NOISE AND DISTURBANCE FILTERING
+AB This paper develops a new approach for on-line detection of incipient faults in single-phase squirrel-cage induction motors through the use of artificial neural networks. The on-line incipient fault detector is composed of two parts : (1) a disturbance and noise filter artificial neural network to filter out the transient measurements while retaining the steady-state measurements, and (2) a high-order incipient fault detection artificial neural network to detect incipient faults in single-phase squirrel-cage induction motors based on data collected from the motor. Simulation results show that neural networks yield satisfactory performance for on-line detection of incipient faults in single-phase squirrel-cage cage induction motors. The neural network fault detection methodology presented in this paper is not only limited to single-phase squirrel-cage motors (used as prototype) but can also be applied to many other types of rotating machines, with the appropriate modifications.
+C1 [CHOW, MY] N CAROLINA STATE UNIV,DEPT ELECT & COMP ENGN,RALEIGH,NC 27695, USA
+C3 North Carolina State University
+RP CHOW, MY (corresponding author), N CAROLINA STATE UNIV,DEPT ELECT & COMP ENGN,RALEIGH,NC 27695, USA.
+RI Chow, Mo-Yuen/HPC-3082-2023
+CR Albrecht, P. F., 1986, IEEE T ENERGY CONVER, VEC-1
+   ARUN KS, 1985, IEEE T IND ELECTRONI, V32
+   BOOTHMAN DR, 1974, IEEE T POWER ENG SYS
+   CAMBRIAS S, 1988, GENERIC GUIDELINES L
+   CHOW MY, 1990, 3RD P INT C IND ENG
+   CHOW MY, 1989, 1989 INT S CIRC SYST
+   CHOW MY, 1990, NCSU1989 ANN REP
+   CHOW MY, 1990, J NEURAL NETWORK COM, V2
+   CHOW MY, 1988, 1988 INT S CIRC SYST
+   DIETZ WE, 1989, J NEURAL NETWORK COM, V1
+   DOUGLAS J, 1988, EPRI J           JUN, P31
+   EBRON S, 1988, NEURAL NETWORK APPRO
+   FUKUSHIMA, K, 1975, BIOL CYBERN, V20, P121, DOI 10.1007/BF00342633
+   GROSSBERG, S, 1976, BIOL CYBERN, V23, P121, DOI 10.1007/BF00344744
+   HNASSAR OM, 1987, IEEE T ENERGY CONVER, V2
+   JAMES E, 1983, IEEE T POWER APPARAT, V102
+   KEYHANI A, 1986, IEEE T ENERGY CONVER, V1
+   Krause, P. C., 1965, IEEE T PAS, VPAS-84
+   KRAUSE PC, ANAL ELECTRIC MACHIN
+   LAFORTE JT, 1988, IEEE T ENERGY CONVER, V3
+   MANGUM P, 1990, THESIS N CAROLINA ST
+   Pao, Y.-H., 1989, ADAPTIVE PATTERN REC
+   PASSINO KM, 1989, IEEE CONTROL SYS APR
+   PETER J, CONDITION MONITORING
+   REASON J, 1988, ELECTRICAL WORLD AUG
+   REID M, 1989, RAPID TRAINING HIGHE
+   RICHARD P, 1987, IEEE ASSP MAGAZI APR
+   Rumelhart, D. E., PARALLEL DISTRIBUTED
+   SCHUMP DE, 1989, IEEE T IND APPLICATI, V25
+   WALPOLE RE, 1978, PROBABILITY STATISTI
+   Werbos Werbos Werbos, P :. P :. P :., 1974, REGRESSION NEW TOOLS REGRESSION NEW TOOLS REGRESSION NEW TOOLS REGRESSION NEW TOOLS
+   WIDROW B, 1988, COMPUTER MAGAZIN MAR
+   [Anonymous], 1989, P INT JOINT C NEURAL
+   [Anonymous], 1987, DARPA NEURAL NETWORK
+   [Anonymous], 1969, IEEE GENERAL PRINCIP
+NR 35
+TC 53
+Z9 58
+U1 0
+U2 6
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0885-8969
+J9 IEEE T ENERGY CONVER
+JI IEEE Trans. Energy Convers.
+PD SEP 1991
+PY 1991
+VL 6
+IS 3
+BP 536
+EP 545
+DI 10.1109/60.84332
+PG 10
+WC Energy & Fuels; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+TO Engineering & Materials Science (7); Friction & Vibration (7.215); Rotating Machinery Diagnostics (7.215.818)
+D3 1991-09-01
+GA FZ036
+UT WOS:A1991FZ03600028
+DA 2026-08-19
+ER
+
+PT J
+AU PARK, DC
+   ELSHARKAWI, MA
+   MARKS, RJ
+   ATLAS, LE
+   DAMBORG, MJ
+AF PARK, DC
+   ELSHARKAWI, MA
+   MARKS, RJ
+   ATLAS, LE
+   DAMBORG, MJ
+TI ELECTRIC-LOAD FORECASTING USING AN ARTIFICIAL NEURAL NETWORK
+SO IEEE TRANSACTIONS ON POWER SYSTEMS
+LA English
+DT Article; Proceedings Paper
+CT 1990 SUMMER MEETING OF THE POWER ENGINEERING SOC OF THE IEEE
+CY JUL 15-19, 1990
+CL MINNEAPOLIS, MN
+SP IEEE, POWER ENGN SOC
+DE LOAD FORECASTING; ARTIFICIAL NEURAL NETWORK
+AB This paper presents an artificial neural network(ANN) approach to electric load forecasting. The ANN is used to learn the relationship among past, current and future temperatures and loads. In order to provide the forecasted load, the ANN interpolates among the load and temperature data in a training data set. The average absolute errors of the one-hour and 24-hour ahead forecasts in our test on actual utility data are shown to be 1.40% and 2.06%, respectively. This compares with an average error of 4.22% for 24-hour ahead forecasts with a currently used forecasting technique applied to the same data.
+C1 [PARK, DC] UNIV WASHINGTON,DEPT ELECT ENGN,FT-10,SEATTLE,WA 98195, USA
+C3 University of Washington; University of Washington Seattle
+RP PARK, DC (corresponding author), UNIV WASHINGTON,DEPT ELECT ENGN,FT-10,SEATTLE,WA 98195, USA.
+OI Park, Dong-Chul/0009-0007-7442-2301
+CR AGGOUNE M, 1989, MAY P PICA, P252
+   ASBURY, CE, 1975, IEEE T POWER AP SYST, V94, P1111, DOI 10.1109/T-PAS.1975.31945
+   ATLAS, L, 1989, 1989 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS, VOLS 1-3, P915, DOI 10.1109/ICSMC.1989.71429
+   Box, GEP., 1976, Time Series
+   CHAN EH, 1989, MAY P PICA, P246
+   CHRISTIAANSE, WR, 1971, IEEE T POWER AP SYST, VPA90, P900, DOI 10.1109/TPAS.1971.293123
+   DAVEY J, 1972, IEEE T PAS, V91, P971
+   ELSHARKAWI M, 1989, 2ND P S EXP SYST APP, P366
+   GUPTA, PC, 1972, IEEE T POWER AP SYST, V91, P2085, DOI 10.1109/TPAS.1972.293541
+   Honig, M L., 1984, Adaptive filters: structures, algorithms, and applications
+   IRISARRI, GD, 1982, IEEE T POWER AP SYST, V101, P71, DOI 10.1109/TPAS.1982.317242
+   JABBOUR, K, 1988, IEEE T POWER SYST, V3, P908, DOI 10.1109/59.14540
+   Lapedes, A., 1987, IEEE INT C NEURAL NE
+   LU, QC, 1989, IEEE T POWER SYST, V4, P158, DOI 10.1109/59.32473
+   MEHRA R, 1969, P JACC, P494
+   MITTENLEWIS S, 1989, SHORT TERM WEATHER L
+   MOODY J, 1988, 1988 P CONN MOD SUMM
+   MORI H, 1989, 2ND P S EXP SYST APP, P385
+   MORI H, 1989, 2ND P S EXP SYST APP, P371
+   NAYLOR N, 1971, LINEAR OPERATOR THEO
+   Pao, Y.-H., 1989, ADAPTIVE PATTERN REC
+   RAHMAN, S, 1988, IEEE T POWER SYST, V3, P392, DOI 10.1109/59.192889
+   Rumelhart, D., 1986, Parallel Distributed Processing: Explorations in the Microstructure of Cognition, V2
+   SAGE A, 1969, NOV P IEEE S AD PROC
+   SOBAJIC, DJ, 1989, IEEE T POWER SYST, V4, P220, DOI 10.1109/59.32481
+   TANAKA H, 1989, 2ND P S EXP SYST APP, P378
+   THOMPSON, RP, 1976, IEEE T POWER AP SYST, V95, P385, DOI 10.1109/T-PAS.1976.32116
+   TOYODA, J, 1970, IEEE T POWER AP SYST, VPA89, P1678, DOI 10.1109/TPAS.1970.292823
+   VEMURI, S, 1981, IEEE T POWER AP SYST, V100, P3775, DOI 10.1109/TPAS.1981.317020
+   VEMURI S, 1973, 8TH P PICA C MINN, P31
+NR 30
+TC 855
+Z9 990
+U1 2
+U2 64
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0885-8950
+J9 IEEE T POWER SYST
+JI IEEE Trans. Power Syst.
+PD MAY 1991
+PY 1991
+VL 6
+IS 2
+BP 442
+EP 449
+DI 10.1109/59.76685
+PG 8
+WC Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Renewable Energy Forecasting (4.18.296)
+D3 1991-05-01
+GA FE859
+UT WOS:A1991FE85900002
+DA 2026-08-19
+ER
+
+PT J
+AU HSU, YY
+   CHEN, CR
+AF HSU, YY
+   CHEN, CR
+TI TUNING OF POWER-SYSTEM STABILIZERS USING AN ARTIFICIAL NEURAL NETWORK
+SO IEEE TRANSACTIONS ON ENERGY CONVERSION
+LA English
+DT Article; Proceedings Paper
+CT 1991 WINTER MEETING OF THE POWER ENGINEERING SOC OF THE IEEE
+CY FEB 03-07, 1991
+CL NEW YORK, NY
+SP IEEE, POWER ENGN SOC
+DE POWER SYSTEM STABILIZER; EXCITATION CONTROL; ARTIFICIAL NEURAL NETWORK
+ID DESIGN
+AB Tuning of power system stabilizers (PSS) is investigated using an artificial neural network (ANN). To have good damping characteristics over a wide range of operating conditions, it is desirable to adapt the PSS parameters in real-time based on generator loading conditions. To do this, a pair of on-line measurements, i.e. generator real power output (P) and power factor (PF), which are representative of generator operating condition, are chosen as the input signals to the neural net. The outputs of the neural net are the desired PSS parameters. The neural net, once trained by a set of input-output patterns in the training set, can yield proper PSS parameters under any generator loading condition. Digital simulations of a synchronous machine subject to a major disturbance of three-phase fault under different operating conditions are performed to demonstrate the effectiveness of the proposed neural network.
+C1 [HSU, YY] NATL TAIWAN UNIV,DEPT ELECT ENGN,TAIPEI,TAIWAN
+C3 National Taiwan University
+RP HSU, YY (corresponding author), NATL TAIWAN UNIV,DEPT ELECT ENGN,TAIPEI,TAIWAN.
+CR AGGOUNE ME, 1989 P S CIRC SYST, P490
+   AGOUNE M, 1989 P PICA C, P252
+   Anderson, P.M., 1977, POWER SYSTEM CONTROL
+   [Anonymous], 2019, IEEE ASSP MAGAZI APR, DOI DOI 10.1109/MASSP.1987.1165576
+   CHAN EHP, 1989 P PICA C, P246
+   CHANDRA, A, 1988, IEEE T POWER SYST, V3, P1065, DOI 10.1109/59.14563
+   CHEN CR, 1990 IEE PES SUMM M
+   CHENG, S, 1986, IEEE T POWER SYST, V1, P101, DOI 10.1109/TPWRS.1986.4334961
+   CZUBA, JS, 1986, IEEE T POWER SYST, V1, P121, DOI 10.1109/TPWRS.1986.4334855
+   DEGN P, 1988, P IFAC S POWER SYSTE, P101
+   DEMELLO, FP, 1980, IEEE T POWER AP SYST, V99, P892, DOI 10.1109/TPAS.1980.319717
+   DEMELLO, FP, 1969, IEEE T POWER AP SYST, VPA88, P316, DOI 10.1109/TPAS.1969.292452
+   FARMER, RG, 1983, IEEE T POWER AP SYST, V102, P699, DOI 10.1109/TPAS.1983.318031
+   FISCHL R, 1989 P INT S CIRC SY, P486
+   HSU, YY, 1986, IEEE T POWER SYST, V1, P46, DOI 10.1109/TPWRS.1986.4334898
+   HSU, YY, 1988, IEEE T POWER SYST, V3, P1434, DOI 10.1109/59.192950
+   HSU, YY, 1987, IEEE T ENERGY CONVER, V2, P343, DOI 10.1109/TEC.1987.4765857
+   HSU, YY, 1987, IEEE T POWER SYST, V2, P92, DOI 10.1109/TPWRS.1987.4335079
+   HSU YY, 1988, IEEE T POWER SYST, V2, P80
+   KAILATH T, 1980, LINEAR SYSTEMS, P651
+   KUNDUR, P, 1981, IEEE T POWER AP SYST, V100, P81, DOI 10.1109/TPAS.1981.316890
+   LARSEN, EV, 1981, IEEE T POWER AP SYST, V100, P3017, DOI 10.1109/TPAS.1981.316355
+   LEE, DC, 1981, IEEE T POWER AP SYST, V100, P4151, DOI 10.1109/TPAS.1981.316966
+   Rumelhart, DE, 1986, PARALLEL DISTRIBUTED
+   SANTOSO MI, 1989 IEEE PES SUMM M
+   SOBAJIC, DJ, 1989, IEEE T POWER SYST, V4, P220, DOI 10.1109/59.32481
+   XIA, DZ, 1983, IEEE T POWER AP SYST, V102, P1877, DOI 10.1109/TPAS.1983.317797
+NR 27
+TC 88
+Z9 92
+U1 0
+U2 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0885-8969
+J9 IEEE T ENERGY CONVER
+JI IEEE Trans. Energy Convers.
+PD DEC 1991
+PY 1991
+VL 6
+IS 4
+BP 612
+EP 619
+DI 10.1109/60.103633
+PG 8
+WC Energy & Fuels; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Power System Stability (4.18.472)
+D3 1991-12-01
+GA GQ193
+UT WOS:A1991GQ19300007
+DA 2026-08-19
+ER
+
+PT J
+AU WEERASOORIYA, S
+   ELSHARKAWI, MA
+AF WEERASOORIYA, S
+   ELSHARKAWI, MA
+TI IDENTIFICATION AND CONTROL OF A DC MOTOR USING BACK-PROPAGATION NEURAL NETWORKS
+SO IEEE TRANSACTIONS ON ENERGY CONVERSION
+LA English
+DT Article; Proceedings Paper
+CT 1991 WINTER MEETING OF THE POWER ENGINEERING SOC OF THE IEEE
+CY FEB 03-07, 1991
+CL NEW YORK, NY
+SP IEEE, POWER ENGN SOC
+DE DC DRIVES; TRAJECTORY CONTROL; ARTIFICIAL NEURAL NETWORKS; SYSTEM IDENTIFICATION
+AB The paper introduces an artificial neural network based high performance speed control system for a dc motor. The rotor speed of the dc motor can be made to follow an arbitrarily selected trajectory. The purpose is to achieve accurate trajectory control of the speed, specially when motor and load parameters are unknown.The unknown nonlinear dynamics of the motor and the load are captured by an artificial neural network. The trained neural network identifier is combined with a desired reference model to achieve trajectory control of speed. Performance of the identification and control algorithms are evaluated by simulating them on a typical dc motor model.
+C1 [WEERASOORIYA, S] UNIV WASHINGTON,DEPT ELECT ENGN,FT 10,SEATTLE,WA 98195, USA
+C3 University of Washington; University of Washington Seattle
+RP WEERASOORIYA, S (corresponding author), UNIV WASHINGTON,DEPT ELECT ENGN,FT 10,SEATTLE,WA 98195, USA.
+CR [Anonymous], IEEE T ENERGY CONVER
+   Antsaklis, P.J., 1990, IEEE CONTR SYST MAG, V10, P3
+   Astrom, K.F., 1989, ADAPTIVE CONTROL
+   Chen, F.-C., 1990, IEEE Control Systems Magazine, V10, P44, DOI 10.1109/37.55123
+   Chu, S. R., 1990, IEEE Control Systems Magazine, V10, P31, DOI 10.1109/37.55121
+   ELSHARKAWI, MA, 1990, IEEE T ENERGY CONVER, V5, P122, DOI 10.1109/60.50823
+   Kuo, B.C., 1980, Digital Control Systems
+   McClelland, J.L., 1986, PARALLEL DISTRIBUTED
+   Narendra, K S, 1990, IEEE Trans Neural Netw, V1, P4, DOI 10.1109/72.80202
+   Nguyen, D. H., 1990, IEEE Control Systems Magazine, V10, P18, DOI 10.1109/37.55119
+NR 10
+TC 141
+Z9 150
+U1 0
+U2 13
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0885-8969
+J9 IEEE T ENERGY CONVER
+JI IEEE Trans. Energy Convers.
+PD DEC 1991
+PY 1991
+VL 6
+IS 4
+BP 663
+EP 669
+DI 10.1109/60.103639
+PG 7
+WC Energy & Fuels; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Electric Motor Control (4.18.136)
+D3 1991-12-01
+GA GQ193
+UT WOS:A1991GQ19300013
+DA 2026-08-19
+ER
+
+PT J
+AU MASORY, O
+AF MASORY, O
+TI MONITORING MACHINING PROCESSES USING MULTISENSOR READINGS FUSED BY ARTIFICIAL NEURAL NETWORK
+SO JOURNAL OF MATERIALS PROCESSING TECHNOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 7TH INTERNATIONAL CONF ON COMPUTER-AIDED PRODUCTION ENGINEERING
+CY AUG 13-14, 1991
+CL COOKEVILLE, TN
+AB This paper proposes a tool wear model based on Artificial Neural Network which is used as Pattern Associator. As such, the network is trained to associate an input vector, consists of readings of several different sensors, with an output vector, consists of actual tool wear measurements, by a training process during which both vectors are presented to the network. During operation, the network is fed with the sensors' readings, it fuses this data and provides an estimate value for the wear according to the "model" established during the training. The estimation of tool wear obtained by this method is by far more accurate than other methods which use the same sensory inputs.In addition, a new process monitoring scheme by which Artificial Neural Network is used for: 1) Extract knowledge from an experienced operator; 2) Fuse sensory input; and 3) Accordingly monitor the process by varying process parameters, is presented.
+C1 [MASORY, O] FLORIDA ATLANTIC UNIV,DEPT MECH ENGN,BOCA RATON,FL 33431, USA
+C3 State University System of Florida; Florida Atlantic University
+RP MASORY, O (corresponding author), FLORIDA ATLANTIC UNIV,DEPT MECH ENGN,BOCA RATON,FL 33431, USA.
+NR 0
+TC 20
+Z9 23
+U1 0
+U2 2
+PU ELSEVIER SCIENCE SA LAUSANNE
+PI LAUSANNE 1
+PA PO BOX 564, 1001 LAUSANNE 1, SWITZERLAND
+SN 0924-0136
+J9 J MATER PROCESS TECH
+JI J. Mater. Process. Technol.
+PD SEP 1991
+PY 1991
+VL 28
+IS 1-2
+BP 231
+EP 240
+DI 10.1016/0924-0136(91)90033-B
+PG 10
+WC Engineering, Industrial; Engineering, Manufacturing; Materials Science, Multidisciplinary
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Materials Science
+TO Engineering & Materials Science (7); Precision Manufacturing (7.227); Advanced Machining (7.227.355)
+D3 1991-09-01
+GA GN966
+UT WOS:A1991GN96600024
+DA 2026-08-19
+ER
+
+PT J
+AU BUDDEFELD, J
+   GROSSPIETSCH, KE
+   HOSTICKA, BJ
+   KLINKE, R
+   WAGNER, G
+AF BUDDEFELD, J
+   GROSSPIETSCH, KE
+   HOSTICKA, BJ
+   KLINKE, R
+   WAGNER, G
+TI AN INTELLIGENT SENSOR INTEGRATED PREPROCESSING FACILITY FOR NEURAL NETWORKS
+SO MICROPROCESSING AND MICROPROGRAMMING
+LA English
+DT Article; Proceedings Paper
+CT 17TH EUROMICRO SYMP ON MICROPROCESSING AND MICROPROGRAMMING ( EUROMICRO 91 ) : HARDWARE AND SOFTWARE DESIGN AUTOMATION
+CY SEP 02-05, 1991
+CL VIENNA, AUSTRIA
+SP EUROMICRO; COMMISS EUROPEAN COMMUNITIES; ESPRIT BASIC RES; SIEMENS; AUSTRIAN FED MINIST SCI & RES; FED ECON CHAMBER AUSTRIA; ECON CHAMBER VIENNA; TECH UNIV VIENNA, INST DATA PROC; AUSTRIAN COMP SOC; UNIV LAS PALMAS, CTR APP MICROELECTR
+AB An innovative concept for parallel image sensing and preprocessing as an interface to artificial neural networks is presented: The architecture is based on a parallel preprocessor system, integrated sensor elements, and readout electronics on a single chip using CMOS wafer scale integration. The components of the system are shortly described. The application of the system is illustrated by the example of an image preprocessing algorithm.
+C1 FHG IMS,W-4100 DUISBURG,GERMANY; GESELLSCH MATH & DATENVERARBEITUNG MBH,W-5205 ST AUGUSTIN 1,GERMANY
+CR Gonzales, RafaelC., 1987, DIGITAL IMAGE PROCES, VSecond
+   GRAY PR, 1982, IEEEJ SOLID STATE CI, V17, P960
+   GROSSPIETSCH KE, 1990, ARCHITECTURE INTELLI, V3, P211
+   KIRKISH, SD, 1987, IEEE J SOLID-ST CIRC, V22, P299, DOI 10.1109/JSSC.1987.1052718
+   ONODERA, H, 1988, IEEE J SOLID-ST CIRC, V23, P152, DOI 10.1109/4.272
+   SCHWARZ M, 1990, 1ST P INT WORKSH MIC, P153
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0165-6074
+J9 MICROPROC MICROPROG
+JI Microprocess. Microprogr.
+PD AUG 1991
+PY 1991
+VL 32
+IS 1-5
+BP 335
+EP 341
+DI 10.1016/0165-6074(91)90367-3
+PG 7
+WC Computer Science, Hardware & Architecture
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Semiconductor Technology (4.138); Photon Detection and Imaging Sensors (4.138.1669)
+D3 1991-08-01
+GA GD708
+UT WOS:A1991GD70800055
+DA 2026-08-19
+ER
+
+PT J
+AU BARSCHDORFF, D
+   MONOSTORI, L
+AF BARSCHDORFF, D
+   MONOSTORI, L
+TI NEURAL NETWORKS - THEIR APPLICATIONS AND PERSPECTIVES IN INTELLIGENT MACHINING
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE CONTROL; MONITORING; DIAGNOSTICS; MACHINE TOOLS; MANUFACTURING PROCESSES; INTELLIGENT MACHINING; DIGITAL SIGNAL PROCESSING; PATTERN RECOGNITION; NEURAL NETWORKS; EXPERT SYSTEMS
+ID PATTERN-RECOGNITION; ABILITIES; SYSTEMS; CELLS
+AB In intelligent manufacturing systems, unprecedented and unforeseen situations are expected to be solved, within certain limits, even on the basis of incomplete and imprecise information. One has tried to achieve this goal since years. Gradually, it seems to be realizable through partial solutions, integrated in today's flexible manufacturing systems. These complexes are fairly complicated material and data processing systems, in which different sensors and actuators are thoroughly distributed. The most important requirements for the intelligent techniques to be applied in these systems are the abilities for integration of multiple sensor information, for real-time functioning, for effective knowledge representation and for learning or adaptivity. Artificial neural networks seem to be able to fulfil some of these requirements and to contribute to the implementation of partial solutions, which can lead to the realization of truly intelligent manufacturing systems. The paper gives a summary of known neural networks applications and perspectives in intelligent manufacturing. Special emphasis is given on intelligent machining, namely on the following fields: multisensor fusion and integration, learning of process models, adaptive control, monitoring, diagnostics and quality control. For the sake of perspicuity a short survey of different artificial neural network structures and learning algorithms is also given, together with frequent applications of neural network techniques in fields different from intelligent manufacturing.
+C1 UNIV GESAMTHSCH PADERBORN,W-4790 PADERBORN,GERMANY
+C3 University of Paderborn
+OI Monostori, Laszlo/0000-0001-8692-8640
+CR AHALT, SC, 1990, NEURAL NETWORKS, V3, P277, DOI 10.1016/0893-6080(90)90071-R
+   ALBUS J, 1975, T ASME G, V97
+   [Anonymous], 1988, DARPA NEURAL NETWORK
+   [Anonymous], 2019, IEEE ASSP MAGAZI APR, DOI DOI 10.1109/MASSP.1987.1165576
+   ARAI E, 1990, ANN CIRP, V39, P121
+   BARSCHDORFF, D, 1991, COMPUT IND, V17, P131, DOI 10.1016/0166-3615(91)90026-6
+   BARSCHDORFF D, 1990, SEP P IMACS ANN COMP
+   BARSCHDORFF D, P SCHALLTECHNIK 90, P23
+   BARSCHDORFF D, 1991, 4TH INT C NEUR NETW
+   BARSCHDORFF D, 1986, 4TH P IMEKO INT S TE
+   BARSCHDORFF D, 1990, TECHNISCHES MESSEN, V11, P437
+   BULLOCK, D, 1988, PSYCHOL REV, V95, P49, DOI 10.1037/0033-295X.95.1.49
+   CARPENTER, GA, 1987, COMPUT VISION GRAPH, V37, P54, DOI 10.1016/S0734-189X(87)80014-2
+   CARPENTER, GA, 1989, NEURAL NETWORKS, V2, P243, DOI 10.1016/0893-6080(89)90035-X
+   CARPENTER, GA, 1987, APPL OPTICS, V26, P4919, DOI 10.1364/AO.26.004919
+   Chryssolouris, G., 1990, Manufacturing Review, V3, P187
+   CHRYSSOLOURIS G, USE NEURAL NETWORKS, P1
+   CHRYSSOLOURIS G, 1987, 1987 P AM CONTR C MI, P152
+   CHRYSSOLOURIS G, 1988, NOV P WINT ANN M ASM, P115
+   CHRYSSOLOURIS G, 1988, NOV P WINT ANN M ASM
+   Dornfeld, D.A., 1990, Annals of the CIRP, V39, P101, DOI DOI 10.1016/S0007-8506(07)61012-9
+   DORNFELD DA, 1990, 3 CIRP INT C AUT SUP, P197
+   DORNFELD WH, 1977, 18TH INT MACH TOOL D, P837
+   Emel, E., 1986, Proceedings of the 14th North American Manufacturing Research Conference, SME, University of Minnesota, Minneapolis, P266
+   ERDELYI, F, 1986, COMPUT IND, V7, P65, DOI 10.1016/0166-3615(86)90010-2
+   FAMILI A, 1990, SEP CAN C EL COMP EN
+   GRIESHABER D, 1987, 15TH P NAMRC BETHL, P477
+   GROSSBERG, S, 1988, NEURAL NETWORKS, V1, P17, DOI 10.1016/0893-6080(88)90021-4
+   GROSSBERG, S, 1976, BIOL CYBERN, V23, P187
+   HATVANY J, 1985, 5TH P CONV NAT ENG A, P351
+   HEBB DO, 1949, ORG BEHAVIOR
+   HECHTNIELSEN, R, 1988, IEEE SPECTRUM, V25, P36, DOI 10.1109/6.4520
+   HOPFIELD, JJ, 1986, SCIENCE, V233, P625, DOI 10.1126/science.3755256
+   HOPFIELD, JJ, 1982, P NATL ACAD SCI-BIOL, V79, P2554, DOI 10.1073/pnas.79.8.2554
+   HUANG WY, 1987, NOV C NEUR INF PROC
+   ISERMANN, R, 1984, AUTOMATICA, V20, P387, DOI 10.1016/0005-1098(84)90098-0
+   KOHONEN, T, 1988, NEURAL NETWORKS, V1, P3, DOI 10.1016/0893-6080(88)90020-2
+   Kohonen, T., 1984, SELF ORG ASS MEMORY
+   LUNDHOLM T, 1990, THESIS ROYAL I TECHN
+   LUO, RC, 1989, IEEE T SYST MAN CYB, V19, P901, DOI 10.1109/21.44007
+   Matsushima, K, 1980, J FACULTY ENG U TOKY, V35, P299
+   McCulloch, Warren S., 1943, BULL MATH BIOPHYS, V5, P115, DOI 10.1007/BF02478259
+   MILLER, WT, 1987, IEEE J ROBOT AUTOM, V3, P157, DOI 10.1109/JRA.1987.1087081
+   Minsky, M., 1969, Perceptrons
+   MONOSTORI, L, 1990, COMPUT IND, V15, P95, DOI 10.1016/0166-3615(90)90087-6
+   MONOSTORI, L, 1986, COMPUT IND, V7, P53, DOI 10.1016/0166-3615(86)90009-6
+   Monostori, L., 1990, Measurement, V8, P98, DOI 10.1016/0263-2241(90)90046-9
+   MONOSTORI L, 1989, NEUTAL NETWORKS THEI
+   MONOSTORI L, 1990, 22ND CIRP INT SEM MA, PA6
+   MONOSTORI L, 1989, J CONDITION MONITORI, V3, P1
+   MONOSTORI L, 1989, 4TH INT C MAN SCI TE, P345
+   NACSA J, 1990, 3 P AC 90 CIRP INT C, P8
+   OSAKADA K, 1990, ANN CIRP, V39, P249
+   PAO YH, 1988, MANUFACTURING INT 88, P35
+   Parker, D. B., 1982, S8164 STANF U OFF TE
+   RANGWALA, SS, 1989, IEEE T SYST MAN CYB, V19, P299, DOI 10.1109/21.31035
+   ROSENBLATT, F, 1958, PSYCHOL REV, V65, P386, DOI 10.1037/h0042519
+   Rosenblatt, F., 1962, PRINCIPLES NEURODYNA
+   RUEFF M, 1990, MAR P INT C OPT SCI
+   Rummelhart, D.E., 1986, PARALLEL DISTRIBUTED
+   SATA T, 1973, ANN CIRP, V22, P41
+   SCHMUTZ M, 1990, WA2701241 IPA
+   SHIZABAKI H, 1989, 4TH INT C MAN SCI TE, P153
+   SOMLO J, 1981, 8TH P IFAC CONTR SCI, P2011
+   STEINBUCH, K, 1961, KYBERNETIK, V1, P36, DOI 10.1007/BF00293853
+   WECK M, 1984, APR VORTR BER VDI VD, P139
+   Werbos Werbos Werbos, P :. P :. P :., 1974, REGRESSION NEW TOOLS REGRESSION NEW TOOLS REGRESSION NEW TOOLS REGRESSION NEW TOOLS
+   Widrow, B., 1960, IRE WESCON Conv. Rec., P96, DOI DOI 10.21236/AD0241531
+   [Anonymous], [No title captured]
+NR 69
+TC 29
+Z9 30
+U1 0
+U2 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 101
+EP 119
+DI 10.1016/0166-3615(91)90024-4
+PG 19
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Engineering & Materials Science (7); Precision Manufacturing (7.227); Advanced Machining (7.227.355)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100003
+DA 2026-08-19
+ER
+
+PT J
+AU MADANI, K
+   GARDA, P
+   BELHAIRE, E
+   DEVOS, F
+AF MADANI, K
+   GARDA, P
+   BELHAIRE, E
+   DEVOS, F
+TI 2 ANALOG COUNTERS FOR NEURAL NETWORK IMPLEMENTATION
+SO IEEE JOURNAL OF SOLID-STATE CIRCUITS
+LA English
+DT Article; Proceedings Paper
+CT 16TH EUROPEAN SOLID-STATE CIRCUITS CONF ( ESSCIRC 90 )
+CY SEP 19-21, 1990
+CL GRENOBLE, FRANCE
+ID CIRCUITS
+AB Analog counters provide incrementation and decrementation operations while using analog storage. Therefore they are an attractive building block for the analog implementation of artificial neural network (ANN) learning algorithms. On the other hand, the mathematical analysis of the learning process of large networks requires a functional model of the analog cells they use. In this paper we first describe a simple charge-transfer-based analog counter. We give a functional model of its behavior, and we analyze the differences between this model and the counter implementation. We also present simulation results and the test of a prototype. Then, along the same lines, we study a switched-current-based counter, which achieves better results (dynamic range, linearity) through higher complexity.
+C1 [MADANI, K] UNIV PARIS 11,INST ELECTR FONDAMENTALE,CNRS,URA 22,F-91405 ORSAY,FRANCE
+C3 Universite Paris Saclay; Centre National de la Recherche Scientifique (CNRS)
+RP MADANI, K (corresponding author), UNIV PARIS 11,INST ELECTR FONDAMENTALE,CNRS,URA 22,F-91405 ORSAY,FRANCE.
+CR Alspector, J., 1987, Advanced Research in VLSI. Proceedings of the 1987 Stanford Conference, P313
+   [Anonymous], 1989, ANALOG VLSI NEURAL S
+   AZENCOTT R, 1990, ASI SERIES F, V68, P51
+   AZENCOTT R, 1990, JUN INT NEUR NETW C, P7
+   BELHAIRE E, 1990, JUN P ITG IEEE WORKS, P80
+   BELHAIRE E, 1991, IN PRESS JUN IEEE IN
+   EBERHARDT S, 1988, 22 AS C SIGN SYST CO, P649
+   GARDA P, 1990, VLSI ARTIFICIAL INTE
+   HINTON GE, 1985, P COGNITIVA 85 PARIS, P283
+   HOPFIELD, JJ, 1984, P NATL ACAD SCI-BIOL, V81, P3088, DOI 10.1073/pnas.81.10.3088
+   KREUZER I, 1988, SIGNAL PROCESS, V4, P327
+   LECUN Y, 1990, ASI SERIES F, V68, P303
+   LECUN Y, 1990, JUL P INT NEUR NETW, P651
+   LYON, RF, 1988, IEEE T ACOUST SPEECH, V36, P1119, DOI 10.1109/29.1639
+   MURRAY, AF, 1988, IEEE J SOLID-ST CIRC, V23, P688, DOI 10.1109/4.307
+   ROSETTO O, 1989, IEEE MICRO, V9, P56
+   RUCKERT U, 1990, 1ST P INT WORKSH MIC, P196
+   RYCKEBUSH S, 1989, OCT P JOURN EL LAUS, P303
+   SCHNEIDER C, 1990, VLSI AI NN
+   Sejnowski, T. J., 1987, Complex Systems, V1, P145
+   SIVILOTTI MA, 1986, P AIP C NEURAL NETWO, P408
+   SIVILOTTI MA, ADV RES VLSI, P295
+   TSIVIDIS, YP, 1987, IEEE J SOLID-ST CIRC, V22, P317, DOI 10.1109/JSSC.1987.1052727
+   TSIVIDIS YP, 1988, OPERATING MODELING M
+   VERLEYSEN M, 1990, 1ST P INT WORKSH MIC, P47
+   VITTOZ E, 1989, OCT JOURN EL LAUS, P291
+   VITTOZ E, 1989, OCT JOURN EL LAUS, P223
+   VITTOZ E, 1990, 1ST P INT WORKSH MIC, P69
+   Vittoz, E. A., 1989, ANALOG VLSI IMPLEMEN, P57
+   VITTOZ, EA, 1985, IEEE J SOLID-ST CIRC, V20, P657, DOI 10.1109/JSSC.1985.1052365
+   VITTOZ EA, 1985, DESIGN MOS VLSI CIRC, PCH5
+   WYATT JL, 1988, JUN P IEEE INT S CIR, P997
+   [Anonymous], 1989, ELDO USER INSTALLATI
+NR 33
+TC 5
+Z9 8
+U1 0
+U2 1
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9200
+J9 IEEE J SOLID-ST CIRC
+JI IEEE J. Solid-State Circuit
+PD JUL 1991
+PY 1991
+VL 26
+IS 7
+BP 966
+EP 974
+DI 10.1109/4.92016
+PG 9
+WC Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Mathematics (9); Dynamical Systems & Time Dependence (9.143); Global Exponential Stability (9.143.777)
+D3 1991-07-01
+GA FR502
+UT WOS:A1991FR50200010
+DA 2026-08-19
+ER
+
+PT J
+AU MIEL, G
+AF MIEL, G
+TI TRENDS IN SYSTOLIC AND CELLULAR COMPUTATION
+SO JOURNAL OF COMPUTATIONAL AND APPLIED MATHEMATICS
+LA English
+DT Article; Proceedings Paper
+CT INTERNATIONAL SYMP ON COMPUTATIONAL MATHEMATICS ( ISCM 90 )
+CY AUG 29-SEP 04, 1990
+CL MATSUYAMA, JAPAN
+SP MATH SOC JAPAN; EHIME UNIV
+DE PARALLEL COMPUTATIONAL LINEAR ALGEBRA; MESH ARRAY PROCESSORS; SYSTOLIC AND CELLULAR ALGORITHMS
+ID SINGULAR-VALUE DECOMPOSITION; ALGORITHM; ARRAYS
+AB A profile is given of current research, as it pertains to computational mathematics, on Very Large Scale Integration (VLSI) array processors. In this type of parallel computers, the cells of the array operate in Single Instruction Multiple Data (SIMD) mode and algorithms are executed in systolic or cellular fashion. The focus of the presentation is on linear algebraic techniques. A systolization process is illustrated by matching an arbitrary gaxpy operation onto a fixed-size square array processor. Two recent systolic methods, for solving systems of linear equations, one iterative and the other direct, are described. A cellular algorithm for a fast Fourier transform, based on a new implementation on rectangular array processors of the perfect shuffle permutation, is then derived. Using annotated lists of recent references, snapshots of active research areas are given on systolic linear solvers, the singular value decomposition, artificial neural networks, and the simulated annealing algorithm.
+C1 HUGHES RES LABS,MALIBU,CA 90265
+C3 HRL Laboratories
+CR Aarts, E., 1989, Simulated annealing and Boltzmann machines: a stochastic approach to combinatorial optimization and neural computing
+   ALMEIDA LB, 1990, LECTURE NOTES COMPUT
+   ANDREW HC, 1976, IEEE T ACOUST SPEECH, P26
+   [Anonymous], 1987, SIMULATED ANNEALING
+   AYALA IL, 1982, IEEE T PATTERN ANAL, P515
+   BATCHER KE, 1968, AFIPS P, V32, P307
+   BIGLIERI, E, 1989, SIGNAL PROCESS, V18, P277, DOI 10.1016/0165-1684(89)90039-X
+   BRENT, RP, 1985, SIAM J SCI STAT COMP, V6, P69, DOI 10.1137/0906007
+   BRENT RP, 1985, J VLSI COMPUTER SYST, V1, P243
+   CAPELLO PR, 1983, 1983 P INT C PAR PRO, P448
+   CAPELLO PR, 1984, ADV COMPUT RES, V2
+   CERNY, V, 1985, J OPTIMIZ THEORY APP, V45, P41, DOI 10.1007/BF00940812
+   Chuang, H. Y. H., 1985, 12th Annual International Symposium on Computer Architecture Conference Proceedings (Cat. No. 85CH2144-4), P315
+   COMON, P, 1990, P IEEE, V78, P1327, DOI 10.1109/5.58320
+   DEGROOT AJ, 1987, P SPIE REAL TIME SIG, V10, P86
+   DELOSME JM, 1986, P INT WORKSHOP SYSTO
+   DEPRETTERE E, 1988, SINGULAR VALUE DECOM
+   DEPRETTERE EF, 1987, P ISCAS
+   DONGARRA J, 1987, IEEE SPECTRUM    JUL, P38
+   DONGARRA JJ, 1987, 23 MATH COMP SCI DIV
+   ECKMILLER R, 1988, NATO ADV SCI I SER F
+   ETZION, T, 1986, SIAM J COMPUT, V15, P216, DOI 10.1137/0215015
+   EWERBRING, LM, 1989, J COMPUT APPL MATH, V27, P37, DOI 10.1016/0377-0427(89)90360-9
+   EWERBRING LM, 1988, SINGULAR VALUE DECOM, P407
+   FADDEEV DK, 1959, COMPUTATIONAL METHOD
+   GALLIVAN, KA, 1990, SIAM REV, V32, P54, DOI 10.1137/1032002
+   GENTLEMAN MW, 1981, P SPIE REAL TIME SIG, V4, P19
+   Golub, G. H., 1989, Matrix Computations
+   Gondran, M., 1984, GRAPHS ALGORITHMS
+   HAJEK B, 1985, 24TH P C DEC CONTR, P755
+   Herstein, I. N., 1975, TOPICS ALGEBRA
+   JAINANDUNSING K, 1986, P SPIE REAL TIME SIG, V9
+   JAINANDUNSING K, 1989, THESIS DELFT U TECHN
+   JAINANDUNSING K, 1988, COMPUT ARCHITECTURE, V16, P204
+   KINCAID DR, 1990, ITERATIVE METHODS LA
+   KIRKPATRICK S, 1982, IBM RC9355 IBM CORP
+   KOGGE, PM, 1973, IEEE T COMPUT, VC-22, P786, DOI 10.1109/TC.1973.5009159
+   Kung, H., 1979, SPARSE MATRIX P 1978, P256
+   Kung, S.Y., 1988, VLSI ARRAY PROCESSOR
+   KUNG, SY, 1989, J PARALLEL DISTR COM, V6, P358, DOI 10.1016/0743-7315(89)90065-8
+   KUNG, SY, 1983, J OPT SOC AM, V73, P1799, DOI 10.1364/JOSA.73.001799
+   KUNG SY, 1987, 26TH P IEEE C DEC CO
+   KUNG SY, 1986, 12TH P ANN AS C SIGN, P6
+   KUNG SY, 1988, VLSI MODERN SIGNAL P
+   LAARHOVEN PJ, 1988, THEORETICAL COMPUTAT
+   LEISERSON CE, 1983, 3RD P CALT C VLSI
+   LEISERSON CE, 1981, THESIS CARNEGIEMELLO
+   LEWIS PS, 1986, 12TH P ANN AS C SIGN
+   LING, N, 1989, J PARALLEL DISTR COM, V7, P368, DOI 10.1016/0743-7315(89)90026-9
+   LONSETH AT, 1949, P BERKELEY S MATH ST, P353
+   LUK, FT, 1985, J PARALLEL DISTR COM, V2, P250, DOI 10.1016/0743-7315(85)90027-9
+   LUK, FT, 1986, LINEAR ALGEBRA APPL, V77, P259, DOI 10.1016/0024-3795(86)90171-0
+   LUK FT, 1986, P SPIE, V614
+   MEGSON GM, IN PRESS IEEE T COMP
+   MIEL G, IN PRESS SURVEYS MAT
+   MIEL G, IN PRESS IEEE T COMP
+   MIEL G, 1990, 4TH P ANN PAR PROC S, P17
+   MOLDOVAN, DI, 1983, P IEEE, V71, P113, DOI 10.1109/PROC.1983.12532
+   MORENO J, 1990, COMPUTER         APR, P32
+   Moreno, J. H., 1988, Proceedings of the International Conference on Systolic Arrays (Cat. No.88CH2603-9), P125, DOI 10.1109/ARRAYS.1988.18053
+   NASH, JG, 1988, IEEE T COMPUT, V37, P129, DOI 10.1109/12.2142
+   NASH JG, 1984, P SPIE REAL TIME SIG, V7, P39
+   NASH JG, 1986, VLSI SIGNAL PROCESSI, V2, P306
+   NASH JG, 1986, P SPIE REAL TIME SIG, V9, P10
+   NASH JG, 1987, COMPUTER, P96
+   NAVARRO J, 1987, COMPUTER         JUL, P77
+   Ortega, J.M., 1988, INTRO PARALLEL VECTO
+   Otten, R., 1989, ANNEALING ALGORITHM
+   PEASE, MC, 1968, J ACM, V15, P252, DOI 10.1145/321450.321457
+   Przytula, K. W., 1989, Journal of VLSI Signal Processing, V1, P45, DOI 10.1007/BF00932065
+   PRZYTULA KW, 1990, P IEEE VLSI SIGNAL P
+   PRZYTULA KW, 1987, P SPIE S OPTICAL OPT
+   PRZYTULA KW, 1988, 21ST AS C SIGN SYST, V1, P736
+   Quinton, P., 1984, 11th Annual International Symposium on Computer Architecture. Conference Proceedings (Cat. No. 84CH2051-1), P208, DOI 10.1145/800015.808184
+   ROBERT I, 1986, ALGORITHMES ARCH SYS
+   Roychowdhury, V. P., 1988, Proceedings of the International Conference on Systolic Arrays (Cat. No.88CH2603-9), P237, DOI 10.1109/ARRAYS.1988.18064
+   SHAMS S, IN PRESS PARALLEL AL
+   SHIM YS, 1981, IEEE T ACOUST SPEECH, P904
+   Simpson, P.K., 1990, ARTIFICIAL NEURAL SY
+   SOUCEK B, 1989, 6TH GENERATION TECHN
+   SPEISER JM, 1983, P SPIE REAL TIME SIG, V6, P2
+   Stone, H.S., 1987, High-Performance Computer Architecture
+   Stone, H.S., 1980, Introduction to Computer Architecture
+   STONE, HS, 1971, IEEE T COMPUT, VC 20, P153, DOI 10.1109/T-C.1971.223205
+   YAO K, 1984, 22ND P ALL C COMM CO
+NR 85
+TC 2
+Z9 2
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0377-0427
+J9 J COMPUT APPL MATH
+JI J. Comput. Appl. Math.
+PD DEC 23 1991
+PY 1991
+VL 38
+IS 1-3
+BP 297
+EP 321
+DI 10.1016/0377-0427(91)90178-M
+PG 25
+WC Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics
+TO Mathematics (9); Numerical Methods & Optimization (9.207); Moore-Penrose Inverse (9.207.584)
+D3 1991-12-23
+GA GX448
+UT WOS:A1991GX44800023
+OA Bronze
+DA 2026-08-19
+ER
+
+PT J
+AU BARSCHDORFF, D
+   MONOSTORI, L
+   NDENGE, AF
+   WOSTENKUHLER, GW
+AF BARSCHDORFF, D
+   MONOSTORI, L
+   NDENGE, AF
+   WOSTENKUHLER, GW
+TI MULTIPROCESSOR SYSTEMS FOR CONNECTIONIST DIAGNOSIS OF TECHNICAL PROCESSES
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE MONITORING AND DIAGNOSTICS OF TECHNICAL PROCESSES AND SYSTEMS; PARALLEL PROCESSING; MULTIPROCESSOR SYSTEMS; APPLICATION OF DIGITAL SIGNAL PROCESSING; PATTERN RECOGNITION AND NEURAL NETWORKS
+ID NETWORKS; NODES
+AB The paper summarizes the requirements for a new family of monitoring and diagnostic systems, characterized among others by networking capability, high computing speed and adaptive learning ability. The diagnostic process is regarded as a pattern recognition procedure. Artificial neural networks (ANNs) or connectionist models and their pattern recognition abilities are illustrated. The back propagation technique as the most frequently used learning algorithm for multi-layered ANNs is outlined together with some acceleration methods. Neural network forms of traditional pattern recognition approaches are described. which usually mean a direct determination of the networks' parameters. The paper gives the first results of investigations comparing the learning and recognition performance of frequently used traditional pattern recognition techniques, back propagation networks and a network based on the condensed nearest-neighbour concept, developed at the University of Paderborn. Two "neuro monitoring and diagnostic systems" based on parallel processor structures and incorporating neural network techniques for learning and classification, being developed at the Institute for Electrical Measurement, University of Paderborn, are presented and compared in the paper.
+C1 UNIV GESAMTHSCH PADERBORN,W-4790 PADERBORN,GERMANY
+C3 University of Paderborn
+OI Monostori, Laszlo/0000-0001-8692-8640
+CR [Anonymous], 1988, DARPA NEURAL NETWORK
+   [Anonymous], JUN P INT JOINT C NE
+   [Anonymous], 2019, IEEE ASSP MAGAZI APR, DOI DOI 10.1109/MASSP.1987.1165576
+   BARSCHDORFF, D, 1986, COMPUT IND, V7, P23, DOI 10.1016/0166-3615(86)90006-0
+   BARSCHDORFF D, 1990, SEP P IMACS ANN COMP
+   BARSCHDORFF D, 1989, SEP P COMP CARD JER, P425
+   BARSCHDORFF D, 1991, IN PRESS 4TH INT NEU
+   BARSCHDORFF D, 1986, 4TH P IMEKO INT S TE
+   BARSCHDORFF D, 1990, SEP P ASST907 AACH S, P287
+   BARSCHDORFF D, 1991, 1ST WORKSH INT MAN S, V17, P101
+   BARSCHDORFF D, 1990, VDI813 TAG SCH BER, P23
+   BARTAL, P, 1988, ROBOT CIM-INT MANUF, V4, P465, DOI 10.1016/0736-5845(88)90018-X
+   CARPENTER, GA, 1987, APPL OPTICS, V26, P4919, DOI 10.1364/AO.26.004919
+   CERPENTER GA, 1989, NEURAL NETWORKS, V2, P243
+   HART PE, 1972, IEEE T INFORM THEORY, V18, P431
+   HOPFIELD, JJ, 1986, SCIENCE, V233, P625, DOI 10.1126/science.3755256
+   HUANG WY, 1987, NOV C NEUR INF PROC
+   ISERMANN, R, 1984, AUTOMATICA, V20, P387, DOI 10.1016/0005-1098(84)90098-0
+   KASAHARA, H, 1984, IEEE T COMPUT, V33, P1023, DOI 10.1109/TC.1984.1676376
+   KEGG RL, 1984, ANN CIRP, V33, P469
+   KOLMOGOROV, AN, 1957, DOKL AKAD NAUK SSSR+, V114, P953
+   Minsky, M., 1969, Perceptrons
+   MIRCHANDANI, G, 1989, IEEE T CIRCUITS SYST, V36, P661, DOI 10.1109/31.31313
+   MONOSTORI, L, 1986, COMPUT IND, V7, P53, DOI 10.1016/0166-3615(86)90009-6
+   Monostori, L., 1990, Measurement, V8, P98, DOI 10.1016/0263-2241(90)90046-9
+   MONOSTORI L, 1986, 4TH P IMEKO INT S TE
+   MONOSTORI L, 1989, CONDITION MONITORING, V3, P1
+   MONOSTORI L, 1990, 22ND CIRP INT SEM MA, PA6
+   MONOSTORI L, 1988, APR P MAN INT 88 S, V1, P277
+   MONOSTORI L, 1989, 4TH INT C MAN SCI TE, P345
+   Nilsson, N.J., 1965, LEARNING MACHINES
+   ROSENBLATT, F, 1958, PSYCHOL REV, V65, P386, DOI 10.1037/h0042519
+   Rummelhart, D.E., 1986, PARALLEL DISTRIBUTED
+   SPECHT, DF, 1990, NEURAL NETWORKS, V3, P109, DOI 10.1016/0893-6080(90)90049-Q
+   TANENBAUM AS, 1991, MINIX1 5 REFERENCE M
+   TANENBAUM AS, 1987, OPERATING SYSTEMS DE
+   VOLPER, DJ, 1990, NEURAL NETWORKS, V3, P93, DOI 10.1016/0893-6080(90)90048-P
+   WECK M, 1984, APR VORTR BER VDI VD, P139
+   WINTERS, JH, 1989, NEURAL NETWORKS, V2, P127, DOI 10.1016/0893-6080(89)90029-4
+   YAU, HC, 1990, NEURAL NETWORKS, V3, P437, DOI 10.1016/0893-6080(90)90026-H
+NR 40
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 131
+EP 145
+DI 10.1016/0166-3615(91)90026-6
+PG 15
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Artificial Intelligence & Machine Learning (4.61); Neural-Fuzzy Integration (4.61.493)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100005
+DA 2026-08-19
+ER
+
+PT J
+AU STJEPANOVIC, Z
+   JEZERNIK, A
+AF STJEPANOVIC, Z
+   JEZERNIK, A
+TI THE PREDICTION OF COTTON YARN PROPERTIES USING ARTIFICIAL-INTELLIGENCE
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE TEXTILE INDUSTRY; SPINNING TECHNOLOGY; COTTON YARNS; PROPERTIES PREDICTION; ARTIFICIAL INTELLIGENCE; MACHINE LEARNING
+AB The possibility of determining cotton yam properties using artificial intelligence techniques is studied. The advantages of this approach are presented. On the basis of experimental results the usage of machine learning and expert systems in the domain of spinning textile technology is estimated and suggestions for further research work are given.
+C1 UNIV MARIBOR,FAC TECH SCI,YU-62000 MARIBOR,YUGOSLAVIA
+C3 University of Maribor
+RI Stjepanovic, Zoran/I-7459-2019
+OI Stjepanovic, Zoran/0000-0002-2473-8849
+CR BRATKO I, 1986, INTERACTIONS ARTIFIC
+   CESTNIK B, 1987, PROGR MACHINE LEARNI
+   KONONENKO I, 1988, ASSISTANT PROFESSION
+   LUECHINGER H, 1990, INT TEXT B       JAN
+   PADMANABHAN AR, 1990, TEXT REJ J       JAN, P17
+   PEYER, 1987, FIBER FINENESS HIGH
+   ROZELLE WN, 1990, TEXT WORLD       NOV
+   SOLOVEV AN, 1958, PREDICTION YARN PROP
+   STJEPANOVIC Z, 1989, THESIS U MARIBOR MAR
+   USENKO VA, 1958, USE STAPLE FIBERS SP
+   ZEIDMAN MI, 1990, TEXT RES J       JAN, P1
+   Zurek, W, 1975, STRUCTURE YARN
+   [Anonymous], DOCUMENTATION SHORT
+NR 13
+TC 2
+Z9 2
+U1 0
+U2 17
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 217
+EP 223
+DI 10.1016/0166-3615(91)90034-7
+PG 7
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Artificial Intelligence & Machine Learning (4.61); Credit Risk Prediction (4.61.1820)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100013
+DA 2026-08-19
+ER
+
+PT J
+AU ERDELYI, F
+   TOTH, T
+AF ERDELYI, F
+   TOTH, T
+TI AI AND MACHINE LEARNING RESEARCH WITHIN THE FRAMEWORK OF A CIM PILOT SYSTEM
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE ARTIFICIAL INTELLIGENCE (AI); COMPUTER INTEGRATED MANUFACTURING (CIM) MACHINE LEARNING; PILOT SYSTEM; FLEXIBLE MANUFACTURING SYSTEM (FMS); CAD CAM; EDUCATION
+ID AUTOMATION; TOOLS
+AB This paper reviews the role of CIM in the education of a new generation of mechanical engineers. Accepting the increasing importance of computer aided engineering techniques, the structure and modules of a CIM Pilot System under development will be outlined. At present there are already some important fields of CIM where Al methods and Machine Learning can be considered as indispensable tools for development. A function scheme suitable for Machine Learning in the FMS/CIM Pilot System of the University of Miskolc will be described in detail.
+C1 UNIV MISKOLC,DEPT MACHINE TOOLS,H-3515 MISKOLC,HUNGARY; UNIV MISKOLC,INST INFORMAT TECHNOL,H-3515 MISKOLC,HUNGARY
+C3 University of Miskolc; University of Miskolc
+CR ERDELYI F, 1990, IMPLEMENTING CIM PIL
+   GROPPETTI R, 1988, 27TH P INT MATADOR C, P103
+   LU, SCY, 1990, COMPUT IND, V15, P105, DOI 10.1016/0166-3615(90)90088-7
+   MONOSTORI, L, 1990, COMPUT IND, V15, P95, DOI 10.1016/0166-3615(90)90087-6
+   SATA, T, 1990, COMPUT IND, V14, P139, DOI 10.1016/0166-3615(90)90114-5
+   SCHEER AW, 1987, CIM COMPUTERGESTEUER
+   WANG, HP, 1987, COMPUT IND, V8, P293, DOI 10.1016/0166-3615(87)90051-0
+   YEOMANS RW, 1985, DESIGN RULES CIM SYS
+   [Anonymous], 1988, NC CIM GUIDEBOOK FUN
+   [Anonymous], 1984, COMPUTERIZED MANUFAC
+   [Anonymous], 1988, KERNFORSCHUNGSZENTRU
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 237
+EP 245
+DI 10.1016/0166-3615(91)90036-9
+PG 9
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Clinical & Life Sciences (1); Neuroscanning (1.7); Category Learning (1.7.1591)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100015
+DA 2026-08-19
+ER
+
+PT J
+AU DOLSAK, B
+   JEZERNIK, A
+AF DOLSAK, B
+   JEZERNIK, A
+TI MESH GENERATION EXPERT SYSTEM FOR ENGINEERING ANALYSES WITH FEM
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE ARTIFICIAL INTELLIGENCE; EXPERT SYSTEM; MACHINE LEARNING; COMPUTER AIDED DESIGN; FINITE ELEMENT METHOD; FEM; STRESS ANALYSIS
+AB The finite element method is used extensively by engineers and modeling scientists to analyze deformations and stresses in physical structures. These structures are represented quantitatively as finite collections of elements. The displacement of each element is computed using algebraic equations. In order to design a numerical model of a physical structure it is necessary to decide the appropriate resolution for modeling each component part. Considerable expertise is required in choosing these resolution values. A too fine mesh leads to unnecessary computational overheads when executing the model. A too coarse mesh produces intolerable approximation errors. In this paper we demonstrate that rules for deciding on appropriate resolution values can be inductively constructed from expert provided examples. The Inductive Logic Programming algorithm Golem is employed for this purpose.
+C1 FAC TECH SCI MARIBOR,DEPT MECH,YU-62000 MARIBOR,YUGOSLAVIA
+RI /B-9217-2009
+CR DOLSAK B, 1991, IN PRESS APPLICATION
+   JEZERNIK A, 1989, DEFORMATION STRESS A
+   MUGGLETON S, 1990, 1ST P C ALG LEARN TH
+   MUGGLETON S, 1991, IN PRESS NEW GENERAT, V8
+   OBLAK M, 1986, DEFORMATION STRESS A
+   Zienkiewicz, O.C., 1988, The Finite Element Method, V1
+NR 6
+TC 4
+Z9 5
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 309
+EP 315
+DI 10.1016/0166-3615(91)90043-9
+PG 7
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Engineering & Materials Science (7); Precision Manufacturing (7.227); Advanced Machining (7.227.355)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100022
+DA 2026-08-19
+ER
+
+PT J
+AU MAJSTOROVIC, VD
+   MILACIC, VR
+AF MAJSTOROVIC, VD
+   MILACIC, VR
+TI LEARNING IN AN EXPERT SYSTEM FOR MAINTENANCE IN FLEXIBLE MANUFACTURING SYSTEMS
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE EXPERT SYSTEMS; INDUCTIVE LEARNING; MAINTENANCE; FLEXIBLE MANUFACTURING SYSTEMS
+AB The development of artificial intelligence and particularly of engineering knowledge were the basis for the building of expert systems developed at first for application in non-engineering disciplines (medicine, biology, geology). Later an approach was made towards their development and application in engineering. learning from earlier building philosophy. However, the limitations of this approach were established later, particularly in engineering design. Therefore fundamental research was undertaken for the building of expert systems in the domain of engineering design, and particularly in the following fields: the nature of engineering design knowledge, its organization and inference mechanisms. The present paper reviews initial research results in the building of the new generation of an expert system for maintenance, EXMAS, introducing machine learning and higher levels of knowledge acquisition and representation.
+C1 MECH ENGN FAC BEOGRAD,YU-11000 BELGRADE,YUGOSLAVIA
+CR [Anonymous], 1984, AUTOMATED REASONING
+   DEKLEER, J, 1984, ARTIF INTELL-AMST, V24, P7, DOI 10.1016/0004-3702(84)90037-7
+   Goldberg, DE., 1989, GENETIC ALGORITHMS
+   LU S, 1990, INTELLIGENT MANUFACT, V3
+   LU S, 1989, 3RD INT SUMM SEM INT
+   LU, SCY, 1990, COMPUT IND, V15, P105, DOI 10.1016/0166-3615(90)90088-7
+   MAJSTOROVIC V, 1988, THESIS MECH ENG FAC
+   MAJSTOROVIC V, 1980, INT S AUTOMATIZATION
+   MAJSTOROVIC VD, 1989, ANN CIRP, V38
+   MICHALSKI RS, 1984, MACHINE LEARNING
+   MILACIC V, 1989, MACHINE LEARNING EXP
+   MONOSTORI, L, 1986, COMPUT IND, V7, P53, DOI 10.1016/0166-3615(86)90009-6
+   SIMON H, 1984, WHY SHOULD MACHINES
+   STORR A, 1989, COMPUT IND, V15, P69
+   STORR A, 1989, INTELLIGENT MANUFACT, V3
+   Waterman, D., 1986, GUIDE EXPERT SYSTEMS
+   YOSHIKAWA H, 1989, INTELLIGENT CAD SYST
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 279
+EP 285
+DI 10.1016/0166-3615(91)90040-G
+PG 7
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Automation & Control Systems (4.29); Industrial Fault Detection (4.29.923)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100019
+DA 2026-08-19
+ER
+
+PT J
+AU BIELLI, M
+   AMBROSINO, G
+   BOERO, M
+   MASTRETTA, M
+AF BIELLI, M
+   AMBROSINO, G
+   BOERO, M
+   MASTRETTA, M
+TI ARTIFICIAL-INTELLIGENCE TECHNIQUES FOR URBAN TRAFFIC CONTROL
+SO TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR ON URBAN TRAFFIC NETWORKS : DYNAMIC CONTROL AND FLOW EQUILIBRIUM
+CY JUN 21-23, 1989
+CL CAPRI, ITALY
+SP NATL SCI FDN; ITALIAN CONSIGLIO NATL RIC
+AB This paper deals with the applications of artificial intelligence techniques to urban traffic control problems, with the aim of improving the performances of current signal plan selection systems. In particular, an architecture of an intelligent traffic control system is outlined with regards to the different levels of data collection, data analysis and interpretation, decision, and control. The functionalities of hybrid modules introduced are discussed and the artificial intelligence methods used are mentioned. Finally the ongoing research in the field is presented.
+C1 AUTOMA SCRL,I-16126 GENOA,ITALY
+RP BIELLI, M (corresponding author), CNR,IST ANAL SISTEMI & INFORMAT,VIALE MANZONI 30,I-00185 ROME,ITALY.
+OI Boero, Marco/0009-0009-6853-7465
+CR ALLPORT D, 1988, IEE C APPLICATION EX
+   BELL MC, 1988, IEE C APPLICATION EX, V9, P1
+   BLOSSEVILLE JM, 1989, 2ND IEE INT C ROAD T
+   Bobrow, D.G., 1985, Qualitative reasoning about physical systems, daniel g
+   BONSALL PW, 1986, INFORMATION TECHNOLO, P353
+   Chamiak, E., 1985, INTRO ARTIFICIAL INT
+   CHANG AT, 1989, 1ST INT C APPL ADV T
+   CHASE MJ, 1989, 1ST INT C APPL ADV T
+   CUENA J, 1989, 9TH INT WORKSH EXP S, P145
+   DICKINSON KW, 1983, TEC
+   FAGHRI A, 1989, 1ST INT C APPL ADV T
+   FILIPPI E, 1989, 2ND IEE INT C ROAD T
+   FORASTE B, 1987, 5TH COMP TECHN PAP I
+   HENDRICKSON CT, 1985, EXPERT SYSTEMS TRANS
+   *IEE, 1989, P 2ND INT C ROAD TRA
+   *IEE, 1988, P C APPL EXP SYST RO
+   JOHNSON WF, 1988, 2ND P WORKSH APPL AR
+   KAPLAN EW, 1987, EXPERT SYSTEMS TRANS
+   LAKSHMINARAYANA.NM, 1989, 1ST INT C APPL ADV T
+   LUO, RC, 1989, IEEE T SYST MAN CYB, V19, P901, DOI 10.1109/21.44007
+   RADWAN AE, 1989, 1ST INT C APPL ADV T
+   SHIMIZU K, 1989, 2ND INT C ROAD TRAFF
+   *U LEEDS ITS, 1987, PROV REP SERC WORKSH
+   *WA TRANSP RES BOA, 1990, P 69TH TRB ANN M WOR
+   YEH CI, 1986, TRR, P1076
+   [Anonymous], 1989, 1ST P INT C APPL ADV
+NR 26
+TC 11
+Z9 11
+U1 0
+U2 19
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0965-8564
+J9 TRANSPORT RES A-POL
+JI Transp. Res. Pt. A-Policy Pract.
+PD SEP 1991
+PY 1991
+VL 25
+IS 5
+BP 319
+EP 325
+DI 10.1016/0191-2607(91)90147-I
+PG 7
+WC Economics; Transportation; Transportation Science & Technology
+WE Conference Proceedings Citation Index - Social Science & Humanities (CPCI-SSH); Social Science Citation Index (SSCI); Science Citation Index Expanded (SCI-EXPANDED)
+SC Business & Economics; Transportation
+TO Electrical Engineering, Electronics & Computer Science (4); Artificial Intelligence & Machine Learning (4.61); Bayesian Networks (4.61.1460)
+D3 1991-09-01
+GA GK563
+UT WOS:A1991GK56300008
+DA 2026-08-19
+ER
+
+PT J
+AU SALO, A
+   HAMALAINEN, RP
+AF SALO, A
+   HAMALAINEN, RP
+TI DECISION SUPPORT IN ARTIFICIAL-INTELLIGENCE ENVIRONMENT
+SO LECTURE NOTES IN ECONOMICS AND MATHEMATICAL SYSTEMS
+LA English
+DT Article; Proceedings Paper
+CT INTERNATIONAL WORKSHOP ON MULTIPLE CRITERIA DECISION SUPPORT
+CY AUG 07-11, 1989
+CL HELSINKI, FINLAND
+SP INT INST APPL SYST ANAL; FDN ECON EDUC; MINIST EDUC FINLAND; JAHNSSON FDN; HELSINKI SCH ECON; FDN HELSINKI SCH ECON; KANSALLI OSAKE PANKKI; FINNAIR; SUOMEN SAASTOPANKKIOPISTO; CITY KARKKILA
+AB This paper discusses the potential of artificial intelligence technology in supporting decision making. Special attention is given to the early phases of decision making, particularly problem structuring. In this context the role of decision analytic methods is emphasized, since these methods have been developed to help the decision maker address problems with no evident structure. Finally a prototype system containing three decision analytic tools is described.
+C1 HELSINKI UNIV TECHNOL,SYST ANAL LAB,SF-02150 ESPOO,FINLAND
+C3 Aalto University
+RI Salo, Ahti/G-2412-2013
+OI Salo, Ahti/0000-0003-1526-7923
+CR FRY J, 1986, 19TH P ANN HAW INT C, P416
+   Golden, B.L., 1989, The analytic hierarchy process, V1st, P37, DOI DOI 10.1007/978-3-642-50244-6_3
+   HAMALAINEN RP, 1989, IN PRESS OCT P MULT
+   LEHNER, PE, 1985, IEEE T SYST MAN CYB, V15, P469, DOI 10.1109/TSMC.1985.6313412
+   LEINWEBER, D, 1988, IEEE EXPERT, V3, P18, DOI 10.1109/64.21887
+   PRACHT, WE, 1986, IEEE T SYST MAN CYB, V16, P265, DOI 10.1109/TSMC.1986.4308947
+   RAMAMOORTHY, CV, 1988, IEEE EXPERT, V3, P9, DOI 10.1109/64.21886
+   SALO A, 1989 P IEEE INT C SY, V1, P115
+   SMART, C, 1984, INFOR, V22, P141
+   Stefik, M., 1985, AI magazine, V6, P40, DOI 10.1609/aimag.v6i4.508
+   VONWINTERFLEDT D, 1986, DECISION ANAL BEHAV
+   Winston, P.H., 1984, Artificial intelligence
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SPRINGER VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010
+SN 0075-8442
+J9 LECT NOTES ECON MATH
+JI Lect. Notes Econ. Math. Syst.
+PD 1991
+PY 1991
+VL 356
+BP 183
+EP 190
+PG 8
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Conference Proceedings Citation Index - Social Science & Humanities (CPCI-SSH); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social Sciences
+TO Social Sciences (6); Operations Research & Management Science (6.294); Distributed Simulation (6.294.1808)
+D3 1991-01-01
+GA KP869
+UT WOS:A1991KP86900024
+DA 2026-08-19
+ER
+
+PT J
+AU WHITEHALL, BL
+   LU, SCY
+AF WHITEHALL, BL
+   LU, SCY
+TI MACHINE LEARNING IN ENGINEERING AUTOMATION - THE PRESENT AND THE FUTURE
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE MACHINE LEARNING; MACHINE LEARNING REQUIREMENTS; ENGINEERING AUTOMATION; INTELLIGENT ENGINEERING
+AB This paper describes how engineers can use machine learning techniques to improve their productivity. The current use of machine learning in engineering automation is described, and areas of future research are discussed. Machine learning programs are able to identify useful concepts from data. Recognizing relationships from the plethora of data enhances the knowledge an engineer can use for problem solving. In the future. machine learning programs will interact with existing computer tools to enhance productivity and to assist the engineer by suggesting ideas remembered from past problem solving sessions. Machine learning can increase the power of programs for engineering and can help the engineer learn about problems and domains.
+C1 UNIV ILLINOIS,DEPT MECH & IND ENGN,KNOWLEDGE BASED ENGN SYST RES LAB,URBANA,IL 61801; UNIV ILLINOIS,BECKMAN INST ADV SCI & TECHNOL,URBANA,IL 61801
+C3 University of Illinois System; University of Illinois Urbana-Champaign; University of Illinois System; University of Illinois Urbana-Champaign
+CR BARDASZ T, 1991, 1991 P NSF DES MAN S, P389
+   Carbonell, J, 1983, MACHINE LEARNING ART, V1, P3
+   CARBONELL JG, 1983, MACHINE LEARNING ART, V1, P137
+   Dejong, G., 1986, Machine Learning, V1, P145, DOI 10.1007/BF00114116
+   Dietterich, T., 1983, Machine Learning: An AI Approach, P41, DOI DOI 10.1007/978-3-662-12405-53
+   Falkenhainer, B. C., 1986, Machine Learning, V1, P367, DOI 10.1023/A:1022866732136
+   Fisher, D. H., 1987, Machine Learning, V2, P139, DOI 10.1007/BF00114265
+   HALL, RP, 1989, ARTIF INTELL-AMST, V39, P39, DOI 10.1016/0004-3702(89)90003-9
+   HOFF WA, 1983, UIUCDCSF83904 U ILL
+   Langley, P., 1987, Scientific Discovery: Computational Explorations of the Creative Processes, DOI DOI 10.7551/MITPRESS/6090.001.0001
+   LU SCY, 1991, J ENG IND        FEB
+   LU SCY, 1989, CIRP ANN, V39
+   Michalski, R.S., 1983, MACHINE LEARNING ART, P331
+   QUINLAN JR, 1990, MACH LEARN, V5
+   QUINLAN JR, 1986, MACH LEARN, V1
+   Rendell, L., 1986, Machine Learning, V1, P177, DOI 10.1007/BF00114117
+   Rumelhart, D.E., 1987, PARALLEL DISTRIBUTED, V1, P151
+   SEGRE AM, 1987, THESIS U ILLINOIS UR
+   Stepp, R.E., 1986, MACHINE LEARNING ART, VII, P471
+   STEPP RE, 1984, THESIS U ILLINOIS UR
+   TENG HS, 1990, 6TH P IEEE C ART INT
+   THOMAS M, 1986, MACH LEARN, V1, P47
+   WHITEHALL BL, 1991, INT J ARTIF INTELL E
+   WHITEHALL BL, UIUCDCSR901637
+   WHITEHALL BL, 1990, THESIS U ILLINOIS UR
+   [Anonymous], [No title captured]
+NR 26
+TC 4
+Z9 5
+U1 0
+U2 30
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 91
+EP 100
+DI 10.1016/0166-3615(91)90023-3
+PG 10
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Clinical & Life Sciences (1); Neuroscanning (1.7); Category Learning (1.7.1591)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100002
+DA 2026-08-19
+ER
+
+PT J
+AU KELSEY, MC
+AF KELSEY, MC
+TI INTELLIGENT SYSTEMS - HOW CAN THEY HELP
+SO JOURNAL OF HOSPITAL INFECTION
+LA English
+DT Article; Proceedings Paper
+CT 2ND INTERNATIONAL CONF OF THE HOSPITAL INFECTION SOC - HOSPITAL INFECTION : TOWARDS THE YEAR 2000
+CY SEP 02-06, 1990
+CL LONDON, ENGLAND
+SP HOSP INFECT SOC
+DE EXPERT SYSTEMS; ARTIFICIAL INTELLIGENCE; COMPUTERS; MICROBIOLOGY; HOSPITAL INFECTION
+ID EXPERT SYSTEMS; DIAGNOSIS
+C1 [KELSEY, MC] WHITTINGTON HOSP,DEPT MICROBIOL,LONDON N19 5NF,ENGLAND
+C3 University of London; University College London
+RP KELSEY, MC (corresponding author), WHITTINGTON HOSP,DEPT MICROBIOL,LONDON N19 5NF,ENGLAND.
+CR CANNATACI, JA, 1989, MED INFORM, V14, P229, DOI 10.3109/14639238908994999
+   CARROLL, B, 1987, BEHAV SCI, V32, P274, DOI 10.1002/bs.3830320404
+   ENGLE, RL, 1987, B NEW YORK ACAD MED, V63, P193
+   FEIGENBAUM EA, 1984, 5TH GENERATION, P351
+   FOLEY D, 1988, SCI AM, V1, P62
+   HODGES A, 1983, A TURING ENIGMA
+   JACKSON P, 1990, INTRO EXPERT SYSTEMS, P15
+   Searle, J. R., 1990, Scientific American, V262, P20, DOI 10.1038/scientificamerican0190-26
+   Weiss, S.M., 1984, A practical guide to designing expert systems, P1
+   [Anonymous], 1990, ECONOMIST       0616, P5
+NR 10
+TC 4
+Z9 4
+U1 0
+U2 0
+PU W B SAUNDERS CO LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON, ENGLAND NW1 7DX
+SN 0195-6701
+J9 J HOSP INFECT
+JI J. Hosp. Infect.
+PD JUN 1991
+PY 1991
+VL 18
+SU A
+BP 418
+EP 423
+DI 10.1016/0195-6701(91)90051-9
+PG 6
+WC Public, Environmental & Occupational Health; Infectious Diseases
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; Infectious Diseases
+TO Clinical & Life Sciences (1); Nursing (1.14); Electronic Health Records (1.14.703)
+D3 1991-06-01
+GA FV860
+PM 1679810
+UT WOS:A1991FV86000050
+DA 2026-08-19
+ER
+
+PT J
+AU JUNKAR, M
+   FILIPIC, B
+   BRATKO, I
+AF JUNKAR, M
+   FILIPIC, B
+   BRATKO, I
+TI IDENTIFYING THE GRINDING PROCESS BY MEANS OF INDUCTIVE MACHINE LEARNING
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE PROCESS CONTROL; GRINDING; VIBRATION SIGNALS; MACHINE LEARNING; KNOWLEDGE ACQUISITION
+AB Grinding is one of the most complex and unpredictable metal-working processes. Although the results of recent research clarify the underlying physical and chemical phenomena to a certain extent, the prediction of the process evolution remains hard. Employing the machine learning methodology, we have explored the identification of plunge grinding via vibration signals generated by the grinding wheel and the workpiece. A two-stage experiment has been carried out, comprising (1) grinding, signal detection, extraction of spectral attributes and assessment of performance classes, and (2) learning the process evolution from the extracted data. Within the learning stage, a decision tree has been synthesized, predicting the grinding wheel performance from the attribute values. Two important aspects of the machine learning approach to the grinding process identification have been demonstrated by the experiment. First, the synthesized knowledge enables new insight in the problem domain, and second, it provides a ground for an efficient control algorithm.
+C1 FAC MECH ENGN LJUBLJANA,LJUBLJANA,YUGOSLAVIA; JOZEF STEFAN INST,LJUBLJANA,YUGOSLAVIA; FAC ELECT ENGN & COMP SCI LJUBLJANA,LJUBLJANA,YUGOSLAVIA
+C3 Slovenian Academy of Sciences & Arts (SASA); Jozef Stefan Institute
+CR BARTAL, P, 1988, ROBOT CIM-INT MANUF, V4, P465, DOI 10.1016/0736-5845(88)90018-X
+   BRATKO I, 1989, HUMAN MACHINE PROBLE
+   CESTNIK B, 1987, PROGR MACHINE LEARNI
+   CRNICKI J, 1990, P C PETROLEUM EXPLOR
+   Inasaki, I., 1985, CIRP Annals - Manufacturing Technology, V34, P277, DOI DOI 10.1016/S0007-8506(07)61772-7
+   JUNKAR M, 1989, 8TH P IASTED INT C M, P88
+   KEGG RL, 1983, ANN CIRP, V32, P559
+   KEGG RL, 1984, ANN CIRP, V33, P469
+   KONONENKO I, 1988, ASSISTANT PROFESSION
+   Lavrac, N., 1986, 6th International Workshop on Expert Systems and their Applications, P727
+   LEE, M, 1987, J MATER SCI, V22, P3821, DOI 10.1007/BF01133328
+   MIYOSHI, T, 1980, B JPN SOC PREC ENG, V14, P123
+   OLAVE, M, 1988, OMEGA-INT J MANAGE S, V16, P353, DOI 10.1016/0305-0483(88)90072-2
+   PEKLENIK J, 1984, 1ST INT C MAN SCI TE
+   PETRS J, 1984, ANN CIRP, V33, P451
+   Quinlan, J. R., 1986, Machine Learning, V1, P81, DOI 10.1023/A:1022643204877
+   Tonshoff, HK., 1988, CIRP Annals-Manufacturing Technology, V37, P611
+NR 17
+TC 8
+Z9 8
+U1 0
+U2 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 147
+EP 153
+DI 10.1016/0166-3615(91)90027-7
+PG 7
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Engineering & Materials Science (7); Precision Manufacturing (7.227); Advanced Machining (7.227.355)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100006
+DA 2026-08-19
+ER
+
+PT J
+AU BIJOCH, RW
+   HARRIS, SH
+   VOLKMANN, TL
+   BANN, JJ
+   WOLLENBERG, BF
+AF BIJOCH, RW
+   HARRIS, SH
+   VOLKMANN, TL
+   BANN, JJ
+   WOLLENBERG, BF
+TI DEVELOPMENT AND IMPLEMENTATION OF THE NSP INTELLIGENT ALARM PROCESSOR
+SO IEEE TRANSACTIONS ON POWER SYSTEMS
+LA English
+DT Article; Proceedings Paper
+CT 1990 SUMMER MEETING OF THE POWER ENGINEERING SOC OF THE IEEE
+CY JUL 15-19, 1990
+CL MINNEAPOLIS, MN
+SP IEEE, POWER ENGN SOC
+DE ALARM PROCESSING; EXPERT SYSTEMS; ARTIFICIAL INTELLIGENCE; ENERGY MANAGEMENT SYSTEMS; EXTERNAL PROCESSORS
+AB The NSP Intelligent Alarm Processor has been in operation for four months. The operators have already begun to ask for additional functions that can make their task easier. This paper reviews the design tradeoffs, the hardware and software solutions to the implementation and the testing and performance of the IAP.
+C1 EMPROS SYST INT,PLYMOUTH,MN; UNIV MINNESOTA,ELECT ENGN,MINNEAPOLIS,MN 55455
+C3 University of Minnesota System; University of Minnesota Twin Cities
+RP BIJOCH, RW (corresponding author), NORTHERN STATES POWER CO,MINNEAPOLIS,MN, USA.
+CR BIJOCH RW, 1985, OCT P MINN POW SYST
+   BIJOCH RW, 1989, 2 S EXP SYST APPL PO, P79
+   DELPOZO S, 1988, AUG P EXP SYST APPL, P4
+   Harmon, P., 1985, EXPERT SYSTEMS ARTIF
+   INOUE N, 1989, 2ND P S EXP SYST APP, P89
+   PRINCE, WR, 1989, IEEE T POWER SYST, V4, P950, DOI 10.1109/59.32584
+   SHOOP AH, 1989, 2ND P S EXP SYST APP, P84
+   TESCH DB, 1989, NOV IEEE T POW SYST
+   TOMSOVIC K, 1987, IEEE T POWER DEL JUL, P400
+   WOLLENBERG, BF, 1986, IEEE T POWER SYST, V1, P241, DOI 10.1109/TPWRS.1986.4334937
+NR 10
+TC 18
+Z9 20
+U1 0
+U2 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0885-8950
+J9 IEEE T POWER SYST
+JI IEEE Trans. Power Syst.
+PD MAY 1991
+PY 1991
+VL 6
+IS 2
+BP 806
+EP 812
+DI 10.1109/59.76729
+PG 7
+WC Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Fault Detection (4.18.1055)
+D3 1991-05-01
+GA FE859
+UT WOS:A1991FE85900047
+DA 2026-08-19
+ER
+
+PT J
+AU PAPP, Z
+AF PAPP, Z
+TI SCHEDULER ARCHITECTURE FOR KNOWLEDGE BASED MEASURING SYSTEMS
+SO MICROPROCESSING AND MICROPROGRAMMING
+LA English
+DT Article; Proceedings Paper
+CT EUROMICRO 90 CONF
+CY AUG 27-30, 1990
+CL AMSTERDAM, NETHERLANDS
+AB Extending the capabilities of computerized measuring systems from mere data processing toward intelligent behaviour claims intensive application of knowledge based and other artificial intelligence originated algorithms. The paper presents a scheduler architecture, which provides a framework for integrating knowledge based and traditional data processing algorithms under real - time operating conditions. For keeping the scheduling task computionally tractable the scheduler extensively uses heuristic approach.
+C1 [PAPP, Z] TECH UNIV BUDAPEST,DEPT MEASUREMENT & INSTRUMENT ENGN,H-1521 BUDAPEST,HUNGARY
+C3 Budapest University of Technology & Economics
+RP PAPP, Z (corresponding author), TECH UNIV BUDAPEST,DEPT MEASUREMENT & INSTRUMENT ENGN,H-1521 BUDAPEST,HUNGARY.
+CR CHETTO H, 1989, IEEE T SE, V15
+   COBELLI R, 1989, MICROPROC MICROPROG, V28
+   CRUISE A, 1987, 4TH P IEEE C AI APPL
+   DERTOUZOS MJ, 1989, IEEE T SE, V15
+   GHALLAB M, 1988, P IEEE INT WORKSH AI
+   LISKOV B, 1988, COMM ACM, V31
+   PAPP Z, 1989, AI MANUFACTURING
+   PAPP Z, 1990, IN PRESS INT IMEKO S
+   RAMAMRITHAM K, 1984, IEEE SOFTWARE    JUL
+   SACHS PA, 1986, ESCORT EXPERT SYSTEM, V3
+   SILVERMAN BG, 1989, IEEE SMC, V19
+   SMITH R, 1980, IEEE T C, V29
+   STANKOVIC J, 1989, IEEE T C, V38
+   SZTIPANOVITS J, 1984, 1ST P IEEE C AI APPL
+   TANO S, 1988, P IEEE INT WORKSHOP
+   WIRTH N, 1977, COMM ACM, V20
+   WRIGHT ML, 1986, IEEE SOFTWARE    MAR
+   XU J, 1990, IEEE T SE, V16
+   YANG JD, 1985, IEEE T SMC, V15
+   ZHAO W, 1987, IEEE T SE, V13
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0165-6074
+J9 MICROPROC MICROPROG
+JI Microprocess. Microprogr.
+PD APR 1991
+PY 1991
+VL 31
+IS 1-5
+BP 3
+EP 8
+DI 10.1016/S0165-6074(08)80034-8
+PG 6
+WC Computer Science, Hardware & Architecture
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+D3 1991-04-01
+GA FL701
+UT WOS:A1991FL70100002
+DA 2026-08-19
+ER
+
+PT J
+AU QUINTRAND, P
+   ZOLLER, J
+   DEFILIPPO, R
+   FAURE, S
+AF QUINTRAND, P
+   ZOLLER, J
+   DEFILIPPO, R
+   FAURE, S
+TI A MODEL FOR THE REPRESENTATION OF URBAN KNOWLEDGE
+SO ENVIRONMENT AND PLANNING B-PLANNING & DESIGN
+LA English
+DT Article; Proceedings Paper
+CT MEETING ON MANAGEMENT AND REPRESENTATION OF URBAN CHANGE
+CY SEP, 1988
+CL QUEENS COLL, CAMBRIDGE, ENGLAND
+SP OPEN UNIV
+HO QUEENS COLL
+AB A project developed at the GAMSAU laboratory, Marseille-Luminy School of Architecture, aimed at the creation of a prototype system for urban simulation using artificial intelligence and computer graphics techniques is described. The project is developed in Smalltalk-80. The prototype presented gives an indication of what is envisaged for the complete system, which will comprise a database of urban knowledge and a computer graphics visualisation module.
+C1 [QUINTRAND, P] ECOLE ARCHITECTURE MARSEILLE LUMINY,LAB GAMSAU,CNRS,F-13288 MARSEILLE 9,FRANCE
+C3 Aix-Marseille Universite; Centre National de la Recherche Scientifique (CNRS)
+RP QUINTRAND, P (corresponding author), ECOLE ARCHITECTURE MARSEILLE LUMINY,LAB GAMSAU,CNRS,F-13288 MARSEILLE 9,FRANCE.
+CR AUTRAN, J, 1991, ENVIRON PLANN B, V18, P99, DOI 10.1068/b180099
+   AUTRAN J, 1989, GESTION TECHNIQUE PA
+   EGELS, Y, 1991, ENVIRON PLANN B, V18, P19, DOI 10.1068/b180019
+   EGELS Y, 1987, C RENCONTRES INT GES, P39
+   FLORENZANO M, 1989, GESTIONNAIRE SCENE
+   GRAFF P, 1987, C RENCONTRES INT GES, P47
+   PENEAU JP, 1987, C RENCONTRES INT GES, P93
+   QUINTRAND P, 1988, CONCEPTION SYSTEME I
+   QUINTRAND P, 1989, APR C AREC DAO89 BAR, P59
+NR 9
+TC 2
+Z9 2
+U1 0
+U2 1
+PU PION LTD
+PI LONDON
+PA 207 BRONDESBURY PARK, LONDON, ENGLAND NW2 5JN
+SN 0265-8135
+J9 ENVIRON PLANN B
+JI Environ. Plan. B-Plan. Des.
+PD JAN 1991
+PY 1991
+VL 18
+IS 1
+BP 71
+EP &
+DI 10.1068/b180071
+PG 0
+WC Environmental Studies
+WE Conference Proceedings Citation Index - Social Science & Humanities (CPCI-SSH); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology
+TO Electrical Engineering, Electronics & Computer Science (4); Design & Manufacturing (4.224); Digital Construction (4.224.599)
+D3 1991-01-01
+GA FH550
+UT WOS:A1991FH55000010
+DA 2026-08-19
+ER
+
+PT J
+AU PUN, L
+   ARCHIMEDE, B
+   BERARD, C
+   DOUMEINGTS, G
+AF PUN, L
+   ARCHIMEDE, B
+   BERARD, C
+   DOUMEINGTS, G
+TI INTELLIGENT LEARNING-AID FOR AN INTELLIGENT FMS-MONITORING PROCESS
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE FMS MONITORING; LEARNING PROCESS; ARTIFICIAL INTELLIGENCE
+ID PRODUCTION MANAGEMENT-SYSTEMS
+AB In this paper two correlated intelligent processes are presented: an intelligent FMS-monitoring process, which is to be used by a human monitoring operator to manage FMS planning and control, and an intelligent learning-aid process to help the monitor to learn and to improve his skill in monitoring. The paper consists of three parts: (a) clarification of the meaning of an intelligent process, since its double utilization in this paper may appear pretentious and ambiguous; (b) the intelligent FMS-monitoring process; (c) the intelligent learning-aid process.
+C1 UNIV BORDEAUX 1,GRAI LAB,F-33405 TALENCE,FRANCE
+C3 Universite de Bordeaux
+CR ARCHIMEDE B, 1991, THESIS U BORDEAUX 1
+   BEL G, 1988, RAIRO APII, V22
+   Browne, J., 1988, Production management systems: a CIM perspective
+   DALLERY Y, 1984, THESIS I NATIONAL PO
+   ELIYAHU M, 1984, EXCELLENCE MANUFACTU
+   LEGALL A, 1989, THESIS U P SABATIER
+   PUN, L, 1990, COMPUT IND, V15, P7, DOI 10.1016/0166-3615(90)90081-Y
+   PUN, L, 1990, COMPUT IND, V14, P149, DOI 10.1016/0166-3615(90)90116-7
+   Pun, L., 1988, Annals of Operations Research, V16, P81, DOI 10.1007/BF02283737
+   PUN L, 1984, SYSTEMES IND INTELLI
+   PUN L, 1989, OCT C ARESAD
+   ZHAO X, 1989, THESIS U VALENCIENNE
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 225
+EP 235
+DI 10.1016/0166-3615(91)90035-8
+PG 11
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Design & Manufacturing (4.224); Smart Manufacturing (4.224.1040)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100014
+DA 2026-08-19
+ER
+
+PT J
+AU TUNALI, S
+   ORHUN, E
+AF TUNALI, S
+   ORHUN, E
+TI A PROTOTYPE RULE-BASED SYSTEM TO SCHEDULE PRODUCTION FOR A JOB-SHOP
+SO MICROPROCESSING AND MICROPROGRAMMING
+LA English
+DT Article; Proceedings Paper
+CT EUROMICRO 90 CONF
+CY AUG 27-30, 1990
+CL AMSTERDAM, NETHERLANDS
+AB This paper presents an application of artificial intelligence programming methods to the problem of scheduling in a prototype job-shop. A rule-based approach has been adopted to develop a three-level hierarchical decision structure within the system. The rules representing various objects and behavioral relations among these objects were coded in PROLOG. The system can be used in two ways: 1) to predict shop behavior through handling resource allocation, sequencing and scheduling decisions, 2) to enable to modify the current schedule based on up-to-date information such as unexpected machine breakdown.
+C1 AEGEAN UNIV,DEPT COMP ENGN,BORNOVA,TURKEY
+C3 Ege University
+RP TUNALI, S (corresponding author), DOKUZ EYLUL UNIV,DEPT IND ENGN,BORNOVA,TURKEY.
+CR Baker, K.R., 1974, INTRO SEQUENCING SCH
+   BENARIEH D, 1985, THESIS PURDUE U
+   BENSANA E, 1986, IEEE INT C ROBOTICS
+   BLACKSTONE HJ, 1982, J PROD RES, V20, P27
+   BOURNE DA, 1984, IEEE COMPUTER    SEP
+   BROWNE, J, 1984, INT J PROD RES, V22, P335, DOI 10.1080/00207548408942458
+   BRUNO G, 1986, IEEE COMPUTER    JUL
+   CANZI, U, 1989, SECOND INTERNATIONAL CONFERENCE ON DATA AND KNOWLEDGE SYSTEMS FOR MANUFACTURING AND ENGINEERING, P76, DOI 10.1109/DKSME.1989.107444
+   Clocksin, W.F., 1981, PROGRAMMING PROLOG
+   CLOCKSIN WF, 1980, INTRO PROLOG ARTIFIC
+   ERSCHLER J, 1986, IEEE INT C ROBOTICS
+   FOX MS, 1984, ISIS KNOWLEDGE BASED, V1, P25
+   FOX MS, 1986, THESIS CARNEGIEMELLO
+   GRANT, TJ, 1986, J OPER RES SOC, V37, P41, DOI 10.1057/jors.1986.7
+   HAYESROTH F, 1984, IEEE COMPUT, V17, P11
+   KUSIAK A, 1988, ARTIF INTELL, P148
+   NUSSBAUM M, 1989, 4TH P INT C APPL ART
+   Panwalkar, S., 1977, OPERATIONS RES, V25
+   Rich, E., 1983, ARTIF INTELL
+   ROBBINS JH, 1985, PEPS PROTOTYPE EXPER
+   SCHILDT H, 1987, ADV TURBO PROLOG
+   SLAHOR L, 1989, JUN P EUR SIM MULT R
+   SMITH SF, 1986, AI MAGAZINE      FAL
+   STEFFEN SM, 1986, INT IND ENG C P, P425
+NR 24
+TC 1
+Z9 2
+U1 0
+U2 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0165-6074
+J9 MICROPROC MICROPROG
+JI Microprocess. Microprogr.
+PD APR 1991
+PY 1991
+VL 31
+IS 1-5
+BP 19
+EP 24
+DI 10.1016/S0165-6074(08)80037-3
+PG 6
+WC Computer Science, Hardware & Architecture
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Supply Chain & Logistics (4.84); Manufacturing Scheduling (4.84.401)
+D3 1991-04-01
+GA FL701
+UT WOS:A1991FL70100005
+DA 2026-08-19
+ER
+
+PT J
+AU WU, TD
+AF WU, TD
+TI A PROBLEM DECOMPOSITION METHOD FOR EFFICIENT DIAGNOSIS AND INTERPRETATION OF MULTIPLE DISORDERS
+SO COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+LA English
+DT Article; Proceedings Paper
+CT 14TH ANNUAL SYMP ON COMPUTER APPLICATIONS IN MEDICAL CARE ( SCAMC )
+CY 1990
+CL WASHINGTON, DC
+SP AMER MED INFORMAT ASSOC
+DE COMPUTER-ASSISTED DIAGNOSIS; DIAGNOSTIC ALGORITHM; MEDICAL DIAGNOSIS; ARTIFICIAL INTELLIGENCE; KNOWLEDGE-BASED SYSTEM; SYMPTOM INTERPRETATION
+ID PROBABILISTIC CAUSAL MODEL
+AB Diagnosis of multiple disorders can be made more efficient by reasoning explicitly about problem decompositions. A diagnostic problem can be decomposed by hypothesizing about common and disjoint cause relationships among the given symptoms. The resulting structure exploits computational principles of causal intersection, subproblem independence, and minimal factorability to increase efficiency. By assigning structure to a problem, the symptom decomposition approach offers a new type of decision-support task called symptom interpretation. Experimental results indicate that symptom decomposition yields substantial increases in performance compared to existing , methods for multidisorder diagnosis.
+C1 [WU, TD] MIT,COMP SCI LAB,CAMBRIDGE,MA 02139, USA
+C3 Massachusetts Institute of Technology (MIT)
+RP WU, TD (corresponding author), MIT,COMP SCI LAB,CAMBRIDGE,MA 02139, USA.
+FU National Institute of General Medical Sciences [T32GM007753] Funding Source: NIH RePORTER; NIGMS NIH HHS [T32 GM007753, T32 GM07753] Funding Source: Medline; NLM NIH HHS [R01 LM04493] Funding Source: Medline
+CR DEKLEER, J, 1987, ARTIF INTELL-AMST, V32, P97, DOI 10.1016/0004-3702(87)90063-4
+   GORRY G A, 1968, Mathematical Biosciences, V2, P293, DOI 10.1016/0025-5564(68)90022-9
+   MILLER, RA, 1982, NEW ENGL J MED, V307, P468, DOI 10.1056/NEJM198208193070803
+   MILLER, RA, 1986, WESTERN J MED, V145, P816
+   PATIL RS, 1981, 7TH P INT JOINT C AR, P839
+   PENG, Y, 1987, IEEE T SYST MAN CYB, V17, P146, DOI 10.1109/TSMC.1987.4309027
+   PENG, Y, 1987, IEEE T SYST MAN CYB, V17, P395, DOI 10.1109/TSMC.1987.4309056
+   Petersdorf, R.G., 1983, Harrison's Principles of Internal Medicine, VTenth
+   Pople, H.E., 1982, Artificial intelligence in medicine, P119
+   REGGIA, JA, 1983, INT J MAN MACH STUD, V19, P437, DOI 10.1016/S0020-7373(83)80065-0
+   REITER, R, 1987, ARTIF INTELL-AMST, V32, P57, DOI 10.1016/0004-3702(87)90062-2
+   SIMON, HA, 1973, ARTIF INTELL-AMST, V4, P181, DOI 10.1016/0004-3702(73)90011-8
+   SWARTOUT WR, 1981, 7TH P INT JOINT C AR, P815
+   WU TD, THESIS MIT
+   WU TD, 1989, 13TH P S COMP APPL M, P45
+   WU TD, 1991, IN PRESS UNCERTAINTY, V6
+   WU TD, 1990, 9TH P NAT C ART INT, P855
+   WU TD, 1990, 8TH P NAT C ART INT, P357
+NR 18
+TC 19
+Z9 20
+U1 0
+U2 0
+PU ELSEVIER SCI IRELAND LTD
+PI CLARE
+PA CUSTOMER RELATIONS MANAGER, BAY 15, SHANNON INDUSTRIAL ESTATE CO, CLARE, IRELAND
+SN 0169-2607
+J9 COMPUT METH PROG BIO
+JI Comput. Meth. Programs Biomed.
+PD AUG 1991
+PY 1991
+VL 35
+IS 4
+BP 239
+EP 250
+DI 10.1016/0169-2607(91)90002-B
+PG 12
+WC Computer Science, Interdisciplinary Applications; Computer Science, Theory & Methods; Engineering, Biomedical; Medical Informatics
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Engineering; Medical Informatics
+TO Electrical Engineering, Electronics & Computer Science (4); Automation & Control Systems (4.29); Industrial Fault Detection (4.29.923)
+D3 1991-08-01
+GA GM154
+PM 1752119
+UT WOS:A1991GM15400002
+DA 2026-08-19
+ER
+
+PT J
+AU HUMM, B
+   SCHULZ, C
+   RADTKE, M
+   WARNECKE, G
+AF HUMM, B
+   SCHULZ, C
+   RADTKE, M
+   WARNECKE, G
+TI A SYSTEM FOR CASE-BASED PROCESS PLANNING
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE COMPUTER AIDED PROCESS PLANNING; CASE-BASED PLANNING; GENERATIVE PLANNING; LEARNING; BLACKBOARD ARCHITECTURE; COMPUTER INTEGRATED MANUFACTURING
+AB A new approach to automated process planning, integrating generative and case-based planning methods, is presented. Unlike most of the existing Artificial Intelligence (AI) based process planning systems, this approach makes use of a dynamic knowledge base containing old cases, i.e. part descriptions and corresponding process plans. This knowledge base grows with experience and therefore may reduce periodic human maintenance of the system. Advantages of this approach may be an increase of the planning quality and a concurrent reduction of the planning expense. Furthermore, it enables an automated improvement of similarity metrics which can be regarded as learning.
+C1 UNIV KAISERSLAUTERN,W-6750 KAISERSLAUTERN,GERMANY
+C3 RPTU University Kaiserslautern
+RI /F-8609-2013
+OI Humm, Bernhard/0000-0001-7805-1981
+CR ERMAN LD, 1980, COMPUTER SURV, V12
+   HAMMOND KJ, 5TH P NAT C ART INT, V1, P256
+   HAMMOND KJ, 5TH P NAT C ART INT, V1, P267
+   Kolodner, J. L., 1983, COGNITIVE SCI, V7
+   Schank, R.C., 1982, DYNAMIC MEMORY
+   WARNECKE G, 1989, P CIRP INT WORKSHOP, P185
+NR 6
+TC 11
+Z9 14
+U1 0
+U2 10
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 169
+EP 180
+DI 10.1016/0166-3615(91)90030-D
+PG 12
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Design & Manufacturing (4.224); Assembly Optimization (4.224.1307)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100009
+DA 2026-08-19
+ER
+
+PT J
+AU CSER, L
+   GEIGER, M
+   GRESKA, W
+   HOFFMANN, M
+AF CSER, L
+   GEIGER, M
+   GRESKA, W
+   HOFFMANN, M
+TI 3 KINDS OF CASE-BASED LEARNING IN SHEET-METAL MANUFACTURING
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE KNOWLEDGE BASED SYSTEMS; COMPUTER AIDED PLANNING; FORMING; CLASSIFICATION; FEATURES; FAILURE
+AB The paper outlines three applications of case-based learning in sheet metal manufacturing by utilization of artificial intelligence. each based on different concepts. One topic is the synthesis with feature processing for the process outline on a CNC bending machine. Statistics on fail and success influence weights of rules in an expert system. Another example is the classification of sheet metal parts. Real objects and their components are represented by a frame like data structure, which is embedded in a semantic network. Grouping of work pieces is done by a decision method of Bayes. This method is also used for part diagnosis to avoid possible defects of tools and machines.
+C1 UNIV ERLANGEN NURNBERG,LEHRSTUHL FERTIGUNGSTECHNOL,W-8520 ERLANGEN,GERMANY
+C3 University of Erlangen Nuremberg
+CR EARY DF, 1958, TECHNIQUES PRESSWORK
+   GEIGER M, 1990, ZWF CIM, V8, P198
+   GEIGER M, 1988, BLECH ROHRE PROFILE, V35, P85
+   GEIGER M, 1990, ZWF CIM, V8, P593
+   Ham, Inyong., 1985, GROUP TECHNOLOGY
+   MAIDA AS, 1987, ENCY ARTIFICIAL INTE, P302
+   Manhart, K., 1988, Mikrocomputer Zeitschrift, P66
+   PEARL J, 1987, ENCY ARTIFICIAL INTE, P48
+   PRITSCHOW G, 1990, KUNSTLICHE INTELLIGE
+   Sowa, John F., 1987, ENCY ARTIFICIAL INTE, V2, P1011
+   TROST H, 1986, ARTIFICIAL INTELLIGE
+   VONRIMSCHA M, 1987, 1ST S ADV GEOM MOD E
+   WINSTON PH, 1987, KUNSTLICHE INTELLIGE
+NR 13
+TC 11
+Z9 11
+U1 0
+U2 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 195
+EP 206
+DI 10.1016/0166-3615(91)90032-5
+PG 12
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Design & Manufacturing (4.224); Assembly Optimization (4.224.1307)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100011
+DA 2026-08-19
+ER
+
+PT J
+AU HONG, HW
+   SUN, CT
+   MESA, VM
+   NG, S
+AF HONG, HW
+   SUN, CT
+   MESA, VM
+   NG, S
+TI PROTECTIVE DEVICE COORDINATION EXPERT SYSTEM
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article; Proceedings Paper
+CT 1990 SUMMER MEETING OF THE POWER ENGINEERING SOC OF THE IEEE
+CY JUL 15-19, 1990
+CL MINNEAPOLIS, MN
+SP IEEE, POWER ENGN SOC, INSULATED CONDUCTORS COMM
+ID ARTIFICIAL-INTELLIGENCE
+AB This paper presents the Protective Device Coordination Expert System (PDCES) software which helps electric distribution engineers correct miscoordinated protective device pairs. PDCES was prototyped as a component of PG&E's Electric Distribution Planning Analysis (EDPLAN) system, an in-house engineering tool for analyzing electric distribution feeders. PDCES evaluates the causes of miscoordination, suggests and ranks coordination remedies, and at the user's discretion, sequentially identifies the most appropriate course of corrective actions. It then triggers EDPLAN to reset protective device parameters to alleviate feeder miscoordination. Protection devices studied by PDCES include relays, fuses, reclosers and interrupters. PDCES contains 14 knowledge bases and more than 300 rules, and invokes 2 graphical displays: a distribution network's fishbone diagram and a geographical configuration. An expert system shell was used to provide rapid prototyping, friendly user interface, knowledge base construction, knowledge inference and external program capabilities.
+C1 PACIFIC GAS & ELECT CO,DEPT ELECT DISTRIBUT,SAN FRANCISCO,CA 94106
+C3 Pacific Gas & Electric Company (PG&E)
+RP HONG, HW (corresponding author), PACIFIC GAS & ELECT CO,MANAGEMENT SCI GRP,SAN FRANCISCO,CA 94106, USA.
+RI Sun, Chuen-Tsai/Q-8348-2018
+OI Sun, Chuen-Tsai/0000-0002-4757-9131
+CR BOBROW, DG, 1986, COMMUN ACM, V29, P880, DOI 10.1145/6592.6597
+   BUCKLEY JJ, 1988, FUZZY LOGIC KNOWLEDG
+   CHRISTIE R, 1989, 2ND P S EXP SYST APP, P177
+   Hayes-Roth, F., 1983, BUILDING EXPERT SYST
+   LIU, CC, 1988, IEEE T POWER SYST, V3, P619, DOI 10.1109/59.192914
+   LIU CC, 1989, 2ND P S EXP SYST APP
+   MANOLIU R, 1989, IEEE CANADIAN RE JUN, P11
+   SCHULTE, RP, 1987, IEEE T POWER SYST, V2, P920, DOI 10.1109/TPWRS.1987.4335274
+   VENKATA S, 1988, EL6145 EPRI
+   WOLLENBERG, BF, 1987, P IEEE, V75, P1678, DOI 10.1109/PROC.1987.13935
+   ZADEH, LA, 1983, FUZZY SET SYST, V11, P199, DOI 10.1016/S0165-0114(83)80081-5
+   ZADEH, LA, 1975, INFORM SCIENCES, V8, P199, DOI 10.1016/0020-0255(75)90036-5
+   ZADEH, LA, 1965, INFORM CONTROL, V8, P338, DOI 10.1016/S0019-9958(65)90241-X
+   ZHANG ZZ, 1989, IEEE
+   [Anonymous], 1987, EDSA MANUAL, V2
+   [Anonymous], 1987, SUBSTATION B, V52
+NR 16
+TC 16
+Z9 16
+U1 0
+U2 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0885-8977
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD JAN 1991
+PY 1991
+VL 6
+IS 1
+BP 359
+EP 365
+DI 10.1109/61.103759
+PG 7
+WC Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Fault Detection (4.18.1055)
+D3 1991-01-01
+GA EP055
+UT WOS:A1991EP05500046
+DA 2026-08-19
+ER
+
+PT J
+AU MASCIOPINTO, C
+   PALMISANO, V
+   TANGORRA, F
+   VURRO, M
+AF MASCIOPINTO, C
+   PALMISANO, V
+   TANGORRA, F
+   VURRO, M
+TI A DECISION SUPPORT SYSTEM FOR ARTIFICIAL RECHARGE PLANT
+SO WATER SCIENCE AND TECHNOLOGY
+LA English
+DT Article; Proceedings Paper
+CT INTERNATIONAL SYMP ON WASTEWATER RECLAMATION AND REUSE
+CY SEP 24-26, 1991
+CL COSTA BRAVA, SPAIN
+DE WATER; WATER RESOURCE MANAGEMENT; ARTIFICIAL RECHARGE; TREATMENT PLANT; KNOWLEDGE BASE; EXPERT SYSTEM SHELL
+AB The need for artificial recharge plants is the result of the qualitative and quantitative worsening of groundwater resources due to increased pumping and wastewater discharge. This paper described a system that uses artificial intelligence techniques for designing an artificial recharge plant. The system can be used as a training tool for new engineers, as well as an aid in the choices for expert engineers. The system is an application of an expert system shell running on a common p.c. machine. The model is made up of two knowledge bases, respectively denoted as Quantity artificial recharge and Quality artificial recharge. The former is related to the quantitative aspects, such as geology, climate and land availability, the latter to qualitative aspects, such as water use and treatment plant. Two case studies have been implemented in order to confirm the validity of this kind of systemic approach.
+C1 UNIV BARI,IST SCI INFORMAZ,I-70124 BARI,ITALY
+C3 Universita degli Studi di Bari Aldo Moro
+RP MASCIOPINTO, C (corresponding author), CNR,IST RICERCA ACQUE,VIA F DE BLASIO 5,I-70123 BARI,ITALY.
+RI Masciopinto, Costantino/AAD-1636-2019
+OI Masciopinto, Costantino/0000-0003-1133-0200
+CR Argo, D.G., 1985, ARTIFICIAL RECHARGE, P359
+   Asano, Takashi., 1985, ARTIFICIAL RECHARGE
+   Brachman, R.J., 1979, Associative Networks: Representation and Use of Knowledge by Computers
+   Brownston, L., 1985, PROGRAMMING EXPERT S
+   Chidley, T. R. E., 1987, Knowledge Based Expert Systems for Engineering: Classification Education and Control, P247
+   COUSIN F, 1987, 22 P IAHR SEM SYST E
+   Detay, M., 1989, P INT S GROUNDWATER, P80
+   ELIOT LB, 1986, IEEE EXPERT      WIN, P51
+   Hayes-Roth, F., 1983, BUILDING EXPERT SYST
+   HUSHON, JM, 1987, ENVIRON SCI TECHNOL, V21, P838, DOI 10.1021/es00163a604
+   Idelovitch, E., 1985, ARTIFICIAL RECHARGE, P481
+   KAHN G, 1986, IEEE EXPERT      SPR, P23
+   KNORR BD, 1985, ARTIFICIAL RECHARGE, P425
+   KOWALSKI RA, 1983, P IFIP 83, P133
+   MACGILCHRIST RS, 1987, 22 P IAHR SEM SYST E
+   MARCHETTI R, 1987, P CRITERI LIMITI CON, V75, P3
+   Minsky, M., 1975, FRAMEWORK REPRESENTI
+   Nilsson, N. J., 1981, Principles of Artificial Intelligence
+   PASSINO R, 1980, CONDUZIONE DEGLI IMP
+   SPAZIANI FM, 1991, IN PRESS INGEGNERIA
+   TANGORRA F, 1991, J HYDROLOGICAL SCI, V36, P1
+   TROISI S, 1988, INGEGNERIA AMBIENTAL, V6, P334
+   TRUEB E, 1979, P INT S ARTIFICIAL G
+   United Nation Publication, 1975, NATURAL RESOURCES WA, V3
+   [Anonymous], 1988, G U S           0630
+   [Anonymous], 1989, XI PLUS USER MANUAL
+NR 26
+TC 8
+Z9 8
+U1 0
+U2 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0273-1223
+J9 WATER SCI TECHNOL
+JI Water Sci. Technol.
+PD 1991
+PY 1991
+VL 24
+IS 9
+BP 331
+EP 342
+DI 10.2166/wst.1991.0262
+PG 12
+WC Engineering, Environmental; Environmental Sciences; Water Resources
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+TO Earth Sciences (8); Subsurface Flow & Porous Media (8.140); Groundwater Geochemistry (8.140.566)
+D3 1991-01-01
+GA GG191
+UT WOS:A1991GG19100034
+DA 2026-08-19
+ER
+
+PT J
+AU HSU, YY
+   LU, FC
+   CHIEN, Y
+   LIU, JP
+   LIN, JT
+   YU, HS
+   KUO, RT
+AF HSU, YY
+   LU, FC
+   CHIEN, Y
+   LIU, JP
+   LIN, JT
+   YU, HS
+   KUO, RT
+TI AN EXPERT SYSTEM FOR LOCATING DISTRIBUTION-SYSTEM FAULTS
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article; Proceedings Paper
+CT 1990 SUMMER MEETING OF THE POWER ENGINEERING SOC OF THE IEEE
+CY JUL 15-19, 1990
+CL MINNEAPOLIS, MN
+SP IEEE, POWER ENGN SOC, INSULATED CONDUCTORS COMM
+ID ALGORITHMS
+AB A rule-based expert system is designed to locate the faults in a distribution system. Distribution system component data and network topology are stored in the database. A set of heuristic rules are compiled from the dispatchers' experience and are imbedded in the rule base. To locate distribution system fault, an inference engine is developed to perform deductive reasonings on the rules in the knowledge base. The inference engine comprises three major parts: the dynamic searching method, the backtracing approach, and the set intersection operation. The expert system is implemented on a personal computer using the artificial intelligence language PROLOG. To demonstrate the effectiveness of the proposed approach, the expert system has been applied to locate faults in a real underground distribution system within the service area of Taipei City District Office of Taiwan Power Company. It is found that the expert system can identify fault location very efficiently. Therefore, it can serve as a valuable tool to help distribution system dispatchers determine fault locations.
+C1 TAIWAN POWER CO,POWER RES LAB,TAIPEI,TAIWAN; TAIWAN POWER CO,TAIPEI CITY DIST OFF,TAIPEI,TAIWAN
+C3 Taiwan Power Company; Taiwan Power Company
+RP HSU, YY (corresponding author), NATL TAIWAN UNIV,DEPT ELECT ENGN,TAIPEI,TAIWAN.
+CR CARDOZO, E, 1988, IEEE T POWER SYST, V3, P641, DOI 10.1109/59.192917
+   CASTRO, CH, 1980, IEEE T POWER AP SYST, V99, P549, DOI 10.1109/TPAS.1980.319700
+   FUKUI, C, 1986, IEEE T POWER DELIVER, V1, P83, DOI 10.1109/TPWRD.1986.4308033
+   GIRGIS, AA, 1989, IEEE T POWER DELIVER, V4, P978, DOI 10.1109/61.25578
+   HSU YY, 1989, DESIGN EXPERT SYSTEM
+   Matsumoto, K., 1985, Expert Systems, V2, P134, DOI 10.1111/j.1468-0394.1985.tb00463.x
+   Okada, K., 1988, Proceedings of the International Workshop on Artificial Intelligence for Industrial Applications: IEEE AI '88 (Cat. No.88CH2529-6), P52, DOI 10.1109/AIIA.1988.13269
+   SCOTT WG, 1989 IEEE PES TRANSM
+   TOMSOVIC, K, 1987, IEEE T POWER DELIVER, V2, P736, DOI 10.1109/TPWRD.1987.4308172
+   WONG KP, 1988, LOGIC PROGRAMMING AP, V15, P77
+NR 10
+TC 50
+Z9 55
+U1 0
+U2 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0885-8977
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD JAN 1991
+PY 1991
+VL 6
+IS 1
+BP 366
+EP 372
+PG 7
+WC Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Fault Detection (4.18.1055)
+D3 1991-01-01
+GA EP055
+UT WOS:A1991EP05500047
+DA 2026-08-19
+ER
+
+PT J
+AU KEFALAS, P
+   REYNOLDS, TJ
+AF KEFALAS, P
+   REYNOLDS, TJ
+TI CONTROLLING SEARCH WITH META-BRAVE
+SO LECTURE NOTES IN COMPUTER SCIENCE
+LA English
+DT Article; Proceedings Paper
+CT PRE CONF WORKSHOP ON PARALLEL EXECUTION OF LOGIC PROGRAMS, AT THE 8TH INTERNATIONAL CONF ON LOGIC PROGRAMMING ( ICLP 91 )
+CY JUN 24, 1991
+CL PARIS, FRANCE
+AB We outline the Brave system: a Horn-clause language Brave, a dialect of Prolog designed for OR-parallel execution, plus meta-Brave, containing extra-logical features. Brave has been stripped of Prolog's cut, assert and retract, enforcing a declarative programming style which enables easier parallelisation. However, we need replacements for those predicates, in particular to code parallel versions of search algorithms, where guidance of the search in one subtree requires information from another subtree. Meta-Brave features directives which allow algorithmic knowledge about the domain to be stated independently from die Brave application program. This guidance is provided in three main ways: partial results are selectively remembered (lemmas), conditions of early failure of subproofs are stated (pruning), the style of search is altered (strategies). We show how this combination of features makes the Brave system specially suited to writing clear programs, for example search algorithms taken from Artificial Intelligence. In this paper we investigate how OR-parallelism can be exploited in hill-climbing, genetic algorithms and best-first search. By simulation we analyse the parallelism obtained.
+C1 UNIV ESSEX,DEPT COMP SCI,COLCHESTER CO4 3SQ,ESSEX,ENGLAND
+C3 University of Essex
+CR HARIDI S, 1988, 5TH P INT C GEN COMP, P745
+   HAUSMAN B, 1988, P FGCS 88 C, P831
+   LUSK E, 1988, 5TH P INT C GEN COMP, P819
+   REYNOLDS TJ, 1990, 7TH INT C LOG PROGR, P340
+   SZEREDI P, 1990, USING DYNAMIC PREDIC
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SPRINGER VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010
+SN 0302-9743
+J9 LECT NOTES COMPUT SC
+JI Lect. Notes Comput. Sci.
+PD 1991
+PY 1991
+VL 569
+BP 29
+EP 38
+PG 10
+WC Computer Science, Software Engineering; Computer Science, Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+D3 1991-01-01
+GA LE822
+UT WOS:A1991LE82200004
+DA 2026-08-19
+ER
+
+PT J
+AU YEHIA, NAB
+   SABBAH, AAL
+   MOSALLA, AM
+AF YEHIA, NAB
+   SABBAH, AAL
+   MOSALLA, AM
+TI A KNOWLEDGE-BASED SYSTEM FOR THE DESIGN OF REINFORCED-CONCRETE HALLS
+SO COMPUTERS & STRUCTURES
+LA English
+DT Article; Proceedings Paper
+CT 1ST INTERNATIONAL CONF ON THE APPLICATION OF ARTIFICIAL INTELLIGENCE TECHNIQUES TO CIVIL AND STRUCTURAL ENGINEERING ( CIVIL-COMP 89 )
+CY SEP 20-22, 1989
+CL CITY UNIV, LONDON, ENGLAND
+HO CITY UNIV
+AB A knowledge-based system for the design of reinforced concrete halls is presented for use on microcomputers. The system consists of two subsystems, an intelligent subsystem for proposing the layout of the structural system, and an algorithmic subsystem for both analysis and structural design of the components of the structural system. The intelligent subsystem is developed in PROLOG while the analysis and design subsystem is developed in FORTRAN. The intelligent subsystem tried to make use of available aspects of Artificial Intelligence. It takes a step towards the development of knowledge-based systems in structural engineering that learn from the previous experience the system has gone through. It also employs a general technique of generalization/specialization to understand the nature of the problem(s) not known to the system. The analysis and design subsystem contains the required algorithms to generate, preliminary proportion, analyse and design the structural system proposed by the intelligent subsystem. An example is given to show the application of each module in the system until the final product is obtained.
+C1 GEN ORG HOUSING BLDG & PLANNING RES,GIZA,EGYPT; HOSNY CONSULTING ENGINEERS,CAIRO,EGYPT
+RP YEHIA, NAB (corresponding author), UNIV CAIRO,FAC ENGN,GIZA,EGYPT.
+CR Barr, A., 1981, HDB ARTIFICIAL INTEL, VI
+   COHEN P, 1983, HDB ARTIFICIAL INTEL, V3
+   FENVES SJ, 1986, EXPERT SYSTEMS CIVIL
+   FLEMING JF, 1986, STRUCTURAL ENG ANAL
+   HASSON MN, 1985, DESIGN REINFORCED CO
+   Hayes-Roth, F., 1983, BUILDING EXPERT SYST
+   Jackson, P., 1986, INTRO EXPERT SYSTEMS
+   KUMAR B, 1987, P CIVIL COMP LONDON, P79
+   KUMAR B, 1987, P CIVIL COMP LONDON, P15
+   MAHER ML, 1987, J COMPUT CIVIL ENG A
+   MAHER ML, 1985, KNOWLEDGE ENG COMPUT, P125
+   MOSALLAM AM, 1990, THESIS CAIRO U GIZA
+   MOSALLAM AM, 1987, UNPUB ANAL IRREGULAR
+   Nawy, E., 1985, Reinforced concrete: A fundamental approach
+   SABBAH A, 1990, THESIS AL AZHAR U CA
+   SRIRAM D, 1986, P CAD 86 LONDON, P226
+   Winston, P.H., 1984, Artificial intelligence
+NR 17
+TC 2
+Z9 2
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0045-7949
+J9 COMPUT STRUCT
+JI Comput. Struct.
+PD 1991
+PY 1991
+VL 40
+IS 1
+BP 127
+EP 135
+DI 10.1016/0045-7949(91)90465-X
+PG 9
+WC Computer Science, Interdisciplinary Applications; Engineering, Civil
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Software Engineering (4.47); Answer Set Programming (4.47.463)
+D3 1991-01-01
+GA FW313
+UT WOS:A1991FW31300018
+DA 2026-08-19
+ER
+
+PT J
+AU SPUR, G
+   SPECHT, D
+   WEISS, S
+AF SPUR, G
+   SPECHT, D
+   WEISS, S
+TI INTEGRATION OF LEARNING APPROACHES FOR MAINTENANCE TASKS
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT SEMINAR AT THE 1ST WORKSHOP OF THE INTELLIGENT MANUFACTURING SYSTEMS : LEARNING IN INTELLIGENT MANUFACTURING SYSTEMS ( IMS 91 )
+CY MAR 06-08, 1991
+CL HUNGARIAN ACAD SCI, BUDAPEST, HUNGARY
+SP HUNGARIAN ACAD SCI, COMP & AUTOMAT INST; TECH UNIV BELGRAD; TECH UNIV BUDAPEST
+HO HUNGARIAN ACAD SCI
+DE ANALOGICAL INFERENCE; EXPLANATION-BASED LEARNING; MACHINE LEARNING; MODEL-BASED DIAGNOSIS; SIMILARITY-BASED LEARNING
+AB This paper introduces the concept of a knowledge-based diagnostic tool to be applied in production. A learning module facilitates the knowledge acquisition process. To build up an initial knowledge-base, an explanation-based learning approach generates rules which are based on a functional model of the manufacturing system to be diagnosed. While the system is applied in the production process, the learning module continues to improve the system's diagnostic capabilities using analogical inference and a similarity-based learning method. The model is also employed here to control these processes.
+C1 TECH UNIV BERLIN,INST MACHINE TOOLS & MFG TECHNOL,W-1000 BERLIN 10,GERMANY
+C3 Technical University of Berlin
+CR Carbonell, J., 1986, MACHINE LEARNING ART, VII
+   DAVIS, R, 1984, ARTIF INTELL-AMST, V24, P347, DOI 10.1016/0004-3702(84)90042-0
+   DEJONG G, 1986, MACH LEARN, V1, P2
+   DEKLEER, J, 1984, ARTIF INTELL-AMST, V24, P7, DOI 10.1016/0004-3702(84)90037-7
+   DEKLEER, J, 1986, ARTIF INTELL-AMST, V28, P127, DOI 10.1016/0004-3702(86)90080-9
+   DEKLEER, J, 1987, ARTIF INTELL-AMST, V32, P97, DOI 10.1016/0004-3702(87)90063-4
+   FRUCHTENICHT HW, 1988, TECHNISCHE EXPERTSYS
+   KELLER RM, 1988, ARTIF INTELL, V35
+   SPUR G, 1990, SEP P INT WORKSH EXP
+   SPUR G, 1987, DIAGNOSTIC PREVENTIV, P183
+   STRUSS P, 1988, TECHNISCHE EXPERTSYS
+   SUSSMAN, GJ, 1980, ARTIF INTELL-AMST, V14, P1, DOI 10.1016/0004-3702(80)90032-6
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD NOV 1991
+PY 1991
+VL 17
+IS 2-3
+BP 269
+EP 277
+DI 10.1016/0166-3615(91)90039-C
+PG 9
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Automation & Control Systems (4.29); Industrial Fault Detection (4.29.923)
+D3 1991-11-01
+GA GV591
+UT WOS:A1991GV59100018
+DA 2026-08-19
+ER
+
+PT J
+AU RUF, E
+   WEISE, D
+AF RUF, E
+   WEISE, D
+TI USING TYPES TO AVOID REDUNDANT SPECIALIZATION
+SO SIGPLAN NOTICES
+LA English
+DT Article; Proceedings Paper
+CT 1ST SYMP ON PARTIAL EVALUATION AND SEMANTICS-BASED PROGRAM MANIPULATION ( PEPM 91 )
+CY JUN 17-19, 1991
+CL YALE UNIV, NEW HAVEN, CT
+SP ASSOC COMP MACHINERY, SPECIAL INTEREST GRP PROGRAMMING LANGUAGES; INT FEDERAT INFORMAT PROC
+HO YALE UNIV
+ID PROGRAMS
+AB Existing partial evaluators use a strategy called polyvariant specialization, which involves specializing program points on the known portions of their arguments, and re-using such specializations only when these known portions match exactly. We show that this re-use criterion is overly restrictive, and misses opportunities for sharing in residual programs, thus producing large residual programs containing redundant specializations. We develop a criterion for re-use based on computing the domains of specializations, and describe an approximate implementation of this criterion based on types, and its implementation in our partial evaluation system, FUSE. Finally, we relate our algorithm to existing work in partial evaluation and machine learning.
+C1 STANFORD UNIV,COMP SYST LAB,STANFORD,CA 94305
+C3 Stanford University
+CR BONDORF A, 1990, DIKU9004 U COP REP
+   BULYONKOV, MA, 1984, ACTA INFORM, V21, P473, DOI 10.1007/BF00271642
+   BURSTALL, RM, 1977, J ACM, V24, P44, DOI 10.1145/321992.321996
+   CONSEL C, 1990, 1990 ACM C LISP FUNC, P264
+   Dejong, G., 1986, Machine Learning, V1, P145, DOI 10.1007/BF00114116
+   Futamura, Y., 1988, Partial Evaluation and Mixed Computation, P133
+   GHEZZI, C, 1985, LECT NOTES COMPUT SC, V206, P116
+   HARALDSSON A, 1977, THESIS LINKOPING U
+   JONES, ND, 1985, LECT NOTES COMPUT SC, V202, P124
+   KAHN KM, 1982, 1ST INT LOG PROGR C, P19
+   LAUNCHBURY J, 1991, CS CSC90R2 REP
+   MACQUEEN D, 1984, 11TH P ACM C PRINC P, P165
+   Mitchell, T. M., 1986, Machine Learning, V1, P47, DOI 10.1023/A:1022691120807
+   Mogensen, T., 1988, PARTIAL EVALUATION M, P325
+   MOGENSEN T, 1989, THESIS U COPENHAGEN
+   REES, J, 1986, SIGPLAN NOTICES, V21, P37, DOI 10.1145/15042.15043
+   SCHOOLER R, MITLCSTR324
+   TURCHIN VF, 1988, PARTIAL EVALUATION M, P531
+   VANHARMELEN, F, 1988, ARTIF INTELL-AMST, V36, P401, DOI 10.1016/0004-3702(88)90088-4
+   WEISE D, 1990, CSLTR90421 STANF U C
+   WEISE D, 1990, CSLTR90441 STANF U C
+   YOUNG J, 1988, PARTIAL EVALUATION M, P573
+NR 22
+TC 4
+Z9 4
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036
+SN 0362-1340
+J9 SIGPLAN NOTICES
+JI Sigplan Not.
+PD SEP 1991
+PY 1991
+VL 26
+IS 9
+BP 321
+EP 333
+PG 13
+WC Computer Science, Software Engineering
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Software Engineering (4.47); Abstract Interpretation (4.47.281)
+D3 1991-09-01
+GA GF259
+UT WOS:A1991GF25900030
+OA Bronze
+DA 2026-08-19
+ER
+
+PT J
+AU CUSHING, S
+AF CUSHING, S
+TI MINDS AND MACHINES FOR HUMANITIES MAJORS - A LIBERAL-ARTS COURSE IN COMPUTERS AND COGNITION
+SO COMPUTERS AND THE HUMANITIES
+LA English
+DT Article; Proceedings Paper
+CT 2ND CONF ON TEACHING COMPUTERS AND HUMANITIES COURSES
+CY JUN, 1988
+CL OBERLIN COLL, OBERLIN, OH
+HO OBERLIN COLL
+DE COGNITION; PHILOSOPHY; KNOWLEDGE; LANGUAGE; HUMAN NATURE; TEACHING; COMPUTERS AND HUMANISTS
+AB A new one-semester course is described in which undergraduate students in non-technical majors are shown how traditional philosophical problems of knowledge, cognition, language, and human nature can be fruitfully investigated with computer-related concepts and techniques. A series of simple experiments is used to demonstrate to undergraduates that mental phenomena are real, that they can be studied experimentally, and that they can be modeled insightfully in computational - i.e., information-processing - terms. Each experiment illustrates a basic fact or principle of cognitive science: the formal character of algorithms; creativity and the variants of the Turing test; limitations on human memories; the use of cognitive strategies; heuristic techniques of artificial intelligence; formal grammars and their associated parsers; social, societal, and anthropological dimensions of mind; and degrees of logicality in human reasoning. Students are also taught the essentials of PROLOG, a programming language that is based explicitly on formal logic, incorporating such notions as fact, database, and query, thereby lending itself readily to the description of complex relational networks of a sort not commonly expected to be amenable to computer analysis.
+C1 NASA,LANGLEY RES CTR,HAMPTON,VA 23665; NASA,AMES RES CTR,MOFFETT FIELD,CA 94035
+C3 National Aeronautics & Space Administration (NASA); NASA Langley Research Center; National Aeronautics & Space Administration (NASA); NASA Ames Research Center
+RP CUSHING, S (corresponding author), BOSTON UNIV,COMP SCI,BOSTON,MA 02215, USA.
+CR [Anonymous], 1983, Cognitive Science Series
+   BRAMER MA, 1983, COMPUTER GAME PLAYIN
+   Bruner, J.S., 1956, STUDY THINKING, DOI DOI 10.2307/1292061
+   CHOMSKY N, 1981, LECTURES GOVT BINDIN
+   CUSHING S, LEVELS LINGUISTIC AD
+   CUSHING S, 1987, MATTERS INTELLIGENCE
+   CUSHING S, 1989, ED296595
+   CUSHING S, IN PRESS COMMUNICATI
+   CUSHING S, 1983, 1ST P C EUR CHAPT AS
+   CUSHING S, 1990, MEANINGS PROTOTYPES
+   CUSHING S, 1984, COGNITIVE CONSTRAINT
+   Cushing, Steven., 1982, QUANTIFIER MEANINGS
+   FLOOD MM, 1988, J RECREATIONAL MATH, V20, P105
+   Gardner, Howard., 1985, MINDS NEW SCI
+   Langendoen, D.Terence., 1970, Essentials of English grammar
+   Levy, D., 1983, COMPUTER GAMESMANSHI
+   Martin, J., 1985, SYSTEM DESIGN PROVAB
+   MILLER, GA, 1956, PSYCHOL REV, V63, P81, DOI 10.1037/0033-295X.101.2.343
+   SCHMUCKER KJ, 1984, NATURAL LANGUAGE COM
+   TOLMAN EC, 1932, PURPOSIVE BEHAVIOR A
+   TSOHATZIDIS S, 1990, MEANING PROTOTYPES S
+   Turing, AM, 1963, COMPUTERS THOUGHT
+   VANHENTENRYCK P, 1988, SIGART NEWSL, V103, P31
+   Wagner, R., 1986, Symbols That Stand for Themselves
+   Winograd, T., 1983, LANGUAGE COGNITIVE P, VI
+   YUE KB, 1986, SIGART NEWSL, V98, P21
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 7
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA SPUIBOULEVARD 50, PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 0010-4817
+J9 COMPUT HUMANITIES
+JI Comput. Humanit.
+PD OCT 1991
+PY 1991
+VL 25
+IS 5
+BP 275
+EP 280
+DI 10.1007/BF00120963
+PG 6
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Social Science & Humanities (CPCI-SSH); Arts & Humanities Citation Index (A&HCI); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Clinical & Life Sciences (1); Neuroscanning (1.7); Intelligence (1.7.1026)
+D3 1991-10-01
+GA HB682
+UT WOS:A1991HB68200003
+DA 2026-08-19
+ER
+
+PT J
+AU FLORIAN, D
+AF FLORIAN, D
+TI UNDERSTANDING AND OVERCOMING CULTURAL BARRIERS IN INFORMATION-SYSTEMS
+SO PROCEEDINGS OF THE ASIS ANNUAL MEETING
+LA English
+DT Article; Proceedings Paper
+CT 54TH ANNUAL MEETING OF THE AMERICAN SOC FOR INFORMATION SCIENCE ( ASIS 91 )
+CY OCT 27-31, 1991
+CL WASHINGTON, DC
+SP AMER SOC INFORMAT SCI
+ID EXPERT SYSTEMS; ARTIFICIAL-INTELLIGENCE; DOCUMENT-RETRIEVAL; DESIGN
+AB Access to and use of information systems comprises the interaction of people and systems. A large number and range of problems are involved in performing the tasks of information management and services. The user's expertise needed to accomplish these tasks can be seen as a multi-dimensional knowledge space including among others subject expertise, system expertise, and language skills - each aspect most likely to require knowledge about a different cultural setting. Insufficient expertise in one or more dimensions leads to unsatisfactory results. For each task problem there are two approaches to improve the balance of expertise to complexity: increasing the user's expertise through education or advice; and reducing the user's need for expertise by simplifying the system, delegating the tasks to intermediaries, or to the system itself. The suggested solutions and the respective courses of action identify a framework applicable for the need and the circumstances of different users, subjects, systems, cultural settings, and new developments and lead to a better understanding of information systems. This framework allows to provide solutions where an intellectual transfer is not directly possible, e.g. in a different social or cultural environment.
+C1 [FLORIAN, D] JOANNEUM RES,A-8010 GRAZ,AUSTRIA
+RP FLORIAN, D (corresponding author), JOANNEUM RES,A-8010 GRAZ,AUSTRIA.
+CR BACON F, MEDITATIONES SACRAE, V24, P1591
+   BELKIN, NJ, 1982, J DOC, V38, P61, DOI 10.1108/eb026722
+   Biswas, G., 1985, Second Conference on Artificial Intelligence Applications: The Engineering of Knowledge-Based Systems (Cat. No.85CH2215-2), P455
+   BORGMAN, CL, 1986, J AM SOC INFORM SCI, V37, P387, DOI 10.1002/asi.4630370604
+   BRAJNIK, G, 1987, INFORM PROCESS MANAG, V23, P305, DOI 10.1016/0306-4573(87)90020-3
+   BROOKS, HM, 1987, INFORM PROCESS MANAG, V23, P367, DOI 10.1016/0306-4573(87)90023-9
+   Buckland, M. K., 1988, Cataloging & Classification Quarterly, V8, P15, DOI 10.1300/J104v08n03_02
+   BUCKLAND MK, 1988, LIBRARY SERVICES THE
+   BUCKLAND MK, IN PRESS J AM SOC IN
+   CHIARAMELLA, Y, 1987, INFORM PROCESS MANAG, V23, P285, DOI 10.1016/0306-4573(87)90019-7
+   CROFT, WB, 1987, J AM SOC INFORM SCI, V38, P389, DOI 10.1002/(SICI)1097-4571(198711)38:6<389::AID-ASI1>3.0.CO;2-4
+   DANIELS PJ, 1986, J DOC, V42, P162
+   DERVIN B, 1986, ANN REV INFORMATION, V21, P1
+   DOMIATY RZ, 1985, ROHSTOFF INFORMATION
+   DUMAIN R, 1989, 52ND P ANN ASIS M, V26, P209
+   FIDEL R, 1983, J AM SOC INFORM SCI, V34, P153
+   FLORIAN D, 1990, THESIS TU GRAZ
+   FLORIAN D, 1991, MITTELFRISTIGES INFO
+   FLORIAN D, 1990, IN PRESS INTERFACES
+   FOX, EA, 1987, INFORM PROCESS MANAG, V23, P341, DOI 10.1016/0306-4573(87)90022-7
+   HUTCHINS WJ, 1975, LANGUAGE INDEXING CL
+   INGWERSEN P, 1988, INFORMATION TECHNOLO, P111
+   LARSON RR, 1988, 51ST P ANN ASIS M, V25, P129
+   MARCUS, RS, 1986, P AM SOC INFORM SCI, V23, P185
+   MARKEY K, 1981, INFORMATION PROCESSI, V17, P212
+   POLLITT, S, 1987, INFORM PROCESS MANAG, V23, P119, DOI 10.1016/0306-4573(87)90053-7
+   SARACEVIC, T, 1988, J AM SOC INFORM SCI, V39, P161, DOI 10.1002/(SICI)1097-4571(198805)39:3<161::AID-ASI2>3.0.CO;2-0
+   SMITH, LC, 1987, ANNU REV INFORM SCI, V22, P41
+   Taylor, R.S., 1986, VALUE ADDED PROCESSE
+   TONG RM, 1985, 8TH P ANN INT ACM SI, P243
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 3
+PU INFORMATION TODAY INC
+PI MEDFORD
+PA 143 OLD MARLTON PIKE, MEDFORD, NJ 08055-8750
+SN 0044-7870
+J9 P ASIS ANNU MEET
+JI Proc. ASIS Annu. Meet.
+PD 1991
+PY 1991
+VL 28
+BP 60
+EP 67
+PG 8
+WC Computer Science, Information Systems; Information Science & Library Science
+WE Conference Proceedings Citation Index - Social Science & Humanities (CPCI-SSH); Social Science Citation Index (SSCI); Arts & Humanities Citation Index (A&HCI)
+SC Computer Science; Information Science & Library Science
+TO Electrical Engineering, Electronics & Computer Science (4); Information Retrieval & Knowledge Systems (4.48); Digital Libraries (4.48.228)
+D3 1991-01-01
+GA GP789
+UT WOS:A1991GP78900009
+DA 2026-08-19
+ER
+
+PT J
+AU ROSYID, DM
+   CALDWELL, JB
+AF ROSYID, DM
+   CALDWELL, JB
+TI DESIGN APPROACH AND DIMENSIONAL SIMILARITY IN LAY-OUT OPTIMIZATION OF STRUCTURAL SYSTEMS
+SO COMPUTERS & STRUCTURES
+LA English
+DT Article; Proceedings Paper
+CT 1ST INTERNATIONAL CONF ON COMPUTATIONAL STRUCTURES TECHNOLOGY
+CY AUG 20-22, 1991
+CL HERIOT WATT UNIV, EDINBURGH, SCOTLAND
+HO HERIOT WATT UNIV
+AB A design approach to lay-out optimization of structural systems is proposed as a less software-intensive alternative to the analysis approaches of ground structure, and of homogenization. The proposed approach is implemented in two design methods based on cognitive modelling. A Lamarckian method is developed which perceives the layout optimization as one of force transmission problem, and a dimensional method perceives it as a selection problem. The proposed design approach can include buckling constraints. Furthermore, the layout of a structure may provide multiple failure paths so that its system reliability is an important criterion in the search for the optimal configuration. For a given space-load situation a corresponding generic structure can be hypothesized which attempts to satisfy the postulated function of force transmission. The generation of the hypothesized configuration starts from a primitive configuration with a minimal number of members and nodes, and the optimum is sought by growing, i.e. by addition of members and nodes to the primitive structure. Furthermore, for a given space-load situation, a measure of loading transfer intensity, known as the structural index can be formulated. Using this dimensional similarity concept, prediction of the optimal weight and proportion of a structure with a different structural index, without performing any optimization routine, can be facilitated once the optimal weight and proportion of a different, but configurationally equivalent, structure is known. Optimal design charts can be developed, so that lay-out selection can be facilitated at early design stages. The dimensional similarity approach can be a cost-effective alternative to the artificial intelligence and artificial neural nets approaches. The Lamarckian method is applied to several examples which have been solved using the ground structure approach, the homogenization method, and an interactive structural optimization system. The dimensional method is demonstrated with an application to a truss model of a jacket-type structure.
+C1 [ROSYID, DM] UNIV NEWCASTLE UPON TYNE,DEPT MARINE TECHNOL,ARMSTRONG BLDG,NEWCASTLE TYNE NE1 7RU,TYNE & WEAR,ENGLAND
+C3 Newcastle University - UK
+RP ROSYID, DM (corresponding author), UNIV NEWCASTLE UPON TYNE,DEPT MARINE TECHNOL,ARMSTRONG BLDG,NEWCASTLE TYNE NE1 7RU,TYNE & WEAR,ENGLAND.
+CR BENDSOE, MP, 1988, COMPUT METHOD APPL M, V71, P197, DOI 10.1016/0045-7825(88)90086-2
+   BERKE L, 1990, CISM ADV COURSE SHAP
+   BRIDGES AH, 1985, COMPUTER AIDED ARCHI
+   CALDWELL JB, 1972, INGENIEUR, V49, P101
+   DOMINGUES FJ, 1984, ROLE DESIGN INSEPCTI
+   Dorn, W.S., 1964, J MECANIQUE, V3, P25
+   EVANS JH, 1975, SHIP STRUCTURAL DESI
+   GERO JS, 1987, ENG OPTIMIZATION, V12
+   GERO JS, 1985, COMPUTER AIDED ARCHI
+   Gordon, J.E., 1988, SCI STRUCTURES MAT
+   JOZWIAK SF, 1987, ENG OPTIMIZATION, V12
+   KIBSGAARD S, 1990, CISM ADV COURSE SHAP
+   KIKUCHI N, 1990, CISM ADV COURSE SHAP
+   KIRSCH U, 1981, COMPUTER AIDED DESIG
+   Kirsch, U., 1989, APPL MECH REV, V42, P223, DOI DOI 10.1115/1.3152429
+   LANGHAAR HL, 1951, DIMENSIONAL ANAL THE
+   LIPSON SL, 1974, ASCE J STRUCTURAL DI, V100, P865
+   Lloyd, J R, 1984, The role of design, inspection and redundancy in marine structural reliability
+   Mainstone, R., 1975, DEV STRUCTURAL FORM
+   March, L., 1976, ARCHITECTURE FORM
+   MELARAGNO M, 1981, SIMPLIFIED TRUSS DES
+   MORRIS AJ, 1982, F STRUCTURAL OPTIMIZ
+   PAHL G, 1988, ELEMENTS ENG DESIGN
+   Papalambros, P., 1988, Principles of Optimal Design
+   RASMUSSEN J, 1990, CISM ADV COURSE SHAP
+   RINGERTZ UT, 1985, ENG OPTIMIZATION, V9
+   RINGERTZ UT, 1986, ENG OPTIMIZATION, V10
+   ROSYID DM, IN PRESS INT J STRUC
+   ROZVANY GIN, 1990, CISM ADV COURSE SHAP
+   ROZVANY GIN, 1989, STRUCTURAL DESIGN VI
+   RUSSEL ES, 1989, FORM FUNCITON CONTRI
+   Sedov, L.I., 1993, Similarity and dimensional methods in mechanics
+   SHANLEY FR, 1956, WEIGHT STRENGTH ANAL
+   Thompson, D'ArcyWentworth., 1917, GROWTH FORM
+   TOPPING, BHV, 1983, J STRUCT ENG-ASCE, V109, P1933, DOI 10.1061/(ASCE)0733-9445(1983)109:8(1933)
+   TOPPING BHV, 1987, ENG OPTIMIZATION, V11
+   TOPPING BHV, 1990, CISM ADV COURSE SHAP
+   VISSER W, 1988, P ICE COST REDUCTION
+   Zienkiewicz, O.C., 1973, Shape optimization and sequential linear programming, Optimal structural design
+NR 39
+TC 5
+Z9 5
+U1 0
+U2 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0045-7949
+J9 COMPUT STRUCT
+JI Comput. Struct.
+PD 1991
+PY 1991
+VL 40
+IS 5
+BP 1125
+EP 1137
+DI 10.1016/0045-7949(91)90384-X
+PG 13
+WC Computer Science, Interdisciplinary Applications; Engineering, Civil
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+TO Engineering & Materials Science (7); Mechanics (7.63); Topology Optimization (7.63.1328)
+D3 1991-01-01
+GA GC886
+UT WOS:A1991GC88600006
+DA 2026-08-19
+ER
+
+PT J
+AU APPIANI, E
+   BIANCO, D
+   MERLO, L
+   RONCAROLO, L
+AF APPIANI, E
+   BIANCO, D
+   MERLO, L
+   RONCAROLO, L
+TI THE EMMA2 MULTIPROCESSOR OPERATING SYSTEM
+SO CONCURRENCY-PRACTICE AND EXPERIENCE
+LA English
+DT Article; Proceedings Paper
+CT CONF ON PARALLEL COMPUTING : ACHIEVEMENTS, PROBLEMS AND PROSPECTS
+CY JUN 03-07, 1990
+CL CAPRI, ITALY
+AB The EMMA2(1) parallel architecture is a network of nodes, named 'Regions': each region is based on two shared-memory hierarchical bus levels, on which a large series of monocpu, multicpu and specialized I/O boards can be inserted, grouped in 'Families'.Its typical applications are image processing, pattern recognition and artificial intelligence, characterized by intensive computation requirements, real-time constraints and good price-performance ratio for building large industrial systems. This paper presents the main characteristics of the EMMA2 parallel operating system, highlighting the internal organization and mechanisms offering the parallel co-operation model for user programs.Section 1 briefly introduces the overall hardware architecture. It allows application partitioning into parallel independent subsystems, on two levels of computation: the lower level (family) is dedicated to massive number crunching, while the upper (region) permits the interaction of these lower machines.Section 2 deals with the system software environment, based on a host-target configuration: the host is mainly devoted to machine control, system monitoring, program development and debugging in a multi-user environment.Sections 3, 4 and 5 describe respectively the fundamental concepts of the operating system internal organization and the basic mechanisms with respect to the machine architecture; the basic functions that constitute the internal layers and services; the resulting parallel programming and co-operation model and the typical mapping rules of algorithms to this architecture, completed with some examples of their functionalities.The most important aspect of the EMMA2 operating system is the fact that it offers a uniform interface to user tasks, independently of their allocation on the target machine. Objects managed by system services can be referred to via logical names. Code for system services is distributed among processors and resides on a private read-only memory. The operating system's data reside in shared memory only for system functions that need to be distributed, while private functions are based on different copies of data in private memories.Section 6 gives more details on the most relevant EMMA2 industrial applications, also showing their mapping to the parallel architecture and some performance-related information. Section 7 contains a brief outline of the novel architecture currently in development and of the subsequent OS improvements.In conclusion, we report some considerations about the present status of the EMMA2 system, compared with some other well-known architectures, and about research efforts for its future evolution.
+C1 ELSAG BAILEY SPA,CENT RES DEPT,I-16154 GENOA,ITALY
+CR APPIANI E, 1990, 1989 INT C SUP TOOLS
+   APPIANI E, 1987, 1987 P INT C PAR PRO, P23
+   APPIANI E, 1989, IEEE MICRO, P42
+   BABB RG, 1988, PROGRAMMING PARALLEL
+   BIANCO D, 1990, 1ST INT EXH C RISC T, P137
+   Hwang, K., 1984, Computer Architecture and Parallel Processing
+   [Anonymous], 1985, IAPX286 PROGRAMMERS
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 1
+PU JOHN WILEY & SONS LTD
+PI W SUSSEX
+PA BAFFINS LANE CHICHESTER, W SUSSEX, ENGLAND PO19 1UD
+SN 1040-3108
+J9 CONCURRENCY-PRACT EX
+JI Concurrency-Pract. Exp.
+PD DEC 1991
+PY 1991
+VL 3
+IS 6
+BP 541
+EP 557
+DI 10.1002/cpe.4330030605
+PG 17
+WC Computer Science, Software Engineering; Computer Science, Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+D3 1991-12-01
+GA GY911
+UT WOS:A1991GY91100004
+DA 2026-08-19
+ER
+
+PT J
+AU NAMJOSHI, KV
+   BIRINGER, PP
+AF NAMJOSHI, KV
+   BIRINGER, PP
+TI EFFICIENCY OF EDDY-CURRENT SHIELDING OF STRUCTURAL-STEEL SURROUNDING LARGE CURRENTS - A CIRCUIT APPROACH
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 5TH JOINT MMM-INTERMAG CONF
+CY JUN 18-21, 1991
+CL PITTSBURGH, PA
+SP AKASHIC MEMORIES; ALLEGHENY LUDLUM; ALLIED SIGNAL; APPL MAGNET; ARMCO; ANORD ENGN; BASF AG; CERAM MAGNET; CRUCIBLE MAT; DASTEK
+AB This paper deals with eddy current shielding of steel structures which surround power cables carrying large currents. An important criterion for the effectiveness of the shield is the ratio of the power loss with the shield and the power loss without the shield. A method is suggested for the estimation of the effectiveness of the shield provided the power loss without is developed between the effectiveness of the shield and the losses in the shield and in the steel structure. Short circuited copper rings closely wound around the structure are considered as an eddy current shield. A transformer circuit model is used. The method is demonstrated for a circular geometry.
+C1 [NAMJOSHI, KV] UNIV TORONTO,DEPT ELECT ENGN,TORONTO M5S 1A4,ONTARIO,CANADA
+C3 University of Toronto
+RP NAMJOSHI, KV (corresponding author), UNIV TORONTO,DEPT ELECT ENGN,TORONTO M5S 1A4,ONTARIO,CANADA.
+CR Hoole, S.R.H., 1989, COMPUTER AIDED ANAL
+   JACKSON HW, 1976, INTRO ELECTRIC CIRCU, P543
+   LAVERS, JD, 1985, IEEE T IND APPL, V21, P137, DOI 10.1109/TIA.1985.349673
+   LOZINSKII MG, 1969, IND APPLICATIONS IND, P107
+   Stoll, R. L., 1974, The Analysis of Eddy Currents, P4
+NR 5
+TC 9
+Z9 11
+U1 0
+U2 1
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD NOV 1991
+PY 1991
+VL 27
+IS 6
+PN 2
+BP 5417
+EP 5419
+DI 10.1109/20.278857
+PG 3
+WC Engineering, Electrical & Electronic; Physics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Physics
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Power Quality and Harmonics (4.18.2807)
+D3 1991-11-01
+GA HB661
+UT WOS:A1991HB66100253
+DA 2026-08-19
+ER
+
+PT J
+AU TOITOT, S
+   MEUNIER, G
+   SAKELLARIS, J
+   SABONNADIERE, JC
+AF TOITOT, S
+   MEUNIER, G
+   SAKELLARIS, J
+   SABONNADIERE, JC
+TI 2-DIMENSIONAL TRANSFORMER MODELING TAKING INTO ACCOUNT THE EDGE EFFECTS BY INTRODUCTION OF A CORRECTION FACTOR
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 5TH JOINT MMM-INTERMAG CONF
+CY JUN 18-21, 1991
+CL PITTSBURGH, PA
+SP AKASHIC MEMORIES; ALLEGHENY LUDLUM; ALLIED SIGNAL; APPL MAGNET; ARMCO; ANORD ENGN; BASF AG; CERAM MAGNET; CRUCIBLE MAT; DASTEK
+AB The aim of this paper is to provide a detailed loss computation of a sheet wound transformer. When modeling a transformer of this type, the main obstacle is the fact that the problem to be treated is purely a three-dimensional one and of a rather complicated geometry. On the other hand the magnetodynamic nature of the phenomenon demands a very good domain discretisation of areas where skin effect appears. As a result a simplified two - dimensional model is sought, in which effects due to third dimension are introduced by correction factors. A simplified but not very reliable (mainly for high frequencies) solution to this problem has already been presented in the literature, which reduces the problem to an axisymmetrical one by neglecting effects due to bus bars.Here a more detailed solution is discussed based on analytical computation of extra losses in bus bars, numerical determination of bus bar static resistance and a semi-empirical calculation of bus bar extra losses due to sheet winding proximity. The FLUX finite element software package is used for the numerical part of our study. Finally values of computed transformer total losses are compared to experimental ones for three different cases with very satisfying results at 50 Hz.
+C1 [TOITOT, S] LAB ELECTROTECH GRENOBLE,CNRS,UA 355,F-38402 ST MARTIN DHERES,FRANCE
+C3 Centre National de la Recherche Scientifique (CNRS)
+RP TOITOT, S (corresponding author), LAB ELECTROTECH GRENOBLE,CNRS,UA 355,F-38402 ST MARTIN DHERES,FRANCE.
+RI Meunier, Gérard/AFU-7103-2022
+OI Meunier, Gérard/0000-0001-6424-1653
+CR ANDERSEN OW, 1977, JUL IEEE SUMM POW M
+   BRUNOTTE X, 1990, SEP IEEE T MAGN, P2156
+   KONRAD A, 1981, JAN IEEE T MAGN, P1148
+   NGNEGUEU G, 1990, J APPLIED PHYSIC MAY, P4726
+   PREIS K, 1983, NOV IEEE T MAGN, P2397
+   SABONNADIERE JC, 1982, FINITE ELEMENTS CAD
+   SAKELLARIS Y, 1990, 3RD BIENN C EL FIELD
+   Stoll, RichardL., 1974, The analysis of eddy currents
+   TOITOT S, 1990, CALCUL PERTES TRANSF
+   VASSENT G, 1990, 3RD BIENN C EL FIELD
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD NOV 1991
+PY 1991
+VL 27
+IS 6
+PN 2
+BP 4998
+EP 5000
+DI 10.1109/20.278719
+PG 3
+WC Engineering, Electrical & Electronic; Physics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Physics
+D3 1991-11-01
+GA HB661
+UT WOS:A1991HB66100115
+DA 2026-08-19
+ER
+
+PT J
+AU VANDERHEIDEN, RH
+   ARKADAN, AA
+   BRAUER, JR
+   HUMMERT, GT
+AF VANDERHEIDEN, RH
+   ARKADAN, AA
+   BRAUER, JR
+   HUMMERT, GT
+TI FINITE-ELEMENT MODELING OF A TRANSFORMER FEEDING A RECTIFIED LOAD - THE COUPLED POWER ELECTRONICS AND NONLINEAR MAGNETIC-FIELD PROBLEM
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 5TH JOINT MMM-INTERMAG CONF
+CY JUN 18-21, 1991
+CL PITTSBURGH, PA
+SP AKASHIC MEMORIES; ALLEGHENY LUDLUM; ALLIED SIGNAL; APPL MAGNET; ARMCO; ANORD ENGN; BASF AG; CERAM MAGNET; CRUCIBLE MAT; DASTEK
+AB Zero-dimensional finite elements are used to help directly incorporate models of nonlinear power electronic switching devices into nonlinear transient magnetic finite element analysis. Two applications are considered: a buck regulator circuit and a transformer feeding a rectified load.
+C1 MACNEAL SCHWENDLER CORP,MILWAUKEE,WI 53223
+RP VANDERHEIDEN, RH (corresponding author), MARQUETTE UNIV,DEPT EECE,MILWAUKEE,WI 53233, USA.
+CR Brauer, JohnR., 1988, What Every Engineer Should Know about Finite Element Analysis
+   BRAUER JR, 1991, IEEE T MAGN, V27
+   MACNEAL, BE, 1990, IEEE T MAGN, V26, P1768, DOI 10.1109/20.104518
+   NAKATA, T, 1988, IEEE T MAGN, V24, P2582, DOI 10.1109/20.92180
+   PIRIOU, F, 1988, IEEE T MAGN, V24, P274, DOI 10.1109/20.43910
+   RASHID MH, 1988, POWER ELECTRONICS CI
+   SALON, SJ, 1990, J ELECTROMAGNET WAVE, V4, P1077
+NR 7
+TC 12
+Z9 13
+U1 0
+U2 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD NOV 1991
+PY 1991
+VL 27
+IS 6
+PN 2
+BP 5217
+EP 5219
+DI 10.1109/20.278792
+PG 3
+WC Engineering, Electrical & Electronic; Physics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Physics
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Electric Motor Control (4.18.136)
+D3 1991-11-01
+GA HB661
+UT WOS:A1991HB66100188
+DA 2026-08-19
+ER
+
+PT J
+AU WERNER, R
+   GROLL, M
+AF WERNER, R
+   GROLL, M
+TI 2-STAGE METAL HYDRIDE HEAT TRANSFORMER LABORATORY MODEL - RESULTS OF REACTION BED TESTS
+SO JOURNAL OF THE LESS-COMMON METALS
+LA English
+DT Article; Proceedings Paper
+CT INTERNATIONAL SYMP ON METAL-HYDROGEN SYSTEMS, FUNDAMENTALS AND APPLICATIONS
+CY SEP 02-07, 1990
+CL BANFF, CANADA
+AB A laboratory model of a two-stage heat transformer was developed. Three different misch metal-nickel-type alloys are used. For safety and cost reasons (pressurized hot water heat transfer system) the maximum output temperature was limited to 135-degrees-C for an input temperature of 85-degrees-C and a heat sink temperature of 25-degrees-C.With the laboratory model a large number of experiments with variation of all interesting parameters, e.g. operating temperatures, hydrogen content and cycle times, have been carried out. First results have been presented by Werner [1] and Werner and Groll [2]. Absorption and desorption experiments with individual reaction beds under various temperature and pressure conditions have been carried out to study the technical reaction kinetics, i.e. the dynamic behaviour of the complete reaction beds. The experimental set-up is described and results are presented.
+C1 UNIV STUTTGART,INST KERNENERGET & ENERGIESYST,W-7000 STUTTGART 80,GERMANY
+C3 University of Stuttgart
+RP WERNER, R (corresponding author), INST KERNTECH & ENERGIEWANDLUNG EV,PFAFFENWALDRING 31,W-7000 STUTTGART 80,GERMANY.
+CR SUDA, S, 1987, INT J HYDROGEN ENERG, V12, P323, DOI 10.1016/0360-3199(87)90057-7
+   SUDA S, 1984, HYDROGEN ENERGY PROG, V5, P1201
+   WERNER R, 1991, 1988 P INT S MET HYD, P91
+   WERNER R, 1988, RECENT PROGR GENIE P, V2, P320
+NR 4
+TC 38
+Z9 40
+U1 0
+U2 2
+PU ELSEVIER SCIENCE SA LAUSANNE
+PI LAUSANNE 1
+PA PO BOX 564, 1001 LAUSANNE 1, SWITZERLAND
+SN 0022-5088
+J9 J LESS-COMMON MET
+PD SEP 10 1991
+PY 1991
+VL 172
+PN C
+BP 1122
+EP 1129
+DI 10.1016/S0022-5088(06)80019-6
+PG 8
+WC Chemistry, Physical; Metallurgy & Metallurgical Engineering
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Metallurgy & Metallurgical Engineering
+TO Chemistry (2); Hydrogen & Fusion Materials (2.282); Hydride Storage (2.282.594)
+D3 1991-09-10
+GA GK510
+UT WOS:A1991GK51000019
+DA 2026-08-19
+ER
+
+PT J
+AU BRAUER, JR
+   MACNEAL, BE
+   LARKIN, LA
+   OVERBYE, VD
+AF BRAUER, JR
+   MACNEAL, BE
+   LARKIN, LA
+   OVERBYE, VD
+TI NEW METHOD OF MODELING ELECTRONIC-CIRCUITS COUPLED WITH 3D ELECTROMAGNETIC FINITE-ELEMENT MODELS
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 4TH BIENNIAL CONF ON ELECTROMAGNETIC FIELD COMPUTATION
+CY OCT 22-24, 1990
+CL TORONTO, CANADA
+SP IEEE
+AB New "zero dimensional" or "scalar" electromagnetic finite elements are presented which have the time integral of electric scalar potential as their nodal variable. There are three 0D element types, representing resistors, capacitors, and inductors. These elements can be easily combined with two- or three-dimensional elements with three components of magnetic vector potential as well as the time integral of electric scalar potential as nodal variables. Constant current sources are directly modeled by inhomogeneous Neumann excitations, and constant voltage sources are modeled by use of Norton's theorem. By the addition of dependent current and voltage sources, electronic circuits can be modeled. Example finite element analyses include an R-L circuit, a transistor circuit driving a wire loop modeled with three dimensional finite elements, and a circuit impedance on the secondary of a saturable three dimensional transformer model.
+C1 [BRAUER, JR] MACNEAL SCHWENDLER CORP,DEPT ENGN ELECTROMAGNET APPLICAT,4300 W BROWN DEER RD,MILWAUKEE,WI 53223, USA
+RP BRAUER, JR (corresponding author), MACNEAL SCHWENDLER CORP,DEPT ENGN ELECTROMAGNET APPLICAT,4300 W BROWN DEER RD,MILWAUKEE,WI 53223, USA.
+CR Brauer, JohnR., 1988, What Every Engineer Should Know about Finite Element Analysis
+   BRAUER, JR, 1990, IEEE T MAGN, V26, P2193, DOI 10.1109/20.104666
+   BRAUER JR, 1990, P ELECTROSOFT C BOST
+   BRAUER JR, 1991, J APPLIED PHYSICS, V69
+   GREINER RA, 1961, SEMICONDUCTOR DEVICE, P434
+   ISTFAN B, 1987, THESIS RENSSELAER PO
+   MACNEAL, BE, 1990, IEEE T MAGN, V26, P1768, DOI 10.1109/20.104518
+   NAKATA, T, 1990, IEEE T MAGN, V26, P2379, DOI 10.1109/20.104737
+   NAKATA, T, 1988, IEEE T MAGN, V24, P2582, DOI 10.1109/20.92180
+NR 9
+TC 28
+Z9 30
+U1 0
+U2 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD SEP 1991
+PY 1991
+VL 27
+IS 5
+BP 4085
+EP 4088
+DI 10.1109/20.104999
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Physics
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Electric Motor Control (4.18.136)
+D3 1991-09-01
+GA GT689
+UT WOS:A1991GT68900077
+DA 2026-08-19
+ER
+
+PT J
+AU ICHINOKURA, O
+   SATO, K
+   JINZENJI, T
+   TAJIMA, K
+AF ICHINOKURA, O
+   SATO, K
+   JINZENJI, T
+   TAJIMA, K
+TI A SPICE MODEL OF ORTHOGONAL-CORE TRANSFORMERS
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article; Proceedings Paper
+CT 35TH ANNUAL CONF ON MAGNETISM AND MAGNETIC MATERIALS
+CY OCT 29-NOV 01, 1990
+CL SAN DIEGO, CA
+SP AMER INST PHYS; IEEE, MAGNET SOC; AMER INST MIN MET & PETR ENGINEERS, MET SOC; USN, OFF NAVAL RES; AMER SOC TESTING & MAT; AMER PHYS SOC; AMER CERAM SOC
+AB This paper deals with a numerical model of orthogonal-core transformers for use in SPICE. The model was devised on the basis of the magnetic circuit of the orthogonal-core with the saturation and hysteresis effects. Using the numerical model, the behavior of the dc-ac converter constructed with the orthogonal-core transformers and square-wave transistor choppers was analyzed. The calculated values and measured ones show a good agreement. The method presented here is suitable for the circuit analysis and design optimization of the dc-ac converter taking account of nonlinear characteristics of the orthognal-cores and semiconductor devices used in the converter.
+C1 AKITA UNIV,COLL MINING,DEPT ELECT ENGN,AKITA 010,JAPAN
+C3 Akita University
+RP ICHINOKURA, O (corresponding author), TOHOKU UNIV,DEPT ELECT ENGN,SENDAI,MIYAGI 980,JAPAN.
+FU Div Of Civil, Mechanical, & Manufact Inn; Directorate For Engineering [0970017] Funding Source: National Science Foundation
+CR ICHINOKURA, O, 1985, IEEE T MAGN, V21, P1750, DOI 10.1109/TMAG.1985.1064117
+   ICHINOKURA, O, 1988, IEEE T MAGN, V24, P1969, DOI 10.1109/20.11662
+   Pei, D, 1986, IEEE Transactions on Power Electronics, P101
+NR 3
+TC 8
+Z9 8
+U1 0
+U2 0
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD APR 15 1991
+PY 1991
+VL 69
+IS 8
+PN 2A
+BP 4928
+EP 4930
+DI 10.1063/1.348178
+PG 3
+WC Physics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+TO Physics (5); Electromagnetism (5.88); Magnetostriction (5.88.1216)
+D3 1991-04-15
+GA FL732
+UT WOS:A1991FL73200173
+OA Bronze
+DA 2026-08-19
+ER
+
+PT J
+AU KEYHANI, A
+   CHUA, SW
+   SEBO, SA
+AF KEYHANI, A
+   CHUA, SW
+   SEBO, SA
+TI MAXIMUM-LIKELIHOOD-ESTIMATION OF TRANSFORMER HIGH-FREQUENCY PARAMETERS FROM TEST DATA
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article; Proceedings Paper
+CT 1990 SUMMER MEETING OF THE POWER ENGINEERING SOC OF THE IEEE
+CY JUL 15-19, 1990
+CL MINNEAPOLIS, MN
+SP IEEE, POWER ENGN SOC
+DE TRANSFORMER HIGH FREQUENCY MODELS; MAXIMUM LIKELIHOOD ESTIMATION; PARAMETER IDENTIFICATION
+AB This paper presents a methodology for the development of transformer high frequency models. Time constants of the transformer transfer function are estimated from frequency response measurements by using the nonlinear least-squares method in the frequency domain. Then the time response of transfer functions is used in conjunction with the maximum likelihood method to estimate the transformer model parameters. As a case study, a high frequency model of a 15 kVA, 7620/240V single-phase distribution transformer was developed based on the proposed methodology.
+C1 [KEYHANI, A] OHIO STATE UNIV,DEPT ELECT ENGN,COLUMBUS,OH 43210, USA
+C3 University System of Ohio; Ohio State University
+RP KEYHANI, A (corresponding author), OHIO STATE UNIV,DEPT ELECT ENGN,COLUMBUS,OH 43210, USA.
+CR ASTROM, KJ, 1974, IEEE T AUTOMAT CONTR, VAC19, P769, DOI 10.1109/TAC.1974.1100735
+   ASTROM, KJ, 1980, AUTOMATICA, V16, P551, DOI 10.1016/0005-1098(80)90078-3
+   DEGENEFF, RC, 1977, IEEE T POWER AP SYST, V96, P423, DOI 10.1109/T-PAS.1977.32352
+   DEGENEFF, RC, 1982, IEEE T POWER AP SYST, V101, P1457, DOI 10.1109/TPAS.1982.317193
+   DUGAN, RC, 1988, IEEE T POWER DELIVER, V3, P637, DOI 10.1109/61.4302
+   DUGAN, RC, 1989, IEEE T POWER DELIVER, V4, P1070, DOI 10.1109/61.25588
+   FERGESTAD, PI, 1974, IEEE T POWER AP SYST, VPA93, P510, DOI 10.1109/TPAS.1974.293998
+   GROSSNER NR, 1983, TRANSFORMERS ELECTRI
+   HIGGINS MD, 1984, INT C HARM POW SYST, P32
+   KEYHANI, A, 1990, IEEE T POWER DELIVER, V5, P212, DOI 10.1109/61.107276
+   KEYHANI, A, 1989, IEEE T ENERGY CONVER, V4, P551, DOI 10.1109/60.43262
+   KEYHANI A, 1988, 3RD P INT C HARM POW, P250
+   KUPTA NK, 1974, IEEE T AUTOMATIC CON, V19, P774
+   MARQUARDT, DW, 1963, J SOC IND APPL MATH, V11, P431, DOI 10.1137/0111030
+   MCELROY, AJ, 1975, IEEE T POWER AP SYST, V94, P1301, DOI 10.1109/T-PAS.1975.31968
+   MCNUTT, WJ, 1974, IEEE T POWER AP SYST, VPA93, P457, DOI 10.1109/TPAS.1974.293992
+   SEBO SA, 1988, 1988 P US JAP SEM EM
+   VAESSEN, PTM, 1988, IEEE T POWER DELIVER, V3, P1761, DOI 10.1109/61.193982
+NR 18
+TC 18
+Z9 19
+U1 0
+U2 1
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0885-8977
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD APR 1991
+PY 1991
+VL 6
+IS 2
+BP 858
+EP 865
+DI 10.1109/61.131145
+PG 8
+WC Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 1991-04-01
+GA FC053
+UT WOS:A1991FC05300047
+DA 2026-08-19
+ER
+
+PT J
+AU ARTURI, CM
+AF ARTURI, CM
+TI TRANSIENT SIMULATION AND ANALYSIS OF A 3-PHASE 5-LIMB STEP-UP TRANSFORMER FOLLOWING AN OUT-OF-PHASE SYNCHRONIZATION
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article; Proceedings Paper
+CT 1990 SUMMER MEETING OF THE POWER ENGINEERING SOC OF THE IEEE
+CY JUL 15-19, 1990
+CL MINNEAPOLIS, MN
+SP IEEE, POWER ENGN SOC, INSULATED CONDUCTORS COMM
+DE 3-PHASE 5-LIMB TRANSFORMER MODELS; OUT-OF-PHASE SYNCHRONIZATION; MAGNETIC NETWORKS; DUALITY
+AB This paper presents the theoretical and the experimental analysis of the electromagnetic transient following the out-of-phase synchronization of a three-phase five-limb step-up transformer; this means an abnormal condition where the angle between phasors representing the generated voltages and those representing the power network voltages at the instant of closure of the connecting circuit breaker is not near zero, as normal, but may be as much as 180-degrees (phase opposition). When this happens, the peak values of the transient currents in the windings of the transformer might be sensibly higher than those of the failure currents estimated in a conventional way; in addition they correspond to unbalanced magnetomotive forces (MMF) in the primary and secondary windings of each phase of the machine.The currents and fluxes during the transient are computed by a non-conventional circuital non-linear model of the transformer simulated by the ElectroMagnetic Transient Program (EMTP). The results of an experimental validation made on a specially built 100 kVA three-phase five-limb transformer are also reported.
+C1 [ARTURI, CM] POLITECN MILAN,DIPARTIMENTO ELETTROTECN,PIAZZA LEONARDO DA VINCI 32,I-20133 MILAN,ITALY
+C3 Polytechnic University of Milan
+RP ARTURI, CM (corresponding author), POLITECN MILAN,DIPARTIMENTO ELETTROTECN,PIAZZA LEONARDO DA VINCI 32,I-20133 MILAN,ITALY.
+CR Arturi, C.M., 1986, EQUIVALENT NETWORKS
+   ARTURI CM, 1989, ENERG ELETTR, P1
+   ARTURI CM, 1989, ENERG ELETTR, P73
+   ARTURI CM, 1985, ENERG ELETTR, P476
+   BOSSI, A, 1979, ELETTROTECNICA, V66, P321
+   CHERRY EC, 1949, FEB P PHYS SOC 62, P101
+   DICK, EP, 1981, IEEE T POWER AP SYST, V100, P409, DOI 10.1109/TPAS.1981.316870
+   DOMMEL HW, 1969, IEEE T POWER APPAR S, V88, P389
+   EDELMAN H, 1959, ARCH ELECTR UBERTRAG, P253
+   FIORIO G, 1962, ENERG ELETTR, P29
+   HAYT WH, 1985, ENG ELECTROMAGNETICS, P271
+   Pasternack, B.M., 1988, IEEE T POWER DELIVER, V3
+   SCHLOSSER K, 1963, PHYSIKALISCHER GRUND, P107
+   SLEMON, GR, 1953, P I ELECTR ENG, V100, P129, DOI 10.1049/pi-4.1953.0015
+NR 14
+TC 86
+Z9 92
+U1 0
+U2 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0885-8977
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD JAN 1991
+PY 1991
+VL 6
+IS 1
+BP 196
+EP 201
+DI 10.1109/61.103738
+PG 6
+WC Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Fault Detection (4.18.1055)
+D3 1991-01-01
+GA EP055
+UT WOS:A1991EP05500025
+DA 2026-08-19
+ER
+
+PT J
+AU FUCHS, EF
+   MASOUM, MAS
+   ROESLER, DJ
+AF FUCHS, EF
+   MASOUM, MAS
+   ROESLER, DJ
+TI LARGE-SIGNAL NONLINEAR MODEL OF ANISOTROPIC TRANSFORMERS FOR NONSINUSOIDAL OPERATION .1. LAMBDA-IOTA CHARACTERISTIC
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article; Proceedings Paper
+CT 1990 SUMMER MEETING OF THE POWER ENGINEERING SOC OF THE IEEE
+CY JUL 15-19, 1990
+CL MINNEAPOLIS, MN
+SP IEEE, POWER ENGN SOC, INSULATED CONDUCTORS COMM
+DE NONLINEAR ANISOTROPIC TRANSFORMERS; NONSINUSOIDAL OPERATION; POWER QUALITY
+ID POWER-SYSTEMS VOLTAGE; ELECTRICAL APPLIANCES; FRACTIONAL HARMONICS; SENSITIVITY; MACHINES; LOSSES
+AB Single-phase, nonlinear transformers with anisotropic iron cores are modeled for nonsinusoidal (consisting of fundamental and low-order harmonics) terminal conditions based on design data through a quasi three-dimensional magnetic field analysis. This analysis includes the effects of the interlamination and butt-to-butt air gaps, the exchange of flux between any two neighboring anisotropic laminations and the influences of the end windings. It is shown that the B-H characteristics of cross- and with-grain iron core samples, obtained from Epstein measurements, are not valid for anisotropic iron cores. However, these characteristics can be used to compute through a quasi three-dimensional magnetic field analysis appropriate B-H characteristics for anisotropic iron core samples. Based on such newly defined B-H characteristics the lambda - i functions representing the saturation-dependent magnetizing inductance as well as saturation-dependent leakage inductances are calculated from design data. Calculated and measured characteristics corroborate well for a 1kVA single-phase transformer.
+C1 US DOE,WASHINGTON,DC 20585
+C3 United States Department of Energy (DOE)
+RP FUCHS, EF (corresponding author), UNIV COLORADO,DEPT ELECT & COMP ENGN,BOULDER,CO 80309, USA.
+CR BODEFELD T, 1982, ELEKTRISCHE MASCHINE
+   Fuchs, E.F., 1982, IEEE T POWER APPARAT, VPAS-101, P1181
+   FUCHS, EF, 1987, IEEE T POWER DELIVER, V2, P445, DOI 10.1109/TPWRD.1987.4308128
+   FUCHS, EF, 1986, IEEE T POWER DELIVER, V1, P301, DOI 10.1109/TPWRD.1986.4308007
+   FUCHS, EF, 1987, IEEE T POWER DELIVER, V2, P437, DOI 10.1109/TPWRD.1987.4308127
+   FUCHS, EF, 1983, ETZ ARCHIV, V5, P55
+   FULLER, JF, 1988, IEEE T POWER DELIVER, V3, P549, DOI 10.1109/61.4292
+   FUNK, G, 1987, ETZ ARCHIV, V9, P349
+   HWANG, MD, 1988, IEEE T POWER DELIVER, V3, P1074, DOI 10.1109/61.193889
+   HWANG, MS, 1987, IEEE T POWER DELIVER, V2, P140, DOI 10.1109/TPWRD.1987.4308084
+   MASOUM MAS, 1991, UNPUB WIN POW M NEW
+   MASOUM MAS, 1991, UNPUB 1991 WINT POW
+   MOHAMMED, OA, 1986, IEEE T ENERGY CONVER, V1, P177, DOI 10.1109/TEC.1986.4765683
+   SILVESTER, P, 1970, IEEE T POWER AP SYST, VPA89, P1642, DOI 10.1109/TPAS.1970.292812
+NR 14
+TC 16
+Z9 17
+U1 0
+U2 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0885-8977
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD JAN 1991
+PY 1991
+VL 6
+IS 1
+BP 174
+EP 186
+PG 13
+WC Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Power Quality and Harmonics (4.18.2807)
+D3 1991-01-01
+GA EP055
+UT WOS:A1991EP05500023
+DA 2026-08-19
+ER
+
+EF  

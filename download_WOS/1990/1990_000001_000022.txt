@@ -1,0 +1,1295 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU THATHACHAR, MAL
+AF THATHACHAR, MAL
+TI STOCHASTIC AUTOMATA AND LEARNING-SYSTEMS
+SO SADHANA-ACADEMY PROCEEDINGS IN ENGINEERING SCIENCES
+LA English
+DT Article; Proceedings Paper
+CT WORKSHOP ON RECENT ADVANCES IN MODELLING AND CONTROL OF STOCHASTIC SYSTEMS
+CY JAN 07-11, 1991
+CL INDIAN INST SCI, BANGALORE, INDIA
+SP INDIAN INST SCI, DEPT COMP SCI & AUTOMAT, JAWAHARLAL NEHRU CTR ADV SCI RES; BHARAT ELECTR, CENT RES LAB
+HO INDIAN INST SCI
+DE STOCHASTIC AUTOMATA; LEARNING SYSTEMS; ARTIFICIAL NEURAL NETWORKS
+AB We consider stochastic automata models of learning systems in this article. Such learning automata select the best action out of a finite number of actions by repeated interaction with the unknown random environment in which they operate. The selection of an action at each instant is done on the basis of a probability distribution which is updated according to a learning algorithm. Convergence theorems for the learning algorithms are available. Moreover the automata can be arranged in the form of teams and hierarchies to handle complex learning problems such as pattern recognition. These interconnections of learning automata could be regarded as artificial neural networks.
+C1 [THATHACHAR, MAL] INDIAN INST SCI,DEPT ELECT ENGN,BANGALORE 560012,KARNATAKA,INDIA
+C3 Indian Institute of Science (IISC) - Bangalore
+RP THATHACHAR, MAL (corresponding author), INDIAN INST SCI,DEPT ELECT ENGN,BANGALORE 560012,KARNATAKA,INDIA.
+NR 0
+TC 3
+Z9 4
+U1 0
+U2 0
+PU INDIAN ACADEMY SCIENCES
+PI BANGALORE
+PA P B 8005 C V RAMAN AVENUE, BANGALORE 560 080, INDIA
+SN 0256-2499
+J9 SADHANA-ACAD P ENG S
+JI Sadhana-Acad. Proc. Eng. Sci.
+PD DEC 1990
+PY 1990
+VL 15
+PN 4-5
+BP 263
+EP 281
+DI 10.1007/BF02811325
+PG 19
+WC Engineering, Multidisciplinary
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Telecommunications (4.13); Mobility and Handover Optimization (4.13.6)
+D3 1990-12-01
+GA GA287
+UT WOS:A1990GA28700003
+DA 2026-08-19
+ER
+
+PT J
+AU BOTROS, N
+   DEIRI, Z
+   WATTAR, I
+AF BOTROS, N
+   DEIRI, Z
+   WATTAR, I
+TI ALGORITHM AND INSTRUMENTATION FOR ISOLATED-WORD RECOGNITION
+SO MATHEMATICAL AND COMPUTER MODELLING
+LA English
+DT Article; Proceedings Paper
+CT 7TH INTERNATIONAL CONF ON MATHEMATICAL AND COMPUTER MODELLING IN SCIENCE AND TECHNOLOGY
+CY AUG 02-05, 1989
+CL CHICAGO, IL
+SP INT ASSOC MATH & COMP MODELLING; INT ASSOC MATH & COMP SIMULAT; PERGAMON PR; SOC ITALIANA BIOFIS PURA & APPL; SOC COMP SIMULAT; ACAD SCI USSR
+DE VOICE RECOGNITION; TIME WARPING; NEURAL NETWORKS
+AB In this study we present algorithm and instrumentation for isolated-word recognition. The algorithm is based on calculating the Linear Predictive Coefficients (LPC) of order 10 of the spoken word. Two pattern recognition techniques have been implemented to recognize the spoken word: dynamic time warping, where the distance between the training and the reference sets is taken as a measure of matching, and a three-layer back-propagation artificial neural network. A vocabulary of 30 tape-recorded short- duration words is selected. The first technique shows an accuracy of 85%; the second shows an accuracy of 99%. To implement and test the proposed algorithms a microcomputer-based data acquisition system has been designed and constructed.
+C1 [BOTROS, N] SO ILLINOIS UNIV,DEPT ELECT ENGN,CARBONDALE,IL 62901, USA
+C3 Southern Illinois University System; Southern Illinois University
+RP BOTROS, N (corresponding author), SO ILLINOIS UNIV,DEPT ELECT ENGN,CARBONDALE,IL 62901, USA.
+OI Wattar, Ihab/0000-0002-0185-2112
+CR ALNADI N, 1988, THESIS SO ILLINOIS U
+   Botros, N., 1987, Proceedings of the ISMM International Symposium. Software and Hardware Applications of Microcomputers, P52
+   BOTROS N, 1988, NASAJSC NGT44005803
+   BOTROS N, 1987, NASAJSC NGT44001800
+   HOPFIELD, JJ, 1982, P NATL ACAD SCI-BIOL, V79, P2554, DOI 10.1073/pnas.79.8.2554
+   Lippmann, RP, 1987, IEEE ASSP MAGAZINE
+   McClelland, J.L., 1986, Parallel distributed processing: Explorations in the microstructure of cognition, V1, DOI DOI 10.7551/MITPRESS/5236.001.0001
+   Parsons, T.W., 1987, VOICE SPEECH PROCESS
+   RABINER, LR, 1978, IEEE T ACOUST SPEECH, V26, P34, DOI 10.1109/TASSP.1978.1163037
+   SAITO S, 1985, FUNDAMENTAL SPEECH S
+   Widrow, B., 1985, ADAPTIVE SIGNAL PROC
+NR 11
+TC 1
+Z9 1
+U1 0
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0895-7177
+J9 MATH COMPUT MODEL
+JI Math. Comput. Model.
+PD 1990
+PY 1990
+VL 14
+BP 279
+EP 283
+DI 10.1016/0895-7177(90)90191-O
+PG 5
+WC Computer Science, Interdisciplinary Applications; Computer Science, Software Engineering; Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+TO Electrical Engineering, Electronics & Computer Science (4); Digital Signal Processing (4.174); Speech Recognition (4.174.152)
+D3 1990-01-01
+GA EQ469
+UT WOS:A1990EQ46900053
+DA 2026-08-19
+ER
+
+PT J
+AU KAGIWADA, H
+   KALABA, R
+   TIMKO, S
+   UENO, S
+AF KAGIWADA, H
+   KALABA, R
+   TIMKO, S
+   UENO, S
+TI ASSOCIATE MEMORIES FOR SYSTEM-IDENTIFICATION - INVERSE PROBLEMS IN REMOTE-SENSING
+SO MATHEMATICAL AND COMPUTER MODELLING
+LA English
+DT Article; Proceedings Paper
+CT 7TH INTERNATIONAL CONF ON MATHEMATICAL AND COMPUTER MODELLING IN SCIENCE AND TECHNOLOGY
+CY AUG 02-05, 1989
+CL CHICAGO, IL
+SP INT ASSOC MATH & COMP MODELLING; INT ASSOC MATH & COMP SIMULAT; PERGAMON PR; SOC ITALIANA BIOFIS PURA & APPL; SOC COMP SIMULAT; ACAD SCI USSR
+DE REMOTE SENSING; INVERSE PROBLEMS; SYSTEM IDENTIFICATION; NONLINEAR ESTIMATION; ASSOCIATIVE MEMORIES; ARTIFICIAL NEURAL NETWORKS
+AB The problems of remote sensing of physical parameters from satellites is an important inverse, or system identification problem. Progress has been made in several phases. During the 1960's basic equations of radiative transfer in various types of media (inhomogeneous, emitting, anisotropic, polarized, etc.) were derived for the treatment of direct problems, i.e., problems in which the parameters were known. In order to avoid instabilities in numerically obtaining solutions, nonlinear Cauchy problems for systems of ordinary differential equations were developed. This formulation aided in the treatment of inverse problems, where the parameters are to be estimated based on observations of external or internal radiant energy. System identification techniques such as quasilinearization were found to be effective, when good preliminary estimates were available. Recently, a systematic procedure for obtaining the needed initial estimates has been investigated. This approach, based on the concept of associative memories, has already produced excellent computational results.
+C1 KYOTO SCH COMP SCI,SAKYO KU,KYOTO 606,JAPAN
+RP KAGIWADA, H (corresponding author), INFOTEC DEV INC,150 CAMINO RUIZ,CAMARILLO,CA 93010, USA.
+CR Bellman, R., 1963, Invariant Imbedding and Radiative Transfer in Slabs of Finite Thickness
+   Kagiwada, HarrietH., 1974, SYSTEM IDENTIFICATIO
+   KAGIWADA HH, 1975, MULTIPLE SCATTERING
+   Kohonen, T., 1987, SELF ORG ASS MEMORY, V2nd
+   Kosko, B, 1986, AIP C P, V151, P277, DOI DOI 10.1063/1.36225
+   POGGIO, T, 1975, BIOL CYBERN, V19, P201, DOI 10.1007/BF00334440
+NR 6
+TC 25
+Z9 26
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0895-7177
+J9 MATH COMPUT MODEL
+JI Math. Comput. Model.
+PD 1990
+PY 1990
+VL 14
+BP 200
+EP 202
+DI 10.1016/0895-7177(90)90175-M
+PG 3
+WC Computer Science, Interdisciplinary Applications; Computer Science, Software Engineering; Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+TO Mathematics (9); Dynamical Systems & Time Dependence (9.143); Global Exponential Stability (9.143.777)
+D3 1990-01-01
+GA EQ469
+UT WOS:A1990EQ46900037
+DA 2026-08-19
+ER
+
+PT J
+AU DYSART, PS
+   PULLI, JJ
+AF DYSART, PS
+   PULLI, JJ
+TI REGIONAL SEISMIC EVENT CLASSIFICATION AT THE NORESS ARRAY - SEISMOLOGICAL MEASUREMENTS AND THE USE OF TRAINED NEURAL NETWORKS
+SO BULLETIN OF THE SEISMOLOGICAL SOCIETY OF AMERICA
+LA English
+DT Article; Proceedings Paper
+CT INTERNATIONAL SYMP ON REGIONAL SEISMIC ARRAYS AND NUCLEAR TEST BAN VERIFICATION
+CY FEB 14-17, 1990
+CL OSLO, NORWAY
+ID DISCRIMINATION
+AB The results are presented from a two-part study of regional earthquakes and chemical explosions recorded by the NORESS seismic array. The first part of the study examines various signal parameters extracted from Pn, Sn, and Lg phases with regard to discrimination capability. These parameters include familiar spectral discriminants and other spectral measures that quantify high-frequency content, spectral complexity, and shear wave generation. Part two of the study focuses on an application of backpropagation learning to the problem of automatic event classification through the use of trained neural networks. Of the 95 events examined, 66 were selected for the classification study based on high signal-to-noise ratio and positive identification in local seismicity bulletins. Events are located in eastern Europe, southern and western Norway, Sweden, the western Soviet Union, and the Norwegian and Greenland Seas. Local magnitudes range from 1.4 to 4.7, and epicentral distances for most events are less than 1000 km.Results from the discrimination analysis indicate that the wide-band spectral ratios Pn/Sn and Pn/Lg provide good discrimination capability between earthquakes and mining explosions, although there are anomalous events in both populations and a region of overlapping event types. Mining explosions can frequently be identified by their spectral complexity as measured by the cepstra of Pn, Sn, and Lg. This complexity is assumed to occur due to a combination of ripple-firing of the charges and reverberations within the shallow source region.In part two of the study, an artificial neural network employing the backpropagation learning paradigm was trained with input vectors formed by the two spectral amplitude ratios and the mean cepstral variance. A length-2 output vector was binary coded to identify each input vector as an explosion or earthquake. Two hidden layers were used, consisting of 8 and 2 units, respectively. The network was trained first using input vectors from the entire data set. This resulted in 100 per cent correct classification when the events were processed with the trained network. This is compared to the optimum planar decision surface which resulted in 5 errors and 19 uncertain classifications. In a control experiment, the network was trained with half of the events and tested with the remaining half. This resulted in 5 errors and 2 uncertain classifications. This compares with 3 errors in training, 2 errors in testing, and a total of 19 uncertain events obtained by the optimal linear classifier. One apparent advantage of the neural network over the linear classifier is the network's ability to determine complex patterns in the data, thus reducing the number of uncertain events.
+C1 RADIX SYST INC,2 TAFT COURT,SUITE 203,ROCKVILLE,MD 20850
+RP DYSART, PS (corresponding author), SCI APPLICAT INT CORP,1710 GOODRIDGE DR,MCLEAN,VA 22102, USA.
+CR Aki, K., 1980, QUANTITATIVE SEISMOL, VII
+   ANDERSON D, 1987, T AM GEOPHYS UNION, V68, P355
+   [Anonymous], 2019, IEEE ASSP MAGAZI APR, DOI DOI 10.1109/MASSP.1987.1165576
+   AVILES CA, 1986, T AM GEOPHYS UNION, V67, P1093
+   BARD, PY, 1985, B SEISMOL SOC AM, V75, P905
+   BAUMGARDT, DR, 1988, B SEISMOL SOC AM, V78, P1773
+   BENNETT, TJ, 1986, B SEISMOL SOC AM, V76, P1069
+   BENNETT TJ, 1989, SSSTR8910395 S CUB F
+   CLAYTON, RW, 1976, GEOPHYS J ROY ASTR S, V47, P151, DOI 10.1111/j.1365-246X.1976.tb01267.x
+   DOWLA, FU, 1990, B SEISMOL SOC AM, V80, P1346
+   DYSART PS, 1987, SAIC C8703 CTR SEISM
+   ENSLEIN K, 1977, STATISTICAL METHODS, V3, P96
+   Gorman, R. P., 1988, NEURAL NETWORKS, V1
+   GREENHALGH, SA, 1980, B SEISMOL SOC AM, V70, P2037
+   KEMERAIT, RC, 1982, GEOEXPLORATION, V20, P113, DOI 10.1016/0016-7142(82)90010-2
+   MAKHOUL J, 1989, JUN IEEE P INT JOINT
+   Menke, W., GEOPHYSICAL DATA ANA
+   Oppenheim, A.V., 1975, Digital Signal Processing
+   POMEROY, PW, 1982, B SEISMOL SOC AM, V72, PS89
+   PULLI, JJ, 1990, GEOPHYS RES LETT, V17, P977, DOI 10.1029/GL017i007p00977
+   Rumelhart, D.E, 1986, PARALLEL DISTRIBUTED, V1, DOI DOI 10.7551/MITPRESS/5236.001.0001
+   STOFFA PL, 1974, GEOPHYSICS, V39, P410
+   TJOSTHEIM D, 1981, 1980 P NATO ADV STUD
+   TRIBOLET JM, 1979, SEISMIC APPLICATION
+   Weichert, D. H., 1971, Zeitschrift fur Geophysik, V37, P147
+NR 25
+TC 78
+Z9 94
+U1 0
+U2 8
+PU SEISMOLOGICAL SOC AMER
+PI EL CERRITO
+PA PLAZA PROFESSIONAL BLDG, SUITE 201, EL CERRITO, CA 94530
+SN 0037-1106
+J9 B SEISMOL SOC AM
+JI Bull. Seismol. Soc. Amer.
+PD DEC 1990
+PY 1990
+VL 80
+IS 6
+PN B
+BP 1910
+EP 1933
+PG 24
+WC Geochemistry & Geophysics
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Geochemistry & Geophysics
+TO Earth Sciences (8); Geochemistry, Geophysics & Geology (8.8); Earthquake Dynamics (8.8.36)
+D3 1990-12-01
+GA ER197
+UT WOS:A1990ER19700009
+DA 2026-08-19
+ER
+
+PT J
+AU NA, HS
+AF NA, HS
+TI ARTIFICIAL-INTELLIGENCE IN TODAYS FACTORY
+SO ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+LA English
+DT Article; Proceedings Paper
+CT US-YUGOSLAV JOINT WORKSHOP ON ROBOTICS AND ARTIFICIAL INTELLIGENCE IN COMPTER-INTEGRATED MANUFACTURING
+CY APR 09-13, 1990
+CL BELGRADE, YUGOSLAVIA
+SP NATL SCI FDN, US YUGOSLAV JOINT FUND SCI & TECHNOL COOPERAT
+C1 [NA, HS] FORD MOTOR CO,CTR ROBOT,15100 MERCANTILE DR,DEARBORN,MI 48120, USA
+C3 Ford Motor Company
+RP NA, HS (corresponding author), FORD MOTOR CO,CTR ROBOT,15100 MERCANTILE DR,DEARBORN,MI 48120, USA.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0736-5845
+J9 ROBOT CIM-INT MANUF
+JI Robot. Comput.-Integr. Manuf.
+PD 1990
+PY 1990
+VL 7
+IS 3-4
+BP 315
+EP 320
+PG 6
+WC Computer Science, Interdisciplinary Applications; Engineering, Manufacturing; Robotics
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Robotics
+TO Electrical Engineering, Electronics & Computer Science (4); Supply Chain & Logistics (4.84); Manufacturing Scheduling (4.84.401)
+D3 1990-01-01
+GA FV110
+UT WOS:A1990FV11000016
+DA 2026-08-19
+ER
+
+PT J
+AU WEISS, P
+AF WEISS, P
+TI ON THE IMPOSSIBILITY OF ARTIFICIAL-INTELLIGENCE
+SO REVIEW OF METAPHYSICS
+LA English
+DT Article; Proceedings Paper
+CT 8TH INTERNATIONAL CONGRESS OF CYBERNETICS AND SYSTEMS
+CY JUN, 1990
+CL NEW YORK, NY
+C1 [WEISS, P] CATHOLIC UNIV AMER,WASHINGTON,DC 20064, USA
+C3 Catholic University of America
+RP WEISS, P (corresponding author), CATHOLIC UNIV AMER,WASHINGTON,DC 20064, USA.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU CATHOLIC UNIV AMER PRESS
+PI WASHINGTON
+PA 620 MICHIGAN AVENUE NE ADMIN BLDG ROOM 303, WASHINGTON, DC 20064
+SN 0034-6632
+J9 REV METAPHYS
+JI Rev. Metaphys.
+PD DEC 1990
+PY 1990
+VL 44
+IS 2
+BP 335
+EP 341
+PG 7
+WC Philosophy
+WE Conference Proceedings Citation Index - Social Science & Humanities (CPCI-SSH); Arts & Humanities Citation Index (A&HCI)
+SC Philosophy
+D3 1990-12-01
+GA ER491
+UT WOS:A1990ER49100004
+DA 2026-08-19
+ER
+
+PT J
+AU HENLEY, TB
+AF HENLEY, TB
+TI NATURAL PROBLEMS AND ARTIFICIAL-INTELLIGENCE
+SO BEHAVIOR AND PHILOSOPHY
+LA English
+DT Article; Proceedings Paper
+CT INTER-MOUNTAIN PHILOSOPHICAL CONF
+CY OCT, 1987
+CL KNOXVILLE, TN
+ID PROGRAMS
+C1 [HENLEY, TB] MISSISSIPPI STATE UNIV,DEPT PSYCHOL,MISSISSIPPI STATE,MS 39762, USA
+C3 Mississippi State University
+RP HENLEY, TB (corresponding author), MISSISSIPPI STATE UNIV,DEPT PSYCHOL,MISSISSIPPI STATE,MS 39762, USA.
+CR BECHTEL, W, 1985, METAPHILOSOPHY, V16, P296, DOI 10.1111/j.1467-9973.1985.tb00176.x
+   Block, N., 1976, The IQ Controversy
+   Boden, M., 1977, Artificial Intelligence and Natural Man
+   BURGHARDT, GM, 1980, BIOSCIENCE, V30, P763, DOI 10.2307/1308337
+   BURGHARDT, GM, 1985, AM PSYCHOL, V40, P905, DOI 10.1037/0003-066X.40.8.905
+   CAMPBELL J, 1984, ARTIFICIAL INTELLIGE
+   *COPS CPT, 1986, GUID COMP BAS TESTS
+   Dennett, David, 1978, BRAINSTORMS
+   DENNETT, DC, 1988, DAEDALUS, V117, P283
+   Dreyfus, Herbert., 1979, WHAT COMPUTERS STILL
+   EMMETT K, 1986, COMMUNICATION
+   FODOR J, 1985, MIDWEST STUD PHILOS, V10, P3
+   Gadamer, H-G., 1987, PHILOSOPHY
+   GLYMOUR C, 1986, OCT CHAP HILL C PHIL
+   Gould, S., 1981, The mismeasure of man
+   HAUGELAND, J, 1980, BEHAV BRAIN SCI, V3, P432, DOI 10.1017/S0140525X00005835
+   Haugeland, J., 1985, ARTIF INTELL
+   HERZOG, HA, 1988, AM PSYCHOL, V43, P473, DOI 10.1037/0003-066X.43.6.473
+   HOFSTADTER, DR, 1980, BEHAV BRAIN SCI, V3, P433, DOI 10.1017/S0140525X00005847
+   Jensen, A.R., 1980, GLOBAL ANGLICAN FUTU
+   Johnson, D.G., 1985, ETHICAL ISSUES USE C
+   JOHNSON DG, 1986, COMPUTER ETHICS
+   LLOYD, D, 1985, METAPHILOSOPHY, V16, P307, DOI 10.1111/j.1467-9973.1985.tb00177.x
+   MENZEL, EW, 1980, BEHAV BRAIN SCI, V3, P438, DOI 10.1017/S0140525X00005902
+   MINSKY M, 1968, SEMANTIC INFORMATION
+   NARAYANAN A, 1984, ARTIFICIAL INTELLIGE
+   PARKER DB, 1978, ETHICAL CONFLICTS CO
+   RACHLIN, H, 1980, BEHAV BRAIN SCI, V3, P444, DOI 10.1017/S0140525X00005951
+   REEKE, GN, 1988, DAEDALUS-US, V117, P143
+   RORTY, R, 1980, BEHAV BRAIN SCI, V3, P445, DOI 10.1017/S0140525X00005975
+   Rorty, Richard., 1979, Philosophy and the Mirror of Nature
+   SAGAN C, 1975, NATURAL HIST MAGAZIN
+   SCHANK, RC, 1980, BEHAV BRAIN SCI, V3, P446, DOI 10.1017/S0140525X00005987
+   SEARLE, JR, 1980, BEHAV BRAIN SCI, V3, P417, DOI 10.1017/S0140525X00006038
+   SNYDERMAN, M, 1987, AM PSYCHOL, V42, P137, DOI 10.1037/0003-066X.42.2.137
+   SOKOLOWSKI, R, 1988, DAEDALUS, V117, P45
+   Sternberg, R., 1986, Intelligence applied:Understanding and increasing your intellectual skills
+   TORRANCE S, 1986, ARTIFICIAL INTELLIGE
+   TROLL J, 1954, ATLANTIC MONTHLY JUL
+   Turing, AlanM., 1963, COMPUT THOUGHT, P11, DOI DOI 10.1093/MIND/LIX.236.433
+   VANDEVAT.D, 1971, PHILOS PHENOMEN RES, V32, P149, DOI 10.2307/2105945
+   Waldrop, MitchellM., 1987, Man-Made Minds: The Promise of Artificial Intelligence
+   WECHSLER D, 1939, MEASUREMENT ADULT IN
+   Weizenbaum, Joseph., 1976, COMPUTER POWER HUMAN
+NR 44
+TC 1
+Z9 1
+U1 0
+U2 2
+PU CAMBRIDGE CTR BEHAV STUDIES
+PI CAMBRIDGE
+PA 675 MASSACHUSETTS AVE, CAMBRIDGE, MA 02139-3309
+SN 0090-4155
+J9 BEHAV PHILOS
+JI Behav. Philos.
+PD FAL-WIN 1990
+PY 1990
+VL 18
+IS 2
+BP 43
+EP 55
+PG 13
+WC Ethics; Psychology, Multidisciplinary
+WE Conference Proceedings Citation Index - Social Science & Humanities (CPCI-SSH); Social Science Citation Index (SSCI); Arts & Humanities Citation Index (A&HCI)
+SC Social Sciences - Other Topics; Psychology
+TO Arts & Humanities (10); Philosophy (10.126); Epistemology and Metaphysics (10.126.1217)
+D3 1990-09-01
+GA FY084
+UT WOS:A1990FY08400004
+DA 2026-08-19
+ER
+
+PT J
+AU OHARE, GMP
+AF OHARE, GMP
+TI DESIGNING INTELLIGENT MANUFACTURING SYSTEMS - A DISTRIBUTED ARTIFICIAL-INTELLIGENCE APPROACH
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT 3RD INTERNATIONAL SUMMER SEMINAR ON INTELLIGENT MANUFACTURING SYSTEMS ( IMS-89 )
+CY AUG 28-SEP 02, 1990
+CL DUBROVNIK, YUGOSLAVIA
+C1 UNIV MANCHESTER,INST SCI & TECHNOL,DEPT COMPUTAT,MANCHESTER M60 1QD,LANCS,ENGLAND
+C3 University of Manchester
+RI O'Hare, Gregory M. P/AAA-7756-2022
+OI O'Hare, Gregory M. P/0000-0002-5124-1686
+CR [Anonymous], ARTIFICIAL INTELLIGE
+   [Anonymous], DISTRIBUTED ARTIFICI
+   Begg, V., 1984, DEV EXPERT CAD SYSTE
+   BENNETT J, 1981, 7TH P IJCAI VANC
+   CHANDRASEKARAN B, 1987, P 10 INT JOINT C ART, V2, P1183
+   CONROY GV, 1989, APR IEEE C EXP SYST
+   DAVIS, R, 1983, ARTIF INTELL-AMST, V20, P63, DOI 10.1016/0004-3702(83)90015-2
+   ERMAN LD, 1975, 4TH P IJCAI
+   ERMAN LD, 1981, 7 P IJCAI
+   Fennel, R.D., 1977, IEEE T COMPUT, VC-26
+   GASSER L, 1987, 3RD P IEEE C AI APPL
+   Gasser, L, 1987, DISTRIBUTED ARTIFICI
+   GENESERETH MR, 1984, HPP8441 STANF U STAN
+   GENESERETH MR, 1984, HPP8436 STANF U STAN
+   Gevarter, WillaimB., 1985, Intelligent Machines: An Introductory Perspective of Artificial Intelligence and Robotics
+   GREEN PE, 1987, DISTRIBUTED ARTIFICI
+   HERN LEC, 1988, KNOWLEDGE ENG REV, V3
+   HEWITT C, 1984, 28TH P IEEE COMPUTER
+   HEWITT C, 1977, ARTIF INTELL, V8
+   HUHNS MN, 1983, P IEEE SE C
+   JAGANNATHAN V, 1986, SIGART NEWSLETTER
+   LENAT DB, 1975, 4TH P IJCAI
+   LESSER VR, 1975, IEEE T ACOUST SPEECH, V23
+   O'Hare, G. M. P., 1986, Second International Expert Systems Conference, P137
+   OHARE GMP, 1989, CONCISE ENCY SOFTWAR
+   OHARE GMP, 1987, SEP P IFIP WORK C DI
+   OLIFF MD, 1988, INTELLIGENT MANUFACT
+   PARNAS, DL, 1972, COMMUN ACM, V15, P1053, DOI 10.1145/361598.361623
+   PARTRIDGE D, 1986, ARTIF INTELL REV, V1
+   PAU L, 1986, EXPERT SYST, V3
+   REDDY DR, 1973, 3RD P IJCAI
+   RYCHENER MD, 1985, EXPERT SYST, V2
+   SMITH RG, 1978, 2ND P C CAN SOC COMP
+   SMITH RG, 1980, IEEE T COMPUT, V29
+   SMITH RG, 1981, IEEE T SYST MAN CYBE, V11
+   SYAKA I, 1989, RES DEV EXPERT SYSTE, V5
+   TWINE S, 1989, RES DEV EXPERT SYSTE, V5
+   Young, Stephen John., 1982, Real time languages
+NR 38
+TC 24
+Z9 25
+U1 0
+U2 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD OCT 1990
+PY 1990
+VL 15
+IS 1-2
+BP 17
+EP 25
+DI 10.1016/0166-3615(90)90082-Z
+PG 9
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Supply Chain & Logistics (4.84); Manufacturing Scheduling (4.84.401)
+D3 1990-10-01
+GA EL902
+UT WOS:A1990EL90200004
+DA 2026-08-19
+ER
+
+PT J
+AU WARFIELD, B
+   SEMBER, P
+AF WARFIELD, B
+   SEMBER, P
+TI PROSPECTS FOR THE USE OF ARTIFICIAL-INTELLIGENCE IN REAL-TIME NETWORK TRAFFIC MANAGEMENT
+SO COMPUTER NETWORKS AND ISDN SYSTEMS
+LA English
+DT Article; Proceedings Paper
+CT SPECIALIST SEMINAR OF THE INTERNATIONAL TELETRAFFIC CONGRESS : TRAFFIC THEORIES FOR TELECOMMUNICATIONS SERVICES
+CY SEP 25-29, 1989
+CL ADELAIDE, AUSTRALIA
+SP TELECOM AUSTR; OVERSEAS TELECOMMUN COMMISS AUSTR
+DE ARTIFICIAL INTELLIGENCE; EXPERT SYSTEMS; NETWORK TRAFFIC MANAGEMENT
+ID TELEPHONE
+AB This paper describes results and plans for further work in the development of a proposed real-time network management system using a combination of conventional optimisation techniques and artificial intelligence (AI). The objective of the proposed system is to achieve the best possible performance from a circuit-switched network under adverse conditions (particularly traffic overload or equipment failure). It is proposed to develop a real-time AI system which will suggest good control actions quickly, and which will use a combination of conventional optimisation and AI to fine-tune the controls. The design of the proposed system, and its present state of development are described.
+C1 TELECOM AUSTRALIA,RES LABS,CLAYTON,AUSTRALIA
+CR ADDIE RG, 1985, 89 TEL AUSTR RES LAB
+   ASH, GR, 1981, AT&T TECH J, V60, P1787, DOI 10.1002/j.1538-7305.1981.tb00297.x
+   ASH GR, 1983, P ITC10 MONTREAL
+   ASH GR, 1981, BELL SYST TECH J, V60, P1828
+   BEL, G, 1985, LARGE SCALE SYST, V8, P267
+   DODD S, 1985, P ITC11 KYOTO
+   FILIPIAK, J, 1985, LARGE SCALE SYST, V8, P237
+   Fukuda, A., 1984, Electronics and Communications in Japan, V67, P41, DOI 10.1002/ecja.4400670806
+   GEORGEFF MP, 1988, SRI2851 INT PROJ
+   GUATTERY S, 1985, P EXPERT SYSTEMS GOV
+   GUERRERO A, 1983, P ITC10 MONTREAL
+   HAENSCHKE, DG, 1981, IEEE T COMMUN, V29, P376, DOI 10.1109/TCOM.1981.1095004
+   JIMINEZ S, 1988, TELECOMM J AUSTRA, V38
+   OTT TJ, 1985, P ITC11
+   SZYBICKI E, 1979, P INT SWITCHING S PA
+   SZYBICKI E, 1985, P ITC11 KYOTO
+   SZYBICKI E, 1979, P ITC9 TORREMOLINOS
+   WARFIELD RE, 1988, P ITC12 TORINO
+   WARFIELD RE, 1988, IEEE J SELECT AREAS, V6
+NR 19
+TC 1
+Z9 7
+U1 0
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-7552
+J9 COMPUT NETWORKS ISDN
+JI Comput. Netw. ISDN Syst.
+PD DEC 1990
+PY 1990
+VL 20
+IS 1-5
+BP 163
+EP 169
+DI 10.1016/0169-7552(90)90022-K
+PG 7
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+TO Electrical Engineering, Electronics & Computer Science (4); Distributed & Real Time Computing (4.46); Optical Networks (4.46.2769)
+D3 1990-12-01
+GA EP891
+UT WOS:A1990EP89100021
+DA 2026-08-19
+ER
+
+PT J
+AU PUN, L
+AF PUN, L
+TI UTILIZATION OF ARTIFICIAL-INTELLIGENCE TECHNIQUES FOR THE DESIGN OF PRODUCTION MANAGEMENT-SYSTEMS
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT 3RD INTERNATIONAL SUMMER SEMINAR ON INTELLIGENT MANUFACTURING SYSTEMS ( IMS-89 )
+CY AUG 28-SEP 02, 1990
+CL DUBROVNIK, YUGOSLAVIA
+C1 UNIV BORDEAUX 1,GRAI,PROD & AUTOMAT LAB,F-33405 TALENCE,FRANCE
+C3 Universite de Bordeaux
+CR [Anonymous], CATEGORIES WORKING M
+   BOUILLE F, 1977, THESIS U PARIS 4
+   CHANG SK, 1987, INT J PATTERN RECOGN, V1
+   CODD EF, 1970, CACM, V6
+   DOUMEINGTS, G, 1987, COMPUT IND, V9, P271, DOI 10.1016/0166-3615(87)90102-3
+   DOUMEINGTS G, 1983, GESTION PRODUCTION A
+   LAURIERE JL, 1988, INTELLIGENCE ARTIFIC, V2
+   LAURIERE JL, 1988, INTELLIGENCE ARTIFIC, V1
+   PUN L, 1988, JUL P INT C SYST SCI
+   PUN L, 1990, SYSTEMES IND INTELLI
+   SOMBE L, 1988, ACTES JOURNEES NATIO
+   Thayse, A., 1988, APPROCHE LOGIQUE INT, V1
+   TURNER R, 1986, LOGIQUE INTELLIGENCE
+NR 13
+TC 2
+Z9 2
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD OCT 1990
+PY 1990
+VL 15
+IS 1-2
+BP 7
+EP 15
+DI 10.1016/0166-3615(90)90081-Y
+PG 9
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Design & Manufacturing (4.224); Smart Manufacturing (4.224.1040)
+D3 1990-10-01
+GA EL902
+UT WOS:A1990EL90200003
+DA 2026-08-19
+ER
+
+PT J
+AU PARK, EH
+   NTUEN, CA
+   FERGUSON, G
+   PARK, YH
+AF PARK, EH
+   NTUEN, CA
+   FERGUSON, G
+   PARK, YH
+TI A TASK-ORIENTED SYSTEM SIMULATOR FOR TELEROBOTIC ENVIRONMENTS
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+LA English
+DT Article; Proceedings Paper
+CT 12TH ANNUAL CONF ON COMPUTERS AND INDUSTRIAL ENGINEERING
+CY MAR 12-14, 1990
+CL ORLANDO, FL
+AB This paper discusses a task-oriented simulator known as TOTSS, Task-Oriented Telerobotic System Simulator, developed by Robotic and Artificial Intelligence Laboratory(RAIL) at North Carolina A&T State University. TOTSS is a knowledge-based simulator for planning and scheduling activities in a telerobotic environment.
+C1 NEW MEXICO STATE UNIV,DEPT MANAGEMENT,LAS CRUCES,NM 88003
+C3 New Mexico State University
+RP PARK, EH (corresponding author), N CAROLINA AGR & TECHNOL STATE UNIV,DEPT IND ENGN,GREENSBORO,NC 27411, USA.
+CR FENTON WH, 1984, 4TH ANN UAH UAB ROB
+   HIRAI S, 1985, 15TH P INT S IND ROB, P137
+   MEINTEL AJ, 1982, SOC PHOTOOPTICAL INS
+   NOF, SY, 1980, AIIE T, V12, P216, DOI 10.1080/05695558008974509
+   NTUEN CA, 1988, 1988 P SE SIM C ORL, P122
+   NTUEN CA, 1988, 1988 P SE SIM C, P118
+   ORLANDO NE, 1986, 1ST INT C APPL AI EN
+   PENNINGTON JE, 1983, TM85653 NASA LANGL R
+   ROBERTS R, 1990, THESIS N CAROLINA A
+   SATO, T, 1987, IEEE T ROBOTIC AUTOM, V3, P476, DOI 10.1109/JRA.1987.1087123
+   SATO T, 1987, 3RD INT C ADV ROB IC
+NR 11
+TC 3
+Z9 3
+U1 0
+U2 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0360-8352
+J9 COMPUT IND ENG
+JI Comput. Ind. Eng.
+PD 1990
+PY 1990
+VL 19
+IS 1-4
+BP 484
+EP 488
+DI 10.1016/0360-8352(90)90165-I
+PG 5
+WC Computer Science, Interdisciplinary Applications; Engineering, Industrial
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Safety & Maintenance (4.237); Human-Automation Interaction (4.237.1238)
+D3 1990-01-01
+GA EQ444
+UT WOS:A1990EQ44400101
+DA 2026-08-19
+ER
+
+PT J
+AU LU, SCY
+AF LU, SCY
+TI MACHINE LEARNING APPROACHES TO KNOWLEDGE SYNTHESIS AND INTEGRATION TASKS FOR ADVANCED ENGINEERING AUTOMATION
+SO COMPUTERS IN INDUSTRY
+LA English
+DT Article; Proceedings Paper
+CT 3RD INTERNATIONAL SUMMER SEMINAR ON INTELLIGENT MANUFACTURING SYSTEMS ( IMS-89 )
+CY AUG 28-SEP 02, 1990
+CL DUBROVNIK, YUGOSLAVIA
+C1 UNIV ILLINOIS,DEPT MECH & IND ENGN,KNOWLEDGE BASED ENGN SYST RES LAB,URBANA,IL 61801
+C3 University of Illinois System; University of Illinois Urbana-Champaign
+CR CHEN K, 1987, XAUD TIM PROGR REPOR
+   FATHAUER DW, 1988, THESIS U ILLINOIS UR
+   FU HJ, 1985, THESIS U ILLINOIS UR
+   HONG J, 1986, UIUC DCSF86949 REP
+   LEE WD, 1986, THESIS U ILLINOIS UR
+   LU, SCY, 1988, FOURTH INTERNATIONAL CONFERENCE ON COMPUTER-AIDED PRODUCTION ENGINEERING, P507
+   LU SCY, 1987, SAE T, V96, P738
+   LU SCY, 1989, P NSF GRANTEES C MAN
+   LU SCY, 1989, T N AM MANUF RES I S, P260
+   LU SCY, 1988, J ARTFICIAL INTELL E, V1, P109
+   LU SCY, 1988, FUNDAMENTALS POLYM M, PCH12
+   LU SCY, 1989, J MANUF SYST
+   LU SCY, 1989, CIRP ANN, V39
+   LU SCY, 1985, AUG P ASME COMP ENG, P425
+   LU SCY, 1989, UNPUB J INTELL MANUF
+   LU SCY, 1989, UNPUB J ENG IND ASME
+   Michalski, R. S., 1980, International Journal of Policy Analysis and Information Systems, V4, P125
+   Michalski, R.S., 1983, MACHINE LEARNING ART, P83, DOI DOI 10.1016/B978-0-08-051054-5.50008-X
+   RAO RB, 1989, 1989 ANN REP KNOWL B, P101
+   RENDELL LA, 1986, UIUC DCSR861293 REP
+   ROSENBLATT, F, 1958, PSYCHOL REV, V65, P386, DOI 10.1037/h0042519
+   Simon, H.A., 1983, Machine Learning: An Artificial Intelligence Approach, V1, P25
+   Stepp, R.E., 1986, MACHINE LEARNING ART, VII, P471
+   TCHENG D, 1989, P IJCAI 89
+   Whitsel, BL., 1989, SENSORY PROCESSING M, P84
+   WINSTON, PH, 1980, COMMUN ACM, V23, P689, DOI 10.1145/359038.359042
+   [Anonymous], 1989, ANN REPORT KNOWLEDGE
+   [Anonymous], 1989, 1989 P ANN S KNOWL B
+NR 28
+TC 37
+Z9 43
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-3615
+J9 COMPUT IND
+JI Comput. Ind.
+PD OCT 1990
+PY 1990
+VL 15
+IS 1-2
+BP 105
+EP 120
+DI 10.1016/0166-3615(90)90088-7
+PG 16
+WC Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Clinical & Life Sciences (1); Neuroscanning (1.7); Category Learning (1.7.1591)
+D3 1990-10-01
+GA EL902
+UT WOS:A1990EL90200010
+DA 2026-08-19
+ER
+
+PT J
+AU ASFAHL, CR
+   BALAGAMWALA, A
+AF ASFAHL, CR
+   BALAGAMWALA, A
+TI SIMLOG - A PROLOG-BASED SIMULATOR FOR INDUSTRIAL LOGIC CONTROL-SYSTEMS
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+LA English
+DT Article; Proceedings Paper
+CT 12TH ANNUAL CONF ON COMPUTERS AND INDUSTRIAL ENGINEERING
+CY MAR 12-14, 1990
+CL ORLANDO, FL
+AB To an increasing extent, industrial engineers are being called upon to design automated systems for control of manufacturing processes. An alternate approach to hardware display panels for program experimentation is to use a software simulator. This paper discusses the development of such a simulation model in the powerful language PROLOG, which is ideal for artificial intelligence applications.
+C1 [ASFAHL, CR] UNIV ARKANSAS,DEPT IND ENGN,FAYETTEVILLE,AR 72701, USA
+C3 University of Arkansas System; University of Arkansas Fayetteville
+RP ASFAHL, CR (corresponding author), UNIV ARKANSAS,DEPT IND ENGN,FAYETTEVILLE,AR 72701, USA.
+CR [Anonymous], ROBOTS MANUFACTURING
+   KING C, 1989, LADDER LOGIC DIAGRAM
+   PARKER SC, 1989, NOV IIE INT SYST C A
+   [Anonymous], 1988, TURBO PROLOG NATURAL, P205
+   [Anonymous], 1986, TURBO PROLOG NATURAL
+NR 5
+TC 1
+Z9 1
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0360-8352
+J9 COMPUT IND ENG
+JI Comput. Ind. Eng.
+PD 1990
+PY 1990
+VL 19
+IS 1-4
+BP 195
+EP 199
+DI 10.1016/0360-8352(90)90104-T
+PG 5
+WC Computer Science, Interdisciplinary Applications; Engineering, Industrial
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Automation & Control Systems (4.29); Industrial Fault Detection (4.29.923)
+D3 1990-01-01
+GA EQ444
+UT WOS:A1990EQ44400040
+DA 2026-08-19
+ER
+
+PT J
+AU CHEVALIER, C
+   WARNATZ, J
+   MELENK, H
+AF CHEVALIER, C
+   WARNATZ, J
+   MELENK, H
+TI AUTOMATIC-GENERATION OF REACTION-MECHANISMS FOR THE DESCRIPTION OF THE OXIDATION OF HIGHER HYDROCARBONS
+SO BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS
+LA English
+DT Article; Proceedings Paper
+CT 89TH GENERAL ASSEMBLY OF THE DEUTSCHE-BUNSEN-GESELLSCHAFT-FUR-PHYSIKALISCHE-CHEMIE ( ON THE 65TH BIRTHDAY OF THEODOR ACKERMANN ) : CHEMICAL ELEMENTAL REACTIONS
+CY MAY 24-26, 1990
+CL TUBINGEN, FED REP GER
+SP DEUT BUNSEN GESELL PHYS CHEM
+DE CHEMICAL KINETICS; IGNITION
+ID MIXTURES
+AB Oxidation mechanisms even for rather simple hydrocarbons like heptane consist due to the occurrence of many isomeric structures of thousands of reactions of hundreds of species. The automatic generation of these reaction mechanisms using artificial intelligence means is described. Results are presented for n-heptane-air mixtures, where a hand-written reaction mechanism tested against experimental data is available.
+C1 KONRAD ZUSE ZENTRUM INFORMAT TECH BERLIN,BERLIN,GERMANY
+C3 Zuse Institute Berlin
+RP CHEVALIER, C (corresponding author), UNIV STUTTGART,INST TECH VERBRENNUNG,W-7000 STUTTGART 80,GERMANY.
+CR ADOMEIT G, 1989, COMMUNICATION
+   BENSON, SW, 1981, PROG ENERG COMBUST, V7, P125, DOI 10.1016/0360-1285(81)90007-1
+   CHEVALIER C, 1990, IN PRESS 2ND P INT S
+   COX, RA, 1985, COMBUST FLAME, V60, P109, DOI 10.1016/0010-2180(85)90001-X
+   DEUFLHARD P, 1985, SFB332 U HEID TECH R
+   DEUFLHARD P, 1985, SFB318 U HEID TECH R
+   ESSER C, 1985, P INT S DIAGN MOD CO, P335
+   Jost, W., 1946, Explosion and Combustion Processes in Gases
+   KIRSCH LJ, 1976, 16TH S INT COMB, P223
+   MAAS, U, 1988, COMBUST FLAME, V74, P53, DOI 10.1016/0010-2180(88)90086-7
+   MORGAN, CA, 1982, J CHEM SOC FARAD T 2, V78, P1323, DOI 10.1039/f29827801323
+   Pollard, R. T., 1977, COMPREHENSIVE CHEM K, V17
+   VOINOV AN, 1967, ZH FIZ KHIM+, V41, P605
+   WARNATZ, J, 1983, BER BUNSEN PHYS CHEM, V87, P1008, DOI 10.1002/bbpc.19830871111
+   Warnatz, J., 1981, 18 S INT COMBUSTION, P369
+   Westbrook, C.K., 1988, 22nd International Combustion Symposium, P893
+   [Anonymous], [No title captured]
+NR 17
+TC 72
+Z9 73
+U1 0
+U2 18
+PU VCH PUBLISHERS INC
+PI DEERFIELD BEACH
+PA 303 NW 12TH AVE, DEERFIELD BEACH, FL 33442-1788
+SN 0005-9021
+J9 BER BUNSEN PHYS CHEM
+JI Ber. Bunsen-Ges. Phys. Chem. Chem. Phys.
+PD NOV 1990
+PY 1990
+VL 94
+IS 11
+BP 1362
+EP 1367
+DI 10.1002/bbpc.199000033
+PG 6
+WC Chemistry, Physical
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+TO Engineering & Materials Science (7); Combustion (7.177); Combustion Dynamics (7.177.238)
+D3 1990-11-01
+GA EU906
+UT WOS:A1990EU90600033
+DA 2026-08-19
+ER
+
+PT J
+AU POPPLEWELL, K
+AF POPPLEWELL, K
+TI APPLYING ARTIFICIAL-INTELLIGENCE TECHNIQUES TO MODELING MANUFACTURING SYSTEMS
+SO MATHEMATICAL AND COMPUTER MODELLING
+LA English
+DT Article; Proceedings Paper
+CT 7TH INTERNATIONAL CONF ON MATHEMATICAL AND COMPUTER MODELLING IN SCIENCE AND TECHNOLOGY
+CY AUG 02-05, 1989
+CL CHICAGO, IL
+SP INT ASSOC MATH & COMP MODELLING; INT ASSOC MATH & COMP SIMULAT; PERGAMON PR; SOC ITALIANA BIOFIS PURA & APPL; SOC COMP SIMULAT; ACAD SCI USSR
+DE ARTIFICIAL INTELLIGENCE; SIMULATION; MANUFACTURING SYSTEMS; OBJECT-ORIENTED PROGRAMMING
+ID SIMULATION
+AB Artificial intelligence techniques promise significant advantages in discrete simulation modelling. In particular object-oriented programming offers the possibility of mapping simulated entities onto programme objects, so that class inheritance simplifies definition of similar, non-identical entities. A generalised object-oriented discrete simulation environment recently released as a commercial product provides an efficient model-building interface, comprehensive analysis facilities, and the capability of observing and modifying model behaviour during execution. However more important benefits are firstly that by specialising standard objects any desired complexity can be added to the environment, and secondly that a complex subsystem model can be defined as a composite object and included in higher level simulations. Such composites may also be replicated, either exactly or with some modification in the same or other simulations.This latter facility also offers the possibility of replacement of a subsystem model by a representative metamodel, where the performance of a composite representing part of a modelled system may be analysed so that a statistical model object can replace the composite, thus enhancing model performance.The commercial product is designed for general application, so standard object classes are designed to supply a generic range of functionality, and are named to reflect their function. The intention is that the process of specialisation can be used to modify the behaviour and nomenclature of standard classes to suit particular application needs, whilst more complex functionality, normally only used recurrently within an application area, can be provided by creation of composite object classes. Libraries containing both specialisations and composites are then constructed. Such libraries can be loaded into the programming environment to facilitate modelling in the specific application area. The methods of communication between objects defined within the commercial product are sufficiently general to operate without modification, and thus provide a protocol for transmission of objects specialised to meet application needs.This paper describes the development of a specialised manufacturing 'personality' of the environment including a range of typical manufacturing and control system objects, from the level of detail of individual machines up to generalised definitions of assembly lines and production control functions. The development has allowed modelling of real, complex manufacturing systems, and forms the basis for discussion of the benefits and difficulties of simulation in an object-oriented environment.
+C1 [POPPLEWELL, K] LOUGHBOROUGH UNIV TECHNOL,DEPT MFG ENGN,LOUGHBOROUGH LE11 3TU,LEICS,ENGLAND
+C3 Loughborough University
+RP POPPLEWELL, K (corresponding author), LOUGHBOROUGH UNIV TECHNOL,DEPT MFG ENGN,LOUGHBOROUGH LE11 3TU,LEICS,ENGLAND.
+OI Popplewell, Keith/0000-0003-3235-6303
+CR Bobrow, D. G., 1983, LOOPS MANUAL
+   CROOKES, JG, 1987, J OPER RES SOC, V38, P765, DOI 10.1057/jors.1987.124
+   DOUKIDIS, GI, 1987, J OPER RES SOC, V38, P701, DOI 10.2307/2582842
+   FRIEDMAN, LW, 1988, J OPER RES SOC, V39, P939, DOI 10.1057/palgrave.jors.0391006
+   OKEEFE, RM, 1987, J OPER RES SOC, V38, P713, DOI 10.2307/2582843
+   PAUL RJ, 1988, COLLECTED OR TUTORIA
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0895-7177
+J9 MATH COMPUT MODEL
+JI Math. Comput. Model.
+PD 1990
+PY 1990
+VL 14
+BP 1014
+EP 1019
+DI 10.1016/0895-7177(90)90330-P
+PG 6
+WC Computer Science, Interdisciplinary Applications; Computer Science, Software Engineering; Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+TO Social Sciences (6); Operations Research & Management Science (6.294); Distributed Simulation (6.294.1808)
+D3 1990-01-01
+GA EQ469
+UT WOS:A1990EQ46900192
+OA Bronze
+DA 2026-08-19
+ER
+
+PT J
+AU NTUEN, CA
+   PARK, EH
+   PARK, YH
+   KIM, JH
+   SOHN, KH
+AF NTUEN, CA
+   PARK, EH
+   PARK, YH
+   KIM, JH
+   SOHN, KH
+TI THE PERFORMANCE OF KIMS IN IMAGE RECOGNITION TASKS
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+LA English
+DT Article; Proceedings Paper
+CT 12TH ANNUAL CONF ON COMPUTERS AND INDUSTRIAL ENGINEERING
+CY MAR 12-14, 1990
+CL ORLANDO, FL
+ID INSPECTION; SYSTEM
+AB KIMS is an acronym for a Knowledge-Based Image Management System developed in the Robotics and Artificial Intelligence Laboratory (RAIL) at North Carolina A&T State University. KIMS model architecture consists of rules which are developed through statistical experimentation with thresholding and quality control chart algorithms. The control architecture of KIMS is driven by the pattern of these rules. KIMS can analyze features of an X-ray image of a manufactured product such as printed circuit board in a real-time mode and make decisions on whether there are defect symptoms in the product. In this paper we present the current performance of KIMS in product inspection decision.
+C1 N CAROLINA STATE UNIV,RALEIGH,NC 27695
+C3 North Carolina State University
+RP NTUEN, CA (corresponding author), N CAROLINA AGR & TECHNOL STATE UNIV,GREENSBORO,NC 27411, USA.
+CR BARND ML, 1978, IEEE T SYSTEMS MAN F, V8, P133
+   BASS L, 1989, IEEE T BIOMEDICAL EN, V31, P621
+   Boyer, K. L., 1984, First Conference on Artificial Intelligence Applications (Cat. No. 84CH2107-1), P45
+   BROOK RA, 1981, ARTIF INTELL, V17, P385
+   GILMORE JF, 1986, SPIE APPLICATIONS AR, V635, P143
+   GILMROE JF, 1985, SPIE DIGITAL IMAGE P, V634
+   HANSON A, 1978, VISIONS IMAGE UNDERS, P1
+   KIM JH, 1990, 22ND P SE S SYST THE
+   KUBICHEK RF, 1985, STATISTICAL MODELING, V18, P441
+   NTUEN, CA, 1989, COMPUT IND ENG, V16, P491, DOI 10.1016/0360-8352(89)90166-6
+   NTUEN CA, IN PRESS 6TH P IASTE
+   PARK YH, 1989, THESIS A T STATE U G
+   PERKINS, WA, 1984, PATTERN RECOGN, V17, P135, DOI 10.1016/0031-3203(84)90040-2
+   STEPHEN D, 1986, SPIE C APPLICATIONS, V635, P207
+   THOMPSON WB, 1977, P IJCAI 77, P274
+   WALKER, EL, 1988, ARTIF INTELL-AMST, V37, P275, DOI 10.1016/0004-3702(88)90057-4
+NR 16
+TC 1
+Z9 1
+U1 0
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0360-8352
+J9 COMPUT IND ENG
+JI Comput. Ind. Eng.
+PD 1990
+PY 1990
+VL 19
+IS 1-4
+BP 244
+EP 248
+DI 10.1016/0360-8352(90)90114-2
+PG 5
+WC Computer Science, Interdisciplinary Applications; Engineering, Industrial
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Computer Vision & Graphics (4.17); Defect Detection (4.17.1950)
+D3 1990-01-01
+GA EQ444
+UT WOS:A1990EQ44400050
+DA 2026-08-19
+ER
+
+PT J
+AU ALPHERTS, WCJ
+   ALDENKAMP, AP
+AF ALPHERTS, WCJ
+   ALDENKAMP, AP
+TI COMPUTERIZED NEUROPSYCHOLOGICAL ASSESSMENT OF COGNITIVE-FUNCTIONING IN CHILDREN WITH EPILEPSY
+SO EPILEPSIA
+LA English
+DT Article; Proceedings Paper
+CT SYMP TO THE 18TH INTERNATIONAL EPILEPSY CONGRESS - EPILEPSY AND EDUCATION : COGNITIVE FUNCTIONS IN LEARNING BEHAVIOR
+CY OCT, 1989
+CL NEW DELHI, INDIA
+SP CIBA GEIGY
+DE EPILEPSY; SEIZURES; CHILDREN; COGNITION; COGNITIVE DISORDERS; NEUROPSYCHOLOGICAL TESTS; COMPUTERIZED PSYCHOLOGICAL TESTS
+ID VISUAL SEARCHING TASK; BRAIN-DAMAGE; INDICATOR; VALIDITY; BATTERY
+AB The value of a range of computer-aided tests in the neuropsychological assessment was investigated in 94-177 children with epilepsy, aged 8-18 years, compared with 68-161 controls in the same age group. Children from the age of 8 years could cope with rather complex tests in a wide range of functions: reaction time measurements, motor speed, information processing, and memory. The speed of performance tended to increase with age in both groups, with differences in information processing becoming apparent from the age of 12 years. The precise control of stimulus and response required to define the mainly minor differences between the epilepsy and control groups can only be fulfilled by computerized testing, which should undergo further refinement including voice and language recognition, followed by artificial intelligence.
+C1 [ALPHERTS, WCJ] INST EPILEPSIEBESTRIJDING MEER & BOSCH CRUQUIUSHOEVE,POB 21,ACHTERWEG 5,2100 AA HEEMSTEDE,NETHERLANDS
+RP ALPHERTS, WCJ (corresponding author), INST EPILEPSIEBESTRIJDING MEER & BOSCH CRUQUIUSHOEVE,POB 21,ACHTERWEG 5,2100 AA HEEMSTEDE,NETHERLANDS.
+CR ALDENKAMP, AP, 1990, EPILEPSIA, V31, PS9, DOI 10.1111/j.1528-1157.1990.tb05874.x
+   ALDENKAMP, AP, 1987, EPILEPSIA, V28, P507, DOI 10.1111/j.1528-1157.1987.tb03679.x
+   ALPHERTS WCJ, 1987, ED EPILEPSY 1987, P101
+   CULL CA, 1987, HUMAN PSYCHOPHARMACO, P113
+   DEMITA, MA, 1981, BEHAV RES METH INSTR, V13, P592, DOI 10.3758/BF03202071
+   DODRILL, CB, 1979, J CLIN PSYCHOL, V35, P236, DOI 10.1002/1097-4679(197904)35:2<236::AID-JCLP2270350202>3.0.CO;2-9
+   GOLDEN CJ, 1989, COMPUTERIZED PSYCHOL, P344
+   GOLDSTEIN, G, 1973, J CONSULT CLIN PSYCH, V41, P434, DOI 10.1037/h0035350
+   KNIGHTS RM, 1973, AM J MENT RETARD, V78, P23
+   LEVIN HS, 1986, EXPT TECHNIQUES HUMA, P309
+   MOERLAND, MC, 1986, INT J MAN MACH STUD, V25, P453, DOI 10.1016/S0020-7373(86)80071-2
+   MOERLAND MC, 1988, COMPUTERS PSYCHOL ME, P157
+   Seidenberg, M., 1989, Childhood epilepsies: neuropsychological, psychosocial and intervention aspects, P71
+   STORES, G, 1978, EPILEPSIA, V19, P169, DOI 10.1111/j.1528-1157.1978.tb05027.x
+   VANDERVLUGT H, 1980, EPILEPSY BEHAVIOR, P91
+   [Anonymous], 1989, B TREE FILER 5 0 USE
+NR 16
+TC 60
+Z9 62
+U1 0
+U2 11
+PU LIPPINCOTT-RAVEN PUBL
+PI PHILADELPHIA
+PA 227 EAST WASHINGTON SQ, PHILADELPHIA, PA 19106
+SN 0013-9580
+J9 EPILEPSIA
+JI Epilepsia
+PD 1990
+PY 1990
+VL 31
+SU 4
+BP S35
+EP S40
+DI 10.1111/j.1528-1157.1990.tb05868.x
+PG 6
+WC Clinical Neurology
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology
+TO Clinical & Life Sciences (1); Epilepsy & Seizures (1.222); Epilepsy Treatment (1.222.143)
+D3 1990-01-01
+GA EW263
+PM 2279481
+UT WOS:A1990EW26300007
+DA 2026-08-19
+ER
+
+PT J
+AU MERCHANT, ME
+AF MERCHANT, ME
+TI WORLD TRENDS OF IMPORTANCE TO INTELLIGENT ROBOTIC CIM SYSTEMS
+SO ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+LA English
+DT Article; Proceedings Paper
+CT US-YUGOSLAV JOINT WORKSHOP ON ROBOTICS AND ARTIFICIAL INTELLIGENCE IN COMPTER-INTEGRATED MANUFACTURING
+CY APR 09-13, 1990
+CL BELGRADE, YUGOSLAVIA
+SP NATL SCI FDN, US YUGOSLAV JOINT FUND SCI & TECHNOL COOPERAT
+AB The reduction to practice of the concept of computer-integrated manufacturing (CIM) has moved painfully slowly in the more than 20 years since it came into being. However, within the past five years a very important world trend has emerged, namely a major commitment on the part of industry toward realistic and substantial accomplishment, in practice, of full computer-based integration of the overall system of manufacturing. With the emergence of the goal of accomplishing fully robotic operation of the technological system of manufacturing, and of the concept of the intelligent manufacturing system, the overall trend has now become one toward realization, in practice, of the computer-integrated intelligent robotic manufacturing system. That trend has generated important corollary trends which fall into two main categories, namely, enabling technologies for integration of the system of manufacturing and enabling technologies for imparting artificial intelligence to that system, both of which are required for accomplishing fully robotic operation of the technological system of manufacturing.
+C1 [MERCHANT, ME] INST ADV MFG SCI,1111 EDISON DR,CINCINNATI,OH, USA
+RP MERCHANT, ME (corresponding author), INST ADV MFG SCI,1111 EDISON DR,CINCINNATI,OH, USA.
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0736-5845
+J9 ROBOT CIM-INT MANUF
+JI Robot. Comput.-Integr. Manuf.
+PD 1990
+PY 1990
+VL 7
+IS 3-4
+BP 255
+EP 261
+PG 7
+WC Computer Science, Interdisciplinary Applications; Engineering, Manufacturing; Robotics
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Robotics
+TO Electrical Engineering, Electronics & Computer Science (4); Design & Manufacturing (4.224); Assembly Optimization (4.224.1307)
+D3 1990-01-01
+GA FV110
+UT WOS:A1990FV11000009
+DA 2026-08-19
+ER
+
+PT J
+AU ANDERSON, KR
+AF ANDERSON, KR
+TI PROGRAMMING AS A GEOPHYSICAL INVERSE PROBLEM
+SO BULLETIN OF THE SEISMOLOGICAL SOCIETY OF AMERICA
+LA English
+DT Article; Proceedings Paper
+CT INTERNATIONAL SYMP ON REGIONAL SEISMIC ARRAYS AND NUCLEAR TEST BAN VERIFICATION
+CY FEB 14-17, 1990
+CL OSLO, NORWAY
+ID SEISMIC EVENTS; ARRAYS; NETWORK
+AB The detections and events produced by autonomous seismic data analysis systems, such as those of the NORESS and ARCESS seismic arrays, and seismic networks around the world, are a fundamental source of seismic data that underlies a wide variety of seismic research. While shortcomings in the performance of such systems may become obvious over time, remedying them can be difficult and problems with an autonomous system may persist indefinitely. This paper describes how the performance of autonomous systems can be improved over time using optimization and machine learning techniques. For example: 1. Optimization techniques such as Genetic Algorithms can optimize the rule thresholds of existing systems. 2. Supervised learning techniques such as neural networks, ID3, and CART can synthesize algorithms out of the data itself given only the levels of human supervision used in routine seismic processing. Experiments using autonomic detections from the NORESS and ARCESS array demonstrate how components of an autonomous system can be developed automatically with minimal human guidance.
+C1 [ANDERSON, KR] BBN STC,10 MOULTON ST,MAIL STOP 14-1B,CAMBRIDGE,MA 02238, USA
+RP ANDERSON, KR (corresponding author), BBN STC,10 MOULTON ST,MAIL STOP 14-1B,CAMBRIDGE,MA 02238, USA.
+CR Aki, K., 1980, QUANTITATIVE SEISMOL, VII
+   ANDERSON, KR, 1982, GEOEXPLORATION, V20, P161, DOI 10.1016/0016-7142(82)90013-8
+   ANDERSON KR, 1982, INFORMATION SCI, V31, P231
+   ANDERSON KR, 1982, SEISMIC DISCRIMINATI
+   [Anonymous], 2019, IEEE ASSP MAGAZI APR, DOI DOI 10.1109/MASSP.1987.1165576
+   BACHE, TC, 1990, B SEISMOL SOC AM, V80, P1833
+   BLANDFORD, RR, 1982, B SEISMOL SOC AM, V72, PS69
+   BRATT, SR, 1988, B SEISMOL SOC AM, V78, P780
+   Brieman, L., 1984, Classification and regression trees
+   CRAWFORD, SL, 1989, INT J MAN MACH STUD, V31, P197, DOI 10.1016/0020-7373(89)90027-8
+   DAVIS D, 1989, 3RD P INT C GEN ALG, P61
+   EFRON, B, 1983, J AM STAT ASSOC, V78, P316, DOI 10.2307/2288636
+   Goldberg, David E., 1989, GENETIC ALGORITHMS S
+   HOLLAND JH, 1975, ADAPTATION NATURAL A
+   MYKKELTVEIT, S, 1990, B SEISMOL SOC AM, V80, P1777
+   MYKKELTVEIT, S, 1984, B SEISMOL SOC AM, V74, P2313
+   NASH JC, 1979, COMPACT NUMERICAL ME, P141
+   NELDER, JA, 1965, COMPUT J, V7, P308, DOI 10.1093/comjnl/7.4.308
+   PAO YH, 1989, ADAPTIVE PATTERN REC, P85
+   Parkinson, J M., 1972, Numerical Methods for Nonlinear Optimization, P115
+   Press, W.H., 1986, NUMERICAL RECIPES, P289
+   Quinlan, J.R., 1983, Machine Learning, P463, DOI 10.1007/978-3-662-12405-5_15
+   RINGDAL, F, 1982, B SEISMOL SOC AM, V72, PS201
+   SCHNABEL BK, 1962, THESIS U LEEDS LEEDS
+NR 24
+TC 2
+Z9 2
+U1 0
+U2 0
+PU SEISMOLOGICAL SOC AMER
+PI EL CERRITO
+PA PLAZA PROFESSIONAL BLDG, SUITE 201, EL CERRITO, CA 94530
+SN 0037-1106
+J9 B SEISMOL SOC AM
+JI Bull. Seismol. Soc. Amer.
+PD DEC 1990
+PY 1990
+VL 80
+IS 6
+PN B
+BP 1893
+EP 1909
+PG 17
+WC Geochemistry & Geophysics
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Geochemistry & Geophysics
+TO Earth Sciences (8); Geochemistry, Geophysics & Geology (8.8); Earthquake Dynamics (8.8.36)
+D3 1990-12-01
+GA ER197
+UT WOS:A1990ER19700008
+DA 2026-08-19
+ER
+
+PT J
+AU LU, SCY
+AF LU, SCY
+TI KNOWLEDGE PROCESSING FOR CONCURRENT ENGINEERING - AN EVOLVING CHALLENGE IN CIM RESEARCH
+SO ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+LA English
+DT Article; Proceedings Paper
+CT US-YUGOSLAV JOINT WORKSHOP ON ROBOTICS AND ARTIFICIAL INTELLIGENCE IN COMPTER-INTEGRATED MANUFACTURING
+CY APR 09-13, 1990
+CL BELGRADE, YUGOSLAVIA
+SP NATL SCI FDN, US YUGOSLAV JOINT FUND SCI & TECHNOL COOPERAT
+AB As technological tasks in CIM environments become more complicated, the level of intelligence required to automate and integrate these tasks also evolves with increasing complexity. This paper classifies CIM tasks and their required intelligence into facility, data and decision levels, and discusses the automation and integration of those knowledge-intensive CIM tasks at their decision level. Since decision-level tasks are often more abstract than those at the facility and data levels, a systematic approach is necessary to build research programs for the automation of these tasks. This paper will use the decision-level task of concurrent engineering as an example to explain the five-step approach that we have adapted to form our research programs in this evolving area of CIM research. These five steps are: (1) perform analysis of the task and its needed decision-level supports, (2) conceptualize these analysis results into a concise framework, (3) propose a software paradigm for the conceptual framework, (4) identify functional requirements from this paradigm to guide software implementations, and (5) correlate implementation results to identify a fundamental technology. More specifically, the analysis of concurrent engineering tasks in CIM can be found in Section 2. Section 3 explains the conceptualization process which views decision making activities as mappings and loops between a control and performance space. In Section 4, concurrent engineering is modeled as a team problem-solving process participated in by multiple cooperating knowledge sources (MCKS) with overlapping expertise to perform those loops. Several functional requirements are identified from this MCKS model of concurrent engineering and example research activities to address these challenges are described in Section 5. The correlations in Section 6 indicate that the knowledge processing technology, evolved from applied artificial intelligence research, is a fundamental technology for building intelligent systems to support various knowledge-intensive CIM tasks at their decision level.
+C1 [LU, SCY] UNIV ILLINOIS,DEPT MECH & IND ENGN,KNOWLEDGE BASED ENGN SYST RES LAB,1206 W GREEN ST,URBANA,IL 61801, USA
+C3 University of Illinois System; University of Illinois Urbana-Champaign
+RP LU, SCY (corresponding author), UNIV ILLINOIS,DEPT MECH & IND ENGN,KNOWLEDGE BASED ENGN SYST RES LAB,1206 W GREEN ST,URBANA,IL 61801, USA.
+NR 0
+TC 2
+Z9 4
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0736-5845
+J9 ROBOT CIM-INT MANUF
+JI Robot. Comput.-Integr. Manuf.
+PD 1990
+PY 1990
+VL 7
+IS 3-4
+BP 263
+EP 277
+DI 10.1016/0736-5845(90)90011-V
+PG 15
+WC Computer Science, Interdisciplinary Applications; Engineering, Manufacturing; Robotics
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Robotics
+TO Electrical Engineering, Electronics & Computer Science (4); Automation & Control Systems (4.29); Industrial Fault Detection (4.29.923)
+D3 1990-01-01
+GA FV110
+UT WOS:A1990FV11000010
+DA 2026-08-19
+ER
+
+PT J
+AU DEROCHEBRUNE, A
+   DEDULLE, JM
+   SABONNADIERE, JC
+AF DEROCHEBRUNE, A
+   DEDULLE, JM
+   SABONNADIERE, JC
+TI A TECHNIQUE OF HOMOGENIZATION APPLIED TO THE MODELING OF TRANSFORMERS
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT CONF ON THE COMPUTATION OF ELECTROMAGNETIC FIELDS ( COMPUMAG - TOKYO )
+CY SEP 03-07, 1989
+CL TOKYO, JAPAN
+SP UNIV TOKYO, NUCL ENGN RES LAB
+C1 [DEROCHEBRUNE, A] INST NATL POLYTECH GRENOBLE,ECOLE NATL SUPER IND ELECT GRENOBLE,LAB ELECTROTECH GRENOBLE,BP 46,F-38402 ST MARTIN DHERES,FRANCE
+C3 Communaute Universite Grenoble Alpes; Institut National Polytechnique de Grenoble
+RP DEROCHEBRUNE, A (corresponding author), INST NATL POLYTECH GRENOBLE,ECOLE NATL SUPER IND ELECT GRENOBLE,LAB ELECTROTECH GRENOBLE,BP 46,F-38402 ST MARTIN DHERES,FRANCE.
+CR BARTON ML, 1980, IEEE T
+   SABONNADIERE JC, 1985, CAO ELECTROTECHNIQUE
+   SUQUET, P, 1982, Plasticite et Homogeneisation
+   WEXLER A, 1973, IEEE T
+NR 4
+TC 15
+Z9 16
+U1 0
+U2 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAR 1990
+PY 1990
+VL 26
+IS 2
+BP 520
+EP 523
+DI 10.1109/20.106368
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Physics
+TO Physics (5); Electromagnetism (5.88); Magnetostriction (5.88.1216)
+D3 1990-03-01
+GA DE713
+UT WOS:A1990DE71300042
+DA 2026-08-19
+ER
+
+PT J
+AU SU, Q
+   JAMES, RE
+   SUTANTO, D
+AF SU, Q
+   JAMES, RE
+   SUTANTO, D
+TI A Z-TRANSFORM MODEL OF TRANSFORMERS FOR THE STUDY OF ELECTROMAGNETIC TRANSIENTS IN POWER-SYSTEMS
+SO IEEE TRANSACTIONS ON POWER SYSTEMS
+LA English
+DT Article; Proceedings Paper
+CT 1989 SUMMER MEETING OF THE IEEE
+CY JUL 09-14, 1989
+CL LONG BEACH, CA
+SP IEEE, POWER ENGN SOC
+C1 [SU, Q] UNIV NEW S WALES,DEPT ELECT POWER ENGN,POB 1,KENSINGTON,NSW 2033,AUSTRALIA
+C3 University of New South Wales Sydney
+RP SU, Q (corresponding author), UNIV NEW S WALES,DEPT ELECT POWER ENGN,POB 1,KENSINGTON,NSW 2033,AUSTRALIA.
+OI Sutanto, Darmawan/0000-0002-2497-2766
+CR ABETTI PA, 1953, AIEE T 3, V72, P468
+   Bose, A. K., 1986, Elektrotechniek, V64, P71
+   CRISTINA, S, 1982, IEE PROC-C, V129, P172, DOI 10.1049/ip-c.1982.0029
+   DAMORE M, 1979, SUM IEEE PES TEXT AB
+   FERGESTAD, PI, 1974, IEEE T POWER AP SYST, VPA93, P500, DOI 10.1109/TPAS.1974.293997
+   HUMPAGE WD, IEE POWER ENG, V3
+   HUMPAGE WD, 1980, P IEE C, V127, P370
+   MARGOLIS, HB, 1975, IEEE T POWER AP SYST, V94, P1294, DOI 10.1109/T-PAS.1975.31967
+   MCNUTT WJM, 1974, IEEE PAS, V93, P456
+   SOYSAL AO, 1985, IEEE T, P134
+NR 10
+TC 14
+Z9 18
+U1 0
+U2 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0885-8950
+J9 IEEE T POWER SYST
+JI IEEE Trans. Power Syst.
+PD FEB 1990
+PY 1990
+VL 5
+IS 1
+BP 27
+EP 33
+DI 10.1109/59.49082
+PG 7
+WC Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 1990-02-01
+GA CJ153
+UT WOS:A1990CJ15300004
+DA 2026-08-19
+ER
+
+EF  

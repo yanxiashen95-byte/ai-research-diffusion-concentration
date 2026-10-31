@@ -1,0 +1,1129 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Krah, JH
+   Engdahl, G
+AF Krah, JH
+   Engdahl, G
+TI A transformer model based on optimized Cauer circuits - art. no. 10Q704
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article; Proceedings Paper
+CT 49th Annual Conference on Magnetism and Magnetic Materials
+CY NOV 07-11, 2004
+CL Jacksonville, FL
+SP Phys Conf Inc; IEEE Magnet Soc; Amer Ceram Soc; USN, Off Naval Res; Amer Phys Soc; ASTM Int; Minerals, Met & Mat Soc
+ID FUNDAMENTAL APPROACH; HYSTERESIS
+AB A transformer model is presented where both winding and core were modeled by Cauer circuits in order to take into account eddy currents. The physical property of the magnetic circuit allowed the insertion of a hysteresis model. Thermal effects in the winding insulation were also modeled by a Cauer circuit. The discretization of the circuits was optimized by an iterative method that fits the reluctance of a core part or the impedance of a winding layer to known analytical solutions. This reduced the number of required circuit elements substantially and the accuracy was increased. (c) 2005 American Institute of Physics.
+C1 Royal Inst Technol, Dept Elect Engn, S-10044 Stockholm, Sweden
+C3 Royal Institute of Technology
+RP Krah, JH (corresponding author), Royal Inst Technol, Dept Elect Engn, Teknikringen 33, S-10044 Stockholm, Sweden.
+EM goran.engdahl@ekc.kth.se; julius@ekc.kth.se
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 7
+PU AIP Publishing
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 0021-8979
+EI 1089-7550
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD MAY 15 2005
+PY 2005
+VL 97
+IS 10
+PN 3
+AR 10Q704
+DI 10.1063/1.1854473
+PG 3
+WC Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Physics
+TO Physics (5); Electromagnetism (5.88); Magnetostriction (5.88.1216)
+D3 2005-05-15
+GA 940TQ
+UT WOS:000230168500295
+DA 2026-08-19
+ER
+
+PT J
+AU Abdulsalam, SG
+   Xu, W
+   Dinavahi, V
+AF Abdulsalam, SG
+   Xu, W
+   Dinavahi, V
+TI Modelling and simulation of three-phase transformers for inrush current studies
+SO IEE PROCEEDINGS-GENERATION TRANSMISSION AND DISTRIBUTION
+LA English
+DT Article
+ID TRANSIENTS
+AB A fast and stable approach for the simulation of transformer nonlinearities during transient and unbalanced operating conditions is given. The proposed scheme implements separate magnetic and electric equivalent circuits. The solution of the transformer nonlinear mathematical model is carried out using the Newton-Raphson iterative method. Introducing the magnetic circuit nonlinearities into the model as either continuous or piecewise functions eliminated the difficulty of the Jacobian formation. The method was verified against experimental and computed results. The application of the Jacobian iterative method increased the stability and convergence of the solution as compared to a predictor corrector scheme. The proposed method was able to accurately simulate the transformer behaviour under switching and no-load conditions.
+C1 Univ Alberta, Dept Elect & Comp Engn, Edmonton, AB T6G 2V4, Canada
+C3 University of Alberta
+RP Abdulsalam, SG (corresponding author), Univ Alberta, Dept Elect & Comp Engn, Edmonton, AB T6G 2V4, Canada.
+OI Dinavahi, Venkata/0000-0001-7438-9547
+NR 15
+TC 13
+Z9 15
+U1 0
+U2 5
+PU IEE-INST ELEC ENG
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD SG1 2AY, ENGLAND
+SN 1350-2360
+J9 IEE P-GENER TRANSM D
+JI IEE Proc.-Gener. Transm. Distrib.
+PD MAY 2005
+PY 2005
+VL 152
+IS 3
+BP 328
+EP 333
+DI 10.1049/ip-gtd:20041060
+PG 6
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Fault Detection (4.18.1055)
+D3 2005-05-01
+GA 934ZQ
+UT WOS:000229748600005
+DA 2026-08-19
+ER
+
+PT J
+AU Castro, ARG
+   Miranda, V
+AF Castro, ARG
+   Miranda, V
+TI Knowledge discovery in neural networks with application to transformer failure diagnosis
+SO IEEE TRANSACTIONS ON POWER SYSTEMS
+LA English
+DT Article
+DE fault diagnosis; fuzzy logic; neural networks
+ID FAULT-DIAGNOSIS; RULES; EXTRACTION
+AB The paper describes a new methodology for mapping a neural network into a rule-based fuzzy inference system. This mapping makes explicit the knowledge implicitly captured by the neural network during the learning stage, by transforming it into a set of rules. The method is applied in transformer fault diagnosis using dissolved gas-in-oil analysis. Studies on transformer failure diagnosis are reported, illustrating the good results obtained and the knowledge discovery made possible.
+C1 INESC, Oporto, Portugal; Fed Univ Para, NESC UFPA, BR-66059 Belem, Para, Brazil; Univ Porto, Fac Engn, FEUP, P-4200465 Oporto, Portugal
+C3 INESC TEC; Universidade do Porto; Universidade Federal do Para; Universidade do Porto
+RP Castro, ARG (corresponding author), INESC, Oporto, Portugal.
+EM acastro@inescporto.pt; vmiranda@inescporto.pt
+RI Castro, Adriana/HGU-4524-2022; Miranda, Vladimiro/H-6245-2012
+OI CASTRO, ADRIANA/0000-0001-5884-4511; Miranda, Vladimiro/0000-0002-5772-8452
+NR 20
+TC 67
+Z9 84
+U1 0
+U2 20
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8950
+J9 IEEE T POWER SYST
+JI IEEE Trans. Power Syst.
+PD MAY 2005
+PY 2005
+VL 20
+IS 2
+BP 717
+EP 724
+DI 10.1109/TPWRS.2005.846074
+PG 8
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2005-05-01
+GA 921QF
+UT WOS:000228778800024
+DA 2026-08-19
+ER
+
+PT J
+AU Cheng, KWE
+AF Cheng, KWE
+TI Modeling of solenoidal transformer for the calculation of leakage inductance using eddy-current reaction field
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 11th IEEE Biennial Conference on Electromagnetic Field Computation
+CY JUN 06-09, 2004
+CL Seoul, SOUTH KOREA
+SP IEEE Magnet Soc; Seoul Natl Univ
+DE inductor; power conversion; transformer
+ID WINDINGS; LOSSES
+AB The design of high-frequency power converter is very difficult because the leakage inductance of the transformer affects the performance. With consideration of the high-frequency eddy current, the flux linkage due to the eddy-current reaction field using a proposed summation calculation method is computed. The leakage inductance of a high-frequency transformer is therefore characterized. An optimum design method of the transformer can be obtained. Experimental results confirm the affectivity of the calculation method.
+C1 Hong Kong Polytech Univ, Dept Elect Engn, Hong Kong, Hong Kong, Peoples R China
+C3 Hong Kong Polytechnic University
+RP Cheng, KWE (corresponding author), Hong Kong Polytech Univ, Dept Elect Engn, Hong Kong, Hong Kong, Peoples R China.
+OI CHENG, Eric Ka Wai/0000-0003-2615-5169
+NR 5
+TC 1
+Z9 1
+U1 0
+U2 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAY 2005
+PY 2005
+VL 41
+IS 5
+BP 1996
+EP 1999
+DI 10.1109/TMAG.2005.846274
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Physics
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Converter Technologies (4.18.334)
+D3 2005-05-01
+GA 925WN
+UT WOS:000229084200161
+OA Green Submitted
+DA 2026-08-19
+ER
+
+PT J
+AU Janet, F
+   Coulomb, JL
+   Chillet, C
+   Mas, P
+AF Janet, F
+   Coulomb, JL
+   Chillet, C
+   Mas, P
+TI Magnetic moment and reluctance network mixed method applied to transformer's modeling
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 11th IEEE Biennial Conference on Electromagnetic Field Computation
+CY JUN 06-09, 2004
+CL Seoul, SOUTH KOREA
+SP IEEE Magnet Soc; Seoul Natl Univ
+DE closed circuit device modeling; current transformer; magnetic devices; magnetic leakage; moment method
+AB The aim of the study is to find a method to model electromagnetic devices which generate consequent magnetic leakage. Classical methods have proved to be efficient but time consuming. The method proposed in this paper is based on the magnetic moment method (MMM). An original methodology to obtain a simplified MMM model is described, adjusted with simple RNM model results. Besides the good accuracy, the simplicity of the model makes it possible to consider complicated studies with reasonable resolution times.
+C1 ENSIEG, INPG UJF, Schneider Elect, CNRS UMR 5529, F-38402 St Martin Dheres, France; ENSIEG, INPG UJF, LEG, CNRS UMR 5529, F-38402 St Martin Dheres, France
+C3 Centre National de la Recherche Scientifique (CNRS); Communaute Universite Grenoble Alpes; Institut National Polytechnique de Grenoble; Universite Grenoble Alpes (UGA); Schneider Electric; Centre National de la Recherche Scientifique (CNRS); Communaute Universite Grenoble Alpes; Institut National Polytechnique de Grenoble; Universite Grenoble Alpes (UGA)
+RP Janet, F (corresponding author), ENSIEG, INPG UJF, Schneider Elect, CNRS UMR 5529, BP 46, F-38402 St Martin Dheres, France.
+NR 7
+TC 10
+Z9 17
+U1 0
+U2 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-9464
+EI 1941-0069
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAY 2005
+PY 2005
+VL 41
+IS 5
+BP 1428
+EP 1431
+DI 10.1109/TMAG.2005.844542
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Physics
+TO Physics (5); Laser Science (5.107); Free Electron Laser (5.107.840)
+D3 2005-05-01
+GA 925WN
+UT WOS:000229084200019
+OA Green Submitted
+DA 2026-08-19
+ER
+
+PT J
+AU Tsili, M
+   Kladas, A
+   Georgilakis, P
+   Souflaris, A
+   Paparigas, D
+AF Tsili, M
+   Kladas, A
+   Georgilakis, P
+   Souflaris, A
+   Paparigas, D
+TI Numerical techniques for design and modeling of distribution transformers
+SO JOURNAL OF MATERIALS PROCESSING TECHNOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 3rd Japanese/Mediterranean Workshop on Applied Electronmagnetic Engineering for Magnetic and Superconducting Materials/3rd Superconducting Flywheel Workshop
+CY MAY 19-21, 2003
+CL Athens, GREECE
+SP Natl Tech Univ Athens, Lab Mfg Technol; Japan Soc Appl Electromagnet & Mach; Natl Tech Univ Athems, Lab Elect Mach
+DE distribution transformers; methodology; geometrical parameters
+ID HYBRID FINITE-ELEMENT; MAGNETIC-FIELD; LOSSES; FLUX
+AB Power transformer analysis and design focusing on the equivalent circuit parameter evaluation by magnetic field numerical calculation is presented. The proposed method adopts a particular reduced scalar potential formulation enabling 3D magnetostatic problem solution. This method, necessitating no source field calculation, in conjunction with a mixed finite element - boundary element technique, results in a very efficient 3D numerical model for power transformer design office use. Computed results are validated through measurements. Such a methodology is very promising for investigation concerning losses and short circuit voltage variations with the main geometrical parameters. (c) 2004 Elsevier B.V. All rights reserved.
+C1 Natl Tech Univ Athens, Fac Elect & Comp Engn, Lab Elect Machines, Elect Power Div, Athens 15780, Greece; Schneider Elect AE, Elvim Plant, Inofyta Viotia, Greece
+C3 National Technical University of Athens; Schneider Electric
+RP Kladas, A (corresponding author), Natl Tech Univ Athens, Fac Elect & Comp Engn, Lab Elect Machines, Elect Power Div, 9 Iroon Polytech St, Athens 15780, Greece.
+EM kladasel@central.ntua.gr; pavlos_georgilakis@mail.schneider.fr; dimitris_paparigas@mail.schneider.fr; thanassis_souflaris@mail.schneider.fr; mtsili@central.ntua.gr
+RI Georgilakis, Pavlos/N-8186-2017; Kladas, Antonios/F-4011-2015
+OI Georgilakis, Pavlos/0000-0001-7231-7662
+NR 10
+TC 5
+Z9 6
+U1 0
+U2 3
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0924-0136
+J9 J MATER PROCESS TECH
+JI J. Mater. Process. Technol.
+PD APR 10 2005
+PY 2005
+VL 161
+IS 1-2
+SI SI
+BP 320
+EP 326
+DI 10.1016/j.jmatprotec.2004.07.044
+PG 7
+WC Engineering, Industrial; Engineering, Manufacturing; Materials Science, Multidisciplinary
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Materials Science
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2005-04-10
+GA 929VR
+UT WOS:000229375200058
+OA Green Submitted
+DA 2026-08-19
+ER
+
+PT J
+AU Dervos, CT
+   Paraskevas, CD
+   Skafidas, PD
+   Vassiliou, P
+AF Dervos, CT
+   Paraskevas, CD
+   Skafidas, PD
+   Vassiliou, P
+TI A complex permittivity based sensor for the electrical characterization of high-voltage transformer oils
+SO SENSORS
+LA English
+DT Article; Proceedings Paper
+CT 2nd International Symposium on Sensor Science (I3S 2004)
+CY MAY 29-JUN 03, 2004
+CL Nanjing Univ, Nanjing, PEOPLES R CHINA
+HO Nanjing Univ
+DE dielectric spectroscopy; polarization effects; transformer oils; tan delta; insulation aging
+ID POWER TRANSFORMERS; DIAGNOSTICS; INSULATION; FREQUENCY; EQUIPMENT; PAPER
+AB This work investigates the use of a specially designed cylindrical metal cell, in order to obtain complex permittivity and tan delta data of highly insulating High Voltage (HV) transformer oil samples. The data are obtained at a wide range of frequencies and operation temperatures to demonstrate the polarization phenomena and the thermally stimulated effects. Such complex permittivity measurements may be utilized as a criterion for the service life prediction of oil field electrical equipment (OFEE). Therefore, by one set of measurements on a small oil volume, data may be provided on the impending termination, or continuation of the transformer oil service life. The oil incorporating cell, attached to the appropriate measuring units, could be described as a complex permittivity sensor. In this work, the acquired dielectric data from a great number of operating distribution network power transformers were correlated to corresponding physicochemical ones to demonstrate the future potential employment of the proposed measuring technique.
+C1 Natl Tech Univ Athens, Sch Elect & Comp Engn, Athens 15780, Greece; Natl Tech Univ Athens, Sch Chem Engn, Athens 15780, Greece
+C3 National Technical University of Athens; National Technical University of Athens
+RP Dervos, CT (corresponding author), Natl Tech Univ Athens, Sch Elect & Comp Engn, 9 Iroon Polytech Str, Athens 15780, Greece.
+EM cdervos@central.ntua.gr
+NR 13
+TC 21
+Z9 31
+U1 0
+U2 6
+PU MOLECULAR DIVERSITY PRESERVATION INTERNATIONAL
+PI BASEL
+PA MATTHAEUSSTRASSE 11, CH-4057 BASEL, SWITZERLAND
+SN 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD APR-MAY 2005
+PY 2005
+VL 5
+IS 4-5
+BP 302
+EP 316
+DI 10.3390/s5040302
+PG 16
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Instruments & Instrumentation
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2005-04-01
+GA 954LB
+UT WOS:000231155500019
+OA gold; Green Submitted
+DA 2026-08-19
+ER
+
+PT J
+AU García, B
+   Burgos, JC
+   Alonso, AM
+   Sanz, J
+AF García, B
+   Burgos, JC
+   Alonso, AM
+   Sanz, J
+TI A moisture-in-oil model for power transformer monitoring -: Part I:: Theoretical foundation
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE moisture; monitoring; oil insulation; paper insulation; power transformers; power transformer insulation testing
+AB Nowadays, there is an increasing interest in using transformer monitoring systems. Some monitoring systems use models to predict the value of certain variables. One of the key variables to be monitored is moisture content in oil, as moisture has a high influence on transformer exploitation. In this paper, the theoretical foundation of a model for monitoring moisture in transformer oil is reported. The Moisture Model estimates moisture content in transformer oil under certain working conditions. Comparing the value of estimated moisture with the measured one, the model is able to detect failures producing an abnormal water content in the transformer. The Model considers the equilibrium relations between paper and oil, the transients that take place until the steady-state equilibrium is attained, and the water increase caused by the insulating paper ageing. In addition, the Model can alert to the possibility of oil saturation and the consequent free water formation in the transformer. In this paper, the theoretical foundation of the Moisture Model is described; in a companion paper, its experimental verification is reported.
+C1 Univ Carlos III Madrid, Madrid 28911, Spain; Univ Politecn Madrid, Dept Elect Engn, Madrid, Spain
+C3 Universidad Carlos III de Madrid; Universidad Politecnica de Madrid
+RP García, B (corresponding author), Univ Carlos III Madrid, Madrid 28911, Spain.
+EM bgarciad@ing.uc3m.es
+RI Sanz-Feito, Javier/C-4902-2008; /E-4928-2018; Martinez Alonso, Abdel/AAB-5206-2019
+OI BURGOS, JUAN CARLOS/0000-0003-3276-5289; Sanz-Feito, Javier/0000-0001-5166-7460
+NR 27
+TC 69
+Z9 90
+U1 0
+U2 18
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8977
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD APR 2005
+PY 2005
+VL 20
+IS 2
+PN 2
+BP 1417
+EP 1422
+DI 10.1109/TPWRD.2004.832366
+PG 6
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2005-04-01
+GA 912RC
+UT WOS:000228096100026
+DA 2026-08-19
+ER
+
+PT J
+AU García, B
+   Burgos, JC
+   Alonso, AM
+   Sanz, J
+AF García, B
+   Burgos, JC
+   Alonso, AM
+   Sanz, J
+TI A moisture-in-oil model for power transformer monitoring -: Part II:: Experimental verification
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE moisture; monitoring; oil insulation; paper insulation; power transformers; power transformer insulation testing
+AB In the companion, paper, a model to detect failures leading to an increase of the water content in transformer oil was proposed. In this paper, the experimental verification of the Model is presented. The Model was tested in a 1500-kVA test transformer constructed as a reduced scale model of a 60-MVA 220-kV transformer. In order to load the Transformer to have the capability of varying load and power factor over a wide range, the opposition method described in IEC 60076-2 Standard was used. Sensors to measure temperature and moisture in oil were installed in the Test Transformer. The Model was adjusted and validated using a set of data corresponding to different operating conditions. The Transformer was submitted to an accelerated aging process studying the Model response in such a case. In order to verify the Model's ability to detect failures, a water ingress in the Transformer was simulated.
+C1 Univ Carlos III Madrid, Madrid 28911, Spain; Univ Politecn Madrid, Dept Elect Engn, Madrid, Spain
+C3 Universidad Carlos III de Madrid; Universidad Politecnica de Madrid
+RP García, B (corresponding author), Univ Carlos III Madrid, Madrid 28911, Spain.
+EM bgarciad@ing.uc3m.es
+RI Sanz-Feito, Javier/C-4902-2008; Martinez Alonso, Abdel/AAB-5206-2019; /E-4928-2018
+OI BURGOS, JUAN CARLOS/0000-0003-3276-5289; Sanz-Feito, Javier/0000-0001-5166-7460
+NR 4
+TC 25
+Z9 46
+U1 0
+U2 10
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8977
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD APR 2005
+PY 2005
+VL 20
+IS 2
+PN 2
+BP 1423
+EP 1429
+DI 10.1109/TPWRD.2004.832361
+PG 7
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2005-04-01
+GA 912RC
+UT WOS:000228096100027
+DA 2026-08-19
+ER
+
+PT J
+AU Martinez, JA
+   Mork, BA
+AF Martinez, JA
+   Mork, BA
+TI Transformer modeling. for low- and mid-frequency transients - A review
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Review
+DE eddy currents; hysteresis; saturation; simulation; transformer modeling
+ID 3-PHASE TRANSFORMERS; ELECTROMAGNETIC TRANSIENT; STEADY-STATE; HYSTERESIS; SIMULATION; PARAMETERS; LOSSES; REPRESENTATION; INDUCTANCE
+AB One of the weakest components of modern transient simulation software is the transformer model. Many opportunities exist to improve the simulation of its complicated behaviors, which include magnetic saturation of the core, frequency-dependency, capacitive coupling, and topologically correctness of core and coil structure. This paper presents a review of transformer models for simulation of low- and mid-frequency transients. Salient points of key references are presented and discussed in order to give an accessible overview of development, implementation and limitations of the most useful models proposed to date. Techniques for representation of the most important behaviors are examined, with the intent of providing the needed foundation for continued development and improvement of transformer models. .
+C1 Univ Politecn Cataluna, Dept Enginyeria Elect, E-08028 Barcelona, Spain; Michigan Technol Univ, Dept Elect & Comp Engn, Houghton, MI 49931 USA
+C3 Universitat Politecnica de Catalunya; Michigan Technological University
+RP Martinez, JA (corresponding author), Univ Politecn Cataluna, Dept Enginyeria Elect, E-08028 Barcelona, Spain.
+EM martinez@ee.upc.es
+OI Velasco Anzule, Angel Antonio/0009-0008-5624-7367
+NR 53
+TC 156
+Z9 189
+U1 2
+U2 46
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0885-8977
+EI 1937-4208
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD APR 2005
+PY 2005
+VL 20
+IS 2
+PN 2
+BP 1625
+EP 1632
+DI 10.1109/TPWRD.2004.833884
+PG 8
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Fault Detection (4.18.1055)
+D3 2005-04-01
+GA 912RC
+UT WOS:000228096100053
+DA 2026-08-19
+ER
+
+PT J
+AU Pedra, J
+   Sáinz, L
+   Córcoles, F
+   Guasch, L
+AF Pedra, J
+   Sáinz, L
+   Córcoles, F
+   Guasch, L
+TI Symmetrical and unsymmetrical voltage sag effect's on three-phase transformers
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE inrush current; transformer model; voltage sag
+AB This paper studies the effects of symmetrical and unsymmetrical voltage sags on three-phase three-legged transformers. The transformer model includes saturation and the parameters have been obtained from experimental measurements. The study shows that sags can produce transformer saturation when voltage recovers. This saturation produces an inrush current that is similar to the inrush current produced during the transformer energizing. The study takes into account that the voltage recovery instant can take only discrete values, since the fault-clearing is produced in the natural current zeroes. The paper also studies the influence of the sag type, duration, depth and fault current angle on the inrush current peak value. The current peak has a periodical dependence on sag duration,, and a linear dependence on depth. Unsymmetrical sags can result in current peaks as high as those of symmetrical sags.
+C1 UPC, ETSEIB, Dept Elect Engn, Barcelona 08028, Spain; Univ Rovira & Virgili, ETSE, Dept Elect Elect & Automat Engn, Tarragona 43007, Spain
+C3 Universitat Politecnica de Catalunya; Universitat Rovira i Virgili
+RP Pedra, J (corresponding author), UPC, ETSEIB, Dept Elect Engn, Barcelona 08028, Spain.
+EM pedra@ee.upc.es; sainz@ee.upc.es; llguasch@etse.urv.es; corcoles@ee.upc.es
+RI Sainz, Luis/E-9142-2016
+OI Córcoles López, Felipe/0000-0002-9279-069X; Guasch-Pesquer, Luis/0000-0002-0037-7698
+NR 6
+TC 67
+Z9 70
+U1 0
+U2 8
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8977
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD APR 2005
+PY 2005
+VL 20
+IS 2
+PN 2
+BP 1683
+EP 1691
+DI 10.1109/TPWRD.2004.833910
+PG 9
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Power Quality and Harmonics (4.18.2807)
+D3 2005-04-01
+GA 912RC
+UT WOS:000228096100061
+DA 2026-08-19
+ER
+
+PT J
+AU Santoso, S
+   Maitra, A
+AF Santoso, S
+   Maitra, A
+TI Empirical estimation of system parallel resonant frequencies using capacitor switching transient data
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE capacitor switching; frequency response; power quality; power system harmonics
+AB Simple yet accurate techniques for estimating system parallel resonant frequencies are presented. The proposed techniques make use of existing power quality data, specifically those of capacitor switching transients, to determine frequency estimates. A detailed representation of the system including the data required to develop device models (transmission lines, transformers, loads, etc.) is not required. The efficacy and pitfalls of the technique was demonstrated using power quality data collected at transmission and distribution systems where resonant frequencies were known so as to identify the best application environment of the technique. Frequency estimation results correspond closely to actual system resonant frequencies.
+C1 Univ Texas, Dept Elect & Comp Engn, Austin, TX 78712 USA; PEAC, EPRI, Knoxville, TN 37932 USA
+C3 University of Texas Austin; University of Texas System; University of Texas Austin; Electric Power Research Institute (EPRI)
+RP Santoso, S (corresponding author), Univ Texas, Dept Elect & Comp Engn, Austin, TX 78712 USA.
+EM ssantoso@ece.utexas.edu; AMaitra@epri-peac.com
+NR 7
+TC 12
+Z9 21
+U1 0
+U2 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0885-8977
+EI 1937-4208
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD APR 2005
+PY 2005
+VL 20
+IS 2
+PN 1
+BP 1151
+EP 1156
+DI 10.1109/TPWRD.2005.844280
+PG 6
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Power Quality and Harmonics (4.18.2807)
+D3 2005-04-01
+GA 912RA
+UT WOS:000228095900081
+DA 2026-08-19
+ER
+
+PT J
+AU Wen, YF
+   Zhou, CK
+AF Wen, YF
+   Zhou, CK
+TI Experimental studies on the use of MOV in transformer windings inner protection
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE inner protection; metal oxide varistor; over-voltage; protection; transformer
+ID VOLTAGE
+AB This paper presents experimental investigations into the principle, connection schemes, and the use of a metal oxide varistor (MOV) in transformer winding inner protection. Experiments have been carried out on model transformer and on practical extremely high voltage transformers with standard lightning impulse voltage and oscillatory impulse voltage being applied. Results with and without MOV in parallel with transformer windings from experiments proved the effectiveness of the use of MOV in transformer inner protection.
+C1 Huazhong Univ Sci & Technol, Dept Elect & Elect Engn, Wuhan 430074, Peoples R China; Glasgow Caledonian Univ, Sch Engn Sci & Design, Glasgow G4 0BA, Lanark, Scotland
+C3 Huazhong University of Science & Technology; Glasgow Caledonian University
+RP Wen, YF (corresponding author), Huazhong Univ Sci & Technol, Dept Elect & Elect Engn, Wuhan 430074, Peoples R China.
+NR 6
+TC 6
+Z9 9
+U1 0
+U2 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8977
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD APR 2005
+PY 2005
+VL 20
+IS 2
+PN 2
+BP 1441
+EP 1446
+DI 10.1109/TPWRD.2004.826022
+PG 6
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2005-04-01
+GA 912RC
+UT WOS:000228096100029
+DA 2026-08-19
+ER
+
+PT J
+AU Kai, T
+   Hirokawa, J
+   Ando, M
+AF Kai, T
+   Hirokawa, J
+   Ando, M
+TI Feed through an aperture to a post-wall waveguide with step structure
+SO IEICE TRANSACTIONS ON COMMUNICATIONS
+LA English
+DT Article
+DE post-wall waveguide; millimeter-wave bands; aperture
+ID DIELECTRIC SUBSTRATE
+AB We propose an aperture coupling E-bend with step structure as a robust post-wall waveguide interface to an external standard waveguide in which the posts are separated from the aperture. A 61.25 GHz model transformer gives 11.4% bandwidth for the reflection below -25 dB by using a 1.2 mm-height dielectric substrate. We have compared the mechanical tolerances of both the conventional straight structure and the proposed step structure. The step structure is more robust against mechanical errors than the conventional one. Another advantage is that the accuracy of the analysis model for the post-wall to metal-wall replacement is enhanced for the step structure.
+C1 Tokyo Inst Technol, Dept Elect & Elect Engn, Tokyo 1528552, Japan
+C3 Institute of Science Tokyo; Tokyo Institute of Technology
+RP Kai, T (corresponding author), Tokyo Inst Technol, Dept Elect & Elect Engn, Tokyo 1528552, Japan.
+EM t-kai@antenna.ee.titech.ac.jp
+RI Hirokawa, Jiro/B-9252-2015
+OI Hirokawa, Jiro/0000-0001-8720-6180
+NR 5
+TC 21
+Z9 22
+U1 0
+U2 4
+PU IEICE-INST ELECTRONICS INFORMATION COMMUNICATIONS ENG
+PI TOKYO
+PA KIKAI-SHINKO-KAIKAN BLDG, 3-5-8, SHIBA-KOEN, MINATO-KU, TOKYO, 105-0011, JAPAN
+SN 0916-8516
+EI 1745-1345
+J9 IEICE T COMMUN
+JI IEICE Trans. Commun.
+PD MAR 2005
+PY 2005
+VL E88B
+IS 3
+BP 1298
+EP 1302
+DI 10.1093/ietcom/e88-b.3.1298
+PG 5
+WC Engineering, Electrical & Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Telecommunications
+TO Electrical Engineering, Electronics & Computer Science (4); Wireless Technology (4.58); Antenna Design (4.58.213)
+D3 2005-03-01
+GA 908ZO
+UT WOS:000227828900057
+DA 2026-08-19
+ER
+
+PT J
+AU Grcev, L
+   van Deursen, APJ
+   van Waes, JBM
+AF Grcev, L
+   van Deursen, APJ
+   van Waes, JBM
+TI Lightning current distribution to ground at a power line tower carrying a radio base station
+SO IEEE TRANSACTIONS ON ELECTROMAGNETIC COMPATIBILITY
+LA English
+DT Article
+DE grounding; lightning; power cables; power system lightning effects; radio base stations
+ID UNDERGROUND CABLES; SYSTEMS
+AB Radio base stations are often mounted on towers of power transmission lines. They are usually powered from the low-voltage network through an isolating transformer, to separate the high- and low-voltage networks. The isolating transformer ensures security at customers' premises in the case of nearby power faults and particularly in case of lightning striking, which is a frequent cause of flashover of the high-voltage insulators and a subsequent phase-to-ground fault. To optimize such protection, a better understanding of the current distribution to the ground in the initial phase of the lightning striking is required. This paper presents a computer simulation method and its results for the lightning current distribution between the sky wires, grounding systems, and power cable network. What is of special concern is the part of the lightning current that might be led into the metal-shielded distribution cable network. A rigorous electromagnetic modeling approach was applied for the analysis of the grounding effects in a network of coated and uncoated low- and medium-voltage cables. The analysis was then applied to a practical case.
+C1 Eindhoven Univ Technol, Dept Elect Engn, NL-5600 MB Eindhoven, Netherlands
+C3 Eindhoven University of Technology
+RP Grcev, L (corresponding author), Holland Railconsult, Utrecht, Netherlands.
+EM a.p.j.v.deursen@tue.nl; leonid.grcev@ieee.org; jvanwaes@hr.nl
+OI van Waes, Jeroen/0000-0002-5444-071X
+NR 39
+TC 12
+Z9 13
+U1 0
+U2 4
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-9375
+EI 1558-187X
+J9 IEEE T ELECTROMAGN C
+JI IEEE Trans. Electromagn. Compat.
+PD FEB 2005
+PY 2005
+VL 47
+IS 1
+BP 160
+EP 170
+DI 10.1109/TEMC.2004.842097
+PG 11
+WC Engineering, Electrical & Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Telecommunications
+TO Electrical Engineering, Electronics & Computer Science (4); Electrical Protection (4.299); Lightning Effects (4.299.1009)
+D3 2005-02-01
+GA 899HK
+UT WOS:000227135300018
+DA 2026-08-19
+ER
+
+PT J
+AU Best, SR
+AF Best, SR
+TI A discussion on the quality factor of impedance matched electrically small wire antennas
+SO IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION
+LA English
+DT Article
+DE electrically small antennas; quality factor; wire antennas
+AB The quality factors of several impedance matched, electrically small wire antennas are compared as a function of matching technique and antenna geometry. The antennas considered have the same height and wire diameter, and they are designed to be self-resonant at approximately the same frequency. The antennas are impedance matched to a nominal 50 Ohm characteristic impedance using either a parallel stub, lossless reactive network or lossless transformer. It is shown that the quality factors of the antennas are essentially the same, and for the most parts independent of the matching technique and differences in the antenna geometry. The quality factor of the impedance matched, electrically small antenna is primarily established by the antenna's height and effective volume.
+C1 USAF, Res Lab, SNHA, Hanscom AFB, MA 01731 USA
+C3 United States Department of Defense; United States Air Force
+RP Best, SR (corresponding author), USAF, Res Lab, SNHA, Hanscom AFB, MA 01731 USA.
+EM steven.best@hanscom.af.mil
+NR 10
+TC 44
+Z9 58
+U1 0
+U2 10
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-926X
+EI 1558-2221
+J9 IEEE T ANTENN PROPAG
+JI IEEE Trans. Antennas Propag.
+PD JAN 2005
+PY 2005
+VL 53
+IS 1
+PN 2
+BP 502
+EP 508
+DI 10.1109/TAP.2004.837107
+PG 7
+WC Engineering, Electrical & Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Telecommunications
+TO Electrical Engineering, Electronics & Computer Science (4); Wireless Technology (4.58); Antenna Design (4.58.213)
+D3 2005-01-01
+GA 886VT
+UT WOS:000226261600030
+DA 2026-08-19
+ER
+
+PT S
+AU Born, M
+   Schieferdecker, I
+   Kath, O
+   Hirai, C
+AF Born, M
+   Schieferdecker, I
+   Kath, O
+   Hirai, C
+BE Guelfi, N
+TI Combining system development and system test in a model-centric approach
+SO RAPID INTEGRATION OF SOFTWARE ENGINEERING TECHNIQUES
+SE LECTURE NOTES IN COMPUTER SCIENCE
+LA English
+DT Article; Proceedings Paper
+CT 1st International Workshop on Rapid Integration of Software Engineering Techniques (RISE 2004)
+CY NOV 26, 2004
+CL Luxembourg, LUXEMBOURG
+SP ERCIM; Univ Luxembourg, Fac Sci, Technol & Commun; Fonds Natl Rech; Minist Enseignement Superieur & Rech
+AB In this paper we will present, how a model centric approach cannot only be used to rapidly develop the system but also at the same time to support the provision of the system tests which is an integral part of the overall system development. The key technology used to achieve this is a set of meta-tools which contains model repository generators and model transformer generators.
+C1 Fraunhofer FOKUS, Berlin, Germany; Tech Univ Berlin, D-10623 Berlin, Germany; Hitachi SDL, Yokohama, Kanagawa, Japan
+C3 Fraunhofer Gesellschaft; Fraunhofer Germany; Fraunhofer Institute Center Schloss Birlinghoven; Technical University of Berlin; Hitachi Limited
+RP Born, M (corresponding author), Fraunhofer FOKUS, Kaiserin Augusta Alle 31, Berlin, Germany.
+EM born@fokus.fraunhofer.de; kath@cs-tu-berlin.de; schieferdecker@fokus.fraunhofer.de; c-hirai@sdl.hitachi.co.jp
+RI Schieferdecker, Ina/KIE-9520-2024
+OI Schieferdecker, Ina/0000-0001-6298-2327
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+J9 LECT NOTES COMPUT SC
+PD 2005
+PY 2005
+VL 3475
+BP 132
+EP 143
+PG 12
+WC Computer Science, Software Engineering; Computer Science, Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+TO Electrical Engineering, Electronics & Computer Science (4); Software Engineering (4.47); Software Testing (4.47.1111)
+D3 2005-01-01
+GA BCN16
+UT WOS:000230112900013
+DA 2026-08-19
+BN 3-540-25812-4
+ER
+
+PT J
+AU Hettiwatte, SN
+   Wang, ZD
+   Crossley, PA
+AF Hettiwatte, SN
+   Wang, ZD
+   Crossley, PA
+TI Investigation of propagation of partial discharges in power transformers and techniques for locating the discharge
+SO IEE PROCEEDINGS-SCIENCE MEASUREMENT AND TECHNOLOGY
+LA English
+DT Article
+AB The location of partial discharges in a power transformer can be determined based on the characteristics of the transfer function from the discharge source to the measuring terminal. Previous studies partially validated the technique using computer simulation and practical experiments based on a PD calibrator to represent a discharge signal. 'Real' discharges produced by insulation defect models were used to study how discharges propagate in an 11kV plain-disc-type transformer winding. A corona model and a 'floating objects in oil' model produced discharge signals with different durations at various locations along the winding. Measurements were taken at the tap of the bushing capacitance through a conventional discharge detector. The signals were filtered, amplified and fed into a digital storage oscilloscope. The frequency spectra of the measured signals showed significant similarities irrespective of the type of discharge source. The characteristic of the transfer functions, i.e. the crests and troughs in the spectra, could be used for locating the source of the discharge. Energising the transformer increased the level of electric noise, which did affect the low frequency end of the spectra, but did not have any impact on the characteristics used for location.
+C1 Univ Manchester, Sch Elect Engn & Elect, Manchester M60 1QD, Lancs, England; Queens Univ Belfast, Sch Elect & Elect Engn, Belfast BT9 5AH, Antrim, North Ireland
+C3 University of Manchester; Queens University Belfast
+RP Wang, ZD (corresponding author), Univ Manchester, Sch Elect Engn & Elect, Manchester M60 1QD, Lancs, England.
+EM zhongdong.wang@manchester.ac.uk
+RI Hettiwatte, Sujeewa/MBV-7745-2025
+OI Crossley, Peter/0000-0001-6512-9209
+NR 7
+TC 32
+Z9 36
+U1 0
+U2 5
+PU INST ENGINEERING TECHNOLOGY-IET
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD SG1 2AY, ENGLAND
+SN 1350-2344
+J9 IEE P-SCI MEAS TECH
+JI IEE Proc.-Sci. Meas. Technol.
+PD JAN 2005
+PY 2005
+VL 152
+IS 1
+BP 25
+EP 30
+DI 10.1049/ip-smt:20050944
+PG 6
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2005-01-01
+GA 901JR
+UT WOS:000227279300005
+DA 2026-08-19
+ER
+
+PT J
+AU Kandic, DB
+   Reljin, BD
+AF Kandic, DB
+   Reljin, BD
+TI The application of polynomial matrix factorization in active network synthesis
+SO COMPEL-THE INTERNATIONAL JOURNAL FOR COMPUTATION AND MATHEMATICS IN ELECTRICAL AND ELECTRONIC ENGINEERING
+LA English
+DT Article; Proceedings Paper
+CT 12th International Symposium on Theoretical Electrical Engineering
+CY JUL 06-09, 2003
+CL Warsaw, POLAND
+DE network synthesis; transformers; polynomials
+ID TRANSFORMERLESS
+AB Purpose - To investigate the general necessary condition for synthesis of square, real rational matrices of complex frequency as admittance matrices of active multiports with resistors, inductors, capacitors and possibly multiport transformers and to prove that this condition is also sufficient for synthesis of stable, square, real rational matrices of complex frequency as admittance matrices of balanced active multiports having only resistors, capacitors and voltage-amplifiers with sufficiently large amplifications. The main aim of the paper is to provide a new and general method for stable admittance matrices synthesis and to develop strict realization algorithm by active balanced transformerless multiport networks.Design/methodology/approach - The objectives of the paper are achieved by using factorization of regular polynomial matrices in complex frequency with certain degree as products of other regular polynomial matrices with specified degrees. A set of sufficient conditions for such a factorization is presented and derived a pertinent algorithm as the starting point for investigation and solving network synthesis problem and generation of class of equivalent realizations.Findings - Theorem 1 states that sufficient condition for factorization of Pth order, generally regular polynomial matrix P(s) in complex frequency s with degree L, whose determinant has K distinct zeros, in form P(s) = P-1(s)P-.(2)(s), where 1 <= p(2) = P-2(0) <= L - 1 is degree of polynomial matrix P-2(s), reads: K > (P - 1) (.) L + p(2) - 1. The coefficient-matrices of s, s(2),... in P-1(s) and P-2(s) are real or complex depending on whether distinct zeros of detP(s) are real or complex, respectively. Theorem 2 states that: (a) for realization of Pth order matrix of real rational functions in complex frequency s (i.e. RRF matrix) as admittance matrix of active balanced RLC P-port network with multiport transformers, or without them, P generalized controlled-sources and P controlling-ports are necessary, in general; and (b) P balanced voltage-controlled voltage-sources (VCVSs) with real and by module greater than unity controlling coefficients ("voltage amplifications") are sufficient for realization of stable admittance RRF matrix by active, balanced, transformerless, RC P-port network.Originality/value - This is a research paper with the following two main contributions (original results). First, a theorem on sufficient conditions for factorization of regular polynomial matrices in complex frequency; and second, a theorem relating to sufficient conditions for synthesis of matrices of real rational functions in complex frequency by active, balanced, transformerless networks. The results may be interesting for network theorists and researchers in the field of electric circuits and systems.
+C1 Univ Belgrade, Fac Mech Engn, Belgrade 11001, Serbia Monteneg; Univ Belgrade, Fac Elect Engn, Belgrade 11001, Serbia Monteneg
+C3 University of Belgrade; University of Belgrade
+RP Kandic, DB (corresponding author), Univ Belgrade, Fac Mech Engn, Belgrade 11001, Serbia Monteneg.
+OI Kandić, agan/0000-0001-6493-5102
+NR 11
+TC 2
+Z9 2
+U1 0
+U2 2
+PU EMERALD GROUP PUBLISHING LIMITED
+PI BRADFORD
+PA 60/62 TOLLER LANE, BRADFORD BD8 9BY, W YORKSHIRE, ENGLAND
+SN 0332-1649
+J9 COMPEL
+JI Compel-Int. J. Comp. Math. Electr. Electron. Eng.
+PD 2005
+PY 2005
+VL 24
+IS 4
+BP 1120
+EP 1141
+DI 10.1108/03321640510615490
+PG 22
+WC Computer Science, Interdisciplinary Applications; Engineering, Electrical & Electronic; Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Mathematics
+TO Mathematics (9); Numerical Methods & Optimization (9.207); Moore-Penrose Inverse (9.207.584)
+D3 2005-01-01
+GA 975ED
+UT WOS:000232642900003
+DA 2026-08-19
+ER
+
+PT J
+AU Manyahi, MJ
+   Leijon, M
+   Thottappillil, R
+AF Manyahi, MJ
+   Leijon, M
+   Thottappillil, R
+TI Transient response of transformer with XLPE insulation cable winding design
+SO INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+LA English
+DT Article
+DE transformers; cable windings; dryformer
+ID MODEL
+AB Significant advances in XLPE insulation cables that have higher electric field strength withstand capability have made it possible to apply these high voltage (HV) cables as windings in generators and transformers. Therefore, the recent advent of HV generator (Powerformer) that can be connected directly to the power transmission line has motivated the design of HV transformer (Dryformer) that performs one step transformation from transmission to distribution voltage levels. Since the dryformer will be connected directly to transmission lines, they will be subjected to transients resulting from direct and indirect lightning strikes as well as fast switching surges from Gas insulated circuit breakers. This paper presents the results of experimental studies on the cable winding power transformer (Dryformer) to study its response to various transients. Experimental investigations have been carried to obtain the transformer model parameters based on terminal measurement of admittance functions using Network Analyser, and hence for comparing the model predictions with experimentally obtained responses. The model has been successfully used in estimating the dryformer transient responses at its terminals due to surge application of various front times and peak amplitudes that are representative of lightning and switching caused transients. Experiment and simulation results show that there are considerable differences in the transient response characteristics of dryformer windings as compared to that of transformers with traditional winding design. These differences on transient responses are discussed in perspective of their basic difference in winding design features. (C) 2004 Elsevier Ltd. All rights reserved.
+C1 Uppsala Univ, Angstrom Lab, Div Elect & Lightning Res, SE-75121 Uppsala, Sweden; Univ Dar Es Salaam, Fac Elect & Comp Syst Engn, Dar Es Salaam, Tanzania
+C3 Uppsala University; University of Dar es Salaam
+RP Manyahi, MJ (corresponding author), Uppsala Univ, Angstrom Lab, Div Elect & Lightning Res, POB 539, SE-75121 Uppsala, Sweden.
+EM manyahi@ee.udsm.ac.tz; rajeev.thottappillil@hvi.uu.se; mats.leijon@hvi.uu.se
+NR 23
+TC 6
+Z9 8
+U1 0
+U2 4
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0142-0615
+EI 1879-3517
+J9 INT J ELEC POWER
+JI Int. J. Electr. Power Energy Syst.
+PD JAN 2005
+PY 2005
+VL 27
+IS 1
+BP 69
+EP 80
+DI 10.1016/j.ijepes.2004.07.010
+PG 12
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2005-01-01
+GA 870KI
+UT WOS:000225055600008
+DA 2026-08-19
+ER
+
+PT J
+AU Milanovic, JV
+   Aung, MT
+   Gupta, CP
+AF Milanovic, JV
+   Aung, MT
+   Gupta, CP
+TI The influence of fault distribution on stochastic prediction of voltage sags
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE fault distribution; power quality; stochastic assessment; voltage sags
+AB This paper analyzes the influence of modeling of fault distribution along transmission line on the assessment of number and characteristics of voltage sags. The generic distribution network was used in all simulations. Different types of transformer winding connections were modeled and different (symmetrical and asymmetrical) types of faults were simulated. A line was selected from the previously identified area of vulnerability for a given bus and different faults having different distributions along the line were simulated. It was shown that depending on the fault distribution (uniform, normal, exponential) along the line, different numbers and characteristics of voltage sags could be expected at the selected bus.
+C1 Univ Manchester, Sch Elect & Elect Engn, Manchester M60 1QD, Lancs, England
+C3 University of Manchester
+RP Milanovic, JV (corresponding author), Univ Manchester, Sch Elect & Elect Engn, Manchester M60 1QD, Lancs, England.
+NR 17
+TC 36
+Z9 76
+U1 0
+U2 4
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0885-8977
+EI 1937-4208
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD JAN 2005
+PY 2005
+VL 20
+IS 1
+BP 278
+EP 285
+DI 10.1109/TPWRD.2004.835052
+PG 8
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Electrical Engineering, Electronics & Computer Science (4); Power Systems & Electric Vehicles (4.18); Power Quality and Harmonics (4.18.2807)
+D3 2005-01-01
+GA 884EG
+UT WOS:000226066800038
+DA 2026-08-19
+ER
+
+PT J
+AU Pirjola, R
+AF Pirjola, R
+TI Effects of space weather on high-latitude ground systems
+SO SPACE WEATHER
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article
+DE space weather; geomagnetically induced current; GIC; power grid; pipeline
+ID GEOMAGNETICALLY-INDUCED CURRENTS; NATURAL-GAS PIPELINE; INDUCED ELECTRIC-FIELDS; VOLTAGE POWER-SYSTEM; COMPLEX-IMAGE METHOD; AURORAL ELECTROJET; DISTURBANCES; RECORDINGS; SURFACE; STORMS
+AB Geomagnetically induced currents (GIC) in technological systems, such as power grids, pipelines, cables and railways, are a ground manifestation of space weather. The first GIC observations were already made in early telegraph equipment more than 150 years ago. In power networks, GIC may saturate transformers with possible harmful consequences extending even to a collapse of the whole system or to permanent damage of transformers. In pipelines, GIC and the associated pipe-to-soil voltages may enhance corrosion or disturb surveys associated with corrosion control. GIC are driven by the geoelectric field induced by a geo-magnetic variation at the Earth's surface. The electric and magnetic fields are primarily produced by ionospheric currents and secondarily affected by the ground conductivity. Of great importance is the auroral electrojet with other rapidly varying currents indicating that GIC are a particular high-latitude problem. In this paper, we summarize the GIC research done in Finland during about 25 years, and discuss the calculation of GIC in a given network. Special attention is paid to modelling a power system. It is shown that, when considering GIC at a site, it is usually sufficient to take account for a smaller grid in the vicinity of the particular site. Modelling GIC also provides a basis for developing forecasting and warning methods of GIC. (c) 2004 COSPAR. Published by Elsevier Ltd. All rights reserved.
+C1 Finnish Meteorol Inst, Geophys Res Div, FIN-00101 Helsinki, Finland
+C3 Finnish Meteorological Institute
+RP Pirjola, R (corresponding author), Finnish Meteorol Inst, Geophys Res Div, POB 503, FIN-00101 Helsinki, Finland.
+EM risto.pirjola@fmi.fi
+NR 37
+TC 70
+Z9 84
+U1 0
+U2 11
+PU ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD 0X5 1GB, OXON, ENGLAND
+SN 0273-1177
+J9 ADV SPACE RES
+PD 2005
+PY 2005
+VL 36
+IS 12
+SI 2005
+BP 2231
+EP 2240
+DI 10.1016/j.asr.2003.04.074
+PG 10
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences, Multidisciplinary; Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology & Atmospheric Sciences
+TO Physics (5); Space & Plasma Physics (5.131); Magnetosphere Dynamics (5.131.331)
+D3 2005-01-01
+GA BDS48
+UT WOS:000235183100001
+DA 2026-08-19
+ER
+
+PT J
+AU Susa, D
+   Lehtonen, M
+   Nordman, H
+AF Susa, D
+   Lehtonen, M
+   Nordman, H
+TI Dynamic thermal modelling of power transformers
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE hot-spot temperature; power transformer; top-oil temperature
+ID FUNDAMENTAL APPROACH; LOADING CAPABILITY
+AB The aim of this paper is to introduce hot-spot and top-oil temperature thermal models for more accurate temperature calculations during transient states based on data received in a normal heat run test (i.e., the top oil in the tank of the transformer and the average winding-to-average oil gradient). Oil viscosity changes and loss variation with temperature are taken into account. The new thermal models will be validated using experimental (fiber-optic test) results obtained at varying load current on a 250-MVA-ONAF-cooled unit, a 400-MVA-ONAF-cooled unit and a 605-MVA-OFAF-cooled unit. The results are also compared with the IEEE-Loading guide (1995) Annex G method.
+C1 Helsinki Univ Technol, Power Syst Lab, FIN-02015 Helsinki, Finland; ABB Oy, Vaasa 65101, Finland
+C3 Aalto University
+RP Susa, D (corresponding author), Helsinki Univ Technol, Power Syst Lab, FIN-02015 Helsinki, Finland.
+EM hasse.nordman@fi.abb.com; Matti.Lehtonen@hut.fi; Dejan.Susa@hut.fl
+RI Lehtonen, Matti/G-2330-2013
+NR 10
+TC 242
+Z9 307
+U1 1
+U2 28
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8977
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD JAN 2005
+PY 2005
+VL 20
+IS 1
+BP 197
+EP 204
+DI 10.1109/TPWRD.2004.835255
+PG 8
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+TO Engineering & Materials Science (7); Electrical - Harvesting & Discharging (7.251); Partial Discharge (7.251.1052)
+D3 2005-01-01
+GA 884EG
+UT WOS:000226066800027
+OA Green Submitted
+DA 2026-08-19
+ER
+
+EF  
